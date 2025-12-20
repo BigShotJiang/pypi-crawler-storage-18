@@ -1,19 +1,8 @@
 {
-  "download_time": "2025-12-20T23:42:31.727414",
-  "total_packages_downloaded": 78,
-  "total_size_mb": 4.17,
+  "download_time": "2025-12-20T23:50:41.993745",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 0.07,
   "packages": [
-    "beamz",
-    "autonomous-app",
-    "vizy",
-    "streamable",
-    "transformer-cloner",
-    "KekikStream",
-    "nv-ingest",
-    "nv-ingest-client",
-    "nv-ingest-api",
-    "yt-dlp",
-    "justhtml",
     "yolov5-face",
     "blitz-vec",
     "localargo",
@@ -35,6 +24,7 @@
     "pyqrack-cpu",
     "toml-run",
     "pyqrack-complex128",
+    "transformer-cloner",
     "pyqrack",
     "bbox-overlay",
     "pdflinkcheck",
@@ -80,6 +70,14 @@
     "toon-ld",
     "nocaplang",
     "nextrpg",
-    "kaqing"
+    "kaqing",
+    "sendly",
+    "macsdk",
+    "grizabella",
+    "nevu-ui",
+    "snakemake-argparse-bridge",
+    "pytest-watcher",
+    "tai-ttex",
+    "noetl"
   ]
 }
