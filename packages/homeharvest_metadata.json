@@ -1,0 +1,11 @@
+{
+  "name": "homeharvest",
+  "version": "0.8.12",
+  "summary": "Real estate scraping library",
+  "author": "Zachary Hampton",
+  "license": null,
+  "home_page": null,
+  "download_filename": "homeharvest-0.8.12.tar.gz",
+  "download_time": "2025-12-20T22:49:04.317310",
+  "package_url": "https://pypi.org/project/homeharvest/"
+}

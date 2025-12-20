@@ -1,0 +1,11 @@
+{
+  "name": "beanhub-import",
+  "version": "1.2.1",
+  "summary": "The simple library for import extracted transactions provided by beanhub-extract and generate corresponding Beancount transactions based on predefined rules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beanhub_import-1.2.1.tar.gz",
+  "download_time": "2025-12-20T22:48:56.441163",
+  "package_url": "https://pypi.org/project/beanhub-import/"
+}

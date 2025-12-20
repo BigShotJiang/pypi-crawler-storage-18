@@ -1,0 +1,11 @@
+{
+  "name": "uvd-x402-sdk",
+  "version": "0.3.0",
+  "summary": "Python SDK for x402 payments - gasless crypto payments across 14 blockchains with multi-stablecoin support (USDC, EURC, AUSD, PYUSD, GHO, crvUSD)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uvd_x402_sdk-0.3.0.tar.gz",
+  "download_time": "2025-12-20T22:49:00.162934",
+  "package_url": "https://pypi.org/project/uvd-x402-sdk/"
+}

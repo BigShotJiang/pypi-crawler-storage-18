@@ -1,11 +1,11 @@
 {
   "name": "dbrownell-vscodetools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Tools used when working with VSCode.",
   "author": "David Brownell",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbrownell_vscodetools-0.1.0.tar.gz",
-  "download_time": "2025-12-20T18:45:44.767692",
+  "download_filename": "dbrownell_vscodetools-0.1.1.tar.gz",
+  "download_time": "2025-12-20T22:49:01.764045",
   "package_url": "https://pypi.org/project/dbrownell-vscodetools/"
 }

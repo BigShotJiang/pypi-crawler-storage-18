@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-resources",
+  "version": "0.0.6",
+  "summary": "Resource monitoring and management system for tracking GPU/CPU usage and worker processes in FastHTML applications.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-resources",
+  "download_filename": "cjm_fasthtml_resources-0.0.6.tar.gz",
+  "download_time": "2025-12-20T22:48:59.643863",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-resources/"
+}
