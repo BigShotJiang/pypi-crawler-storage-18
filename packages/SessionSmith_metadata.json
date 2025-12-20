@@ -1,0 +1,11 @@
+{
+  "name": "SessionSmith",
+  "version": "0.1.4",
+  "summary": "Simple session save/load utility for Jupyter notebooks using pickle",
+  "author": "YutoTAKAGI",
+  "license": "MIT",
+  "home_page": "https://github.com/yut0takagi/SessionSmith",
+  "download_filename": "sessionsmith-0.1.4.tar.gz",
+  "download_time": "2025-12-20T17:44:40.877154",
+  "package_url": "https://pypi.org/project/SessionSmith/"
+}

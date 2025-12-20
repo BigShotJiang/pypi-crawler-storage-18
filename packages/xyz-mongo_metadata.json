@@ -1,0 +1,11 @@
+{
+  "name": "xyz-mongo",
+  "version": "0.0.3",
+  "summary": "mongo utils",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-mongo",
+  "download_filename": "xyz_mongo-0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-20T17:44:45.557004",
+  "package_url": "https://pypi.org/project/xyz-mongo/"
+}

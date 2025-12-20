@@ -1,0 +1,11 @@
+{
+  "name": "SecureMorph",
+  "version": "2025.12.20172640",
+  "summary": "The new package is designed to process text inputs related to advanced security concepts, such as secrets erasure upon observation. It utilizes structured pattern matching to interpret user instructio",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "securemorph-2025.12.20172640.tar.gz",
+  "download_time": "2025-12-20T17:44:27.768439",
+  "package_url": "https://pypi.org/project/SecureMorph/"
+}

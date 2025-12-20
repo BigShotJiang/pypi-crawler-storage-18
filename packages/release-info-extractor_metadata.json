@@ -1,0 +1,11 @@
+{
+  "name": "release-info-extractor",
+  "version": "2025.12.20173916",
+  "summary": "A new package that transforms free‑form software release announcements into a concise, machine‑readable summary. By feeding the raw textual description of a release (e.g., “GDB 17.1 Released with shad",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "release_info_extractor-2025.12.20173916.tar.gz",
+  "download_time": "2025-12-20T17:44:13.632353",
+  "package_url": "https://pypi.org/project/release-info-extractor/"
+}

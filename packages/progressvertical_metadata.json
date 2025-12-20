@@ -1,0 +1,11 @@
+{
+  "name": "progressvertical",
+  "version": "0.2.3",
+  "summary": "Rendering vertical progress bars with custom colors and styles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "progressvertical-0.2.3.tar.gz",
+  "download_time": "2025-12-20T17:44:10.926053",
+  "package_url": "https://pypi.org/project/progressvertical/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "powerlawrs",
+  "version": "0.0.14",
+  "summary": "A fast package for analyzing Power-Law distributions in empirical data written in Rust.",
+  "author": "Adam Ulichny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerlawrs-0.0.14-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-20T17:44:09.881341",
+  "package_url": "https://pypi.org/project/powerlawrs/"
+}

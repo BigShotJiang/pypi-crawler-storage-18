@@ -1,0 +1,11 @@
+{
+  "name": "jonckheere-test",
+  "version": "0.1.1",
+  "summary": "Jonckheere-Terpstra test for ordered alternatives",
+  "author": "Ariel Bereslavsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jonckheere_test-0.1.1.tar.gz",
+  "download_time": "2025-12-20T17:44:43.994799",
+  "package_url": "https://pypi.org/project/jonckheere-test/"
+}

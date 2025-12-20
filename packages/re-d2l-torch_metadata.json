@@ -1,0 +1,11 @@
+{
+  "name": "re-d2l-torch",
+  "version": "1.0.4",
+  "summary": "re_d2l_torch",
+  "author": "d2l",
+  "license": null,
+  "home_page": "https://github.com/d2l/re_d2l_torch",
+  "download_filename": "re_d2l_torch-1.0.4.tar.gz",
+  "download_time": "2025-12-20T17:44:26.203954",
+  "package_url": "https://pypi.org/project/re-d2l-torch/"
+}
