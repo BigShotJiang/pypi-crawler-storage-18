@@ -1,0 +1,11 @@
+{
+  "name": "stageflow-framework",
+  "version": "0.1.2",
+  "summary": "StageFlow: Pipeline framework for stages",
+  "author": "lethargy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stageflow_framework-0.1.2.tar.gz",
+  "download_time": "2025-12-20T21:28:18.745238",
+  "package_url": "https://pypi.org/project/stageflow-framework/"
+}

@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T21:12:51.128853
-- **Total Packages**: 81
-- **Total Size**: 24.84 MB
+- **Download Time**: 2025-12-20T21:28:53.800045
+- **Total Packages**: 78
+- **Total Size**: 7.69 MB
 
 ## Packages List
+- pysparkformat
+- livy-uploads
+- aider-ce
+- ps7-mcp-tool
+- NHL-predictor
+- beanhub-extract
+- praevisio
+- fintrack-cli
+- contrastive-rl-pytorch
+- rotools
+- ty
+- stageflow-framework
+- blitz-vec
+- rmachine68k
+- toastCE
+- gold-dl
+- perchance
+- umlshapes
+- toml-rs
+- cve-report-aggregator
+- grynn-fplot
 - simple-tiktok-uploader
 - pkrbot
 - warn-transformer
@@ -17,7 +38,6 @@
 - gpst
 - trading-models
 - spotoptim
-- NHL-predictor
 - omnibase_spi
 - fal-mcp-server
 - spiki
@@ -35,8 +55,6 @@
 - cicerone
 - fmot
 - pysleigh
-- gold-dl
-- toastCE
 - ogls
 - bible-search-engine
 - jotunn
@@ -44,7 +62,6 @@
 - market-engine
 - treeline-money
 - githooklib
-- praevisio
 - hydroopt
 - python-ubl
 - mc-netease-sdk-nyrev
@@ -67,23 +84,3 @@
 - aws-lambda-layer-cli
 - pycifter
 - secsummarize
-- python-dispatch
-- nlp-structgen
-- aponyx
-- KekikStream
-- news-summerizer
-- simboba
-- agents-sdk-mutta
-- qris-payment
-- lego-museum-structurizer
-- textstructparser
-- worldcraft-sim
-- test-no-funcional
-- prob-extract-ai-odds-parser-market-insight-llm-predictive-text-miner
-- LangPy
-- sentinelseed
-- llm-resource-finder
-- trytond-account-statement
-- newsstructure
-- embed-client
-- collabinsightextractor

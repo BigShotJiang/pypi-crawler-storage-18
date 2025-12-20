@@ -1,0 +1,11 @@
+{
+  "name": "perchance",
+  "version": "0.1.0",
+  "summary": "Unofficial Python API for Perchance.",
+  "author": "EeeMoon",
+  "license": "MIT",
+  "home_page": "https://github.com/eeemoon/perchance",
+  "download_filename": "perchance-0.1.0.tar.gz",
+  "download_time": "2025-12-20T21:28:21.811049",
+  "package_url": "https://pypi.org/project/perchance/"
+}
