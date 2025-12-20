@@ -1,0 +1,11 @@
+{
+  "name": "pytest-watcher",
+  "version": "0.5.0",
+  "summary": "Automatically rerun your tests on file modifications",
+  "author": "Olzhas Arystanov",
+  "license": "MIT",
+  "home_page": "https://github.com/olzhasar/pytest-watcher",
+  "download_filename": "pytest_watcher-0.5.0.tar.gz",
+  "download_time": "2025-12-20T22:32:57.529744",
+  "package_url": "https://pypi.org/project/pytest-watcher/"
+}

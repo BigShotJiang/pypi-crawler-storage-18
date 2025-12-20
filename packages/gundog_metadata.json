@@ -1,0 +1,11 @@
+{
+  "name": "gundog",
+  "version": "0.4.1",
+  "summary": "A fast semantic search and retrieval engine",
+  "author": "ivdi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gundog-0.4.1.tar.gz",
+  "download_time": "2025-12-20T22:33:07.330587",
+  "package_url": "https://pypi.org/project/gundog/"
+}

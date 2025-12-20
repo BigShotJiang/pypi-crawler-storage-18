@@ -1,0 +1,11 @@
+{
+  "name": "trampoline-client",
+  "version": "0.1.10",
+  "summary": "Python client for Trampoline dynamic reverse proxy",
+  "author": "Bobby Lange",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trampoline_client-0.1.10.tar.gz",
+  "download_time": "2025-12-20T22:33:13.484751",
+  "package_url": "https://pypi.org/project/trampoline-client/"
+}

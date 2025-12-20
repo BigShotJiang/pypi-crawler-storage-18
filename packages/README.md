@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T22:13:59.232667
-- **Total Packages**: 77
-- **Total Size**: 1.22 MB
+- **Download Time**: 2025-12-20T22:33:34.868680
+- **Total Packages**: 85
+- **Total Size**: 11.92 MB
 
 ## Packages List
+- telegram-rag-bot
+- mfi-mpower
+- toon-ld
+- zegie
+- nocaplang
+- opvious
+- nextrpg
+- kaqing
+- sendly
+- macsdk
+- aioesphomeapi
+- grizabella
+- nevu-ui
+- snakemake-argparse-bridge
+- pytest-watcher
+- tai-ttex
+- noetl
+- yaraast
+- django-dbtasks
+- cua-computer-server
+- stageflow-framework
+- naylence-agent-sdk
+- pixelblaze-client
+- fortilib
+- osbot-utils
+- Staff
+- gnobjects
+- naylence-runtime
+- edgartools
+- ghoststream
+- optimal-voting
+- gundog
+- gundog-client
+- londonaicentre-schemallama-types
+- gundog-core
+- treeline-money
+- buckaroo
+- ddn-evo
+- londonaicentre-oncollama-assets
+- protobunny
+- caterpillar-py
+- stryx
+- syncengine
+- trampoline-client
+- aetos-wrapper
+- grynn-fplot
+- stateset-embedded
+- KekikStream
+- chloros-sdk
+- ps7-mcp-tool
+- jeremydimond.pymlga-blackjack
+- velesdb
+- indipyweb
+- praevisio
+- bzfs
+- namebump
 - soorma-core
 - PraisonAI
 - centrex-tlf-julia-extension
@@ -17,9 +73,7 @@
 - trellis-datamodel
 - oxyde-core
 - pywats-api
-- ps7-mcp-tool
 - zeroapi
-- treeline-money
 - fal-mcp-server
 - impact-uka
 - umlio
@@ -37,49 +91,3 @@
 - kep-solver
 - pysparkformat
 - livy-uploads
-- aider-ce
-- beanhub-extract
-- praevisio
-- fintrack-cli
-- contrastive-rl-pytorch
-- rotools
-- ty
-- stageflow-framework
-- rmachine68k
-- toastCE
-- gold-dl
-- perchance
-- umlshapes
-- toml-rs
-- cve-report-aggregator
-- grynn-fplot
-- simple-tiktok-uploader
-- pkrbot
-- warn-transformer
-- sendly
-- aeronavx
-- recreate-sdk
-- codevid
-- gpst
-- trading-models
-- omnibase_spi
-- spiki
-- py-hpl-logger
-- binscatter
-- wheel-filename
-- katana-meter
-- czech-air-quality
-- GeoTesuario
-- fast-trading-simulator
-- pyams-lib
-- D47calib
-- sqlalchemy-serializer
-- cicerone
-- fmot
-- pysleigh
-- ogls
-- bible-search-engine
-- jotunn
-- logzai-otlp
-- market-engine
-- githooklib
