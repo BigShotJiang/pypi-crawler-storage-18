@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T19:26:24.224386
-- **Total Packages**: 88
-- **Total Size**: 10.99 MB
+- **Download Time**: 2025-12-20T19:35:35.787330
+- **Total Packages**: 80
+- **Total Size**: 1.3 MB
 
 ## Packages List
+- aws-lambda-layer-cli
+- fal-mcp-server
+- zegie
+- scurry-kit
+- bulkman
+- mqtt-leds-lib
+- daffy
+- scurrypy
+- optimus-dl
+- claux
+- magpy-gui
+- ymery
+- pycli2
+- adsx
+- spooled
+- mcp-json-yaml-toml
+- cua-agent
+- fapis
 - autonomous-app
 - extergram
 - arprint
@@ -17,7 +35,6 @@
 - tamar-community-sdk
 - jax-blox
 - aiinbx
-- adsx
 - verilator-dspsim
 - chguard
 - qmrpy
@@ -27,22 +44,18 @@
 - sql-blocks
 - blitz-vec
 - spotify-cmd
-- zegie
 - pysparkformat
 - motulator
 - runagent
 - pymssql-mcp
-- mcp-json-yaml-toml
 - vectome
 - omendb
 - notebook-intelligence
 - mirdan
-- cua-agent
 - sendly
 - ferno
 - raztint
 - trading-sdk
-- ymery
 - rectified-flow-pytorch
 - cua-computer
 - fraudhackathon
@@ -73,24 +86,3 @@
 - videosdk-plugins-turn-detector
 - videosdk-plugins-speechify
 - videosdk-plugins-smallestai
-- videosdk-plugins-simli
-- techdisrupt-analyzer
-- videosdk-plugins-silero
-- videosdk-plugins-sarvamai
-- videosdk-plugins-rnnoise
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- techflops-analyzer
-- videosdk-plugins-papla
-- videosdk-plugins-openai
-- aiosu
-- videosdk-plugins-neuphonic
-- videosdk-plugins-navana
-- opendraft
-- videosdk-plugins-lmnt
-- videosdk-plugins-inworldai
-- videosdk-plugins-humeai
-- videosdk-plugins-groq
-- videosdk-plugins-google
-- videosdk-plugins-elevenlabs
-- videosdk-plugins-deepgram
