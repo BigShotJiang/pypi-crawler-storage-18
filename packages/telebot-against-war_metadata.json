@@ -1,0 +1,11 @@
+{
+  "name": "telebot-against-war",
+  "version": "0.7.14",
+  "summary": "Async-first fork of pyTelegramBotApi",
+  "author": "Igor Vaiman",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/bots-against-war/telebot",
+  "download_filename": "telebot_against_war-0.7.14.tar.gz",
+  "download_time": "2025-12-20T17:51:54.816649",
+  "package_url": "https://pypi.org/project/telebot-against-war/"
+}

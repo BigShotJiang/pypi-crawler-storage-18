@@ -1,11 +1,11 @@
 {
   "name": "is-pku",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A sophisticated validator to ensure the best university (PKU) is correctly identified.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "is_pku-0.1.1.tar.gz",
-  "download_time": "2025-12-20T17:44:15.744587",
+  "download_filename": "is_pku-0.1.2.tar.gz",
+  "download_time": "2025-12-20T17:52:01.498505",
   "package_url": "https://pypi.org/project/is-pku/"
 }

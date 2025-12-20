@@ -1,25 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T17:44:53.363178
-- **Total Packages**: 81
-- **Total Size**: 22.03 MB
+- **Download Time**: 2025-12-20T17:52:34.011473
+- **Total Packages**: 82
+- **Total Size**: 7.4 MB
 
 ## Packages List
-- cruiseplan
+- beta-solver
+- diresa-torch
+- agentic-ai-engineering-course
+- zipstrain
+- edq-lms-toolkit
+- trellis-datamodel
+- ScriptCollection
+- sprmpkg
+- warpdatasets
+- telebot-against-war
 - SAMBA-ilum
+- nuplan-devkit
+- libmata
+- memoryframes
+- ml-d2l-torch
+- rcservo
+- mcli-framework
+- pytest-checkers
+- mfi-mpower
+- vvn
+- is-pku
+- gault
+- cruiseplan
 - powerlawrs
 - KekikStream
 - progressvertical
 - londonaicentre-oncollama-assets
 - lulzprime
-- warpdatasets
 - marearts-anpr
 - release-info-extractor
 - unifyai
 - omnipkg
 - retracesoftware-stream-debug
-- is-pku
 - cratermaker
 - dash-mantine-components
 - whodap
@@ -38,9 +57,7 @@
 - csv-validation
 - agentu
 - pycli2
-- zipstrain
 - re-d2l-torch
-- ScriptCollection
 - antsxmm
 - SecureMorph
 - chakra-qml
@@ -61,7 +78,6 @@
 - ArcheanBlueprints
 - oidc-provider-mock
 - dsa-cat-all
-- mfi-mpower
 - cryojax
 - aipricepatterns
 - rez-pip
@@ -72,18 +88,3 @@
 - blizzardapi3
 - edq-utils
 - jonckheere-test
-- sphinx-datatables
-- hiws
-- xyz-mongo
-- mpy-cross
-- iilabs3d-toolkit
-- pytinytask
-- sphinx-run
-- mc-netease-sdk-nyrev
-- nvidb
-- code-puppy
-- pybotfinder
-- task-context-mcp
-- bandcamp-auto-uploader
-- glupredkit
-- langgraph-agent-toolkit

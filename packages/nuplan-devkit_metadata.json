@@ -1,0 +1,11 @@
+{
+  "name": "nuplan-devkit",
+  "version": "1.1.1",
+  "summary": "nuPlan devkit",
+  "author": "Genry Miller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nuplan_devkit-1.1.1.tar.gz",
+  "download_time": "2025-12-20T17:51:55.857641",
+  "package_url": "https://pypi.org/project/nuplan-devkit/"
+}
