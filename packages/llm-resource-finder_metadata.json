@@ -1,0 +1,11 @@
+{
+  "name": "llm-resource-finder",
+  "version": "2025.12.20202112",
+  "summary": "A new package that helps users discover and access the latest free LLM (Large Language Model) resources. Users can input their specific needs or interests, and the package will return a structured lis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_resource_finder-2025.12.20202112.tar.gz",
+  "download_time": "2025-12-20T20:33:31.254355",
+  "package_url": "https://pypi.org/project/llm-resource-finder/"
+}

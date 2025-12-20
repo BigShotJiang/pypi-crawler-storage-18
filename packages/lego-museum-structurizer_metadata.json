@@ -1,0 +1,11 @@
+{
+  "name": "lego-museum-structurizer",
+  "version": "2025.12.20202603",
+  "summary": "The package gives users a simple, text‑based interface for turning their free‑form imagination about a secret Lego museum into a machine‑friendly summary. A user writes a brief description of the scen",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lego_museum_structurizer-2025.12.20202603.tar.gz",
+  "download_time": "2025-12-20T20:33:26.435726",
+  "package_url": "https://pypi.org/project/lego-museum-structurizer/"
+}

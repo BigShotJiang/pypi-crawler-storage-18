@@ -1,0 +1,11 @@
+{
+  "name": "news-summerizer",
+  "version": "2025.12.20202646",
+  "summary": "A new package that processes news headlines or short text snippets to generate structured summaries. It takes a headline or brief news text as input and uses an LLM to extract key information such as ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "news_summerizer-2025.12.20202646.tar.gz",
+  "download_time": "2025-12-20T20:33:24.306214",
+  "package_url": "https://pypi.org/project/news-summerizer/"
+}

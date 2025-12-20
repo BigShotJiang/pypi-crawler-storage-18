@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T20:15:10.940907
-- **Total Packages**: 69
-- **Total Size**: 12.74 MB
+- **Download Time**: 2025-12-20T20:33:52.483180
+- **Total Packages**: 67
+- **Total Size**: 14.79 MB
 
 ## Packages List
+- llparse
+- nocaplang
+- xcomponent
+- dark-matter
+- oarepo
+- ai-claim-essence
+- aws-lambda-layer-cli
+- pycifter
+- fal-mcp-server
+- secsummarize
+- python-dispatch
+- nlp-structgen
+- aponyx
+- gold-dl
+- KekikStream
+- news-summerizer
+- simboba
+- agents-sdk-mutta
+- qris-payment
+- lego-museum-structurizer
+- NHL-predictor
+- textstructparser
+- worldcraft-sim
+- test-no-funcional
+- praevisio
+- prob-extract-ai-odds-parser-market-insight-llm-predictive-text-miner
+- LangPy
+- sentinelseed
+- llm-resource-finder
+- trytond-account-statement
+- newsstructure
+- embed-client
+- collabinsightextractor
+- D47calib
+- django-health-check
+- trytond-carrier-carriage
+- ai-data-science-team
+- arprint
+- trytond-edocument-peppol
+- torch-schedule-anything
+- ofire
+- ai-video-insights
+- trytond-edocument-ubl
+- aiinbx
+- mlx-audio
+- textsummarizer-llm
+- pymssql-mcp
+- llmatch-struct-parser
+- humanize
+- mc-netease-sdk-nyrev
+- fraudincident-extractor
 - macbundler
 - mcp-server-inject-bender
 - tryton
@@ -18,60 +69,7 @@
 - uniquant
 - trytond
 - flet-charts
-- django-health-check
 - python-qlv-helper
 - pypose
 - claux
 - agentu
-- appwindows
-- eda-toolkit
-- fastflowtransform
-- mcp-server-fetch-tom
-- optimus-dl
-- oximy
-- mdcmd
-- omnibase_core
-- gam7
-- kurral
-- dsr-data-tools
-- polyinfer
-- monome-druid
-- kirin
-- mtcli-vwap
-- PraisonAI
-- proteometer
-- embed-client
-- athenah-ai
-- orion-search
-- pixeltable
-- pdfstract
-- nl-opendata-mcp
-- pyspark-mcp
-- machine68k
-- omendb
-- textual-enhanced
-- opvious
-- octoprint-factor-plugin
-- pdf-image-extractor-mcp
-- hydroopt
-- kreuzberg
-- pypas-cli
-- livy-uploads
-- mqtt-leds-cli
-- pymssql-mcp
-- codegen-2
-- stateset-embedded
-- clustercomputers
-- npcpy
-- claude-mpm
-- tonio
-- proportions
-- finanzonline-uid
-- pctx-sandbox
-- auto-subs
-- cordon
-- robot-resources
-- chgksuite
-- powerlawrs
-- fal-mcp-server
-- mcp-server-tibet

@@ -1,0 +1,11 @@
+{
+  "name": "newsstructure",
+  "version": "2025.12.20202005",
+  "summary": "A new package that takes a news headline or short text snippet as input and returns a structured summary of the key event, actors, and context, using an LLM to generate the content and pattern matchin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newsstructure-2025.12.20202005.tar.gz",
+  "download_time": "2025-12-20T20:33:32.314630",
+  "package_url": "https://pypi.org/project/newsstructure/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "textstructparser",
+  "version": "2025.12.20202423",
+  "summary": "A new package designed to parse and structure information from unstructured text. It takes textual input and utilizes advanced language models with pattern matching to extract specific data points, en",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textstructparser-2025.12.20202423.tar.gz",
+  "download_time": "2025-12-20T20:33:27.539190",
+  "package_url": "https://pypi.org/project/textstructparser/"
+}

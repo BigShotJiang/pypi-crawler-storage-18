@@ -1,0 +1,11 @@
+{
+  "name": "xcomponent",
+  "version": "0.10.1",
+  "summary": "An embeded component base template engine - inspired by JSX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xcomponent-0.10.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl",
+  "download_time": "2025-12-20T20:33:17.364943",
+  "package_url": "https://pypi.org/project/xcomponent/"
+}

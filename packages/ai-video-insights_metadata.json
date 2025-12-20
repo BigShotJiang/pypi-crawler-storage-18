@@ -1,0 +1,11 @@
+{
+  "name": "ai-video-insights",
+  "version": "2025.12.20201730",
+  "summary": "Extract relevant technical insights and knowledge from video descriptions into structured data points, allowing users to gain a deeper understanding of AI advancements and supercomputer capabilities.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_video_insights-2025.12.20201730.tar.gz",
+  "download_time": "2025-12-20T20:33:38.261020",
+  "package_url": "https://pypi.org/project/ai-video-insights/"
+}

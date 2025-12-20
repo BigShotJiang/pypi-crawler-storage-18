@@ -1,0 +1,11 @@
+{
+  "name": "ai-data-science-team",
+  "version": "0.0.0.9017",
+  "summary": "Build and run an AI-powered data science team.",
+  "author": "Matt Dancho",
+  "license": null,
+  "home_page": "https://github.com/business-science/ai-data-science-team",
+  "download_filename": "ai_data_science_team-0.0.0.9017.tar.gz",
+  "download_time": "2025-12-20T20:33:35.602440",
+  "package_url": "https://pypi.org/project/ai-data-science-team/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "worldcraft-sim",
+  "version": "2025.12.20202326",
+  "summary": "A new package lets users type plain text descriptions of imaginary worlds—defining rules, ecosystems, and events—and, using LLM7 and llmatch-messages, returns a structured, step‑by‑step simulation nar",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "worldcraft_sim-2025.12.20202326.tar.gz",
+  "download_time": "2025-12-20T20:33:28.066755",
+  "package_url": "https://pypi.org/project/worldcraft-sim/"
+}

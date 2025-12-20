@@ -1,0 +1,11 @@
+{
+  "name": "llmatch-struct-parser",
+  "version": "2025.12.20201547",
+  "summary": "A new package designed to enhance structured text processing by leveraging the capabilities of llmatch-messages. This package will take user-provided text as input and return a well-organized, structu",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmatch_struct_parser-2025.12.20201547.tar.gz",
+  "download_time": "2025-12-20T20:33:41.502053",
+  "package_url": "https://pypi.org/project/llmatch-struct-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prob-extract-ai-odds-parser-market-insight-llm-predictive-text-miner",
+  "version": "2025.12.20202202",
+  "summary": "A new package that takes a short textual description of a market or prediction (e.g., a headline about an AI spotting a mispriced odds disparity) and returns a structured summary containing: the event",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prob_extract_ai_odds_parser_market_insight_llm_predictive_text_miner-2025.12.20202202.tar.gz",
+  "download_time": "2025-12-20T20:33:29.647256",
+  "package_url": "https://pypi.org/project/prob-extract-ai-odds-parser-market-insight-llm-predictive-text-miner/"
+}

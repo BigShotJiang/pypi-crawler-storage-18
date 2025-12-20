@@ -1,11 +1,11 @@
 {
   "name": "nocaplang",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Gen Z slang-based programming language that compiles to C++ and Java. No cap fr fr! 🔥",
   "author": "Soumik Mukherjee",
   "license": "MIT",
   "home_page": "https://nocaplang.com",
-  "download_filename": "nocaplang-0.1.4.tar.gz",
-  "download_time": "2025-12-20T19:10:55.429553",
+  "download_filename": "nocaplang-0.1.5.tar.gz",
+  "download_time": "2025-12-20T20:33:16.234917",
   "package_url": "https://pypi.org/project/nocaplang/"
 }
