@@ -1,11 +1,11 @@
 {
   "name": "centrex-tlf-julia-extension",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Extension for centrex-tlf to run OBE simulations in Julia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "centrex_tlf_julia_extension-0.4.2.tar.gz",
-  "download_time": "2025-12-20T18:45:16.852752",
+  "download_filename": "centrex_tlf_julia_extension-0.4.3.tar.gz",
+  "download_time": "2025-12-20T22:13:20.032419",
   "package_url": "https://pypi.org/project/centrex-tlf-julia-extension/"
 }
