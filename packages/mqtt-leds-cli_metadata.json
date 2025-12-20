@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-leds-cli",
+  "version": "1.0.0rc2",
+  "summary": "This package makes it possible to control many types of led strips with the command line, using the mqtt-leds-lib library",
+  "author": "Guillaume Richard",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mqtt_leds_cli-1.0.0rc2.tar.gz",
+  "download_time": "2025-12-20T19:48:29.048565",
+  "package_url": "https://pypi.org/project/mqtt-leds-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dusted",
+  "version": "1.8.0",
+  "summary": "Dustforce replay editor",
+  "author": "Alex Morson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dusted-1.8.0.tar.gz",
+  "download_time": "2025-12-20T19:48:42.756268",
+  "package_url": "https://pypi.org/project/dusted/"
+}

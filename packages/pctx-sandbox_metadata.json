@@ -1,0 +1,11 @@
+{
+  "name": "pctx-sandbox",
+  "version": "0.1.0",
+  "summary": "A Python decorator that transparently executes functions in isolated microVMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pctx_sandbox-0.1.0.tar.gz",
+  "download_time": "2025-12-20T19:48:34.799498",
+  "package_url": "https://pypi.org/project/pctx-sandbox/"
+}

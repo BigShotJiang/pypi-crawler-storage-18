@@ -1,20 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T19:35:35.787330
-- **Total Packages**: 80
-- **Total Size**: 1.3 MB
+- **Download Time**: 2025-12-20T19:49:11.265879
+- **Total Packages**: 81
+- **Total Size**: 7.71 MB
 
 ## Packages List
-- aws-lambda-layer-cli
+- livy-uploads
+- mqtt-leds-cli
+- pymssql-mcp
+- codegen-2
+- stateset-embedded
+- clustercomputers
+- npcpy
+- claude-mpm
+- tonio
+- proportions
+- finanzonline-uid
+- pctx-sandbox
+- auto-subs
+- cordon
+- robot-resources
+- chgksuite
+- powerlawrs
 - fal-mcp-server
+- mcp-server-tibet
+- fintrack-cli
+- perplexity-webui-scraper
+- pyfrontkit
+- pyc3dsample
+- vsax
+- maia-toolkit
+- nixt
+- dusted
+- AI-Cypher
+- gridseal
+- fortilib
+- aws-lambda-layer-cli
 - zegie
 - scurry-kit
 - bulkman
 - mqtt-leds-lib
 - daffy
 - scurrypy
-- optimus-dl
 - claux
 - magpy-gui
 - ymery
@@ -47,7 +75,6 @@
 - pysparkformat
 - motulator
 - runagent
-- pymssql-mcp
 - vectome
 - omendb
 - notebook-intelligence
@@ -60,29 +87,3 @@
 - cua-computer
 - fraudhackathon
 - trending
-- syncengine
-- argparse-formatter
-- ec2-session-gate
-- maradoner
-- modelswrkpi
-- qlisp
-- cerberus-monitor
-- rotmg-seed-analyzer
-- genvarloader
-- aiwatermarkremover
-- nocaplang
-- kafka-ops-guide
-- md-llm-lang-reader
-- schedule-llm-query
-- time-travel-math-parser
-- architextor
-- local-deep-research
-- karaoke-gen
-- midi-structure
-- cpp26-equality-linter
-- snowglobe
-- spotify-backup-helper
-- simple-automated-testing
-- videosdk-plugins-turn-detector
-- videosdk-plugins-speechify
-- videosdk-plugins-smallestai

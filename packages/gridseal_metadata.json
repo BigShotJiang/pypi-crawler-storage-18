@@ -1,0 +1,11 @@
+{
+  "name": "gridseal",
+  "version": "1.0.0b1",
+  "summary": "Automated Program Repair with 89% success rate. Zero API costs. Runs locally.",
+  "author": "GridSeal",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://gridseal.ai",
+  "download_filename": "gridseal-1.0.0b1.tar.gz",
+  "download_time": "2025-12-20T19:48:43.820009",
+  "package_url": "https://pypi.org/project/gridseal/"
+}
