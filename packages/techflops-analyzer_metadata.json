@@ -1,0 +1,11 @@
+{
+  "name": "techflops-analyzer",
+  "version": "2025.12.20184937",
+  "summary": "A new package that processes text-based news headlines or article snippets (like the one provided) and returns a structured summary of the technology flop described, including key details such as the ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techflops_analyzer-2025.12.20184937.tar.gz",
+  "download_time": "2025-12-20T18:55:15.830075",
+  "package_url": "https://pypi.org/project/techflops-analyzer/"
+}

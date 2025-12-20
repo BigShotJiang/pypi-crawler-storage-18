@@ -1,11 +1,11 @@
 {
   "name": "aiosu",
-  "version": "2.3.4",
+  "version": "2.3.5",
   "summary": "Simple and fast osu! API v1 and v2 library",
   "author": "Nice Aesthetics",
   "license": null,
   "home_page": "https://github.com/NiceAesth/aiosu",
-  "download_filename": "aiosu-2.3.4.tar.gz",
-  "download_time": "2025-12-20T18:45:22.833002",
+  "download_filename": "aiosu-2.3.5.tar.gz",
+  "download_time": "2025-12-20T18:55:17.362304",
   "package_url": "https://pypi.org/project/aiosu/"
 }

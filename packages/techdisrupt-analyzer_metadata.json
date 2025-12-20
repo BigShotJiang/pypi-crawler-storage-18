@@ -1,0 +1,11 @@
+{
+  "name": "techdisrupt-analyzer",
+  "version": "2025.12.20185126",
+  "summary": "A new package that helps users analyze and structure their experiences or challenges with technology disruptions, such as network outages or connectivity issues. It takes a user's textual description ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techdisrupt_analyzer-2025.12.20185126.tar.gz",
+  "download_time": "2025-12-20T18:55:12.655659",
+  "package_url": "https://pypi.org/project/techdisrupt-analyzer/"
+}

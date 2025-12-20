@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T18:45:58.100259
-- **Total Packages**: 82
-- **Total Size**: 51.22 MB
+- **Download Time**: 2025-12-20T18:55:53.750918
+- **Total Packages**: 87
+- **Total Size**: 15.89 MB
 
 ## Packages List
+- karaoke-gen
+- snowglobe
+- spotify-backup-helper
+- simple-automated-testing
+- videosdk-plugins-turn-detector
+- macsdk
+- videosdk-plugins-speechify
+- videosdk-plugins-smallestai
+- videosdk-plugins-simli
+- techdisrupt-analyzer
+- videosdk-plugins-silero
+- videosdk-plugins-sarvamai
+- videosdk-plugins-rnnoise
+- videosdk-plugins-rime
+- videosdk-plugins-resemble
+- techflops-analyzer
+- videosdk-plugins-papla
+- videosdk-plugins-openai
+- aiosu
+- videosdk-plugins-neuphonic
+- videosdk-plugins-navana
+- opendraft
+- videosdk-plugins-lmnt
+- videosdk-plugins-inworldai
+- videosdk-plugins-humeai
+- videosdk-plugins-groq
+- videosdk-plugins-google
+- videosdk-plugins-elevenlabs
+- videosdk-plugins-deepgram
+- videosdk-plugins-cometapi
+- videosdk-plugins-cerebras
+- eda-toolkit
+- videosdk-plugins-cartesia
+- finqual
+- videosdk-plugins-azure
+- videosdk-plugins-aws
+- videosdk-plugins-assemblyai
+- videosdk-plugins-anthropic
+- sql-blocks
+- videosdk-agents
+- boneio
+- openmed
+- litestar-vite
+- KekikStream
+- polykin
+- mirdan
+- uzbek-lemmatization
+- cerebrixos-auth
 - warpdatasets
 - sftppathlib
 - nocaplang
@@ -20,11 +68,9 @@
 - modelswrkpi
 - easy-worktree
 - Orange3
-- opendraft
 - akasha-terminal
 - embed-client
 - antsxmm
-- aiosu
 - sillywalk
 - claude-mpm
 - ctpbee
@@ -47,44 +93,3 @@
 - hfortix
 - icx
 - tg_odesli_bot
-- seedphase
-- mcli-framework
-- nb-cli
-- pycli2
-- e2-tts-pytorch
-- ucapi-framework
-- seokit
-- mycli
-- nonebot-plugin-maimaidx
-- qagentic-pytest
-- rotating-proxy
-- charmos
-- uipath
-- phylogenie
-- uipath-dev
-- ua-extract
-- altbacken
-- dbrownell-vscodetools
-- documentation-search-enhanced
-- jettask
-- SAMBA-ilum
-- libmata
-- maxapi-python
-- mc-netease-sdk-nyrev
-- tickcatcher
-- harbor
-- tiebameow
-- headson
-- retrofit
-- iops-benchmark
-- fraud-det
-- fraud-api
-- tenuo
-- mkarchi
-- pysparkformat
-- release-structurer
-- smartcite-site
-- nettracer3d
-- progressvertical
-- claux
-- python-roborock

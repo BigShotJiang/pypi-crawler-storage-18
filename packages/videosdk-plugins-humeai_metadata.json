@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-humeai",
+  "version": "0.0.53",
+  "summary": "Hume AI TTS plugin for videosdk-agents",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_humeai-0.0.53.tar.gz",
+  "download_time": "2025-12-20T18:55:20.442094",
+  "package_url": "https://pypi.org/project/videosdk-plugins-humeai/"
+}

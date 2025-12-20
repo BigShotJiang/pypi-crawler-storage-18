@@ -1,0 +1,11 @@
+{
+  "name": "spotify-backup-helper",
+  "version": "2025.12.20185210",
+  "summary": "A new package that helps Spotify users securely back up their music library. By accepting simple text inputs that describe a user’s playlists, liked tracks, and saved albums, the tool generates a clea",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spotify_backup_helper-2025.12.20185210.tar.gz",
+  "download_time": "2025-12-20T18:55:09.076984",
+  "package_url": "https://pypi.org/project/spotify-backup-helper/"
+}

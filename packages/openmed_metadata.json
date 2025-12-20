@@ -1,0 +1,11 @@
+{
+  "name": "openmed",
+  "version": "0.2.2",
+  "summary": "OpenMed delivers state-of-the-art biomedical and clinical LLMs that rival proprietary enterprise stacks, unifying model discovery, advanced extractions, and one-line orchestration.",
+  "author": "Maziyar Panahi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openmed-0.2.2.tar.gz",
+  "download_time": "2025-12-20T18:55:29.292903",
+  "package_url": "https://pypi.org/project/openmed/"
+}
