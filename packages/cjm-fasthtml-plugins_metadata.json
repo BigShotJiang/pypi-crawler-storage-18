@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-plugins",
+  "version": "0.0.8",
+  "summary": "FastHTML plugin registry with persistence, categories, and settings UI integration for managing application plugins.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-plugins",
+  "download_filename": "cjm_fasthtml_plugins-0.0.8.tar.gz",
+  "download_time": "2025-12-20T23:13:10.982467",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-plugins/"
+}

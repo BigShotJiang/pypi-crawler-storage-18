@@ -1,14 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T22:49:38.394978
-- **Total Packages**: 84
-- **Total Size**: 4.34 MB
+- **Download Time**: 2025-12-20T23:13:45.280072
+- **Total Packages**: 80
+- **Total Size**: 12.37 MB
 
 ## Packages List
+- boltpy
+- watchcode-cli
+- silero-vad-axera
+- xspawn
+- sop4py
+- pybotfinder
+- zegie
+- opvious
+- adsx
+- kichin-fastapi
+- bbox-overlay
+- minimux
+- clashy.py
+- iops-benchmark
+- mempool-mcp
+- cjm-fasthtml-plugins
+- aioesphomeapi
+- spectrumx
 - jelka
 - sleet
-- adsx
 - tradedangerous
 - beanhub-import
 - scrapy-seleniumbase-cdp
@@ -22,7 +39,6 @@
 - prefig
 - dbrownell-vscodetools
 - naylence-agent-sdk
-- opvious
 - cve-report-aggregator
 - protobunny
 - homeharvest
@@ -30,13 +46,11 @@
 - telegram-rag-bot
 - mfi-mpower
 - toon-ld
-- zegie
 - nocaplang
 - nextrpg
 - kaqing
 - sendly
 - macsdk
-- aioesphomeapi
 - grizabella
 - nevu-ui
 - snakemake-argparse-bridge
@@ -72,21 +86,3 @@
 - grynn-fplot
 - stateset-embedded
 - KekikStream
-- chloros-sdk
-- ps7-mcp-tool
-- jeremydimond.pymlga-blackjack
-- velesdb
-- indipyweb
-- praevisio
-- bzfs
-- namebump
-- soorma-core
-- PraisonAI
-- centrex-tlf-julia-extension
-- mopac-step
-- oxyde
-- bigkinds-mcp
-- NHL-predictor
-- spotoptim
-- trellis-datamodel
-- oxyde-core

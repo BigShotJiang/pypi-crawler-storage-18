@@ -1,0 +1,11 @@
+{
+  "name": "silero-vad-axera",
+  "version": "0.1.0",
+  "summary": "Voice Activity Detector (VAD) by Silero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "silero_vad_axera-0.1.0.tar.gz",
+  "download_time": "2025-12-20T23:13:04.196325",
+  "package_url": "https://pypi.org/project/silero-vad-axera/"
+}

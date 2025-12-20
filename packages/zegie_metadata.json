@@ -1,11 +1,11 @@
 {
   "name": "zegie",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "AI SDK to Streamlines Content Creation for Marketers and Creators",
   "author": "clivern",
   "license": "Apache Software License",
   "home_page": "https://github.com/clivern/zegie/",
-  "download_filename": "zegie-0.2.3.tar.gz",
-  "download_time": "2025-12-20T22:32:51.754135",
+  "download_filename": "zegie-0.3.0.tar.gz",
+  "download_time": "2025-12-20T23:13:06.304906",
   "package_url": "https://pypi.org/project/zegie/"
 }

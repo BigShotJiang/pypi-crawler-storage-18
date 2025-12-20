@@ -1,0 +1,11 @@
+{
+  "name": "minimux",
+  "version": "2.0.0",
+  "summary": "A lightweight non-interactive terminal multiplexer.",
+  "author": "Dominic Price",
+  "license": null,
+  "home_page": null,
+  "download_filename": "minimux-2.0.0.tar.gz",
+  "download_time": "2025-12-20T23:13:08.902029",
+  "package_url": "https://pypi.org/project/minimux/"
+}

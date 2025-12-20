@@ -1,11 +1,11 @@
 {
   "name": "adsx",
-  "version": "1.0.4",
-  "summary": null,
+  "version": "1.0.9",
+  "summary": "no cpatua",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adsx-1.0.4.tar.gz",
-  "download_time": "2025-12-20T19:35:01.094978",
+  "download_filename": "adsx-1.0.9.tar.gz",
+  "download_time": "2025-12-20T23:13:07.342368",
   "package_url": "https://pypi.org/project/adsx/"
 }
