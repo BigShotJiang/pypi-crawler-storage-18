@@ -1,11 +1,11 @@
 {
   "name": "antsxmm",
-  "version": "1.0.1.dev9",
+  "version": "1.0.1.dev11",
   "summary": "A streamlined wrapper for ANTsPyMM tailored for antsxbids BIDS output",
   "author": "ANTsX Community",
   "license": null,
   "home_page": null,
-  "download_filename": "antsxmm-1.0.1.dev9-py3-none-any.whl",
-  "download_time": "2025-12-20T17:44:27.248434",
+  "download_filename": "antsxmm-1.0.1.dev11-py3-none-any.whl",
+  "download_time": "2025-12-20T18:45:22.289677",
   "package_url": "https://pypi.org/project/antsxmm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polerisk",
+  "version": "1.1.0",
+  "summary": "Predictive utility pole failure analysis and maintenance optimization platform",
+  "author": "Kyle T. Jones",
+  "license": "MIT",
+  "home_page": "https://github.com/kylejones200/polerisk",
+  "download_filename": "polerisk-1.1.0.tar.gz",
+  "download_time": "2025-12-20T18:45:26.575776",
+  "package_url": "https://pypi.org/project/polerisk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tumblr-backup",
+  "version": "1.6.0",
+  "summary": "An advanced tool for backing up Tumblr blogs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tumblr_backup-1.6.0.tar.gz",
+  "download_time": "2025-12-20T18:45:31.842373",
+  "package_url": "https://pypi.org/project/tumblr-backup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysparkformat",
+  "version": "0.0.11",
+  "summary": "Collection of Apache Spark Custom Data Formats",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysparkformat-0.0.11.tar.gz",
+  "download_time": "2025-12-20T18:45:53.879847",
+  "package_url": "https://pypi.org/project/pysparkformat/"
+}

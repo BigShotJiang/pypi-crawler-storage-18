@@ -1,0 +1,11 @@
+{
+  "name": "tg_odesli_bot",
+  "version": "0.4.0",
+  "summary": "Telegram Bot to share music with Odesli (former Songlink) service.",
+  "author": "Mikhail Knyazev",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/9dogs/tg-odesli-bot",
+  "download_filename": "tg_odesli_bot-0.4.0.tar.gz",
+  "download_time": "2025-12-20T18:45:35.017340",
+  "package_url": "https://pypi.org/project/tg_odesli_bot/"
+}

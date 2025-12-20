@@ -1,0 +1,11 @@
+{
+  "name": "fraud-api",
+  "version": "0.0.1",
+  "summary": "Fraud probability prediction using CatBoost with isotonic calibration",
+  "author": "Tony",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fraud_api-0.0.1.tar.gz",
+  "download_time": "2025-12-20T18:45:52.268080",
+  "package_url": "https://pypi.org/project/fraud-api/"
+}

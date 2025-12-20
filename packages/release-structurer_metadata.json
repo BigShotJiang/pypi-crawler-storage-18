@@ -1,0 +1,11 @@
+{
+  "name": "release-structurer",
+  "version": "2025.12.20175834",
+  "summary": "A new package designed to process and structure text inputs related to software development and release notes. The package leverages llmatch-messages to ensure that the input text is parsed and format",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "release_structurer-2025.12.20175834.tar.gz",
+  "download_time": "2025-12-20T18:45:54.932172",
+  "package_url": "https://pypi.org/project/release-structurer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "icx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "This package provides the functionality for an interactive Streamlit dashboard designed to support stakeholders in exploring individual fairness notions within algorithmic decision-making systems. ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "icx-1.0.1.tar.gz",
-  "download_time": "2025-12-20T18:18:48.967540",
+  "download_filename": "icx-1.0.2.tar.gz",
+  "download_time": "2025-12-20T18:45:34.489636",
   "package_url": "https://pypi.org/project/icx/"
 }
