@@ -1,0 +1,11 @@
+{
+  "name": "wheel-filename",
+  "version": "2.1.0",
+  "summary": "Parse wheel filenames",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wheel_filename-2.1.0.tar.gz",
+  "download_time": "2025-12-20T21:12:18.125663",
+  "package_url": "https://pypi.org/project/wheel-filename/"
+}

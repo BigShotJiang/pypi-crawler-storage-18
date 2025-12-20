@@ -1,0 +1,11 @@
+{
+  "name": "py-hpl-logger",
+  "version": "0.2.5",
+  "summary": "A high-performance, buffered, non-blocking logger for Python, implemented in Rust.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_hpl_logger-0.2.5-cp313-cp313t-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2025-12-20T21:12:17.089049",
+  "package_url": "https://pypi.org/project/py-hpl-logger/"
+}

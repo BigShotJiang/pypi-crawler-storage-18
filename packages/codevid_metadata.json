@@ -1,0 +1,11 @@
+{
+  "name": "codevid",
+  "version": "1.2.1",
+  "summary": "Generate video tutorials from automated tests using LLMs",
+  "author": "Mateusz Staniaszek",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codevid-1.2.1.tar.gz",
+  "download_time": "2025-12-20T21:12:11.830037",
+  "package_url": "https://pypi.org/project/codevid/"
+}

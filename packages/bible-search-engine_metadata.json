@@ -1,0 +1,11 @@
+{
+  "name": "bible-search-engine",
+  "version": "0.2.4",
+  "summary": "Bible search engine incorporating natural language processing, deep learning, and machine learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bible_search_engine-0.2.4.tar.gz",
+  "download_time": "2025-12-20T21:12:26.045217",
+  "package_url": "https://pypi.org/project/bible-search-engine/"
+}

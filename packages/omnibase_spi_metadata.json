@@ -1,0 +1,11 @@
+{
+  "name": "omnibase_spi",
+  "version": "0.4.1",
+  "summary": "ONEX Service Provider Interface - Protocol definitions",
+  "author": "OmniNode Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnibase_spi-0.4.1.tar.gz",
+  "download_time": "2025-12-20T21:12:15.498911",
+  "package_url": "https://pypi.org/project/omnibase_spi/"
+}
