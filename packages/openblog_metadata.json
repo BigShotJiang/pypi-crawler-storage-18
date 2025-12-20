@@ -1,0 +1,11 @@
+{
+  "name": "openblog",
+  "version": "2.0.2",
+  "summary": "AI-powered blog generation from your terminal. Create SEO-optimized, publication-ready articles with a single command.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openblog-2.0.2.tar.gz",
+  "download_time": "2025-12-20T20:14:36.399376",
+  "package_url": "https://pypi.org/project/openblog/"
+}

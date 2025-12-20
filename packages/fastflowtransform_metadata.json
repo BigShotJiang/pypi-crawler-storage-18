@@ -1,0 +1,11 @@
+{
+  "name": "fastflowtransform",
+  "version": "0.6.14",
+  "summary": "Python framework for SQL & Python data transformation, ETL pipelines, and dbt-style data modeling",
+  "author": "Marko Lekic",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastflowtransform-0.6.14.tar.gz",
+  "download_time": "2025-12-20T20:14:43.633981",
+  "package_url": "https://pypi.org/project/fastflowtransform/"
+}

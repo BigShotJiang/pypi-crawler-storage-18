@@ -1,0 +1,11 @@
+{
+  "name": "ecodynalyze",
+  "version": "2025.12.20201125",
+  "summary": "A new package designed to analyze and summarize ecological studies, specifically focusing on the dynamics of species interactions. Users input text excerpts from research papers or field notes, and th",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecodynalyze-2025.12.20201125.tar.gz",
+  "download_time": "2025-12-20T20:14:34.668046",
+  "package_url": "https://pypi.org/project/ecodynalyze/"
+}

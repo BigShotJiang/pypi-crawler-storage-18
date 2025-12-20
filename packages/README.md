@@ -1,11 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T19:49:11.265879
-- **Total Packages**: 81
-- **Total Size**: 7.71 MB
+- **Download Time**: 2025-12-20T20:15:10.940907
+- **Total Packages**: 69
+- **Total Size**: 12.74 MB
 
 ## Packages List
+- macbundler
+- mcp-server-inject-bender
+- tryton
+- pyhausbus
+- ecodynalyze
+- photo-objects
+- solana-agent
+- openblog
+- simarpreet-error-translator
+- uniquant
+- trytond
+- flet-charts
+- django-health-check
+- python-qlv-helper
+- pypose
+- claux
+- agentu
+- appwindows
+- eda-toolkit
+- fastflowtransform
+- mcp-server-fetch-tom
+- optimus-dl
+- oximy
+- mdcmd
+- omnibase_core
+- gam7
+- kurral
+- dsr-data-tools
+- polyinfer
+- monome-druid
+- kirin
+- mtcli-vwap
+- PraisonAI
+- proteometer
+- embed-client
+- athenah-ai
+- orion-search
+- pixeltable
+- pdfstract
+- nl-opendata-mcp
+- pyspark-mcp
+- machine68k
+- omendb
+- textual-enhanced
+- opvious
+- octoprint-factor-plugin
+- pdf-image-extractor-mcp
+- hydroopt
+- kreuzberg
+- pypas-cli
 - livy-uploads
 - mqtt-leds-cli
 - pymssql-mcp
@@ -25,65 +75,3 @@
 - powerlawrs
 - fal-mcp-server
 - mcp-server-tibet
-- fintrack-cli
-- perplexity-webui-scraper
-- pyfrontkit
-- pyc3dsample
-- vsax
-- maia-toolkit
-- nixt
-- dusted
-- AI-Cypher
-- gridseal
-- fortilib
-- aws-lambda-layer-cli
-- zegie
-- scurry-kit
-- bulkman
-- mqtt-leds-lib
-- daffy
-- scurrypy
-- claux
-- magpy-gui
-- ymery
-- pycli2
-- adsx
-- spooled
-- mcp-json-yaml-toml
-- cua-agent
-- fapis
-- autonomous-app
-- extergram
-- arprint
-- mc-netease-sdk-nyrev
-- requests-unifi-auth
-- macsdk
-- embed-client
-- vastai-sdk
-- tamar-community-sdk
-- jax-blox
-- aiinbx
-- verilator-dspsim
-- chguard
-- qmrpy
-- nilparadox-imageai
-- weavexpy
-- aieng-bot-maintain
-- sql-blocks
-- blitz-vec
-- spotify-cmd
-- pysparkformat
-- motulator
-- runagent
-- vectome
-- omendb
-- notebook-intelligence
-- mirdan
-- sendly
-- ferno
-- raztint
-- trading-sdk
-- rectified-flow-pytorch
-- cua-computer
-- fraudhackathon
-- trending

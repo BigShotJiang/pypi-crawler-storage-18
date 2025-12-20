@@ -1,11 +1,11 @@
 {
   "name": "pymssql-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP server for Microsoft SQL Server databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymssql_mcp-0.2.0.tar.gz",
-  "download_time": "2025-12-20T19:25:51.148571",
+  "download_filename": "pymssql_mcp-0.3.0.tar.gz",
+  "download_time": "2025-12-20T20:15:02.004707",
   "package_url": "https://pypi.org/project/pymssql-mcp/"
 }

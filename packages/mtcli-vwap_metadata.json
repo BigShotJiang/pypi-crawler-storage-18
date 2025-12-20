@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-vwap",
+  "version": "1.0.0",
+  "summary": "Plugin mtcli da VWAP",
+  "author": "Valmir França da Silva",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtcli_vwap-1.0.0.tar.gz",
+  "download_time": "2025-12-20T20:14:50.365389",
+  "package_url": "https://pypi.org/project/mtcli-vwap/"
+}

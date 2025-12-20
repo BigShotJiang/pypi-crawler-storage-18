@@ -1,11 +1,11 @@
 {
   "name": "optimus-dl",
-  "version": "0.0.2.dev0",
+  "version": "0.0.2",
   "summary": "A clean, modular framework for training large language models with modern PyTorch features",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "optimus_dl-0.0.2.dev0.tar.gz",
-  "download_time": "2025-12-20T19:34:58.386873",
+  "download_filename": "optimus_dl-0.0.2.tar.gz",
+  "download_time": "2025-12-20T20:14:44.738673",
   "package_url": "https://pypi.org/project/optimus-dl/"
 }

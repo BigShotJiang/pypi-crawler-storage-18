@@ -1,0 +1,11 @@
+{
+  "name": "appwindows",
+  "version": "1.2.1",
+  "summary": "The appwindows library solves the problem of working with a graphical shell on different operating systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "appwindows-1.2.1.tar.gz",
+  "download_time": "2025-12-20T20:14:42.524038",
+  "package_url": "https://pypi.org/project/appwindows/"
+}

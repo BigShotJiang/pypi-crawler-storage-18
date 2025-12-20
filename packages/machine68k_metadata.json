@@ -1,0 +1,11 @@
+{
+  "name": "machine68k",
+  "version": "0.4.0",
+  "summary": "A Cython binding for a m68k system emulator",
+  "author": null,
+  "license": "GPL-v2",
+  "home_page": null,
+  "download_filename": "machine68k-0.4.0.tar.gz",
+  "download_time": "2025-12-20T20:14:55.907287",
+  "package_url": "https://pypi.org/project/machine68k/"
+}
