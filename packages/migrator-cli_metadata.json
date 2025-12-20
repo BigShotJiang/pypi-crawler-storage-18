@@ -1,0 +1,11 @@
+{
+  "name": "migrator-cli",
+  "version": "0.4.2",
+  "summary": "Universal migration CLI for Python apps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "migrator_cli-0.4.2.tar.gz",
+  "download_time": "2025-12-20T20:48:43.838076",
+  "package_url": "https://pypi.org/project/migrator-cli/"
+}

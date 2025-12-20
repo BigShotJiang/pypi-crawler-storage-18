@@ -1,0 +1,11 @@
+{
+  "name": "conflux-segmentation",
+  "version": "0.5.0",
+  "summary": "Tile-based inference for segmentation of large images.",
+  "author": "Conflux",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/conflux-xyz/conflux-segmentation",
+  "download_filename": "conflux_segmentation-0.5.0.tar.gz",
+  "download_time": "2025-12-20T20:48:44.405237",
+  "package_url": "https://pypi.org/project/conflux-segmentation/"
+}

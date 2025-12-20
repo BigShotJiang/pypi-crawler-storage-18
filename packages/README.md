@@ -1,13 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T20:33:52.483180
-- **Total Packages**: 67
-- **Total Size**: 14.79 MB
+- **Download Time**: 2025-12-20T20:49:20.799406
+- **Total Packages**: 80
+- **Total Size**: 6.69 MB
 
 ## Packages List
-- llparse
+- gold-dl
+- treeline-money
+- githooklib
+- praevisio
+- NHL-predictor
+- hydroopt
+- python-ubl
+- mc-netease-sdk-nyrev
+- market-engine
+- llm-agents-from-scratch
+- compose-farm
+- migrator-cli
+- conflux-segmentation
+- pywats-api
+- toastCE
+- lucidscan
+- moccasin
+- capeify
+- bigkinds-mcp
 - nocaplang
+- gpst
+- watchcode-cli
+- llparse
+- ez-a-sync
 - xcomponent
 - dark-matter
 - oarepo
@@ -19,18 +41,15 @@
 - python-dispatch
 - nlp-structgen
 - aponyx
-- gold-dl
 - KekikStream
 - news-summerizer
 - simboba
 - agents-sdk-mutta
 - qris-payment
 - lego-museum-structurizer
-- NHL-predictor
 - textstructparser
 - worldcraft-sim
 - test-no-funcional
-- praevisio
 - prob-extract-ai-odds-parser-market-insight-llm-predictive-text-miner
 - LangPy
 - sentinelseed
@@ -55,7 +74,6 @@
 - pymssql-mcp
 - llmatch-struct-parser
 - humanize
-- mc-netease-sdk-nyrev
 - fraudincident-extractor
 - macbundler
 - mcp-server-inject-bender
@@ -68,8 +86,3 @@
 - simarpreet-error-translator
 - uniquant
 - trytond
-- flet-charts
-- python-qlv-helper
-- pypose
-- claux
-- agentu
