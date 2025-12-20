@@ -1,0 +1,11 @@
+{
+  "name": "kafka-ops-guide",
+  "version": "2025.12.20185738",
+  "summary": "A new package that provides structured, reliable summaries of technical concepts related to Kafka operations, such as partition management. It takes user-provided text (e.g., a query about increasing ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kafka_ops_guide-2025.12.20185738.tar.gz",
+  "download_time": "2025-12-20T19:10:55.952496",
+  "package_url": "https://pypi.org/project/kafka-ops-guide/"
+}

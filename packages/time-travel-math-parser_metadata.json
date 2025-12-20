@@ -1,0 +1,11 @@
+{
+  "name": "time-travel-math-parser",
+  "version": "2025.12.20185553",
+  "summary": "The package lets users input a textual description of a claim about paradox‑free time travel backed by mathematics. It then uses an LLM together with llmatch‑messages to parse the text, extract the co",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "time_travel_math_parser-2025.12.20185553.tar.gz",
+  "download_time": "2025-12-20T19:10:57.522453",
+  "package_url": "https://pypi.org/project/time-travel-math-parser/"
+}

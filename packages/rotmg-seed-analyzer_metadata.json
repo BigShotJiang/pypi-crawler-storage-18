@@ -1,0 +1,11 @@
+{
+  "name": "rotmg-seed-analyzer",
+  "version": "2025.12.20185935",
+  "summary": "A specialized tool that accepts user-provided text descriptions or extracted data related to RotMG map seeds, and utilizes structured pattern matching to generate a detailed, standardized summary of t",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rotmg_seed_analyzer-2025.12.20185935.tar.gz",
+  "download_time": "2025-12-20T19:10:53.866140",
+  "package_url": "https://pypi.org/project/rotmg-seed-analyzer/"
+}

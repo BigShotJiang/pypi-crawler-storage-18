@@ -1,0 +1,11 @@
+{
+  "name": "raztint",
+  "version": "0.1.1",
+  "summary": "A zero-dependency Python library for ANSI coloring and smart CLI icons with automatic environment detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raztint-0.1.1.tar.gz",
+  "download_time": "2025-12-20T19:10:45.438968",
+  "package_url": "https://pypi.org/project/raztint/"
+}

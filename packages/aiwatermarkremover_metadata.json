@@ -1,0 +1,11 @@
+{
+  "name": "aiwatermarkremover",
+  "version": "2025.12.20185814",
+  "summary": "**The Package** is a specialized tool designed to help users **detect and remove AI-generated watermarks** from text—particularly those embedded by models like Gemini—while preserving the original mea",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiwatermarkremover-2025.12.20185814.tar.gz",
+  "download_time": "2025-12-20T19:10:54.908998",
+  "package_url": "https://pypi.org/project/aiwatermarkremover/"
+}

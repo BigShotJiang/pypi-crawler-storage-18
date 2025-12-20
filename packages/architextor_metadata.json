@@ -1,0 +1,11 @@
+{
+  "name": "architextor",
+  "version": "2025.12.20185502",
+  "summary": "A new package designed to process and interpret structured descriptions of neural network architectures from textual input. Users provide detailed text about an ANN's innate design, such as layer type",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "architextor-2025.12.20185502.tar.gz",
+  "download_time": "2025-12-20T19:10:58.041922",
+  "package_url": "https://pypi.org/project/architextor/"
+}

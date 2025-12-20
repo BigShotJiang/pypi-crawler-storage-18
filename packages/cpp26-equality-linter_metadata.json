@@ -1,0 +1,11 @@
+{
+  "name": "cpp26-equality-linter",
+  "version": "2025.12.20185334",
+  "summary": "A new package that automates equality checks in C++ code by leveraging the upcoming reflection capabilities in C++26. This tool will allow developers to input C++ code snippets or class definitions, a",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpp26_equality_linter-2025.12.20185334.tar.gz",
+  "download_time": "2025-12-20T19:11:00.170148",
+  "package_url": "https://pypi.org/project/cpp26-equality-linter/"
+}
