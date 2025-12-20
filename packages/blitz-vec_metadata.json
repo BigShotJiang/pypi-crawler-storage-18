@@ -1,11 +1,11 @@
 {
   "name": "blitz-vec",
-  "version": "1.0.54",
+  "version": "1.1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blitz_vec-1.0.54.tar.gz",
-  "download_time": "2025-12-20T21:38:27.537273",
+  "download_filename": "blitz_vec-1.1.0.tar.gz",
+  "download_time": "2025-12-20T23:30:02.030208",
   "package_url": "https://pypi.org/project/blitz-vec/"
 }

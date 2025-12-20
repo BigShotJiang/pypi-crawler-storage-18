@@ -1,0 +1,11 @@
+{
+  "name": "autoflatten",
+  "version": "1.0.6",
+  "summary": "Automatically create cortical flatmaps from FreeSurfer surfaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoflatten-1.0.6.tar.gz",
+  "download_time": "2025-12-20T23:30:07.716945",
+  "package_url": "https://pypi.org/project/autoflatten/"
+}
