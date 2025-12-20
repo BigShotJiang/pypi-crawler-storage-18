@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T21:28:53.800045
-- **Total Packages**: 78
-- **Total Size**: 7.69 MB
+- **Download Time**: 2025-12-20T21:39:06.682020
+- **Total Packages**: 79
+- **Total Size**: 1.78 MB
 
 ## Packages List
+- treeline-money
+- fal-mcp-server
+- impact-uka
+- umlio
+- git-notes-memory
+- py.kyodo
+- ovaltinepy
+- blitz-vec
+- ccb-extras
+- telebot-components
+- trellis-datamodel
+- kirin
+- pdflinkcheck
+- simple-pdf-tools
+- hydroopt
+- safeeyes
+- woe-credit-scoring
+- kep-solver
 - pysparkformat
 - livy-uploads
 - aider-ce
@@ -18,7 +36,6 @@
 - rotools
 - ty
 - stageflow-framework
-- blitz-vec
 - rmachine68k
 - toastCE
 - gold-dl
@@ -39,7 +56,6 @@
 - trading-models
 - spotoptim
 - omnibase_spi
-- fal-mcp-server
 - spiki
 - py-hpl-logger
 - binscatter
@@ -50,7 +66,6 @@
 - fast-trading-simulator
 - pyams-lib
 - D47calib
-- pdflinkcheck
 - sqlalchemy-serializer
 - cicerone
 - fmot
@@ -60,9 +75,7 @@
 - jotunn
 - logzai-otlp
 - market-engine
-- treeline-money
 - githooklib
-- hydroopt
 - python-ubl
 - mc-netease-sdk-nyrev
 - llm-agents-from-scratch
@@ -72,15 +85,3 @@
 - pywats-api
 - lucidscan
 - moccasin
-- capeify
-- nocaplang
-- watchcode-cli
-- llparse
-- ez-a-sync
-- xcomponent
-- dark-matter
-- oarepo
-- ai-claim-essence
-- aws-lambda-layer-cli
-- pycifter
-- secsummarize

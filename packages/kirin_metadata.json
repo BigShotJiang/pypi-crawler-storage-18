@@ -1,11 +1,11 @@
 {
   "name": "kirin",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kirin-0.0.9.tar.gz",
-  "download_time": "2025-12-20T20:14:49.794401",
+  "download_filename": "kirin-0.0.10.tar.gz",
+  "download_time": "2025-12-20T21:38:29.683588",
   "package_url": "https://pypi.org/project/kirin/"
 }
