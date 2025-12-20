@@ -1,0 +1,11 @@
+{
+  "name": "motulator",
+  "version": "0.7.3",
+  "summary": "Motor Drive and Grid Converter Simulator in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "motulator-0.7.3-py3-none-any.whl",
+  "download_time": "2025-12-20T19:25:50.070255",
+  "package_url": "https://pypi.org/project/motulator/"
+}

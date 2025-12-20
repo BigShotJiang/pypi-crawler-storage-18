@@ -1,15 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T19:11:28.780083
-- **Total Packages**: 90
-- **Total Size**: 34.11 MB
+- **Download Time**: 2025-12-20T19:26:24.224386
+- **Total Packages**: 88
+- **Total Size**: 10.99 MB
 
 ## Packages List
+- autonomous-app
+- extergram
+- arprint
+- mc-netease-sdk-nyrev
+- requests-unifi-auth
+- macsdk
+- embed-client
+- vastai-sdk
+- tamar-community-sdk
+- jax-blox
+- aiinbx
+- adsx
+- verilator-dspsim
+- chguard
+- qmrpy
+- nilparadox-imageai
+- weavexpy
+- aieng-bot-maintain
+- sql-blocks
+- blitz-vec
+- spotify-cmd
+- zegie
+- pysparkformat
+- motulator
+- runagent
+- pymssql-mcp
+- mcp-json-yaml-toml
+- vectome
 - omendb
 - notebook-intelligence
 - mirdan
-- tamar-community-sdk
 - cua-agent
 - sendly
 - ferno
@@ -17,8 +44,6 @@
 - trading-sdk
 - ymery
 - rectified-flow-pytorch
-- sql-blocks
-- adsx
 - cua-computer
 - fraudhackathon
 - trending
@@ -46,7 +71,6 @@
 - spotify-backup-helper
 - simple-automated-testing
 - videosdk-plugins-turn-detector
-- macsdk
 - videosdk-plugins-speechify
 - videosdk-plugins-smallestai
 - videosdk-plugins-simli
@@ -70,29 +94,3 @@
 - videosdk-plugins-google
 - videosdk-plugins-elevenlabs
 - videosdk-plugins-deepgram
-- videosdk-plugins-cometapi
-- videosdk-plugins-cerebras
-- eda-toolkit
-- videosdk-plugins-cartesia
-- finqual
-- videosdk-plugins-azure
-- videosdk-plugins-aws
-- videosdk-plugins-assemblyai
-- videosdk-plugins-anthropic
-- videosdk-agents
-- boneio
-- openmed
-- litestar-vite
-- KekikStream
-- polykin
-- uzbek-lemmatization
-- cerebrixos-auth
-- warpdatasets
-- sftppathlib
-- blitz-vec
-- pyvegh
-- EFN
-- centrex-tlf-julia-extension
-- artemis-model
-- py-browser-automation
-- commlib-py
