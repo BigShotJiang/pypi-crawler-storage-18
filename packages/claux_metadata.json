@@ -1,0 +1,11 @@
+{
+  "name": "claux",
+  "version": "0.3.2",
+  "summary": "Token-efficient AI automation toolkit with TOML inter-agent communication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claux-0.3.2.tar.gz",
+  "download_time": "2025-12-20T18:18:40.471491",
+  "package_url": "https://pypi.org/project/claux/"
+}

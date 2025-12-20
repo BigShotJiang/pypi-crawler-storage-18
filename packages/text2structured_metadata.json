@@ -1,0 +1,11 @@
+{
+  "name": "text2structured",
+  "version": "2025.12.20175536",
+  "summary": "A new package designed to transform unstructured text inputs into structured, actionable insights using advanced language models. This package leverages the capabilities of llmatch-messages to ensure ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text2structured-2025.12.20175536.tar.gz",
+  "download_time": "2025-12-20T18:18:42.340560",
+  "package_url": "https://pypi.org/project/text2structured/"
+}

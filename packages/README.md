@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-20T17:52:34.011473
-- **Total Packages**: 82
-- **Total Size**: 7.4 MB
+- **Download Time**: 2025-12-20T18:19:26.474592
+- **Total Packages**: 79
+- **Total Size**: 5.26 MB
 
 ## Packages List
+- progressvertical
+- claux
+- python-roborock
+- mfi-mpower
+- text2structured
+- htoolbox
+- llmatch-validate
+- cabaret
+- scadnlp
+- SAMBA-ilum
+- agentic-workstation
+- embed-client
+- bulkman
+- sendly
+- dataclass-wizard
+- icx
+- crunch-uml
 - beta-solver
 - diresa-torch
 - agentic-ai-engineering-course
@@ -16,7 +33,6 @@
 - sprmpkg
 - warpdatasets
 - telebot-against-war
-- SAMBA-ilum
 - nuplan-devkit
 - libmata
 - memoryframes
@@ -24,14 +40,12 @@
 - rcservo
 - mcli-framework
 - pytest-checkers
-- mfi-mpower
 - vvn
 - is-pku
 - gault
 - cruiseplan
 - powerlawrs
 - KekikStream
-- progressvertical
 - londonaicentre-oncollama-assets
 - lulzprime
 - marearts-anpr
@@ -53,7 +67,6 @@
 - maradoner
 - gamengine3d
 - python-capital
-- sendly
 - csv-validation
 - agentu
 - pycli2
@@ -72,19 +85,3 @@
 - ironvaultmd
 - causalchamber
 - mcp-core
-- crunch-uml
-- libTerm
-- bayescoin
-- ArcheanBlueprints
-- oidc-provider-mock
-- dsa-cat-all
-- cryojax
-- aipricepatterns
-- rez-pip
-- xlwings-utils
-- SessionSmith
-- bullet-trade
-- the-llm-council
-- blizzardapi3
-- edq-utils
-- jonckheere-test

@@ -1,0 +1,11 @@
+{
+  "name": "scadnlp",
+  "version": "2025.12.20175356",
+  "summary": "**The Package** is a specialized tool designed to bridge the gap between casual text descriptions and precise, structured 3D modeling instructions—specifically for **OpenSCAD**, the powerful yet text-",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scadnlp-2025.12.20175356.tar.gz",
+  "download_time": "2025-12-20T18:18:44.723475",
+  "package_url": "https://pypi.org/project/scadnlp/"
+}
