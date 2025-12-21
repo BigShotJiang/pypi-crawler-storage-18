@@ -1,11 +1,11 @@
 {
   "name": "termibase",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "A terminal-native database learning playground",
   "author": "TermiBase Contributors",
   "license": "Source-Available License (TSAL)",
   "home_page": "https://github.com/yourusername/termibase",
-  "download_filename": "termibase-0.1.4.tar.gz",
-  "download_time": "2025-12-21T09:39:13.261447",
+  "download_filename": "termibase-0.1.7.tar.gz",
+  "download_time": "2025-12-21T10:14:35.126723",
   "package_url": "https://pypi.org/project/termibase/"
 }

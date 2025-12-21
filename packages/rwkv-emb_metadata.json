@@ -1,11 +1,11 @@
 {
   "name": "rwkv-emb",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "The EmbeddingRWKV Model",
   "author": "Haowen HOU",
   "license": null,
   "home_page": null,
-  "download_filename": "rwkv_emb-0.2.5.tar.gz",
-  "download_time": "2025-12-21T08:18:59.146961",
+  "download_filename": "rwkv_emb-0.2.6.tar.gz",
+  "download_time": "2025-12-21T10:14:39.240674",
   "package_url": "https://pypi.org/project/rwkv-emb/"
 }
