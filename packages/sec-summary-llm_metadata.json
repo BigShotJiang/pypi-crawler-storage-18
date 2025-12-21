@@ -1,0 +1,11 @@
+{
+  "name": "sec-summary-llm",
+  "version": "2025.12.21193952",
+  "summary": "packages extracts structured summaries from security and government texts using LLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sec_summary_llm-2025.12.21193952.tar.gz",
+  "download_time": "2025-12-21T19:49:05.240127",
+  "package_url": "https://pypi.org/project/sec-summary-llm/"
+}
