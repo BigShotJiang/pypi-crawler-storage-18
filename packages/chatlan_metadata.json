@@ -1,0 +1,11 @@
+{
+  "name": "chatlan",
+  "version": "0.3.0",
+  "summary": "a TUI program to chat with friends on a LAN",
+  "author": "gitmobkab",
+  "license": null,
+  "home_page": "https://github.com/gitmobkab/ChatLan",
+  "download_filename": "chatlan-0.3.0.tar.gz",
+  "download_time": "2025-12-21T07:31:40.971107",
+  "package_url": "https://pypi.org/project/chatlan/"
+}

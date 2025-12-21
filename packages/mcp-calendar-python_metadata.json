@@ -1,0 +1,11 @@
+{
+  "name": "mcp-calendar-python",
+  "version": "0.3.4",
+  "summary": "MCP server for Google Calendar integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_calendar_python-0.3.4.tar.gz",
+  "download_time": "2025-12-21T07:31:59.738355",
+  "package_url": "https://pypi.org/project/mcp-calendar-python/"
+}

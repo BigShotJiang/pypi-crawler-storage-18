@@ -1,0 +1,11 @@
+{
+  "name": "empathy",
+  "version": "1.1",
+  "summary": "A package that spreads kindness and empathy",
+  "author": "Eric",
+  "license": null,
+  "home_page": null,
+  "download_filename": "empathy-1.1.tar.gz",
+  "download_time": "2025-12-21T07:31:57.617203",
+  "package_url": "https://pypi.org/project/empathy/"
+}

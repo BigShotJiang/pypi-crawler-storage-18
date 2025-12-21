@@ -1,0 +1,11 @@
+{
+  "name": "CerebrixOS-Route",
+  "version": "0.6.0",
+  "summary": "CerebrixOS router exposes internal private services via zero-trust networking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cerebrixos_route-0.6.0.tar.gz",
+  "download_time": "2025-12-21T07:31:36.643520",
+  "package_url": "https://pypi.org/project/CerebrixOS-Route/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "CerebrixOS-TrustMesh",
+  "version": "0.3.1",
+  "summary": "Install CerebrixOS router to expose internal private services over zero-trust network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cerebrixos_trustmesh-0.3.1.tar.gz",
+  "download_time": "2025-12-21T07:31:43.117955",
+  "package_url": "https://pypi.org/project/CerebrixOS-TrustMesh/"
+}

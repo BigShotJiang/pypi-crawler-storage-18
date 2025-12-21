@@ -1,11 +1,11 @@
 {
   "name": "WuttJamaican",
-  "version": "0.27.0",
+  "version": "0.27.1",
   "summary": "Base package for Wutta Framework",
   "author": null,
   "license": "GNU GPL v3+",
   "home_page": null,
-  "download_filename": "wuttjamaican-0.27.0.tar.gz",
-  "download_time": "2025-12-21T03:06:40.281333",
+  "download_filename": "wuttjamaican-0.27.1.tar.gz",
+  "download_time": "2025-12-21T07:31:30.861907",
   "package_url": "https://pypi.org/project/WuttJamaican/"
 }

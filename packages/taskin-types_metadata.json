@@ -1,0 +1,11 @@
+{
+  "name": "taskin-types",
+  "version": "1.0.5",
+  "summary": "Python models auto-generated from Taskin TypeScript schemas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taskin_types-1.0.5.tar.gz",
+  "download_time": "2025-12-21T07:31:35.593773",
+  "package_url": "https://pypi.org/project/taskin-types/"
+}
