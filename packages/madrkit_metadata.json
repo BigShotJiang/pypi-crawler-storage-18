@@ -1,11 +1,11 @@
 {
   "name": "madrkit",
-  "version": "0.1.9",
+  "version": "1.0.0",
   "summary": "MADR Kit - A CLI tool for creating and managing Markdown Architecture Decision Records (MADR).",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "madrkit-0.1.9.tar.gz",
-  "download_time": "2025-12-21T03:06:24.537413",
+  "download_filename": "madrkit-1.0.0.tar.gz",
+  "download_time": "2025-12-21T05:51:50.961726",
   "package_url": "https://pypi.org/project/madrkit/"
 }

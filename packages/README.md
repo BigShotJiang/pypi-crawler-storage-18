@@ -1,16 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T05:43:06.103719
-- **Total Packages**: 79
-- **Total Size**: 14.28 MB
+- **Download Time**: 2025-12-21T05:52:30.574333
+- **Total Packages**: 77
+- **Total Size**: 9.83 MB
 
 ## Packages List
+- plotspec
+- pdfstract
+- pulumi-f5bigip
+- odoo-addon-l10n-br-purchase
+- madrkit
+- kiro-openai-gateway
+- pulumi-external
+- pulse-python-sdk
+- mempool-mcp
+- SmolBit
+- mcp-feedback-enhanced-c
+- relax-gen
+- serix
 - dash-pydantic-form
 - dash-pydantic-utils
 - rwkv-emb
 - state-machine-amz-py
-- plotspec
 - usso
 - nsip-skills
 - nsip-mcp-server
@@ -29,7 +41,6 @@
 - pybrsa
 - tme-api
 - pyside-cli
-- pulse-python-sdk
 - aifoundary
 - source-atlas
 - msgmodel
@@ -72,16 +83,3 @@
 - pymssql-mcp
 - nonebot-adapter-yunhu
 - ypricemagic
-- cockroachdb-mcp
-- graphistry
-- elasticsearch-mcp
-- vboxinit
-- byzh-core
-- openfund-taker
-- openfund-maker
-- crml-lang
-- abstract-react
-- distant-frames
-- cilow
-- obra
-- textual-capture
