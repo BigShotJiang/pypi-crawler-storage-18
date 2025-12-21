@@ -1,0 +1,11 @@
+{
+  "name": "pystk2-gymnasium",
+  "version": "0.7.9",
+  "summary": "Gymnasium wrapper for PySTK2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pystk2_gymnasium-0.7.9.tar.gz",
+  "download_time": "2025-12-21T17:31:42.895185",
+  "package_url": "https://pypi.org/project/pystk2-gymnasium/"
+}

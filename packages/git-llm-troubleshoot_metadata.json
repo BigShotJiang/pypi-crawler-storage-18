@@ -1,0 +1,11 @@
+{
+  "name": "git-llm-troubleshoot",
+  "version": "2025.12.21171944",
+  "summary": "A new package that helps users troubleshoot and resolve common Git mistakes. Users can describe their Git-related issues in plain text, and the package will use llmatch-messages to provide structured,",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_llm_troubleshoot-2025.12.21171944.tar.gz",
+  "download_time": "2025-12-21T17:31:19.570018",
+  "package_url": "https://pypi.org/project/git-llm-troubleshoot/"
+}

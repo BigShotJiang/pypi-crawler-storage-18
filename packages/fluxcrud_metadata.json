@@ -1,11 +1,11 @@
 {
   "name": "fluxcrud",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "FluxCRUD is a easy to use, fast, and modern CRUD framework for FastAPI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluxcrud-0.1.0.tar.gz",
-  "download_time": "2025-12-21T15:14:16.347010",
+  "download_filename": "fluxcrud-0.1.1.tar.gz",
+  "download_time": "2025-12-21T17:31:25.260474",
   "package_url": "https://pypi.org/project/fluxcrud/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "chunklet-py",
+  "version": "2.1.1",
+  "summary": "Advanced text, code, and document chunking for LLM applications. Split content semantically, visualize chunks interactively, and process multiple file formats with flexible, context-aware segmentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chunklet_py-2.1.1.tar.gz",
+  "download_time": "2025-12-21T17:31:40.061101",
+  "package_url": "https://pypi.org/project/chunklet-py/"
+}

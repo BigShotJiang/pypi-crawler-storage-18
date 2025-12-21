@@ -1,0 +1,11 @@
+{
+  "name": "unimathlib-pancake",
+  "version": "0.1.0",
+  "summary": "Учебная библиотека по линейной алгебре и теории вероятностей",
+  "author": "Pancakeboy1987",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unimathlib_pancake-0.1.0.tar.gz",
+  "download_time": "2025-12-21T17:31:21.843116",
+  "package_url": "https://pypi.org/project/unimathlib-pancake/"
+}

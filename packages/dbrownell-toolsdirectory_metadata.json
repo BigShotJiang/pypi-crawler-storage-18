@@ -1,0 +1,11 @@
+{
+  "name": "dbrownell-toolsdirectory",
+  "version": "0.1.0",
+  "summary": "Creates functionality to manipulate the shell in support of tools defined within a tools directory.",
+  "author": "David Brownell",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbrownell_toolsdirectory-0.1.0.tar.gz",
+  "download_time": "2025-12-21T17:31:21.277171",
+  "package_url": "https://pypi.org/project/dbrownell-toolsdirectory/"
+}

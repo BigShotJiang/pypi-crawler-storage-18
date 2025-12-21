@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-post-craft",
+  "version": "2025.12.21172241",
+  "summary": "A new package that generates professional LinkedIn posts from user-provided text input. Users can input their key points, achievements, or ideas, and the package will return a well-structured LinkedIn",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linkedin_post_craft-2025.12.21172241.tar.gz",
+  "download_time": "2025-12-21T17:31:16.121542",
+  "package_url": "https://pypi.org/project/linkedin-post-craft/"
+}

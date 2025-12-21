@@ -1,0 +1,11 @@
+{
+  "name": "concept-extractor",
+  "version": "2025.12.21170754",
+  "summary": "A new package is designed to process complex conceptual prompts like 'Dark Enlightenment' by leveraging language models with structured pattern matching. Users provide a descriptive text input related",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "concept_extractor-2025.12.21170754.tar.gz",
+  "download_time": "2025-12-21T17:31:34.397684",
+  "package_url": "https://pypi.org/project/concept-extractor/"
+}
