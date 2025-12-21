@@ -1,0 +1,11 @@
+{
+  "name": "pandas-cobol-io",
+  "version": "0.1.0",
+  "summary": "Pandas extension for COBOL-style fixed-width files handling multibyte encoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pandas_cobol_io-0.1.0.tar.gz",
+  "download_time": "2025-12-21T03:06:03.700450",
+  "package_url": "https://pypi.org/project/pandas-cobol-io/"
+}

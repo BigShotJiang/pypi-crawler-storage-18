@@ -1,0 +1,11 @@
+{
+  "name": "zfslib",
+  "version": "0.13.3",
+  "summary": "ZFS Utilities For Python3",
+  "author": "Timothy C. Quinn",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/zfslib",
+  "download_filename": "zfslib-0.13.3.tar.gz",
+  "download_time": "2025-12-21T03:06:37.692843",
+  "package_url": "https://pypi.org/project/zfslib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "astria",
+  "version": "0.1",
+  "summary": "Astria is an email cleanup CLI tool that allows for fast deletion and newsletter unsubscribing.",
+  "author": "Vallg-333",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astria-0.1.tar.gz",
+  "download_time": "2025-12-21T03:06:18.785177",
+  "package_url": "https://pypi.org/project/astria/"
+}

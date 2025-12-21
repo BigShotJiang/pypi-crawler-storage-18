@@ -1,0 +1,11 @@
+{
+  "name": "distributex-cloud",
+  "version": "8.0.6",
+  "summary": "Python SDK for DistributeX distributed computing",
+  "author": "DistributeX Team",
+  "license": "MIT",
+  "home_page": "https://github.com/DistributeX-Cloud/distributex",
+  "download_filename": "distributex_cloud-8.0.6.tar.gz",
+  "download_time": "2025-12-21T03:06:21.409063",
+  "package_url": "https://pypi.org/project/distributex-cloud/"
+}

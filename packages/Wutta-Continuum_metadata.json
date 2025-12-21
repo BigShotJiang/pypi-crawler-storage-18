@@ -1,0 +1,11 @@
+{
+  "name": "Wutta-Continuum",
+  "version": "0.3.0",
+  "summary": "SQLAlchemy-Continuum versioning for Wutta Framework",
+  "author": null,
+  "license": "GNU GPL v3+",
+  "home_page": null,
+  "download_filename": "wutta_continuum-0.3.0.tar.gz",
+  "download_time": "2025-12-21T03:06:35.612941",
+  "package_url": "https://pypi.org/project/Wutta-Continuum/"
+}
