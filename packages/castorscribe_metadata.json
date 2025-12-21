@@ -1,0 +1,11 @@
+{
+  "name": "castorscribe",
+  "version": "1.0.0",
+  "summary": "Automated README.md generator powered by AI - analyzes your project and creates professional documentation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "castorscribe-1.0.0.tar.gz",
+  "download_time": "2025-12-21T11:28:00.174798",
+  "package_url": "https://pypi.org/project/castorscribe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sharex-cli",
+  "version": "0.0.3",
+  "summary": "CLI to Upload Files to a ShareX Server using a ShareX Custom Uploader (.sxcu) Configuration File.",
+  "author": "Shane",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "sharex_cli-0.0.3.tar.gz",
+  "download_time": "2025-12-21T11:28:09.377255",
+  "package_url": "https://pypi.org/project/sharex-cli/"
+}

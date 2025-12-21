@@ -1,0 +1,11 @@
+{
+  "name": "spharapy",
+  "version": "1.3.0",
+  "summary": "SPHARA-based spatial harmonic analysis and filtering",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spharapy-1.3.0.tar.gz",
+  "download_time": "2025-12-21T11:28:10.910814",
+  "package_url": "https://pypi.org/project/spharapy/"
+}

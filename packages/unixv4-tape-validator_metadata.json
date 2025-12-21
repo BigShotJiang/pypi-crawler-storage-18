@@ -1,0 +1,11 @@
+{
+  "name": "unixv4-tape-validator",
+  "version": "2025.12.21111300",
+  "summary": "A new package is designed to interpret and confirm the successful archival of Unix V4 tapes by processing user-provided text inputs. It extracts structured information indicating success or failure an",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unixv4_tape_validator-2025.12.21111300.tar.gz",
+  "download_time": "2025-12-21T11:28:15.012266",
+  "package_url": "https://pypi.org/project/unixv4-tape-validator/"
+}

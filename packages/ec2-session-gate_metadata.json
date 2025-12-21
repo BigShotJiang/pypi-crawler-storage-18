@@ -1,11 +1,11 @@
 {
   "name": "ec2-session-gate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Cross-platform AWS SSM tunnel/connection manager for EC2 instances",
   "author": "Walid Boussafa",
   "license": "MIT",
   "home_page": "https://github.com/boussaffawalid/ec2-session-gate",
-  "download_filename": "ec2_session_gate-1.0.1.tar.gz",
-  "download_time": "2025-12-20T19:10:51.241903",
+  "download_filename": "ec2_session_gate-1.0.2.tar.gz",
+  "download_time": "2025-12-21T11:28:17.575953",
   "package_url": "https://pypi.org/project/ec2-session-gate/"
 }

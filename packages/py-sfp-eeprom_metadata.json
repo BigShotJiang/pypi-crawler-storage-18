@@ -1,0 +1,11 @@
+{
+  "name": "py-sfp-eeprom",
+  "version": "0.1.3",
+  "summary": "Python library for creating and manipulating SFP EEPROM data",
+  "author": "py-sfp-eeprom contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/Better-Internet-Ltd/py-sfp-eeprom",
+  "download_filename": "py_sfp_eeprom-0.1.3.tar.gz",
+  "download_time": "2025-12-21T11:28:10.398872",
+  "package_url": "https://pypi.org/project/py-sfp-eeprom/"
+}

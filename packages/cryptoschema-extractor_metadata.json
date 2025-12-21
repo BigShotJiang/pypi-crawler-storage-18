@@ -1,0 +1,11 @@
+{
+  "name": "cryptoschema-extractor",
+  "version": "2025.12.21112205",
+  "summary": "This system takes a textual synopsis of a cryptographic scheme and extracts a structured summary that highlights its key components, such as the types of finite fields used, the encryption process, ke",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cryptoschema_extractor-2025.12.21112205.tar.gz",
+  "download_time": "2025-12-21T11:28:04.339985",
+  "package_url": "https://pypi.org/project/cryptoschema-extractor/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "adsc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "AdsC Telegram multi-account broadcast bot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adsc-1.0.4.tar.gz",
-  "download_time": "2025-12-21T11:11:54.907991",
+  "download_filename": "adsc-1.0.5.tar.gz",
+  "download_time": "2025-12-21T11:28:15.522126",
   "package_url": "https://pypi.org/project/adsc/"
 }

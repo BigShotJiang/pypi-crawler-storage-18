@@ -1,16 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T11:12:43.313743
-- **Total Packages**: 96
-- **Total Size**: 24.55 MB
+- **Download Time**: 2025-12-21T11:28:47.479343
+- **Total Packages**: 93
+- **Total Size**: 20.06 MB
 
 ## Packages List
-- wagtail-cjkcms
+- torchft-nightly
+- castorscribe
+- fbgemm-npu
+- neuro-deblur
+- spotify-cmd
+- dalla-data-processing
 - drf-discord-handler
+- cloudinsight-extractor
+- cmake
+- cryptoschema-extractor
+- tenzir-changelog
+- qagentic-pytest
+- quannengbao
+- arp-standard-server
+- arp-standard-client
+- AMR
+- arp-standard-model
+- chutes
+- sharex-cli
+- polyfactory
+- py-sfp-eeprom
+- spharapy
+- pybmd
+- tf-keras-nightly
+- nextdns-blocker
+- pastdays
+- klaude-code
+- brainseg-ai
+- memorer
+- unixv4-tape-validator
+- adsc
+- ivbox
+- hallyd
+- aerri-ai
+- ec2-session-gate
+- mplp-sdk
+- wagtail-cjkcms
 - matrice-compute
 - supportinsightcheck
-- adsc
 - shareddata
 - ascend-cann-toolkit
 - pypdf
@@ -23,8 +57,6 @@
 - fence-file-encryption-engine
 - social-links
 - nocaplang
-- memoirer
-- mplp-sdk
 - hexstrike-ai
 - pytessel
 - ObjLog
@@ -32,7 +64,6 @@
 - pandas-plots
 - pillow-jxl-plugin
 - LscNumbers
-- brainseg-ai
 - phoenix-bot-api
 - LscCalculator
 - matrice-common
@@ -68,37 +99,3 @@
 - nvidia-nat-zep-cloud
 - cronspell
 - trainy-policy-nightly
-- nvidia-nat-agno
-- nvidia-nat-strands
-- nvidia-nat-ingestion
-- nvidia-nat-mysql
-- nvidia-nat-vanna
-- nvidia-nat-mcp
-- nvidia-nat-ragaai
-- skillport
-- nvidia-nat-profiling
-- mlarena
-- nvidia-nat-adk
-- nvidia-nat-nemo-customizer
-- dvt-core
-- nvidia-nat-s3
-- nvidia-nat-weave
-- aiqtoolkit-crewai
-- petsseries
-- letta-nightly
-- dubious
-- aiqtoolkit-weave
-- aiqtoolkit-test
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-agno
-- codegate-cli
-- aiqtoolkit-langchain
-- aiqtoolkit-zep-cloud
-- pybose
-- flake8-params
-- aiqtoolkit-llama-index
-- aiqtoolkit-mem0ai
-- minfx
-- aiqtoolkit
-- pyhpke
-- moderatefocus

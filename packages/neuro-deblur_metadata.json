@@ -1,0 +1,11 @@
+{
+  "name": "neuro-deblur",
+  "version": "0.1.1",
+  "summary": "Professional image and video deblurring using NAFNet",
+  "author": "Parshva Shah",
+  "license": "MIT",
+  "home_page": "https://github.com/Parshva2605/neuro-deblur",
+  "download_filename": "neuro_deblur-0.1.1.tar.gz",
+  "download_time": "2025-12-21T11:28:01.194896",
+  "package_url": "https://pypi.org/project/neuro-deblur/"
+}
