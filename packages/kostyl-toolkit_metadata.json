@@ -1,11 +1,11 @@
 {
   "name": "kostyl-toolkit",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "summary": "Kickass Orchestration System for Training, Yielding & Logging ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kostyl_toolkit-0.1.27.tar.gz",
-  "download_time": "2025-12-21T13:50:57.388798",
+  "download_filename": "kostyl_toolkit-0.1.28.tar.gz",
+  "download_time": "2025-12-21T14:14:07.141532",
   "package_url": "https://pypi.org/project/kostyl-toolkit/"
 }

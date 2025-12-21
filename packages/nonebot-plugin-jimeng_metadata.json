@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-jimeng",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "一个基于 NoneBot2 的 AI 绘画插件，通过调用**即梦（Jimeng）**的 OpenAPI 实现文生图和图生图功能。",
   "author": "FlanChanXwO",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_jimeng-0.1.3.tar.gz",
-  "download_time": "2025-12-21T13:50:38.531202",
+  "download_filename": "nonebot_plugin_jimeng-0.1.4.tar.gz",
+  "download_time": "2025-12-21T14:13:48.705949",
   "package_url": "https://pypi.org/project/nonebot-plugin-jimeng/"
 }

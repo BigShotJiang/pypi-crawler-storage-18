@@ -1,11 +1,11 @@
 {
   "name": "PrintStruct",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "PrintStruct: print project structure and optionally zip it",
   "author": "Shahzaib Ahmad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "printstruct-1.2.2.tar.gz",
-  "download_time": "2025-12-21T13:50:51.212860",
+  "download_filename": "printstruct-1.2.3.tar.gz",
+  "download_time": "2025-12-21T14:13:34.991303",
   "package_url": "https://pypi.org/project/PrintStruct/"
 }

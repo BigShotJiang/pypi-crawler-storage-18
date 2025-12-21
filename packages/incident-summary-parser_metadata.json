@@ -1,0 +1,11 @@
+{
+  "name": "incident-summary-parser",
+  "version": "2025.12.21135341",
+  "summary": "A new package would use llmatch-messages to process text snippets about infrastructure or technical incidents and return a structured summary. It would take a user's text input, pass it to an LLM with",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "incident_summary_parser-2025.12.21135341.tar.gz",
+  "download_time": "2025-12-21T14:13:36.200892",
+  "package_url": "https://pypi.org/project/incident-summary-parser/"
+}

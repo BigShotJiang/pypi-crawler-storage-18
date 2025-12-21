@@ -1,11 +1,11 @@
 {
   "name": "nshogi-dev",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "nshogi Python library",
   "author": "nyashiki",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nshogi_dev-0.2.1.tar.gz",
-  "download_time": "2025-12-21T13:50:46.417609",
+  "download_filename": "nshogi_dev-0.2.2.tar.gz",
+  "download_time": "2025-12-21T14:13:56.928124",
   "package_url": "https://pypi.org/project/nshogi-dev/"
 }

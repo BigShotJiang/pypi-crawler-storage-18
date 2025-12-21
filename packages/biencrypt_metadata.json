@@ -1,0 +1,11 @@
+{
+  "name": "biencrypt",
+  "version": "1.0.0",
+  "summary": "Multi-algorithm encryption library supporting Adjacent Swap, XOR+Base64, and AES-256-GCM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biencrypt-1.0.0.tar.gz",
+  "download_time": "2025-12-21T14:13:33.772325",
+  "package_url": "https://pypi.org/project/biencrypt/"
+}

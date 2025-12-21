@@ -1,11 +1,11 @@
 {
   "name": "aerri-ai",
-  "version": "0.1.2",
-  "summary": "Advanced AI coding assistant for CLI",
-  "author": "Adu",
-  "license": null,
+  "version": "0.1.4",
+  "summary": "The most advanced AI coding assistant for your terminal - intelligent file operations, code execution, and AI-powered development workflow automation",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "aerri_ai-0.1.2-py3-none-any.whl",
-  "download_time": "2025-12-21T13:50:36.357649",
+  "download_filename": "aerri_ai-0.1.4.tar.gz",
+  "download_time": "2025-12-21T14:13:46.406005",
   "package_url": "https://pypi.org/project/aerri-ai/"
 }

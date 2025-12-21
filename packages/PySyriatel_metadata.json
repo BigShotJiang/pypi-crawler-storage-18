@@ -1,11 +1,11 @@
 {
   "name": "PySyriatel",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A professional Python library for interacting with the Syriatel Cash API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysyriatel-1.1.0.tar.gz",
-  "download_time": "2025-12-21T13:38:15.679426",
+  "download_filename": "pysyriatel-1.2.0.tar.gz",
+  "download_time": "2025-12-21T14:14:07.746338",
   "package_url": "https://pypi.org/project/PySyriatel/"
 }

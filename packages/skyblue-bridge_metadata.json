@@ -1,0 +1,11 @@
+{
+  "name": "skyblue-bridge",
+  "version": "0.2.1",
+  "summary": "Python client for the SkyBlue Bridge microservice to communicate with MetaTrader 4/5 trading terminals.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "skyblue_bridge-0.2.1.tar.gz",
+  "download_time": "2025-12-21T14:13:37.419613",
+  "package_url": "https://pypi.org/project/skyblue-bridge/"
+}
