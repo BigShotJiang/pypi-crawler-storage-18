@@ -1,0 +1,11 @@
+{
+  "name": "django-throttle-requests",
+  "version": "0.8.0",
+  "summary": "A Django framework for application-layer rate limiting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_throttle_requests-0.8.0.tar.gz",
+  "download_time": "2025-12-21T18:20:10.929314",
+  "package_url": "https://pypi.org/project/django-throttle-requests/"
+}

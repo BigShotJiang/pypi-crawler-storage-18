@@ -1,0 +1,11 @@
+{
+  "name": "newspresso",
+  "version": "2025.12.21175020",
+  "summary": "A new package that processes text-based news or announcement summaries, such as changes in chart inclusion rules for platforms like YouTube on the U.S. Billboard Charts. It uses structured LLM interac",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newspresso-2025.12.21175020.tar.gz",
+  "download_time": "2025-12-21T18:20:09.630705",
+  "package_url": "https://pypi.org/project/newspresso/"
+}

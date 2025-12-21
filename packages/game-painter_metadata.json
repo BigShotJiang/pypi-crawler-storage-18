@@ -1,11 +1,11 @@
 {
   "name": "game-painter",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "🎨 基础绘图工具 - 17个核心MCP绘图工具（含AI生图）",
   "author": "GamePainter Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "game_painter-2.2.2.tar.gz",
-  "download_time": "2025-12-21T17:48:39.618654",
+  "download_filename": "game_painter-2.2.3.tar.gz",
+  "download_time": "2025-12-21T18:20:20.712715",
   "package_url": "https://pypi.org/project/game-painter/"
 }
