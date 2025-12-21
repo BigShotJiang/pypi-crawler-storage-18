@@ -1,0 +1,11 @@
+{
+  "name": "ytsubs",
+  "version": "0.1.1",
+  "summary": "Personal YouTube subscriptions scraper that ranks videos and generates a static feed.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ytsubs-0.1.1.tar.gz",
+  "download_time": "2025-12-21T01:14:15.202648",
+  "package_url": "https://pypi.org/project/ytsubs/"
+}

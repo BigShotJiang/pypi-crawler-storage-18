@@ -1,0 +1,11 @@
+{
+  "name": "repeatable",
+  "version": "0.0.1",
+  "summary": "Python package to create generator-like objects that can be iterated over more than once.",
+  "author": "Alastair Stanley",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "repeatable-0.0.1.tar.gz",
+  "download_time": "2025-12-21T01:14:07.952402",
+  "package_url": "https://pypi.org/project/repeatable/"
+}

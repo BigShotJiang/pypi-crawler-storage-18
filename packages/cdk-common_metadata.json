@@ -1,0 +1,11 @@
+{
+  "name": "cdk-common",
+  "version": "2.0.1355",
+  "summary": "Common AWS CDK librarys.",
+  "author": "Neil Kuan<guan840912@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/neilkuan/cdk-common.git",
+  "download_filename": "cdk_common-2.0.1355.tar.gz",
+  "download_time": "2025-12-21T01:14:05.198935",
+  "package_url": "https://pypi.org/project/cdk-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docker-tui",
+  "version": "0.1.4",
+  "summary": "A console user interface for docker",
+  "author": "Assaf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docker_tui-0.1.4.tar.gz",
+  "download_time": "2025-12-21T01:13:54.843476",
+  "package_url": "https://pypi.org/project/docker-tui/"
+}

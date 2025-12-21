@@ -1,0 +1,11 @@
+{
+  "name": "yahoomail",
+  "version": "1.1.1.1",
+  "summary": "A high-performance, async Yahoo Mail login automator.",
+  "author": "anarchy223",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/anarchy223/yahoomail",
+  "download_filename": "yahoomail-1.1.1.1.tar.gz",
+  "download_time": "2025-12-21T01:13:50.363427",
+  "package_url": "https://pypi.org/project/yahoomail/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py.kyodo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Basic library to interract with Kyodo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_kyodo-1.0.0.tar.gz",
-  "download_time": "2025-12-20T21:38:26.471132",
+  "download_filename": "py_kyodo-1.0.1.tar.gz",
+  "download_time": "2025-12-21T01:14:06.322705",
   "package_url": "https://pypi.org/project/py.kyodo/"
 }
