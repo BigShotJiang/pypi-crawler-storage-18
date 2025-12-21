@@ -1,11 +1,11 @@
 {
   "name": "emsutil",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Common utilities for Emerge projects EMerge, Optycal and Heavi",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emsutil-0.1.0.tar.gz",
-  "download_time": "2025-12-21T19:26:09.609216",
+  "download_filename": "emsutil-0.1.1.tar.gz",
+  "download_time": "2025-12-21T19:36:19.924465",
   "package_url": "https://pypi.org/project/emsutil/"
 }

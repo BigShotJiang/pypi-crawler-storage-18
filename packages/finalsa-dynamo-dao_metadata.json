@@ -1,0 +1,11 @@
+{
+  "name": "finalsa-dynamo-dao",
+  "version": "0.1.1",
+  "summary": "An utils package for using dynamodb",
+  "author": "Luis Jimenez",
+  "license": "MIT",
+  "home_page": "https://github.com/finalsa/finalsa-dynamo-dao",
+  "download_filename": "finalsa_dynamo_dao-0.1.1.tar.gz",
+  "download_time": "2025-12-21T19:36:16.781550",
+  "package_url": "https://pypi.org/project/finalsa-dynamo-dao/"
+}

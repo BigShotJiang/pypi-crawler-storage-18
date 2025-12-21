@@ -1,0 +1,11 @@
+{
+  "name": "archaeo-summarizer",
+  "version": "2025.12.21192749",
+  "summary": "archaeo-summarizer extracts structured summaries from archaeological and historical texts, highlighting key findings and cultural developments for efficient research.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "archaeo_summarizer-2025.12.21192749.tar.gz",
+  "download_time": "2025-12-21T19:36:17.292669",
+  "package_url": "https://pypi.org/project/archaeo-summarizer/"
+}

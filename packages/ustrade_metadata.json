@@ -1,0 +1,11 @@
+{
+  "name": "ustrade",
+  "version": "0.4.0",
+  "summary": "Python client for the U.S. Census Bureau International Trade API",
+  "author": "Fantin Sibony",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ustrade-0.4.0.tar.gz",
+  "download_time": "2025-12-21T19:36:08.936860",
+  "package_url": "https://pypi.org/project/ustrade/"
+}

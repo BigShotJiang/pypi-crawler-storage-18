@@ -1,11 +1,11 @@
 {
   "name": "auto-swagger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Automatically generate Swagger/OpenAPI documentation for Express.js APIs using NLP and LLMs",
   "author": "restartdk, paulopasso, albipuliga",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_swagger-0.1.0.tar.gz",
-  "download_time": "2025-12-21T18:48:10.771249",
+  "download_filename": "auto_swagger-0.1.1.tar.gz",
+  "download_time": "2025-12-21T19:36:14.150483",
   "package_url": "https://pypi.org/project/auto-swagger/"
 }
