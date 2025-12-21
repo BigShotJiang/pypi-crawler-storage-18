@@ -1,0 +1,11 @@
+{
+  "name": "tech-sentiment-analyzer",
+  "version": "2025.12.21152823",
+  "summary": "A new package that analyzes text input to determine sentiment intensity and polarity toward specific tech CEOs or companies, returning structured scores and rankings. It uses pattern matching to ensur",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tech_sentiment_analyzer-2025.12.21152823.tar.gz",
+  "download_time": "2025-12-21T16:45:15.140214",
+  "package_url": "https://pypi.org/project/tech-sentiment-analyzer/"
+}
