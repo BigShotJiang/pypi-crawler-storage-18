@@ -1,11 +1,11 @@
 {
   "name": "claude-mira3",
-  "version": "0.4.0",
+  "version": "0.4.5",
   "summary": "Persistent memory for Claude Code - semantic search, cross-session context, learned preferences",
   "author": "Max",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_mira3-0.4.0.tar.gz",
-  "download_time": "2025-12-21T15:13:54.173364",
+  "download_filename": "claude_mira3-0.4.5.tar.gz",
+  "download_time": "2025-12-21T16:16:56.095244",
   "package_url": "https://pypi.org/project/claude-mira3/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "taleb-analysis",
+  "version": "2025.12.21155436",
+  "summary": "A new package would provide a text input describing a system, event, or scenario, and return a structured analysis based on Nassim Taleb's concepts of Black Swan events and antifragility. It would ide",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taleb_analysis-2025.12.21155436.tar.gz",
+  "download_time": "2025-12-21T16:17:12.583139",
+  "package_url": "https://pypi.org/project/taleb-analysis/"
+}

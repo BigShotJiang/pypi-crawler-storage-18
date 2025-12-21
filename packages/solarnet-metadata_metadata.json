@@ -1,0 +1,11 @@
+{
+  "name": "solarnet-metadata",
+  "version": "3.2.3",
+  "summary": "A Python package to support metadata attribute management for generating SOLARNET compliant FITS files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solarnet_metadata-3.2.3.tar.gz",
+  "download_time": "2025-12-21T16:17:02.267209",
+  "package_url": "https://pypi.org/project/solarnet-metadata/"
+}

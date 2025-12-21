@@ -1,0 +1,11 @@
+{
+  "name": "lifelogger-ai",
+  "version": "2025.12.21160026",
+  "summary": "A new package that helps users capture and organize their life moments in a structured way. Users can input their experiences, thoughts, or significant events, and the package will process this text t",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lifelogger_ai-2025.12.21160026.tar.gz",
+  "download_time": "2025-12-21T16:17:06.883457",
+  "package_url": "https://pypi.org/project/lifelogger-ai/"
+}

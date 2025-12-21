@@ -1,0 +1,11 @@
+{
+  "name": "gmail-archiver-cli",
+  "version": "1.5.0",
+  "summary": "A CLI tool to archive old Gmail messages to local mbox files with validation and safe deletion",
+  "author": "GMailArchiver Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gmail_archiver_cli-1.5.0.tar.gz",
+  "download_time": "2025-12-21T16:17:16.716386",
+  "package_url": "https://pypi.org/project/gmail-archiver-cli/"
+}

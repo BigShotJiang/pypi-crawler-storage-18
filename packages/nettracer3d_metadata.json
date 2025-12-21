@@ -1,11 +1,11 @@
 {
   "name": "nettracer3d",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "Scripts for intializing and analyzing networks from segmentations of three dimensional images.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nettracer3d-1.2.7.tar.gz",
-  "download_time": "2025-12-20T18:45:56.009690",
+  "download_filename": "nettracer3d-1.2.8.tar.gz",
+  "download_time": "2025-12-21T16:17:17.230591",
   "package_url": "https://pypi.org/project/nettracer3d/"
 }

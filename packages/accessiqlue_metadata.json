@@ -1,0 +1,11 @@
+{
+  "name": "accessiqlue",
+  "version": "2025.12.21154255",
+  "summary": "A new package designed to take user input about accessibility challenges and generate structured summaries or actionable recommendations. It leverages advanced pattern matching with language model int",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "accessiqlue-2025.12.21154255.tar.gz",
+  "download_time": "2025-12-21T16:17:25.355882",
+  "package_url": "https://pypi.org/project/accessiqlue/"
+}

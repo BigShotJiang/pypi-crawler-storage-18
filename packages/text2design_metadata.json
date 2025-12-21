@@ -1,0 +1,11 @@
+{
+  "name": "text2design",
+  "version": "2025.12.21154002",
+  "summary": "A new package that enables users to input textual descriptions of visual design, layout, or interface concepts and returns structured representations or annotations derived from the description. It le",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text2design-2025.12.21154002.tar.gz",
+  "download_time": "2025-12-21T16:17:27.906997",
+  "package_url": "https://pypi.org/project/text2design/"
+}

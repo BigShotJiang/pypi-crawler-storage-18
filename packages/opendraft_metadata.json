@@ -1,11 +1,11 @@
 {
   "name": "opendraft",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Generate master-level research papers with real citations in minutes",
   "author": "Federico De Ponte",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opendraft-1.5.0.tar.gz",
-  "download_time": "2025-12-21T15:14:02.023193",
+  "download_filename": "opendraft-1.6.0.tar.gz",
+  "download_time": "2025-12-21T16:16:54.560897",
   "package_url": "https://pypi.org/project/opendraft/"
 }

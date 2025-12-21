@@ -1,0 +1,11 @@
+{
+  "name": "figrecipe",
+  "version": "0.4.0",
+  "summary": "Record and reproduce matplotlib figures with YAML recipes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "figrecipe-0.4.0.tar.gz",
+  "download_time": "2025-12-21T16:17:23.286078",
+  "package_url": "https://pypi.org/project/figrecipe/"
+}

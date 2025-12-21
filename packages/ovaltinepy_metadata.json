@@ -1,11 +1,11 @@
 {
   "name": "ovaltinepy",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "A versatile command-line tool for encoding, decoding, hashing, and string manipulation.",
-  "author": "ghoste12125",
+  "author": "ghostescript",
   "license": null,
-  "home_page": "https://github.com/ghoste12125/ovaltinepy",
-  "download_filename": "ovaltinepy-0.1.4.tar.gz",
-  "download_time": "2025-12-21T03:06:23.509173",
+  "home_page": "https://github.com/ghostescript/ovaltinepy",
+  "download_filename": "ovaltinepy-0.1.7.tar.gz",
+  "download_time": "2025-12-21T16:16:45.014539",
   "package_url": "https://pypi.org/project/ovaltinepy/"
 }

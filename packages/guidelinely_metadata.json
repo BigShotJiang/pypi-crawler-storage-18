@@ -1,0 +1,11 @@
+{
+  "name": "guidelinely",
+  "version": "1.0.34",
+  "summary": "Python client for the Guidelinely Environmental Guidelines API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guidelinely-1.0.34.tar.gz",
+  "download_time": "2025-12-21T16:17:10.989793",
+  "package_url": "https://pypi.org/project/guidelinely/"
+}

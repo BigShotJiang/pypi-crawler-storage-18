@@ -1,0 +1,11 @@
+{
+  "name": "rokh",
+  "version": "0.3",
+  "summary": "Rokh: Iranian Calendar Events Collection",
+  "author": "Rokh Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/rokh",
+  "download_filename": "rokh-0.3.tar.gz",
+  "download_time": "2025-12-21T16:17:24.846025",
+  "package_url": "https://pypi.org/project/rokh/"
+}

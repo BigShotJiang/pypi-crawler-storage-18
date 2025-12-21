@@ -1,0 +1,11 @@
+{
+  "name": "textnoise-analyzer",
+  "version": "2025.12.21160634",
+  "summary": "A new package that helps users determine the noise level of their environment by analyzing text descriptions. Users input a brief text describing their surroundings, and the package processes this inp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textnoise_analyzer-2025.12.21160634.tar.gz",
+  "download_time": "2025-12-21T16:16:59.682308",
+  "package_url": "https://pypi.org/project/textnoise-analyzer/"
+}

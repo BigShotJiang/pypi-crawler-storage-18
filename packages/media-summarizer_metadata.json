@@ -1,0 +1,11 @@
+{
+  "name": "media-summarizer",
+  "version": "2025.12.21160330",
+  "summary": "A new package designed to interpret and summarize user-provided textual descriptions of multimedia content, such as videos or audio transcripts, to generate structured overviews or insights. It allows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "media_summarizer-2025.12.21160330.tar.gz",
+  "download_time": "2025-12-21T16:17:03.289744",
+  "package_url": "https://pypi.org/project/media-summarizer/"
+}

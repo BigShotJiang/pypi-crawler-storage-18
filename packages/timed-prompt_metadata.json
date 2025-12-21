@@ -1,11 +1,11 @@
 {
   "name": "timed-prompt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Cross-platform input/getpass prompt with real timeout (Windows/Linux/macOS)",
   "author": "Muthukumar Subramanian",
   "license": null,
   "home_page": null,
-  "download_filename": "timed_prompt-0.0.2.tar.gz",
-  "download_time": "2025-12-21T15:14:08.248325",
+  "download_filename": "timed_prompt-0.0.3.tar.gz",
+  "download_time": "2025-12-21T16:16:55.071933",
   "package_url": "https://pypi.org/project/timed-prompt/"
 }
