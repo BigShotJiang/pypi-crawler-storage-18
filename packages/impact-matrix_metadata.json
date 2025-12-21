@@ -1,0 +1,11 @@
+{
+  "name": "impact-matrix",
+  "version": "0.0.1",
+  "summary": "This is a Python reimplementation of the Java Jama package utilized in the original Imapct Java application - https://sourceforge.net/projects/impact/  The original Java code was implemented by The MathWorks, Inc. and the National Institute of Standards and Technology.  This code implents version 5 from August 1998",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "impact_matrix-0.0.1.tar.gz",
+  "download_time": "2025-12-21T07:14:26.816446",
+  "package_url": "https://pypi.org/project/impact-matrix/"
+}

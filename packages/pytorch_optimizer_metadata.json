@@ -1,0 +1,11 @@
+{
+  "name": "pytorch_optimizer",
+  "version": "3.9.0",
+  "summary": "optimizer & lr scheduler & objective function collections in PyTorch",
+  "author": "kozistr",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/kozistr/pytorch_optimizer",
+  "download_filename": "pytorch_optimizer-3.9.0.tar.gz",
+  "download_time": "2025-12-21T07:14:23.297654",
+  "package_url": "https://pypi.org/project/pytorch_optimizer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "win-folder-manager",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A lightweight, Flask-powered web file manager for Windows. Manage, browse, and transfer files via a clean browser UI.",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "win_folder_manager-0.2.1.tar.gz",
-  "download_time": "2025-12-21T06:21:32.508707",
+  "download_filename": "win_folder_manager-0.2.2.tar.gz",
+  "download_time": "2025-12-21T07:14:36.878727",
   "package_url": "https://pypi.org/project/win-folder-manager/"
 }

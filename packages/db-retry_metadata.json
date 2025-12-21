@@ -1,0 +1,11 @@
+{
+  "name": "db-retry",
+  "version": "0.3.0",
+  "summary": "PostgreSQL and SQLAlchemy Tools",
+  "author": "community-of-python",
+  "license": null,
+  "home_page": null,
+  "download_filename": "db_retry-0.3.0.tar.gz",
+  "download_time": "2025-12-21T07:14:33.883123",
+  "package_url": "https://pypi.org/project/db-retry/"
+}
