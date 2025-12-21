@@ -1,11 +1,11 @@
 {
   "name": "acton-agent",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "LLM Agent Framework with tool execution capabilities",
   "author": "Akshay T",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "acton_agent-0.0.10.tar.gz",
-  "download_time": "2025-12-21T17:31:40.628277",
+  "download_filename": "acton_agent-0.0.12.tar.gz",
+  "download_time": "2025-12-21T20:50:53.206455",
   "package_url": "https://pypi.org/project/acton-agent/"
 }

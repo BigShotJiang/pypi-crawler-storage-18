@@ -1,11 +1,11 @@
 {
   "name": "pkrbot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Fast poker hand evaluation library with eval7-compatible API",
   "author": "Bobby Costin",
   "license": "MIT",
   "home_page": "https://github.com/bossbobster/pkrbot",
-  "download_filename": "pkrbot-1.0.1.tar.gz",
-  "download_time": "2025-12-20T21:12:09.013382",
+  "download_filename": "pkrbot-1.0.2.tar.gz",
+  "download_time": "2025-12-21T20:50:51.031138",
   "package_url": "https://pypi.org/project/pkrbot/"
 }

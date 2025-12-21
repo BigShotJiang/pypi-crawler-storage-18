@@ -1,0 +1,11 @@
+{
+  "name": "pygedai",
+  "version": "1.0.2",
+  "summary": "PyGEDAI: Generalized Eigenvalue De-Artifacting Instrument in Python",
+  "author": "Joel Kessler",
+  "license": "PolyForm Noncommercial License 1.0.0",
+  "home_page": "https://github.com/JoelKessler/PyGEDAI",
+  "download_filename": "pygedai-1.0.2.tar.gz",
+  "download_time": "2025-12-21T20:50:45.618551",
+  "package_url": "https://pypi.org/project/pygedai/"
+}

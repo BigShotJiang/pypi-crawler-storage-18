@@ -1,0 +1,11 @@
+{
+  "name": "viva-datacreator",
+  "version": "0.0.6",
+  "summary": "An open-source tool for creating image segmentation datasets from videos using SAM 2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viva_datacreator-0.0.6.tar.gz",
+  "download_time": "2025-12-21T20:50:52.658255",
+  "package_url": "https://pypi.org/project/viva-datacreator/"
+}

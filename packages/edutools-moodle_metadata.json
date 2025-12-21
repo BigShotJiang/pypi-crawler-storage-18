@@ -1,0 +1,11 @@
+{
+  "name": "edutools-moodle",
+  "version": "0.1.0",
+  "summary": "Python package for Moodle API interactions in educational contexts",
+  "author": "Nadiri Abdeljalil",
+  "license": null,
+  "home_page": "https://github.com/najasoft/edutools-moodle",
+  "download_filename": "edutools_moodle-0.1.0.tar.gz",
+  "download_time": "2025-12-21T20:50:53.736330",
+  "package_url": "https://pypi.org/project/edutools-moodle/"
+}

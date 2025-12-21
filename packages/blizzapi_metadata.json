@@ -1,0 +1,11 @@
+{
+  "name": "blizzapi",
+  "version": "1.0.4",
+  "summary": "Python package to connect to the blizzard API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blizzapi-1.0.4.tar.gz",
+  "download_time": "2025-12-21T20:50:36.470359",
+  "package_url": "https://pypi.org/project/blizzapi/"
+}

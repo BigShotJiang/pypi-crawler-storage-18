@@ -1,0 +1,11 @@
+{
+  "name": "pianosdk",
+  "version": "16.663.2",
+  "summary": "Piano API SDK",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "pianosdk-16.663.2.tar.gz",
+  "download_time": "2025-12-21T20:50:56.902661",
+  "package_url": "https://pypi.org/project/pianosdk/"
+}
