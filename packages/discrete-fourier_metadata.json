@@ -1,11 +1,11 @@
 {
   "name": "discrete-fourier",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Calculate discrete Fourier coefficients, detect periods, and validate periodic patterns",
   "author": "Ricardo Marcelo Alvarez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "discrete_fourier-0.3.0.tar.gz",
-  "download_time": "2025-12-21T06:21:41.919906",
+  "download_filename": "discrete_fourier-0.3.1.tar.gz",
+  "download_time": "2025-12-21T06:51:06.646512",
   "package_url": "https://pypi.org/project/discrete-fourier/"
 }

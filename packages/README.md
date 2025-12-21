@@ -1,70 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T06:22:14.706237
-- **Total Packages**: 78
-- **Total Size**: 7.57 MB
+- **Download Time**: 2025-12-21T06:51:31.215495
+- **Total Packages**: 77
+- **Total Size**: 1.68 MB
 
 ## Packages List
-- win-folder-manager
-- dialogus
-- pulumi-opsgenie
-- graphlit-client
-- meshly
-- webscout
-- kodeagent
-- zensols-calamr
-- kengerkit
-- aiinbx
-- pyside-cli
-- fastlowess
-- ollama-local-serve
-- lunalib
-- ptydriver
-- cartha-cli
-- mi-maica
-- discrete-fourier
-- pyg-nightly
-- LscNumbers
-- pulse-python-sdk
-- Jarvis-STT-byArsh
-- academic-emotion
-- git-notes-memory
-- plotspec
-- mcp-common
-- fastapi-microservices-library
-- beads-mcp
-- rwkv-emb
-- SmolBit
-- git-adr
-- nlm-torch-new
-- safecmd
-- pulumi-ise
-- sp-svg-diagram
-- kiro-openai-gateway
-- pulumi-harness
-- ErisPulse
-- pdfstract
-- dplex
-- pulumi-http
-- pulumi-fastly
-- pulumi-docker
-- pulumi-ec
-- paperlib-mcp
-- pulumi-github
-- flask-paseto-extended
-- adaptivegears
-- pulumi-f5bigip
-- odoo-addon-l10n-br-purchase
-- madrkit
-- pulumi-external
-- mempool-mcp
-- mcp-feedback-enhanced-c
-- relax-gen
-- serix
-- dash-pydantic-form
-- dash-pydantic-utils
-- state-machine-amz-py
 - usso
 - nsip-skills
 - nsip-mcp-server
@@ -75,6 +16,7 @@
 - mocksmith
 - holoviz-mcp
 - ant-ray-cpp-nightly
+- plotspec
 - fastapi-fullstack
 - newrelic-sb-sdk
 - jbom
@@ -82,5 +24,62 @@
 - compose-farm
 - pybrsa
 - tme-api
+- pyside-cli
+- pulse-python-sdk
 - aifoundary
 - source-atlas
+- msgmodel
+- hai-sh
+- miiflow-llm
+- srcly
+- AstrBot
+- comfyui-nuvu
+- firthmodels
+- robotpy-pykit
+- discrete-fourier
+- web-scraper-toolkit
+- trending
+- device-fingerprinting-pro
+- adaptivegears
+- eqword2llm
+- vectorvein
+- odoo-addon-l10n-br-sale
+- git-notes-memory
+- iamdata
+- dataflow-core
+- dl-d2l
+- dartpy
+- scorecard-ai
+- threefive
+- SRTfu
+- auto-schema
+- db-connect-mcp
+- tenuo
+- preview-server
+- gridvoting-jax
+- metalq
+- mp-tunnel
+- apibean-notebook
+- epochcore-quantum-decision
+- atomize-py
+- webscrapbook
+- bouquin
+- speterlin-stocks
+- pymssql-mcp
+- nonebot-adapter-yunhu
+- ypricemagic
+- cockroachdb-mcp
+- graphistry
+- elasticsearch-mcp
+- vboxinit
+- byzh-core
+- openfund-taker
+- openfund-maker
+- crml-lang
+- abstract-react
+- distant-frames
+- cilow
+- obra
+- textual-capture
+- crml-engine
+- JCer
