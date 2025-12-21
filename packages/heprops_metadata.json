@@ -1,0 +1,11 @@
+{
+  "name": "heprops",
+  "version": "1.3.0",
+  "summary": "Properties of the chemical element helium.",
+  "author": "Adrian Del Maestro",
+  "license": "MIT",
+  "home_page": "https://github.com/agdelma/heprops",
+  "download_filename": "heprops-1.3.0.tar.gz",
+  "download_time": "2025-12-21T19:26:23.010217",
+  "package_url": "https://pypi.org/project/heprops/"
+}

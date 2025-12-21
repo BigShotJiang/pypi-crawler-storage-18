@@ -1,0 +1,11 @@
+{
+  "name": "av-safety-parser",
+  "version": "2025.12.21191556",
+  "summary": "av-safety-parser extracts aviation incident details from unstructured text, outputting standardized data on incident type, aircraft, and risks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "av_safety_parser-2025.12.21191556.tar.gz",
+  "download_time": "2025-12-21T19:26:11.170115",
+  "package_url": "https://pypi.org/project/av-safety-parser/"
+}

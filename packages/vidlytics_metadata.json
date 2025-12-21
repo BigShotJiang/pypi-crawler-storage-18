@@ -1,0 +1,11 @@
+{
+  "name": "vidlytics",
+  "version": "2025.12.21192354",
+  "summary": "vidlytics extracts text from multimedia, generates domain-specific summaries & insights from prompts, enabling quick understanding without direct video processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vidlytics-2025.12.21192354.tar.gz",
+  "download_time": "2025-12-21T19:26:03.970310",
+  "package_url": "https://pypi.org/project/vidlytics/"
+}

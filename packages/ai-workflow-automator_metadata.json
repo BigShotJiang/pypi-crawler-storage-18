@@ -1,0 +1,11 @@
+{
+  "name": "ai-workflow-automator",
+  "version": "2025.12.21192054",
+  "summary": "ai-workflow-automator turns plain text into validated AI pipeline configs for seamless serverless data workflows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_workflow_automator-2025.12.21192054.tar.gz",
+  "download_time": "2025-12-21T19:26:05.509931",
+  "package_url": "https://pypi.org/project/ai-workflow-automator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eb-adapters",
+  "version": "0.1.0",
+  "summary": "Adapter layer for third-party forecasting libraries in Electric Barometer",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "eb_adapters-0.1.0.tar.gz",
+  "download_time": "2025-12-21T19:26:07.046868",
+  "package_url": "https://pypi.org/project/eb-adapters/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lawhead-extractor",
+  "version": "2025.12.21190602",
+  "summary": "lawhead-extractor parses legal headlines, extracting parties, claim type and outcome using an LLM with pattern matching for accuracy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lawhead_extractor-2025.12.21190602.tar.gz",
+  "download_time": "2025-12-21T19:26:20.968333",
+  "package_url": "https://pypi.org/project/lawhead-extractor/"
+}
