@@ -1,15 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T21:13:35.414127
-- **Total Packages**: 91
-- **Total Size**: 25.21 MB
+- **Download Time**: 2025-12-21T21:30:52.299428
+- **Total Packages**: 83
+- **Total Size**: 23.64 MB
 
 ## Packages List
+- mcp-docker
+- tgb-seq
+- cisco-nso-mcp-server
+- smartsheet-dataframe
+- sweet_tea
+- telegram-rag-bot
+- true-lies-validator
+- geoai-py
+- ml-inspector
+- mcp-stata
+- tapoapi
+- gyvatukas
+- tarxemo-django-graphene-utils
+- grizabella
+- IncludeCPP
+- mauve-gpu
+- posthoganalytics
+- posthog
+- workbench
+- dvt-core
+- HTMLCompare
+- scurrypy
+- tencentcloud-sdk-python-intl-en
+- ukraine
+- language-pipes
+- tencentcloud-sdk-python-vod
+- tencentcloud-sdk-python-tsf
+- tencentcloud-sdk-python-tke
+- devnix
+- tencentcloud-sdk-python-tdai
+- tencentcloud-sdk-python-tcr
+- tencentcloud-sdk-python-partners
+- retrymax
+- funccomp
+- tencentcloud-sdk-python-live
+- tencentcloud-sdk-python-gs
 - tencentcloud-sdk-python-essbasic
 - tencentcloud-sdk-python-emr
 - modelswrkpi
-- funccomp
 - tencentcloud-sdk-python-dnspod
 - tencentcloud-sdk-python-cynosdb
 - chalkpy
@@ -21,11 +56,9 @@
 - AxeProfiler
 - tencentcloud-sdk-python-autoscaling
 - tencentcloud-sdk-python-aiart
-- IncludeCPP
 - eea.volto.policy
 - tencentcloud-sdk-python-ags
 - animesubinfo-cli
-- mauve-gpu
 - pyautoencoder
 - msgmodel
 - segment-geospatial
@@ -34,12 +67,9 @@
 - mtanvil
 - clipr-yt
 - dspeed
-- scurrypy
 - python-sn2
 - haxmas-day-9-dragonsenseiguy
-- gyvatukas
 - rossetta-fastapi
-- language-pipes
 - neatrl
 - diet-pandas
 - jeremydimond.pygamesim
@@ -50,7 +80,6 @@
 - libreyolo
 - hytale-api
 - blues-lib
-- sweet_tea
 - pwndoc-mcp-server
 - metaflowx
 - babelvec
@@ -60,40 +89,3 @@
 - dkinst
 - chronos-forecaster
 - image-interlacement
-- Apside
-- tokentally
-- blizzapi
-- django-discordo
-- tccli-intl-en
-- imesde
-- cruiseplan
-- hello-one
-- astlab
-- neonlink-client
-- sapiopycommons
-- pys3local
-- fmae
-- plan-view
-- py-clob-client
-- steer-sdk
-- pygedai
-- scurry-kit
-- claude-code-wrapped
-- kreuzberg
-- hello-bugdotexe-last-one
-- vacation-extender
-- neoncontract-gen
-- jupyterlab-solarized-light-theme
-- specular-differentiation
-- django-core-micha
-- pkrbot
-- simboba
-- UniShell
-- viva-datacreator
-- acton-agent
-- edutools-moodle
-- qmatrix
-- crypto-data-downloader
-- rag-module
-- hello-bugdotexe-last
-- pianosdk

@@ -1,11 +1,11 @@
 {
   "name": "gyvatukas",
-  "version": "24",
+  "version": "25",
   "summary": "See README.md",
   "author": "Paulius",
   "license": null,
   "home_page": "https://github.com/pauliusbaulius/gyvatukas",
-  "download_filename": "gyvatukas-24.tar.gz",
-  "download_time": "2025-12-21T21:13:03.738347",
+  "download_filename": "gyvatukas-25.tar.gz",
+  "download_time": "2025-12-21T21:30:09.385137",
   "package_url": "https://pypi.org/project/gyvatukas/"
 }
