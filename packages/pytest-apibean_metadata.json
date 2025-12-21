@@ -1,0 +1,11 @@
+{
+  "name": "pytest-apibean",
+  "version": "0.1.0a1",
+  "summary": "Pytest plugin providing httpx + auth fixtures for apibean-based APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_apibean-0.1.0a1.tar.gz",
+  "download_time": "2025-12-21T08:45:17.020366",
+  "package_url": "https://pypi.org/project/pytest-apibean/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "privacy-phone-summarizer",
+  "version": "2025.12.21084113",
+  "summary": "A new package that receives a short textual description of a phone company that deliberately avoids collecting personal data and returns a structured, machine‑readable summary (e.g., JSON) of the serv",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "privacy_phone_summarizer-2025.12.21084113.tar.gz",
+  "download_time": "2025-12-21T08:45:18.574090",
+  "package_url": "https://pypi.org/project/privacy-phone-summarizer/"
+}

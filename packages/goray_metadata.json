@@ -1,0 +1,11 @@
+{
+  "name": "goray",
+  "version": "1.1.0",
+  "summary": "Python driver for GoRay project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "goray-1.1.0.tar.gz",
+  "download_time": "2025-12-21T08:45:17.538786",
+  "package_url": "https://pypi.org/project/goray/"
+}

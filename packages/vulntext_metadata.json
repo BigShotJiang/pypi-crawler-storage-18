@@ -1,0 +1,11 @@
+{
+  "name": "vulntext",
+  "version": "2025.12.21084032",
+  "summary": "A new package that analyzes user-provided text to extract structured information about software security vulnerabilities. It processes natural language descriptions of code issues or security concerns",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vulntext-2025.12.21084032.tar.gz",
+  "download_time": "2025-12-21T08:45:19.633642",
+  "package_url": "https://pypi.org/project/vulntext/"
+}

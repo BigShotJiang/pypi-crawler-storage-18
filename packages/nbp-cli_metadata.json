@@ -1,0 +1,11 @@
+{
+  "name": "nbp-cli",
+  "version": "0.1.1",
+  "summary": "Nano Banana Pro - CLI for Gemini image generation",
+  "author": "Yishen Tu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbp_cli-0.1.1.tar.gz",
+  "download_time": "2025-12-21T08:45:21.193400",
+  "package_url": "https://pypi.org/project/nbp-cli/"
+}

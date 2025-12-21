@@ -1,0 +1,11 @@
+{
+  "name": "claim-vet",
+  "version": "2025.12.21083952",
+  "summary": "A new package designed to streamline the process of identifying and addressing false notices filed by companies like Flock and Cyble Inc. This tool will accept text input describing a notice or compla",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claim_vet-2025.12.21083952.tar.gz",
+  "download_time": "2025-12-21T08:45:21.711980",
+  "package_url": "https://pypi.org/project/claim-vet/"
+}

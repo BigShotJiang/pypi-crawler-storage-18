@@ -1,0 +1,11 @@
+{
+  "name": "privacy-idea-struct",
+  "version": "2025.12.21083159",
+  "summary": "A new package that enables users to provide simple text inputs about innovative, privacy-focused services—such as a phone company that doesn't collect personal data—and receive structured summaries or",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "privacy_idea_struct-2025.12.21083159.tar.gz",
+  "download_time": "2025-12-21T08:45:30.028938",
+  "package_url": "https://pypi.org/project/privacy-idea-struct/"
+}
