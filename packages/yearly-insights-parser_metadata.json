@@ -1,0 +1,11 @@
+{
+  "name": "yearly-insights-parser",
+  "version": "2025.12.21101922",
+  "summary": "A new package that analyzes user-provided text summaries of yearly breakdowns (e.g., financial reports, project post-mortems, or performance reviews) and extracts structured insights. It uses an LLM t",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yearly_insights_parser-2025.12.21101922.tar.gz",
+  "download_time": "2025-12-21T10:36:42.575270",
+  "package_url": "https://pypi.org/project/yearly-insights-parser/"
+}

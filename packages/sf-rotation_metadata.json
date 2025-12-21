@@ -1,0 +1,11 @@
+{
+  "name": "sf-rotation",
+  "version": "1.2.8",
+  "summary": "Snowflake Key Pair Rotation Tool for Hevo Data destinations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sf_rotation-1.2.8.tar.gz",
+  "download_time": "2025-12-21T10:36:42.006484",
+  "package_url": "https://pypi.org/project/sf-rotation/"
+}

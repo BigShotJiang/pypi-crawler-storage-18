@@ -1,0 +1,11 @@
+{
+  "name": "devtools-placeholder",
+  "version": "1.0.1",
+  "summary": "Placeholder image generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/placeholder-image",
+  "download_filename": "devtools_placeholder-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:04.191241",
+  "package_url": "https://pypi.org/project/devtools-placeholder/"
+}

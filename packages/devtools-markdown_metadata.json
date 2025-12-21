@@ -1,0 +1,11 @@
+{
+  "name": "devtools-markdown",
+  "version": "1.0.1",
+  "summary": "Markdown preview",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/markdown-preview",
+  "download_filename": "devtools_markdown-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:09.880257",
+  "package_url": "https://pypi.org/project/devtools-markdown/"
+}

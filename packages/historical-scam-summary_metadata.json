@@ -1,0 +1,11 @@
+{
+  "name": "historical-scam-summary",
+  "version": "2025.12.21102119",
+  "summary": "This package solves the problem of extracting structured, domain-specific insights from unstructured text inputs—like historical articles, research papers, or summaries—without requiring manual parsin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "historical_scam_summary-2025.12.21102119.tar.gz",
+  "download_time": "2025-12-21T10:36:40.702595",
+  "package_url": "https://pypi.org/project/historical-scam-summary/"
+}

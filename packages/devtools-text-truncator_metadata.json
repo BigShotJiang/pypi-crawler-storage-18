@@ -1,0 +1,11 @@
+{
+  "name": "devtools-text-truncator",
+  "version": "1.0.1",
+  "summary": "Text truncator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/text-truncator",
+  "download_filename": "devtools_text_truncator-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:36:54.530556",
+  "package_url": "https://pypi.org/project/devtools-text-truncator/"
+}

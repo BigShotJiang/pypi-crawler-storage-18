@@ -1,0 +1,11 @@
+{
+  "name": "devtools-json-schema",
+  "version": "1.0.1",
+  "summary": "JSON Schema validator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/json-schema-validator",
+  "download_filename": "devtools_json_schema-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:16.160079",
+  "package_url": "https://pypi.org/project/devtools-json-schema/"
+}

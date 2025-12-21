@@ -1,0 +1,11 @@
+{
+  "name": "devtools-mac",
+  "version": "1.0.1",
+  "summary": "MAC address generator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/mac-generator",
+  "download_filename": "devtools_mac-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:10.449105",
+  "package_url": "https://pypi.org/project/devtools-mac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "devtools-sql-formatter",
+  "version": "1.0.1",
+  "summary": "SQL formatter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/sql-formatter",
+  "download_filename": "devtools_sql_formatter-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:36:57.375518",
+  "package_url": "https://pypi.org/project/devtools-sql-formatter/"
+}

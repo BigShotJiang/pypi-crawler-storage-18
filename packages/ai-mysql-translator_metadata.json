@@ -1,0 +1,11 @@
+{
+  "name": "ai-mysql-translator",
+  "version": "2025.12.21101721",
+  "summary": "A new package enables AI systems to securely interact with MySQL databases by translating natural language queries into structured SQL commands. It processes user text input to generate safe, validate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_mysql_translator-2025.12.21101721.tar.gz",
+  "download_time": "2025-12-21T10:36:48.832111",
+  "package_url": "https://pypi.org/project/ai-mysql-translator/"
+}

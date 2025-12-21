@@ -1,0 +1,11 @@
+{
+  "name": "vexo",
+  "version": "2025.12.34",
+  "summary": "The simplest YouTube downloader (CLI + Python API)",
+  "author": "Vexo Team",
+  "license": "MIT",
+  "home_page": "https://github.com/vexo-team/vexo",
+  "download_filename": "vexo-2025.12.34.tar.gz",
+  "download_time": "2025-12-21T10:36:44.286586",
+  "package_url": "https://pypi.org/project/vexo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eventlytics-summarizer",
+  "version": "2025.12.21101526",
+  "summary": "A new package is designed to facilitate structured and reliable interactions with language models to generate concise summaries and extract key information from user-provided texts related to specific",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eventlytics_summarizer-2025.12.21101526.tar.gz",
+  "download_time": "2025-12-21T10:37:08.744194",
+  "package_url": "https://pypi.org/project/eventlytics-summarizer/"
+}

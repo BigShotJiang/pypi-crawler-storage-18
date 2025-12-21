@@ -1,0 +1,11 @@
+{
+  "name": "devtools-rot13",
+  "version": "1.0.1",
+  "summary": "ROT13 encoder/decoder",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/rot13",
+  "download_filename": "devtools_rot13-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:36:59.643360",
+  "package_url": "https://pypi.org/project/devtools-rot13/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "devtools-morse",
+  "version": "1.0.1",
+  "summary": "Morse code translator",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/morse-code",
+  "download_filename": "devtools_morse-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:07.607119",
+  "package_url": "https://pypi.org/project/devtools-morse/"
+}

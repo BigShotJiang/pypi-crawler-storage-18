@@ -1,0 +1,11 @@
+{
+  "name": "llmatch-bm25",
+  "version": "2025.12.21101341",
+  "summary": "The new package transforms a user’s plain‑text search phrase into a structured, BM25‑ranked list of PostgreSQL search results. It takes the query text as input, forwards it to an LLM that rewrites the",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmatch_bm25-2025.12.21101341.tar.gz",
+  "download_time": "2025-12-21T10:37:28.677416",
+  "package_url": "https://pypi.org/project/llmatch-bm25/"
+}

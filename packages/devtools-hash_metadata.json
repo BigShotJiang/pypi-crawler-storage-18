@@ -1,0 +1,11 @@
+{
+  "name": "devtools-hash",
+  "version": "1.0.1",
+  "summary": "Hash generator (MD5, SHA)",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/hash-generator",
+  "download_filename": "devtools_hash-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:27.541376",
+  "package_url": "https://pypi.org/project/devtools-hash/"
+}

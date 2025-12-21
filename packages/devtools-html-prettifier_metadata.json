@@ -1,0 +1,11 @@
+{
+  "name": "devtools-html-prettifier",
+  "version": "1.0.1",
+  "summary": "HTML prettifier/formatter",
+  "author": "DevTools.at",
+  "license": null,
+  "home_page": "https://devtools.at/tools/html-prettifier",
+  "download_filename": "devtools_html_prettifier-1.0.1.tar.gz",
+  "download_time": "2025-12-21T10:37:23.549984",
+  "package_url": "https://pypi.org/project/devtools-html-prettifier/"
+}
