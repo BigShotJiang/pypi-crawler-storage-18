@@ -1,11 +1,11 @@
 {
   "name": "pytest-pve-cloud",
-  "version": "0.6.7",
+  "version": "0.6.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_pve_cloud-0.6.7.tar.gz",
-  "download_time": "2025-12-21T15:14:01.446945",
+  "download_filename": "pytest_pve_cloud-0.6.9.tar.gz",
+  "download_time": "2025-12-21T15:48:59.256903",
   "package_url": "https://pypi.org/project/pytest-pve-cloud/"
 }
