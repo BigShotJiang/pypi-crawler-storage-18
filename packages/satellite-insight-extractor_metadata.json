@@ -1,0 +1,11 @@
+{
+  "name": "satellite-insight-extractor",
+  "version": "2025.12.21080509",
+  "summary": "A new package designed to streamline the extraction of structured insights from brief, domain-specific reports. It receives a short text input describing recent events—such as satellite incidents—and ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "satellite_insight_extractor-2025.12.21080509.tar.gz",
+  "download_time": "2025-12-21T08:19:04.384691",
+  "package_url": "https://pypi.org/project/satellite-insight-extractor/"
+}

@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T07:49:00.567019
-- **Total Packages**: 77
-- **Total Size**: 52.22 MB
+- **Download Time**: 2025-12-21T08:19:30.146174
+- **Total Packages**: 73
+- **Total Size**: 29.66 MB
 
 ## Packages List
+- zrb
+- thermal-face-alignment
+- tpu-inference
+- pingwizard
+- vibe-notification
+- lightrun
+- ypricemagic
+- memvid-rs
+- pandoc-gui
+- mcap-data-loader
+- tf-models-nightly
+- pyglove
+- wisent
+- pulse-python-sdk
+- askcsv
+- rwkv-emb
+- tiebameow
+- PyQt-Fluent-Widgets
+- PySide6-Fluent-Widgets
+- PyQt6-Fluent-Widgets
+- PySide2-Fluent-Widgets
+- m2w
+- htmlgraph
+- deal-distiller
+- promptfn
+- satellite-insight-extractor
+- fx-sdk
+- iraklis7-ubp
+- kafkagraph
+- gamengine3d
+- mcp-core
+- pinginstaller
+- code-loader
+- trellis-datamodel
+- scmrepo
+- musicnotes
+- nestedutils
+- slimcuda
+- tomly
+- pyquery-polars
+- datapolish
+- omniadapters
+- termibase
+- easy-worktree
+- grpc-framework
 - xlwings-utils
 - odoo-addon-account-peppol-send-attachment
 - neurovc
@@ -13,9 +58,7 @@
 - finance-datareader
 - pyridescence
 - spatialbench-cli
-- wisent
 - Pylocalmem
-- askcsv
 - win-folder-manager
 - passfx
 - ai-edge-litert-sdk-mediatek-nightly
@@ -23,63 +66,16 @@
 - odoo-addon-account-peppol-send-queue-job
 - django-api-guard
 - vla-arena
-- rwkv-emb
 - speterlin-stocks
 - minting
 - regression-inference
 - feldera
-- kafkagraph
 - nextrec
 - mp-tunnel
 - pysilica
-- pulse-python-sdk
 - atomize-py
 - odoo-addon-account-peppol-partner
 - PyTextTable
 - odoo-addon-account-peppol-backport
 - odoo-addon-account-edi-proxy-client-peppol
-- nestedutils
 - verilator-dspsim
-- rdsai-cli
-- sparqlx
-- cortex-memory
-- wowsql
-- compose-farm
-- pyeuclid
-- winnap
-- ai-edge-litert-nightly
-- nonebot-plugin-taygedo-helper
-- WuttJamaican
-- jcvi
-- ollama-local-serve
-- hyponcloud
-- aiinbx
-- pulumi-azure
-- pyqrack-cuda-complex128
-- pyqrack-cuda
-- pyqrack-cpu-complex128
-- vibe-notification
-- f5-tts
-- pyqrack-cpu
-- pyqrack-complex128
-- pyqrack
-- pyppur
-- m2w
-- nonebot-plugin-jimeng
-- switchbot-api
-- nifti2bids
-- LscNumbers
-- removebg-cli
-- KalturaApiClient
-- openaudit
-- stringconsts
-- discourses
-- crystalwindow
-- streamlit-nightly
-- kci-confluence-cli
-- fastquadtree
-- grove-cli
-- sqloader
-- sataid
-- discrete-fourier
-- tobes-ui

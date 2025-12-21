@@ -1,11 +1,11 @@
 {
   "name": "nestedutils",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "The lightweight Python library for safe, simple, dot-notation access to nested dicts and lists. Effortlessly get, set, and delete values deep in your complex JSON, API responses, and config files without verbose error-checking or handling KeyError exceptions.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nestedutils-1.1.1.tar.gz",
-  "download_time": "2025-12-21T07:48:36.349578",
+  "download_filename": "nestedutils-1.1.2.tar.gz",
+  "download_time": "2025-12-21T08:19:10.520175",
   "package_url": "https://pypi.org/project/nestedutils/"
 }

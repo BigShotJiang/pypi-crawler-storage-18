@@ -1,0 +1,11 @@
+{
+  "name": "musicnotes",
+  "version": "1.12",
+  "summary": "Play music notes in your Python scripts with ease.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "musicnotes-1.12.tar.gz",
+  "download_time": "2025-12-21T08:19:10.007260",
+  "package_url": "https://pypi.org/project/musicnotes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datapolish",
+  "version": "1.0.0",
+  "summary": "AI-powered data cleaning library with intelligent recommendations and professional visualizations",
+  "author": "Akinboye Yusuff",
+  "license": "MIT",
+  "home_page": "https://github.com/akinboye/datapolish",
+  "download_filename": "datapolish-1.0.0.tar.gz",
+  "download_time": "2025-12-21T08:19:12.748625",
+  "package_url": "https://pypi.org/project/datapolish/"
+}

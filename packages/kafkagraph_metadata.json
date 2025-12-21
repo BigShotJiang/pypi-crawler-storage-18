@@ -1,11 +1,11 @@
 {
   "name": "kafkagraph",
-  "version": "0.1.1",
-  "summary": "Licensed Kafka to Neo4j Graph Ingestion Engine",
-  "author": "KafkaGraph",
-  "license": "Proprietary",
+  "version": "0.1.2",
+  "summary": "Licensed Kafka to Neo4j Graph Ingestion Engine for turn-key graph building",
+  "author": "Siddhappa Birajdar",
+  "license": null,
   "home_page": null,
-  "download_filename": "kafkagraph-0.1.1.tar.gz",
-  "download_time": "2025-12-21T07:48:31.141009",
+  "download_filename": "kafkagraph-0.1.2.tar.gz",
+  "download_time": "2025-12-21T08:19:06.060126",
   "package_url": "https://pypi.org/project/kafkagraph/"
 }

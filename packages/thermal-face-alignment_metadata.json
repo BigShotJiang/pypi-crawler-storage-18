@@ -1,0 +1,11 @@
+{
+  "name": "thermal-face-alignment",
+  "version": "1.0.0",
+  "summary": "implementation and weights for facial landmarks in thermal images trained with the dataset described in 'T-FAKE: Synthesizing Thermal Images for Facial Landmarking'.",
+  "author": null,
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "thermal_face_alignment-1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-21T08:18:51.023762",
+  "package_url": "https://pypi.org/project/thermal-face-alignment/"
+}

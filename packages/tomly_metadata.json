@@ -1,0 +1,11 @@
+{
+  "name": "tomly",
+  "version": "0.1.2",
+  "summary": "A wrapper around rtoml providing tomli-compatible behavior with enhanced convenience methods for intuitive value access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomly-0.1.2.tar.gz",
+  "download_time": "2025-12-21T08:19:11.664150",
+  "package_url": "https://pypi.org/project/tomly/"
+}

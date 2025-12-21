@@ -1,11 +1,11 @@
 {
   "name": "askcsv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Ask questions to your CSV in a local web chat UI using Gemini.",
   "author": "Nirajan Ghimire",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "askcsv-0.1.1.tar.gz",
-  "download_time": "2025-12-21T07:48:23.883596",
+  "download_filename": "askcsv-0.1.2.tar.gz",
+  "download_time": "2025-12-21T08:18:58.630875",
   "package_url": "https://pypi.org/project/askcsv/"
 }
