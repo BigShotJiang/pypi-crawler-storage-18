@@ -1,0 +1,11 @@
+{
+  "name": "mag-safe-finder",
+  "version": "2025.12.21232119",
+  "summary": "mag-safe-finder recommends the perfect MagSafe cable based on your inputs, highlighting compatibility, pros/cons, and care tips.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mag_safe_finder-2025.12.21232119.tar.gz",
+  "download_time": "2025-12-21T23:31:07.282701",
+  "package_url": "https://pypi.org/project/mag-safe-finder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "partnershipparser",
+  "version": "2025.12.21231803",
+  "summary": "partnershipparser extracts and structures key info from tech partnership news for easy analysis of companies, focus areas, and impacts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "partnershipparser-2025.12.21231803.tar.gz",
+  "download_time": "2025-12-21T23:31:10.754503",
+  "package_url": "https://pypi.org/project/partnershipparser/"
+}

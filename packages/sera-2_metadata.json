@@ -1,11 +1,11 @@
 {
   "name": "sera-2",
-  "version": "1.30.0",
+  "version": "1.30.1",
   "summary": null,
   "author": "Binh Vu",
   "license": null,
   "home_page": null,
-  "download_filename": "sera_2-1.30.0.tar.gz",
-  "download_time": "2025-12-21T03:06:31.931818",
+  "download_filename": "sera_2-1.30.1.tar.gz",
+  "download_time": "2025-12-21T23:31:09.020250",
   "package_url": "https://pypi.org/project/sera-2/"
 }

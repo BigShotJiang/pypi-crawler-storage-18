@@ -1,11 +1,11 @@
 {
   "name": "git-notes-memory",
-  "version": "0.6.2",
+  "version": "0.7.1",
   "summary": "Git-native, semantically-searchable memory storage for Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "git_notes_memory-0.6.2.tar.gz",
-  "download_time": "2025-12-21T06:21:45.058880",
+  "download_filename": "git_notes_memory-0.7.1.tar.gz",
+  "download_time": "2025-12-21T23:31:17.724770",
   "package_url": "https://pypi.org/project/git-notes-memory/"
 }

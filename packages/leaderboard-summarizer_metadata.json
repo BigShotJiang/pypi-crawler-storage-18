@@ -1,0 +1,11 @@
+{
+  "name": "leaderboard-summarizer",
+  "version": "2025.12.21232414",
+  "summary": "Extracts and organizes leaderboard/ranking data from text via smart pattern matching and retries, delivering clean, structured summaries effortlessly.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leaderboard_summarizer-2025.12.21232414.tar.gz",
+  "download_time": "2025-12-21T23:31:03.104150",
+  "package_url": "https://pypi.org/project/leaderboard-summarizer/"
+}
