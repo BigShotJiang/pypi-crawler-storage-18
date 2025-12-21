@@ -1,0 +1,11 @@
+{
+  "name": "onerouter",
+  "version": "1.0.0",
+  "summary": "Unified API client for payments, subscriptions, and more",
+  "author": "OneRouter Team",
+  "license": "MIT",
+  "home_page": "https://github.com/onerouter/onerouter-python",
+  "download_filename": "onerouter-1.0.0.tar.gz",
+  "download_time": "2025-12-21T09:18:12.648474",
+  "package_url": "https://pypi.org/project/onerouter/"
+}

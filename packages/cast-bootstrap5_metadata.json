@@ -1,0 +1,11 @@
+{
+  "name": "cast-bootstrap5",
+  "version": "0.0.60",
+  "summary": "Bootstrap5 theme for django-cast",
+  "author": "Jochen Wersdörfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cast_bootstrap5-0.0.60.tar.gz",
+  "download_time": "2025-12-21T09:18:51.697771",
+  "package_url": "https://pypi.org/project/cast-bootstrap5/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "text-parser-utils",
+  "version": "2025.12.21085136",
+  "summary": "A new package is designed to simplify user interactions by accepting free-text prompts and providing structured, reliable responses. It leverages an underlying pattern-matching system to interpret use",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text_parser_utils-2025.12.21085136.tar.gz",
+  "download_time": "2025-12-21T09:18:49.066915",
+  "package_url": "https://pypi.org/project/text-parser-utils/"
+}

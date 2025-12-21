@@ -1,0 +1,11 @@
+{
+  "name": "causaliq-data",
+  "version": "0.3.0",
+  "summary": "Data caching, scoring and testing for causal discovery",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causaliq_data-0.3.0.tar.gz",
+  "download_time": "2025-12-21T09:18:14.741665",
+  "package_url": "https://pypi.org/project/causaliq-data/"
+}

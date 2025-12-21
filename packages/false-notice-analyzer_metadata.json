@@ -1,0 +1,11 @@
+{
+  "name": "false-notice-analyzer",
+  "version": "2025.12.21084504",
+  "summary": "A new package designed to streamline the process of identifying, extracting, and organizing information related to false notices filed against companies like Flock and Cyble Inc. It takes user inputs ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "false_notice_analyzer-2025.12.21084504.tar.gz",
+  "download_time": "2025-12-21T09:18:59.576117",
+  "package_url": "https://pypi.org/project/false-notice-analyzer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pykk",
+  "version": "0.1.8",
+  "summary": "Fast Kramers-Kronig transform library written in Rust",
+  "author": null,
+  "license": null,
+  "home_page": "http://github.com/Hayashi-Yudai/pykk",
+  "download_filename": "pykk-0.1.8.tar.gz",
+  "download_time": "2025-12-21T09:18:19.461293",
+  "package_url": "https://pypi.org/project/pykk/"
+}

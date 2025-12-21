@@ -1,0 +1,11 @@
+{
+  "name": "sast-secureai",
+  "version": "2025.12.21084550",
+  "summary": "Automates Software Security Analysis and Testing (SAST) by receiving user-inputted code snippets or text descriptions of functionality and returning a structured response highlighting potential securi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sast_secureai-2025.12.21084550.tar.gz",
+  "download_time": "2025-12-21T09:18:57.473798",
+  "package_url": "https://pypi.org/project/sast-secureai/"
+}

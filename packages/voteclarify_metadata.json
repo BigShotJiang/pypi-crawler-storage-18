@@ -1,0 +1,11 @@
+{
+  "name": "voteclarify",
+  "version": "2025.12.21091112",
+  "summary": "A new package that processes user queries about why small voting or ranking projects get flagged as spam so easily. It uses natural language processing to understand the input and generates a structur",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voteclarify-2025.12.21091112.tar.gz",
+  "download_time": "2025-12-21T09:18:16.276403",
+  "package_url": "https://pypi.org/project/voteclarify/"
+}

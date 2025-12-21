@@ -1,0 +1,11 @@
+{
+  "name": "textforgepy",
+  "version": "2025.12.21090031",
+  "summary": "A new package designed to transform unstructured text inputs into standardized, machine-readable outputs. This tool focuses on domains where consistency and format are critical, such as technical docu",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "textforgepy-2025.12.21090031.tar.gz",
+  "download_time": "2025-12-21T09:18:32.556699",
+  "package_url": "https://pypi.org/project/textforgepy/"
+}

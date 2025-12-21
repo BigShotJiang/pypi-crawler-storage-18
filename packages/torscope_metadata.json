@@ -1,0 +1,11 @@
+{
+  "name": "torscope",
+  "version": "0.3.0",
+  "summary": "A tool for exploring and getting information about the Tor network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torscope-0.3.0.tar.gz",
+  "download_time": "2025-12-21T09:18:44.337009",
+  "package_url": "https://pypi.org/project/torscope/"
+}

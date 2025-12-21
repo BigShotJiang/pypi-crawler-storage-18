@@ -1,0 +1,11 @@
+{
+  "name": "feedback-analyzer-mod",
+  "version": "2025.12.21090801",
+  "summary": "A new package designed to analyze and structure user-submitted text, specifically focusing on community feedback and moderation. The package leverages the capabilities of llmatch-messages to process a",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feedback_analyzer_mod-2025.12.21090801.tar.gz",
+  "download_time": "2025-12-21T09:18:21.531369",
+  "package_url": "https://pypi.org/project/feedback-analyzer-mod/"
+}
