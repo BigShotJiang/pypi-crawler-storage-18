@@ -1,0 +1,11 @@
+{
+  "name": "mkdocstrings-nim",
+  "version": "0.2.1",
+  "summary": "A Nim handler for mkdocstrings",
+  "author": "Elijah Rutschman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocstrings_nim-0.2.1.tar.gz",
+  "download_time": "2025-12-21T10:51:25.832314",
+  "package_url": "https://pypi.org/project/mkdocstrings-nim/"
+}

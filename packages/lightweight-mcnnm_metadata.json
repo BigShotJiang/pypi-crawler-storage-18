@@ -1,11 +1,11 @@
 {
   "name": "lightweight-mcnnm",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Leightweight Implementation of Athey et al. (2021)'s MC-NNM estimator",
   "author": "Tobias Schnabel",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "lightweight_mcnnm-1.1.3.tar.gz",
-  "download_time": "2025-12-21T01:14:24.663921",
+  "download_filename": "lightweight_mcnnm-1.1.4.tar.gz",
+  "download_time": "2025-12-21T10:51:21.161066",
   "package_url": "https://pypi.org/project/lightweight-mcnnm/"
 }

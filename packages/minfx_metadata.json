@@ -1,0 +1,11 @@
+{
+  "name": "minfx",
+  "version": "0.4.0",
+  "summary": "A minimal Python package for the minfx project",
+  "author": "Minfx Team",
+  "license": "MIT",
+  "home_page": "https://github.com/minfx-ai/minfx",
+  "download_filename": "minfx-0.4.0.tar.gz",
+  "download_time": "2025-12-21T10:51:13.848358",
+  "package_url": "https://pypi.org/project/minfx/"
+}

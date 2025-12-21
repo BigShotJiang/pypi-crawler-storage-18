@@ -1,0 +1,11 @@
+{
+  "name": "flake8-params",
+  "version": "0.1.0",
+  "summary": "A flake8 plugin which checks for mismatches between function signatures and docstring params.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/python-formate/flake8-params",
+  "download_filename": "flake8_params-0.1.0.tar.gz",
+  "download_time": "2025-12-21T10:51:11.771115",
+  "package_url": "https://pypi.org/project/flake8-params/"
+}

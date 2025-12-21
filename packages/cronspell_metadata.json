@@ -1,0 +1,11 @@
+{
+  "name": "cronspell",
+  "version": "0.5.0",
+  "summary": "Date-expression domain specific language parsing. A neat way to express things like \"First Saturday of any year\", or \"3rd thursdays each month\" and such",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cronspell-0.5.0.tar.gz",
+  "download_time": "2025-12-21T10:50:56.565084",
+  "package_url": "https://pypi.org/project/cronspell/"
+}

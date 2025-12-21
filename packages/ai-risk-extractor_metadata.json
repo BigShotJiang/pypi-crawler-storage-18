@@ -1,0 +1,11 @@
+{
+  "name": "ai-risk-extractor",
+  "version": "2025.12.21102659",
+  "summary": "A new package designed to facilitate the extraction of structured insights from user prompts related to the domain of autonomous AI agents and their potential vulnerabilities. Given an input text desc",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_risk_extractor-2025.12.21102659.tar.gz",
+  "download_time": "2025-12-21T10:51:24.796288",
+  "package_url": "https://pypi.org/project/ai-risk-extractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlarena",
+  "version": "0.5.1",
+  "summary": "An algorithm-agnostic machine learning toolkit for model training, diagnostics and optimization",
+  "author": "Mena Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/MenaWANG/mlarena",
+  "download_filename": "mlarena-0.5.1.tar.gz",
+  "download_time": "2025-12-21T10:51:02.351311",
+  "package_url": "https://pypi.org/project/mlarena/"
+}

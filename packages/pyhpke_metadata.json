@@ -1,0 +1,11 @@
+{
+  "name": "pyhpke",
+  "version": "0.6.4",
+  "summary": "A Python implementation of HPKE.",
+  "author": "Ajitomi Daisuke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhpke-0.6.4.tar.gz",
+  "download_time": "2025-12-21T10:51:14.918055",
+  "package_url": "https://pypi.org/project/pyhpke/"
+}
