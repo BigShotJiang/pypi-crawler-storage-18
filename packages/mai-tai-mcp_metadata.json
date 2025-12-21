@@ -1,11 +1,11 @@
 {
   "name": "mai-tai-mcp",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "MCP server for mai-tai AI agent collaboration platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mai_tai_mcp-0.1.11.tar.gz",
-  "download_time": "2025-12-21T22:14:07.273524",
+  "download_filename": "mai_tai_mcp-0.1.13.tar.gz",
+  "download_time": "2025-12-21T22:34:51.690034",
   "package_url": "https://pypi.org/project/mai-tai-mcp/"
 }

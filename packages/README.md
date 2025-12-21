@@ -1,22 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T22:14:42.611655
+- **Download Time**: 2025-12-21T22:35:27.999563
 - **Total Packages**: 79
-- **Total Size**: 19.57 MB
+- **Total Size**: 25.89 MB
 
 ## Packages List
-- sciveo
+- simboba
+- moreniius
+- wizlight-simple
+- foamlib
+- inkwell-cli
+- devrules
+- scientific-writer
+- django-mercury-performance
+- agentfield
+- compose-farm
+- rocket-welder-sdk
+- agenta
+- praisonaiwp
+- vtk-python-docs
+- dvt-core
+- mai-tai-mcp
+- logsynth
+- molsystem
+- PySyriatel
+- jeremydimond.pygamesim
+- mgplot
+- tikchunk
+- mcp-stata
+- amsdal_models
+- mccole
 - pyrig
+- biopyflow
+- jps-jira-utils
+- pocket-joe
+- niquery
+- metaflowx
+- dycw-utilities
+- fudstop4
+- decayshape
+- sparkless
+- oxutils
+- rpyc-pve-cloud
+- tenso
+- fintrack-cli
+- pdflinkcheck
+- jeremydimond.pymlga
+- pointwise
+- gitcraft
+- sciveo
 - modelswrkpi
 - regula-documentreader-webclient
 - koleo-cli
-- jps-jira-utils
 - fetchtastic
-- dvt-core
 - pexams
 - bgg-api
-- mai-tai-mcp
 - model-config-tests
 - KekikStream
 - yirifi-ops-mcp-hub
@@ -29,7 +68,6 @@
 - pwndoc-mcp-server
 - tokentally
 - opendraft
-- jeremydimond.pymlga
 - trmd
 - objinspect
 - imbalanced-learn
@@ -38,50 +76,12 @@
 - claude-code-wrapped
 - my_test_tuxpkg_project
 - quantum-debugger
-- oxutils
 - gait-ai
 - ggai
 - mopac-step
 - claude-code-tools
 - celestsp
-- metaflowx
-- tenso
 - diet-pandas
 - vision-stream-toolkit
 - fallom
 - litestar-vite
-- roboka
-- age-mcp-server
-- ble2wled
-- uiprotect
-- agefreighter
-- vigilant-kit
-- sweet_tea
-- aeronavx
-- avtomatika-worker
-- codeset
-- starship-mcp
-- dkinst
-- mcp-json-yaml-toml
-- gsppy
-- agentfield
-- dioxide
-- deepsuite
-- gitcraft
-- pydantic-stack-core
-- agenticmem
-- agenticmem-commons
-- starlog-mcp
-- pys3local
-- homeharvest
-- mauve-gpu
-- librenms-mcp
-- not1mm
-- phylogenie
-- pervpy
-- mlserve-sdk
-- comaps-map-distributor
-- llm-editor
-- SmolBit
-- agilicus
-- unbihexium

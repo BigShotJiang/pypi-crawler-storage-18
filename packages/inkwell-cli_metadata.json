@@ -1,0 +1,11 @@
+{
+  "name": "inkwell-cli",
+  "version": "0.9.0",
+  "summary": "Transform podcast episodes into structured markdown notes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inkwell_cli-0.9.0.tar.gz",
+  "download_time": "2025-12-21T22:34:45.291656",
+  "package_url": "https://pypi.org/project/inkwell-cli/"
+}

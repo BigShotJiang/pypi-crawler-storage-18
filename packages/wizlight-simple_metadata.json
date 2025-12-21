@@ -1,0 +1,11 @@
+{
+  "name": "wizlight-simple",
+  "version": "0.1.2",
+  "summary": "Asynchrone Library für WiZ-Geräte mit RGB, Szenen und zirkadianem Rhythmus",
+  "author": "David Block",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wizlight_simple-0.1.2.tar.gz",
+  "download_time": "2025-12-21T22:34:44.069556",
+  "package_url": "https://pypi.org/project/wizlight-simple/"
+}
