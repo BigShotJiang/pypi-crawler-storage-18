@@ -1,0 +1,11 @@
+{
+  "name": "ui-feedback-parser",
+  "version": "2025.12.21172537",
+  "summary": "A new package is designed to analyze user-submitted discussions or problem descriptions about improving business interfaces, such as Chase Travel's UI. It processes the input text and outputs a struct",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ui_feedback_parser-2025.12.21172537.tar.gz",
+  "download_time": "2025-12-21T17:48:54.198088",
+  "package_url": "https://pypi.org/project/ui-feedback-parser/"
+}

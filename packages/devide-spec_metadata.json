@@ -1,0 +1,11 @@
+{
+  "name": "devide-spec",
+  "version": "2025.12.21174359",
+  "summary": "A new package that transforms unstructured developer tool ideas from text inputs into structured, actionable product specifications. Users can describe their desired tool in natural language, and the",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devide_spec-2025.12.21174359.tar.gz",
+  "download_time": "2025-12-21T17:48:35.961471",
+  "package_url": "https://pypi.org/project/devide-spec/"
+}

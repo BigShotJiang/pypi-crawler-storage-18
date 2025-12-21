@@ -1,0 +1,11 @@
+{
+  "name": "sonnerrise-web",
+  "version": "0.1.0",
+  "summary": "Flask web interface for Sonnerrise",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sonnerrise_web-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-21T17:48:53.680769",
+  "package_url": "https://pypi.org/project/sonnerrise-web/"
+}

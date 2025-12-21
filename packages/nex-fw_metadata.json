@@ -1,11 +1,11 @@
 {
   "name": "nex-fw",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "NexFramework - AI 对话框架，支持多模型切换、工具调用、流式输出",
   "author": "3w4e",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nex_fw-0.1.1.tar.gz",
-  "download_time": "2025-12-21T16:55:30.424281",
+  "download_filename": "nex_fw-0.1.2.tar.gz",
+  "download_time": "2025-12-21T17:48:36.488159",
   "package_url": "https://pypi.org/project/nex-fw/"
 }

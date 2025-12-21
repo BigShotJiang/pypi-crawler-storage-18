@@ -1,0 +1,11 @@
+{
+  "name": "data-convertible",
+  "version": "2025.12.21173829",
+  "summary": "A new package that provides a structured and reliable way to process user input related to common developer utilities such as JSON, Base64, URL, and hash operations. It uses an LLM to interpret user r",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "data_convertible-2025.12.21173829.tar.gz",
+  "download_time": "2025-12-21T17:48:42.220148",
+  "package_url": "https://pypi.org/project/data-convertible/"
+}

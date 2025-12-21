@@ -1,0 +1,11 @@
+{
+  "name": "text2markdown-formatter",
+  "version": "2025.12.21173214",
+  "summary": "A new package designed to transform unstructured text inputs into well-formatted Markdown content. This tool is particularly useful for users who need to convert raw text, such as notes, ideas, or dra",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text2markdown_formatter-2025.12.21173214.tar.gz",
+  "download_time": "2025-12-21T17:48:48.529831",
+  "package_url": "https://pypi.org/project/text2markdown-formatter/"
+}

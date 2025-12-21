@@ -1,0 +1,11 @@
+{
+  "name": "api-signature",
+  "version": "0.0.2",
+  "summary": "用于生成和验证 HMAC-SHA256 请求签名的工具库",
+  "author": "Tenny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_signature-0.0.2.tar.gz",
+  "download_time": "2025-12-21T17:48:51.096799",
+  "package_url": "https://pypi.org/project/api-signature/"
+}

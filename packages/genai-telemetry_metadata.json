@@ -1,0 +1,11 @@
+{
+  "name": "genai-telemetry",
+  "version": "1.0.3",
+  "summary": "Observability SDK for GenAI/LLM applications - supports Splunk, Elasticsearch, OpenTelemetry, Datadog, Prometheus, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genai_telemetry-1.0.3.tar.gz",
+  "download_time": "2025-12-21T17:48:44.899857",
+  "package_url": "https://pypi.org/project/genai-telemetry/"
+}

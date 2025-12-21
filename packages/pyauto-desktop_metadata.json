@@ -1,0 +1,11 @@
+{
+  "name": "pyauto-desktop",
+  "version": "0.2.0",
+  "summary": "A desktop automation tool for image recognition.",
+  "author": "Omar Rashed",
+  "license": null,
+  "home_page": "https://github.com/Omar-F-Rashed/pyauto-desktop",
+  "download_filename": "pyauto_desktop-0.2.0.tar.gz",
+  "download_time": "2025-12-21T17:48:41.702646",
+  "package_url": "https://pypi.org/project/pyauto-desktop/"
+}
