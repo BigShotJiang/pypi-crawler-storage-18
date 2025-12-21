@@ -1,11 +1,11 @@
 {
   "name": "chakra-qml",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A modern QML component library inspired by Chakra UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chakra_qml-0.0.4.tar.gz",
-  "download_time": "2025-12-20T17:44:28.290458",
+  "download_filename": "chakra_qml-0.0.5.tar.gz",
+  "download_time": "2025-12-21T04:48:31.821266",
   "package_url": "https://pypi.org/project/chakra-qml/"
 }

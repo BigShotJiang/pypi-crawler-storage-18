@@ -1,0 +1,11 @@
+{
+  "name": "f5xc-py-substrate",
+  "version": "0.1.0",
+  "summary": "Python SDK for F5 Distributed Cloud APIs",
+  "author": "Kevin",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "f5xc_py_substrate-0.1.0.tar.gz",
+  "download_time": "2025-12-21T04:48:33.492514",
+  "package_url": "https://pypi.org/project/f5xc-py-substrate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atomize-py",
+  "version": "0.2.2",
+  "summary": "A modular software for working with scientific devices and combining them into unified multifunctional setup",
+  "author": "Atomize Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atomize_py-0.2.2.tar.gz",
+  "download_time": "2025-12-21T04:48:30.668649",
+  "package_url": "https://pypi.org/project/atomize-py/"
+}

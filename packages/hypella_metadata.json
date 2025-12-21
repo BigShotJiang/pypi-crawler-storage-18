@@ -1,0 +1,11 @@
+{
+  "name": "hypella",
+  "version": "0.0.1",
+  "summary": "CLI tool for the Hypella execution layer",
+  "author": "Hypella Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hypella-0.0.1.tar.gz",
+  "download_time": "2025-12-21T04:48:47.099882",
+  "package_url": "https://pypi.org/project/hypella/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kiro-openai-gateway",
+  "version": "1.0.6",
+  "summary": "OpenAI-compatible proxy gateway for Kiro IDE API (AWS CodeWhisperer)",
+  "author": "Jwadow",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/Jwadow/kiro-openai-gateway",
+  "download_filename": "kiro_openai_gateway-1.0.6.tar.gz",
+  "download_time": "2025-12-21T04:48:48.186768",
+  "package_url": "https://pypi.org/project/kiro-openai-gateway/"
+}

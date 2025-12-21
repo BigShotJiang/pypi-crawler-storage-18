@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-repair-security",
+  "version": "19.0.1.0.0.4",
+  "summary": "Create security groups for Repair",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/repair",
+  "download_filename": "odoo_addon_repair_security-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-21T04:48:48.731551",
+  "package_url": "https://pypi.org/project/odoo-addon-repair-security/"
+}
