@@ -1,0 +1,11 @@
+{
+  "name": "flask-dynamic-route-registration",
+  "version": "0.9.1",
+  "summary": "A library to help dynamically register routes in Flask applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_dynamic_route_registration-0.9.1.tar.gz",
+  "download_time": "2025-12-21T14:33:41.284276",
+  "package_url": "https://pypi.org/project/flask-dynamic-route-registration/"
+}

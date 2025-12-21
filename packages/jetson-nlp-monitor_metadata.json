@@ -1,0 +1,11 @@
+{
+  "name": "jetson-nlp-monitor",
+  "version": "2025.12.21140514",
+  "summary": "A new package that processes user queries about system performance and resource usage on Nvidia Jetson boards. It takes natural language input, such as a request for current GPU utilization or memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jetson_nlp_monitor-2025.12.21140514.tar.gz",
+  "download_time": "2025-12-21T14:33:45.936888",
+  "package_url": "https://pypi.org/project/jetson-nlp-monitor/"
+}

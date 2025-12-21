@@ -1,0 +1,11 @@
+{
+  "name": "kopi-docka",
+  "version": "3.8.0",
+  "summary": "Robust cold backups for Docker environments using Kopia",
+  "author": "Markus F. (TZERO78)",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kopi_docka-3.8.0.tar.gz",
+  "download_time": "2025-12-21T14:33:57.810837",
+  "package_url": "https://pypi.org/project/kopi-docka/"
+}

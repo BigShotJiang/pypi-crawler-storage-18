@@ -1,0 +1,11 @@
+{
+  "name": "llm-securescan",
+  "version": "2025.12.21142626",
+  "summary": "A new package is designed to facilitate secure and structured user interactions with language models by analyzing and extracting specific information from user-provided text. It uses pattern matching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_securescan-2025.12.21142626.tar.gz",
+  "download_time": "2025-12-21T14:33:23.630731",
+  "package_url": "https://pypi.org/project/llm-securescan/"
+}

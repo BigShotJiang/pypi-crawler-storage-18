@@ -1,0 +1,11 @@
+{
+  "name": "stackexchange-question-analyzer",
+  "version": "2025.12.21142930",
+  "summary": "The package aims to provide a structured analysis of user-generated content on platforms like Stack Exchange by determining the monthly volume of questions asked. This is useful for understanding comm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stackexchange_question_analyzer-2025.12.21142930.tar.gz",
+  "download_time": "2025-12-21T14:33:17.822480",
+  "package_url": "https://pypi.org/project/stackexchange-question-analyzer/"
+}

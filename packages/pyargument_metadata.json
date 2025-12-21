@@ -1,11 +1,11 @@
 {
   "name": "pyargument",
-  "version": "0.20",
+  "version": "0.40",
   "summary": "A lightweight Python command-line argument parser.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyargument-0.20.tar.gz",
-  "download_time": "2025-12-21T09:18:45.392109",
+  "download_filename": "pyargument-0.40.tar.gz",
+  "download_time": "2025-12-21T14:33:43.355710",
   "package_url": "https://pypi.org/project/pyargument/"
 }

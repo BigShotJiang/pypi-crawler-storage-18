@@ -1,11 +1,11 @@
 {
   "name": "cicerone",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Turn OpenAPI schemas into Pydantic models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cicerone-0.2.0.tar.gz",
-  "download_time": "2025-12-20T21:12:22.872009",
+  "download_filename": "cicerone-0.3.0.tar.gz",
+  "download_time": "2025-12-21T14:33:23.102747",
   "package_url": "https://pypi.org/project/cicerone/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "go-concise-summary",
+  "version": "2025.12.21141123",
+  "summary": "A new package would take a technical description or code snippet related to concurrency in Go and generate a structured summary of the concept, such as a fair, cancelable semaphore. It would extract k",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "go_concise_summary-2025.12.21141123.tar.gz",
+  "download_time": "2025-12-21T14:33:40.243386",
+  "package_url": "https://pypi.org/project/go-concise-summary/"
+}

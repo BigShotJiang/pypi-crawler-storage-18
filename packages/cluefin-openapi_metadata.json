@@ -1,11 +1,11 @@
 {
   "name": "cluefin-openapi",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "OpenAPI Client for Cluefin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cluefin_openapi-0.3.3.tar.gz",
-  "download_time": "2025-12-21T13:50:43.216883",
+  "download_filename": "cluefin_openapi-0.3.4.tar.gz",
+  "download_time": "2025-12-21T14:33:21.545846",
   "package_url": "https://pypi.org/project/cluefin-openapi/"
 }

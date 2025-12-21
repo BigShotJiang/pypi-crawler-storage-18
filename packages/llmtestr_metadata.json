@@ -1,0 +1,11 @@
+{
+  "name": "llmtestr",
+  "version": "2025.12.21135641",
+  "summary": "A new package that helps developers integration-test AI and LLM applications by validating structured outputs. It takes a user's test scenario or prompt as input, sends it to an LLM, and uses pattern",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmtestr-2025.12.21135641.tar.gz",
+  "download_time": "2025-12-21T14:33:56.780281",
+  "package_url": "https://pypi.org/project/llmtestr/"
+}

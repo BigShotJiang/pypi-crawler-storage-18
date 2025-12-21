@@ -1,0 +1,11 @@
+{
+  "name": "fundingextractor",
+  "version": "2025.12.21141421",
+  "summary": "A new package that processes news headlines and extracts structured information about company funding events, such as startup names, valuation amounts, and funding rounds, using pattern matching to en",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fundingextractor-2025.12.21141421.tar.gz",
+  "download_time": "2025-12-21T14:33:36.623751",
+  "package_url": "https://pypi.org/project/fundingextractor/"
+}
