@@ -1,0 +1,11 @@
+{
+  "name": "ble2wled",
+  "version": "1.0.0",
+  "summary": "Real-time Bluetooth Low Energy beacon visualization on WLED LED strips",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ble2wled-1.0.0.tar.gz",
+  "download_time": "2025-12-21T21:49:04.842245",
+  "package_url": "https://pypi.org/project/ble2wled/"
+}

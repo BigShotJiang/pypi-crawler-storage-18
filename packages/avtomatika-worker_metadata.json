@@ -1,0 +1,11 @@
+{
+  "name": "avtomatika-worker",
+  "version": "1.0b2",
+  "summary": "Worker SDK for the Avtomatika orchestrator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "avtomatika_worker-1.0b2.tar.gz",
+  "download_time": "2025-12-21T21:49:08.049185",
+  "package_url": "https://pypi.org/project/avtomatika-worker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aeronavx",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Production-grade aviation analytics library: 84k+ airports, network intelligence, synthetic routes, emissions analysis, jet lag prediction, and geo-spatial computations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aeronavx-2.0.4.tar.gz",
-  "download_time": "2025-12-21T21:41:09.969879",
+  "download_filename": "aeronavx-2.0.5.tar.gz",
+  "download_time": "2025-12-21T21:49:07.528578",
   "package_url": "https://pypi.org/project/aeronavx/"
 }
