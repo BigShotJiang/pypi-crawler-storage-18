@@ -1,0 +1,11 @@
+{
+  "name": "epochcore-quantum-decision",
+  "version": "1.0.0",
+  "summary": "Quantum decision system with 7 oscillations and golden ratio harmonics",
+  "author": "John Vincent Ryan",
+  "license": null,
+  "home_page": "https://github.com/epochcore/quantum-decision-python",
+  "download_filename": "epochcore_quantum_decision-1.0.0.tar.gz",
+  "download_time": "2025-12-21T05:16:06.348189",
+  "package_url": "https://pypi.org/project/epochcore-quantum-decision/"
+}

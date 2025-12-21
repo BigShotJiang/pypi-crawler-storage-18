@@ -1,0 +1,11 @@
+{
+  "name": "cilow",
+  "version": "0.2.0",
+  "summary": "Python SDK for Cilow AI Agent Platform - SOTA Memory Layer for AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cilow-0.2.0.tar.gz",
+  "download_time": "2025-12-21T05:16:15.741526",
+  "package_url": "https://pypi.org/project/cilow/"
+}

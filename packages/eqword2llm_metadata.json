@@ -1,11 +1,11 @@
 {
   "name": "eqword2llm",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Convert equation-heavy Word documents (.docx) to Markdown with LaTeX math for LLM recognition.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eqword2llm-0.4.1.tar.gz",
-  "download_time": "2025-12-21T04:08:02.005932",
+  "download_filename": "eqword2llm-0.5.0.tar.gz",
+  "download_time": "2025-12-21T05:15:53.789557",
   "package_url": "https://pypi.org/project/eqword2llm/"
 }
