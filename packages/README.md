@@ -1,13 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T21:49:44.627370
-- **Total Packages**: 76
-- **Total Size**: 11.87 MB
+- **Download Time**: 2025-12-21T22:14:42.611655
+- **Total Packages**: 79
+- **Total Size**: 19.57 MB
 
 ## Packages List
+- sciveo
+- pyrig
 - modelswrkpi
+- regula-documentreader-webclient
+- koleo-cli
+- jps-jira-utils
+- fetchtastic
+- dvt-core
+- pexams
+- bgg-api
+- mai-tai-mcp
+- model-config-tests
+- KekikStream
+- yirifi-ops-mcp-hub
+- multisport-py
+- funccomb
+- jrnl-mw
+- nthlayer
+- IncludeCPP
+- sloppylint
+- pwndoc-mcp-server
+- tokentally
+- opendraft
+- jeremydimond.pymlga
+- trmd
+- objinspect
+- imbalanced-learn
+- tapostreamer
+- webtoolkit
 - claude-code-wrapped
+- my_test_tuxpkg_project
+- quantum-debugger
+- oxutils
+- gait-ai
+- ggai
+- mopac-step
+- claude-code-tools
+- celestsp
+- metaflowx
+- tenso
+- diet-pandas
+- vision-stream-toolkit
+- fallom
+- litestar-vite
+- roboka
+- age-mcp-server
 - ble2wled
 - uiprotect
 - agefreighter
@@ -34,51 +78,10 @@
 - librenms-mcp
 - not1mm
 - phylogenie
-- dvt-core
 - pervpy
 - mlserve-sdk
-- jps-jira-utils
-- IncludeCPP
-- roboka
 - comaps-map-distributor
 - llm-editor
 - SmolBit
 - agilicus
 - unbihexium
-- symbeam
-- tarxemo-django-graphene-utils
-- libp2p
-- tenuo
-- mcp-docker
-- tgb-seq
-- cisco-nso-mcp-server
-- smartsheet-dataframe
-- telegram-rag-bot
-- true-lies-validator
-- geoai-py
-- ml-inspector
-- mcp-stata
-- tapoapi
-- gyvatukas
-- grizabella
-- posthoganalytics
-- posthog
-- workbench
-- HTMLCompare
-- scurrypy
-- tencentcloud-sdk-python-intl-en
-- ukraine
-- language-pipes
-- tencentcloud-sdk-python-vod
-- tencentcloud-sdk-python-tsf
-- tencentcloud-sdk-python-tke
-- devnix
-- tencentcloud-sdk-python-tdai
-- tencentcloud-sdk-python-tcr
-- tencentcloud-sdk-python-partners
-- retrymax
-- funccomp
-- tencentcloud-sdk-python-live
-- tencentcloud-sdk-python-gs
-- tencentcloud-sdk-python-essbasic
-- tencentcloud-sdk-python-emr

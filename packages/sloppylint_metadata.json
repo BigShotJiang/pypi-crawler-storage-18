@@ -1,0 +1,11 @@
+{
+  "name": "sloppylint",
+  "version": "0.5.1",
+  "summary": "Python AI Slop Detector - Find over-engineering, hallucinations, and dead code",
+  "author": "Rob Fox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sloppylint-0.5.1.tar.gz",
+  "download_time": "2025-12-21T22:14:11.931809",
+  "package_url": "https://pypi.org/project/sloppylint/"
+}

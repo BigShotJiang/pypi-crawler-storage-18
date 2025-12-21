@@ -1,0 +1,11 @@
+{
+  "name": "vision-stream-toolkit",
+  "version": "0.1.0",
+  "summary": "Pythonic video streaming made simple - turn OpenCV feeds into clean generators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vision_stream_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-12-21T22:14:23.280336",
+  "package_url": "https://pypi.org/project/vision-stream-toolkit/"
+}
