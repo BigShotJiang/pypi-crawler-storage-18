@@ -1,11 +1,11 @@
 {
   "name": "yirifi-ops-mcp-hub",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "MCP servers for Yirifi Ops - expose REST APIs as MCP tools for AI assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yirifi_ops_mcp_hub-0.1.2.tar.gz",
-  "download_time": "2025-12-21T14:33:26.757901",
+  "download_filename": "yirifi_ops_mcp_hub-0.1.3.tar.gz",
+  "download_time": "2025-12-21T14:49:23.465771",
   "package_url": "https://pypi.org/project/yirifi-ops-mcp-hub/"
 }
