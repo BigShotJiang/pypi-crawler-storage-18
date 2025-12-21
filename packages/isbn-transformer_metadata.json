@@ -1,0 +1,11 @@
+{
+  "name": "isbn-transformer",
+  "version": "2025.12.21113324",
+  "summary": "A new package that transforms raw ISBN data into structured, visualizable formats. Users input a list of ISBNs, and the package returns a well-organized, machine-readable output that can be easily vis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isbn_transformer-2025.12.21113324.tar.gz",
+  "download_time": "2025-12-21T11:38:07.240928",
+  "package_url": "https://pypi.org/project/isbn-transformer/"
+}

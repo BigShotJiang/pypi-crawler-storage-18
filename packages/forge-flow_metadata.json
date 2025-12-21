@@ -1,0 +1,11 @@
+{
+  "name": "forge-flow",
+  "version": "0.1.0",
+  "summary": "Engineering-First ML Library for building robust, production-grade machine learning pipelines",
+  "author": "ForgeFlow Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forge_flow-0.1.0.tar.gz",
+  "download_time": "2025-12-21T11:38:02.601415",
+  "package_url": "https://pypi.org/project/forge-flow/"
+}

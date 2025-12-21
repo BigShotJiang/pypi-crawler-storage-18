@@ -1,0 +1,11 @@
+{
+  "name": "text-snippet-summarizer",
+  "version": "2025.12.21113112",
+  "summary": "A new package facilitates extracting a concise, structured summary from user-provided news headlines or brief texts by utilizing pattern matching and LLM interactions. This tool aims to help researche",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text_snippet_summarizer-2025.12.21113112.tar.gz",
+  "download_time": "2025-12-21T11:38:08.772400",
+  "package_url": "https://pypi.org/project/text-snippet-summarizer/"
+}

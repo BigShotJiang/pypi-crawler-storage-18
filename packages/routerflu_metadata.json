@@ -1,0 +1,11 @@
+{
+  "name": "routerflu",
+  "version": "2025.12.21112723",
+  "summary": "A new package is designed to streamline the interaction with large language models like Claude Code via OpenRouter by accepting user prompts in natural language, processing them through structured mes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "routerflu-2025.12.21112723.tar.gz",
+  "download_time": "2025-12-21T11:38:12.368356",
+  "package_url": "https://pypi.org/project/routerflu/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fbgemm-npu",
-  "version": "0.0.1.dev1",
-  "summary": "ascend cann toolkit",
+  "version": "0.0.1.dev2",
+  "summary": "fbgemm kernels for ascend npu",
   "author": null,
   "license": "Apache",
   "home_page": "https://gitcode.com/ascend",
-  "download_filename": "fbgemm_npu-0.0.1.dev1.tar.gz",
-  "download_time": "2025-12-21T11:28:00.684819",
+  "download_filename": "fbgemm_npu-0.0.1.dev2.tar.gz",
+  "download_time": "2025-12-21T11:38:12.878370",
   "package_url": "https://pypi.org/project/fbgemm-npu/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "natus-command",
+  "version": "2025.12.21112934",
+  "summary": "A new package designed to interpret user descriptions of system maintenance, backup routines, and dotfile management tasks, and convert them into structured commands or step-by-step procedures. It tak",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "natus_command-2025.12.21112934.tar.gz",
+  "download_time": "2025-12-21T11:38:11.346597",
+  "package_url": "https://pypi.org/project/natus-command/"
+}
