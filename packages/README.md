@@ -1,52 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T16:55:42.739944
-- **Total Packages**: 81
-- **Total Size**: 27.02 MB
+- **Download Time**: 2025-12-21T17:13:21.732321
+- **Total Packages**: 79
+- **Total Size**: 3.26 MB
 
 ## Packages List
-- mlxsummary
-- claude-code-cost
-- athena-intelligence
-- bluer-ai
-- warn-scraper
-- arizona-ai-sdk
-- sentinelseed
-- crtstream
-- ssh-to-code
-- geopolitex-analyzer
-- opendraft
-- grafi
-- pupremote
-- sonnerrise-core
-- x-evolution
-- pre-v7-unix-summarizer
-- sunflare
-- mcp-server-rabel
-- fastapi-slim
-- fastapi
-- aieng-bot-maintain
-- data-wise-akshare-mcp-server
-- ribbitxdb
-- lucidscan
-- structquery
-- actobotics
-- kuaijs-ios
 - document-mover
 - rocket-welder-sdk
 - emerge-common
 - techchallenge-summarizer
 - iactsim
 - gammarers.aws-secure-bucket
+- claude-code-cost
 - scrall
+- pupremote
 - maqet
 - fusionx
+- x-evolution
 - vibe-notification
 - vintageconsoleinfo
 - jl-ecms-server
 - jl-ecms-client
 - data-wise-gov-stats-mcp-server
+- opendraft
 - bugpilot-cli
 - pwndoc-mcp-server
 - statezero
@@ -57,6 +34,7 @@
 - cockroachdb-mcp
 - elasticsearch-mcp
 - prophecyperfect
+- ribbitxdb
 - ujeebu-python
 - claude-mira3
 - ACID-code-v2
@@ -87,3 +65,23 @@
 - hutk
 - cdl-dynamic-crawlers
 - tech-discriptor
+- sunflare
+- py-jsonic
+- StonerPlots
+- forgejo-bot-guard
+- ovaltinepy
+- yiki
+- textcurator-llm-py
+- polars-bloomberg
+- trinity-agent-monitoring
+- sam-annotator
+- scdiffeq
+- comfyui-nuvu
+- typed-linq-collections
+- epub-browser
+- scampi
+- fal-mcp-server
+- aframexr
+- timed-prompt
+- mkdocs-panzoom-plugin
+- spooled

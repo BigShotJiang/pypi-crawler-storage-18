@@ -1,0 +1,11 @@
+{
+  "name": "forgejo-bot-guard",
+  "version": "2025.12.21161612",
+  "summary": "This package helps administrators of Forgejo (or Git hosting platforms) generate clear, actionable anti-crawling measures by analyzing user-provided text inputs. When given a description of suspicious",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forgejo_bot_guard-2025.12.21161612.tar.gz",
+  "download_time": "2025-12-21T17:13:11.626747",
+  "package_url": "https://pypi.org/project/forgejo-bot-guard/"
+}
