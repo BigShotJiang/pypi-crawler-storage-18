@@ -1,0 +1,11 @@
+{
+  "name": "llm-structured-summary",
+  "version": "2025.12.21124656",
+  "summary": "This package would process text input, such as a research paper title or abstract snippet, and generate a structured summary of the core idea or problem addressed. It uses an LLM to interpret the inpu",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_structured_summary-2025.12.21124656.tar.gz",
+  "download_time": "2025-12-21T13:05:02.557777",
+  "package_url": "https://pypi.org/project/llm-structured-summary/"
+}

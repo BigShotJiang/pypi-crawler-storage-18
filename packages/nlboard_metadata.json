@@ -1,0 +1,11 @@
+{
+  "name": "nlboard",
+  "version": "2025.12.21124952",
+  "summary": "A new package that transforms unstructured user input about project management needs into a structured Trello-like board setup. Users describe their tasks, workflows, and preferences in plain text, an",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlboard-2025.12.21124952.tar.gz",
+  "download_time": "2025-12-21T13:05:00.377752",
+  "package_url": "https://pypi.org/project/nlboard/"
+}

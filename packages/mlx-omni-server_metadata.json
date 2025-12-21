@@ -1,0 +1,11 @@
+{
+  "name": "mlx-omni-server",
+  "version": "0.5.2",
+  "summary": "MLX Omni Server is a server that provides OpenAI-compatible APIs using Apple's MLX framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_omni_server-0.5.2.tar.gz",
+  "download_time": "2025-12-21T13:05:05.762832",
+  "package_url": "https://pypi.org/project/mlx-omni-server/"
+}

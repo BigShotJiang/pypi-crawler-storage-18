@@ -1,0 +1,11 @@
+{
+  "name": "alphadia-search-rs",
+  "version": "1.1.0",
+  "summary": "A next-generation search backend for AlphaDIA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alphadia_search_rs-1.1.0.tar.gz",
+  "download_time": "2025-12-21T13:05:13.766461",
+  "package_url": "https://pypi.org/project/alphadia-search-rs/"
+}

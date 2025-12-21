@@ -1,0 +1,11 @@
+{
+  "name": "cann",
+  "version": "0.0.1.dev1",
+  "summary": "a fake package to warn user wrong installation",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://gitcode.com/cann",
+  "download_filename": "cann-0.0.1.dev1.tar.gz",
+  "download_time": "2025-12-21T13:05:21.796521",
+  "package_url": "https://pypi.org/project/cann/"
+}

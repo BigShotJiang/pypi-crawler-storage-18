@@ -1,0 +1,11 @@
+{
+  "name": "nshogi-dev",
+  "version": "0.2.0",
+  "summary": "nshogi Python library",
+  "author": "nyashiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nshogi_dev-0.2.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-12-21T13:04:44.211072",
+  "package_url": "https://pypi.org/project/nshogi-dev/"
+}

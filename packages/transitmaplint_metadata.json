@@ -1,0 +1,11 @@
+{
+  "name": "transitmaplint",
+  "version": "2025.12.21125921",
+  "summary": "A new package that takes user-provided text descriptions of transportation or infrastructure maps (like train networks) and returns structured feedback or improvements. It analyzes the input for key e",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transitmaplint-2025.12.21125921.tar.gz",
+  "download_time": "2025-12-21T13:04:49.676738",
+  "package_url": "https://pypi.org/project/transitmaplint/"
+}

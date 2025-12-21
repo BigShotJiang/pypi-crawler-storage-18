@@ -1,0 +1,11 @@
+{
+  "name": "notifex",
+  "version": "2025.12.21125243",
+  "summary": "A new package that helps developers extract and structure notification content from iOS and Android devices for use with ClaudeCode. The package takes raw notification text as input and returns a stan",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notifex-2025.12.21125243.tar.gz",
+  "download_time": "2025-12-21T13:04:57.723737",
+  "package_url": "https://pypi.org/project/notifex/"
+}

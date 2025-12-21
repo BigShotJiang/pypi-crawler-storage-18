@@ -1,0 +1,11 @@
+{
+  "name": "nselib",
+  "version": "2.4.1",
+  "summary": "library to get NSE India data",
+  "author": "Ruchi Tanmay, Amlan Mishra",
+  "license": null,
+  "home_page": "https://github.com/RuchiTanmay/nselib",
+  "download_filename": "nselib-2.4.1.tar.gz",
+  "download_time": "2025-12-21T13:04:55.578118",
+  "package_url": "https://pypi.org/project/nselib/"
+}
