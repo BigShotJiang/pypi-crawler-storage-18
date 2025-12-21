@@ -1,0 +1,11 @@
+{
+  "name": "zensols-calamr",
+  "version": "1.2.0",
+  "summary": "This repository contains code for the paper and aligns the components of a bipartite source and summary AMR graph.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zensols_calamr-1.2.0-py3-none-any.whl",
+  "download_time": "2025-12-21T06:21:36.233733",
+  "package_url": "https://pypi.org/project/zensols-calamr/"
+}

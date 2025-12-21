@@ -1,11 +1,11 @@
 {
   "name": "safecmd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Call commands safely by checking them rigorously against an allow-list",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/AnswerDotAI/safecmd",
-  "download_filename": "safecmd-0.0.1.tar.gz",
-  "download_time": "2025-12-21T01:14:17.475427",
+  "download_filename": "safecmd-0.0.2.tar.gz",
+  "download_time": "2025-12-21T06:21:49.731110",
   "package_url": "https://pypi.org/project/safecmd/"
 }

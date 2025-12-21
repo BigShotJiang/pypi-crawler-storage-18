@@ -1,0 +1,11 @@
+{
+  "name": "ptydriver",
+  "version": "0.2.0",
+  "summary": "Programmatically drive interactive terminal applications via PTY",
+  "author": "Brandon Fryslie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ptydriver-0.2.0.tar.gz",
+  "download_time": "2025-12-21T06:21:40.365836",
+  "package_url": "https://pypi.org/project/ptydriver/"
+}
