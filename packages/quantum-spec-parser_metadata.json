@@ -1,0 +1,11 @@
+{
+  "name": "quantum-spec-parser",
+  "version": "2025.12.21131621",
+  "summary": "A new package designed to extract and structure key technical specifications from quantum computing research and development texts. The package takes unstructured text input describing quantum process",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantum_spec_parser-2025.12.21131621.tar.gz",
+  "download_time": "2025-12-21T13:51:09.702655",
+  "package_url": "https://pypi.org/project/quantum-spec-parser/"
+}

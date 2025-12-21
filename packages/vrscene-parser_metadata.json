@@ -1,0 +1,11 @@
+{
+  "name": "vrscene-parser",
+  "version": "2025.12.21134443",
+  "summary": "A new package would process textual descriptions of virtual reality scenes or environments and return structured, validated outputs that describe the scene in a standardized format. It would use an LL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vrscene_parser-2025.12.21134443.tar.gz",
+  "download_time": "2025-12-21T13:50:38.003706",
+  "package_url": "https://pypi.org/project/vrscene-parser/"
+}

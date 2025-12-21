@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-flo-jav",
+  "version": "0.1.1",
+  "summary": "Florenz的JAV元数据查询插件。",
+  "author": "Florenz",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Florenz0707/nonebot-plugin-flo-jav",
+  "download_filename": "nonebot_plugin_flo_jav-0.1.1.tar.gz",
+  "download_time": "2025-12-21T13:50:34.166979",
+  "package_url": "https://pypi.org/project/nonebot-plugin-flo-jav/"
+}

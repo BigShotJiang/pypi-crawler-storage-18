@@ -1,0 +1,11 @@
+{
+  "name": "garminexport",
+  "version": "0.7.0",
+  "summary": "Garmin Connect activity exporter and backup tool",
+  "author": "Peter Gardfjäll",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/petergardfjall/garminexport",
+  "download_filename": "garminexport-0.7.0.tar.gz",
+  "download_time": "2025-12-21T13:50:48.003650",
+  "package_url": "https://pypi.org/project/garminexport/"
+}

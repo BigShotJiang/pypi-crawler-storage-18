@@ -1,11 +1,11 @@
 {
   "name": "ymery",
-  "version": "0.0.71",
+  "version": "0.0.74",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ymery-0.0.71.tar.gz",
-  "download_time": "2025-12-21T10:36:39.019897",
+  "download_filename": "ymery-0.0.74.tar.gz",
+  "download_time": "2025-12-21T13:50:44.821007",
   "package_url": "https://pypi.org/project/ymery/"
 }

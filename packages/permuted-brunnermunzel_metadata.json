@@ -1,0 +1,11 @@
+{
+  "name": "permuted-brunnermunzel",
+  "version": "0.1.0",
+  "summary": "Python implementation of the permuted Brunner-Munzel test for small sample sizes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "permuted_brunnermunzel-0.1.0.tar.gz",
+  "download_time": "2025-12-21T13:51:10.229850",
+  "package_url": "https://pypi.org/project/permuted-brunnermunzel/"
+}

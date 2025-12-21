@@ -1,0 +1,11 @@
+{
+  "name": "uvtask",
+  "version": "0.1.0",
+  "summary": "uvtask is a modern, fast, and flexible Python task runner and test automation tool designed to simplify development workflows. It supports running, organizing, and managing tasks or tests in Python projects with an emphasis on ease of use and speed.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uvtask-0.1.0.tar.gz",
+  "download_time": "2025-12-21T13:50:46.945712",
+  "package_url": "https://pypi.org/project/uvtask/"
+}

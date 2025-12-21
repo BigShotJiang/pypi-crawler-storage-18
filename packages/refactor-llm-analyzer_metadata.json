@@ -1,0 +1,11 @@
+{
+  "name": "refactor-llm-analyzer",
+  "version": "2025.12.21134750",
+  "summary": "A new package designed to facilitate structured and reliable analysis of user input related to software refactoring in the context of LLM capabilities. It accepts a user's discussion or question about",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "refactor_llm_analyzer-2025.12.21134750.tar.gz",
+  "download_time": "2025-12-21T13:50:33.624212",
+  "package_url": "https://pypi.org/project/refactor-llm-analyzer/"
+}

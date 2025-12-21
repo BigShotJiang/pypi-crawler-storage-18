@@ -1,0 +1,11 @@
+{
+  "name": "fixture-foundry",
+  "version": "0.2.4",
+  "summary": "Fixtures and helpers to create AWS infrastructure (via LocalStack) and containerized databases locally for fast, reproducible integration testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fixture_foundry-0.2.4.tar.gz",
+  "download_time": "2025-12-21T13:50:36.899620",
+  "package_url": "https://pypi.org/project/fixture-foundry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fractal-tictactoe-analyzer",
+  "version": "2025.12.21131323",
+  "summary": "A new package that processes user descriptions of fractal TicTacToe game states or strategies and returns structured analysis, such as identifying optimal moves, detecting winning patterns, or suggest",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractal_tictactoe_analyzer-2025.12.21131323.tar.gz",
+  "download_time": "2025-12-21T13:51:16.308931",
+  "package_url": "https://pypi.org/project/fractal-tictactoe-analyzer/"
+}

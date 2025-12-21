@@ -1,11 +1,11 @@
 {
   "name": "iops-benchmark",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "summary": "A generic benchmark orchestration framework for automated parametric experiments",
   "author": "TADAAM - INRIA Bordeaux",
   "license": null,
   "home_page": "https://gitlab.inria.fr/lgouveia/iops",
-  "download_filename": "iops_benchmark-3.0.4.tar.gz",
-  "download_time": "2025-12-20T23:13:09.943470",
+  "download_filename": "iops_benchmark-3.0.5.tar.gz",
+  "download_time": "2025-12-21T13:50:34.717128",
   "package_url": "https://pypi.org/project/iops-benchmark/"
 }
