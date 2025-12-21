@@ -1,0 +1,11 @@
+{
+  "name": "asyncssh",
+  "version": "2.22.0",
+  "summary": "AsyncSSH: Asynchronous SSHv2 client and server library",
+  "author": null,
+  "license": "EPL-2.0 OR GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "asyncssh-2.22.0.tar.gz",
+  "download_time": "2025-12-21T23:49:10.619815",
+  "package_url": "https://pypi.org/project/asyncssh/"
+}

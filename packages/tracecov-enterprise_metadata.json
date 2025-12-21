@@ -1,0 +1,11 @@
+{
+  "name": "tracecov-enterprise",
+  "version": "0.15.0",
+  "summary": "TraceCov Enterprise Edition. Contact info@tracecov.sh for access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracecov_enterprise-0.15.0.tar.gz",
+  "download_time": "2025-12-21T23:49:08.562188",
+  "package_url": "https://pypi.org/project/tracecov-enterprise/"
+}

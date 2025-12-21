@@ -1,11 +1,11 @@
 {
   "name": "tickcatcher",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Tickcatcher API",
   "author": "OpenAPI Generator community",
   "license": "MIT",
   "home_page": "https://github.com/yagiziskirik/tickcatcher-sdk",
-  "download_filename": "tickcatcher-1.1.6.tar.gz",
-  "download_time": "2025-12-20T18:45:48.484256",
+  "download_filename": "tickcatcher-1.1.7.tar.gz",
+  "download_time": "2025-12-21T23:49:10.098451",
   "package_url": "https://pypi.org/project/tickcatcher/"
 }

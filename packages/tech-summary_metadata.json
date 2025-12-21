@@ -1,0 +1,11 @@
+{
+  "name": "tech-summary",
+  "version": "2025.12.21234318",
+  "summary": "tech-summary processes text to extract structured summaries of technical concepts, ensuring consistent and reliable output for developers, educators, and writers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tech_summary-2025.12.21234318.tar.gz",
+  "download_time": "2025-12-21T23:49:05.984849",
+  "package_url": "https://pypi.org/project/tech-summary/"
+}

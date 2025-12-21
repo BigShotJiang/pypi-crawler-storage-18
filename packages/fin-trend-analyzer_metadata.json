@@ -1,0 +1,11 @@
+{
+  "name": "fin-trend-analyzer",
+  "version": "2025.12.21233059",
+  "summary": "fin-trend-analyzer analyzes financial news and sentiment to identify trends and risks in AI and tech stocks, providing structured insights for quick market assessment.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fin_trend_analyzer-2025.12.21233059.tar.gz",
+  "download_time": "2025-12-21T23:49:19.022310",
+  "package_url": "https://pypi.org/project/fin-trend-analyzer/"
+}

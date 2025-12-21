@@ -1,0 +1,11 @@
+{
+  "name": "clima-nutri",
+  "version": "2025.12.21233357",
+  "summary": "clima-nutri analyzes text on CO2's impact on food quality, summarizing nutritional and caloric changes for policy and research.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clima_nutri-2025.12.21233357.tar.gz",
+  "download_time": "2025-12-21T23:49:14.830849",
+  "package_url": "https://pypi.org/project/clima-nutri/"
+}

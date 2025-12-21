@@ -1,0 +1,11 @@
+{
+  "name": "news-summizr",
+  "version": "2025.12.21232733",
+  "summary": "news-summizr extracts structured summaries from headlines, labeling key points like announcement, products, region for quick insight.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "news_summizr-2025.12.21232733.tar.gz",
+  "download_time": "2025-12-21T23:49:20.562071",
+  "package_url": "https://pypi.org/project/news-summizr/"
+}
