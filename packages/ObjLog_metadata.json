@@ -1,0 +1,11 @@
+{
+  "name": "ObjLog",
+  "version": "3.0.1",
+  "summary": "Logging, Objectified.",
+  "author": "Kokonico",
+  "license": "Zlib",
+  "home_page": "https://github.com/Kokonico/ObjLog",
+  "download_filename": "objlog-3.0.1.tar.gz",
+  "download_time": "2025-12-21T11:12:05.007674",
+  "package_url": "https://pypi.org/project/ObjLog/"
+}

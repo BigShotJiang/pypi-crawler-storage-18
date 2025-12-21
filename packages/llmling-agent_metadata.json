@@ -1,11 +1,11 @@
 {
   "name": "llmling-agent",
-  "version": "1.17.0",
+  "version": "1.17.1",
   "summary": "Pydantic-AI based Multi-Agent Framework with YAML-based Agents, Teams, Workflows & Extended ACP / AGUI integration",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "llmling_agent-1.17.0.tar.gz",
-  "download_time": "2025-12-21T08:45:37.825311",
+  "download_filename": "llmling_agent-1.17.1.tar.gz",
+  "download_time": "2025-12-21T11:12:11.256148",
   "package_url": "https://pypi.org/project/llmling-agent/"
 }

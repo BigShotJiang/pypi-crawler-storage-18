@@ -1,11 +1,11 @@
 {
   "name": "LscNumbers",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "用于精确计算的数字类",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lscnumbers-0.0.5.tar.gz",
-  "download_time": "2025-12-21T10:51:15.954613",
+  "download_filename": "lscnumbers-0.0.6.tar.gz",
+  "download_time": "2025-12-21T11:12:07.104098",
   "package_url": "https://pypi.org/project/LscNumbers/"
 }

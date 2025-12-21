@@ -1,0 +1,11 @@
+{
+  "name": "supportinsightcheck",
+  "version": "2025.12.21110826",
+  "summary": "A new package that analyzes user-submitted text descriptions of customer service or technical support interactions to identify potential red flags that could lead to public complaints or negative expo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supportinsightcheck-2025.12.21110826.tar.gz",
+  "download_time": "2025-12-21T11:11:54.398551",
+  "package_url": "https://pypi.org/project/supportinsightcheck/"
+}

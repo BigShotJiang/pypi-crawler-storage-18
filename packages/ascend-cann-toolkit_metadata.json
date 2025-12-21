@@ -1,0 +1,11 @@
+{
+  "name": "ascend-cann-toolkit",
+  "version": "0.0.1.dev1",
+  "summary": "ascend cann toolkit",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://gitcode.com/ascend",
+  "download_filename": "ascend_cann_toolkit-0.0.1.dev1.tar.gz",
+  "download_time": "2025-12-21T11:11:56.065447",
+  "package_url": "https://pypi.org/project/ascend-cann-toolkit/"
+}

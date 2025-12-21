@@ -1,11 +1,11 @@
 {
   "name": "minting",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Mintzy SDK for stock price prediction",
   "author": "Om Kulthe",
   "license": null,
   "home_page": null,
-  "download_filename": "minting-2.2.0.tar.gz",
-  "download_time": "2025-12-21T07:48:29.577631",
+  "download_filename": "minting-2.2.1.tar.gz",
+  "download_time": "2025-12-21T11:11:59.687165",
   "package_url": "https://pypi.org/project/minting/"
 }

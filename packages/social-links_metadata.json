@@ -1,0 +1,11 @@
+{
+  "name": "social-links",
+  "version": "1.1.0",
+  "summary": "A lightweight, zero-dependency Python library for detecting, validating, and sanitizing social media profile URLs. Supports 25+ platforms out of the box with automatic URL normalization, username extraction, and customizable regex patterns for extensibility.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "social_links-1.1.0.tar.gz",
+  "download_time": "2025-12-21T11:12:01.298202",
+  "package_url": "https://pypi.org/project/social-links/"
+}
