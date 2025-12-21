@@ -1,0 +1,11 @@
+{
+  "name": "nl2action",
+  "version": "2025.12.21163026",
+  "summary": "A new package designed to interpret user-submitted text descriptions, such as notices or requests related to device control or automation, and convert them into structured commands or actions. By leve",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nl2action-2025.12.21163026.tar.gz",
+  "download_time": "2025-12-21T16:55:29.403187",
+  "package_url": "https://pypi.org/project/nl2action/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "techchallenge-summarizer",
+  "version": "2025.12.21164129",
+  "summary": "A new package that processes user-provided text input to generate structured summaries of technical challenges, such as the difficulty of implementing resumable LLM streaming. It uses a system prompt",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techchallenge_summarizer-2025.12.21164129.tar.gz",
+  "download_time": "2025-12-21T16:55:15.518220",
+  "package_url": "https://pypi.org/project/techchallenge-summarizer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stratix-summarizer",
+  "version": "2025.12.21162741",
+  "summary": "A new package is designed to analyze and summarize business strategy narratives, investor communications, or crowdfunding campaign descriptions to extract structured insights about startup funding act",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stratix_summarizer-2025.12.21162741.tar.gz",
+  "download_time": "2025-12-21T16:55:33.022516",
+  "package_url": "https://pypi.org/project/stratix-summarizer/"
+}

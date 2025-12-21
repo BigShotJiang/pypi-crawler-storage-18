@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-rabel",
+  "version": "0.3.0",
+  "summary": "RABEL - Recidive Active Brain Environment Layer. Local-first AI memory with semantic search, graph relations, and soft pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_rabel-0.3.0.tar.gz",
+  "download_time": "2025-12-21T16:55:08.832675",
+  "package_url": "https://pypi.org/project/mcp-server-rabel/"
+}

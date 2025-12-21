@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-osint",
+  "version": "0.5.0",
+  "summary": "Manage, archive and analyze your data collected during your OSInt quest and generate a report with sphinx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_osint-0.5.0.tar.gz",
+  "download_time": "2025-12-21T16:55:38.657936",
+  "package_url": "https://pypi.org/project/sphinxcontrib-osint/"
+}

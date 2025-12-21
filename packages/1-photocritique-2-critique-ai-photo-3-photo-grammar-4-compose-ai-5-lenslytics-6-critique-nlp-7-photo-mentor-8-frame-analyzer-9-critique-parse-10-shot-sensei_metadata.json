@@ -1,0 +1,11 @@
+{
+  "name": "1-photocritique-2-critique-ai-photo-3-photo-grammar-4-compose-ai-5-lenslytics-6-critique-nlp-7-photo-mentor-8-frame-analyzer-9-critique-parse-10-shot-sensei",
+  "version": "2025.12.21162502",
+  "summary": "A new package that processes user-submitted text descriptions of photos and returns structured feedback on composition, lighting, and subject matter. It uses pattern matching to ensure responses are c",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "1_photocritique_2_critique_ai_photo_3_photo_grammar_4_compose_ai_5_lenslytics_6_critique_nlp_7_photo_mentor_8_frame_analyzer_9_critique_parse_10_shot_sensei-2025.12.21162502.tar.gz",
+  "download_time": "2025-12-21T16:55:35.070706",
+  "package_url": "https://pypi.org/project/1-photocritique-2-critique-ai-photo-3-photo-grammar-4-compose-ai-5-lenslytics-6-critique-nlp-7-photo-mentor-8-frame-analyzer-9-critique-parse-10-shot-sensei/"
+}

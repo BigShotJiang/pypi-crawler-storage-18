@@ -1,0 +1,11 @@
+{
+  "name": "arizona-ai-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK для ArizonaAI API",
+  "author": "ArizonaAI",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/Arizona-AI/arizona-ai-python-sdk",
+  "download_filename": "arizona_ai_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-21T16:55:02.170178",
+  "package_url": "https://pypi.org/project/arizona-ai-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pupremote",
+  "version": "2.1.2",
+  "summary": "Emulate LEGO Powered Up sensors from MicroPython boards with RPC-style API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pupremote-2.1.2.tar.gz",
+  "download_time": "2025-12-21T16:55:06.276893",
+  "package_url": "https://pypi.org/project/pupremote/"
+}

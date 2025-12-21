@@ -1,0 +1,11 @@
+{
+  "name": "tigzig-api-monitor",
+  "version": "1.3.1",
+  "summary": "Lightweight FastAPI middleware for centralized API monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tigzig_api_monitor-1.3.1.tar.gz",
+  "download_time": "2025-12-21T16:55:29.913537",
+  "package_url": "https://pypi.org/project/tigzig-api-monitor/"
+}

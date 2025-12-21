@@ -1,0 +1,11 @@
+{
+  "name": "cdl-dynamic-crawlers",
+  "version": "1.0.0",
+  "summary": "Load additional crawlers from files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdl_dynamic_crawlers-1.0.0.tar.gz",
+  "download_time": "2025-12-21T16:55:41.728602",
+  "package_url": "https://pypi.org/project/cdl-dynamic-crawlers/"
+}

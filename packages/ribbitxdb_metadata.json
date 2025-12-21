@@ -1,11 +1,11 @@
 {
   "name": "ribbitxdb",
-  "version": "1.0.7",
-  "summary": "Enterprise-grade database engine with client-server architecture, TLS encryption, user authentication, and replication support",
+  "version": "1.1.2",
+  "summary": "Production-ready enterprise database with 100% SQL support, client-server architecture, TLS encryption, connection pooling, and advanced features",
   "author": "RibbitX Team",
   "license": null,
   "home_page": "https://ribbitx.com",
-  "download_filename": "ribbitxdb-1.0.7.tar.gz",
-  "download_time": "2025-12-21T13:04:52.373210",
+  "download_filename": "ribbitxdb-1.1.2.tar.gz",
+  "download_time": "2025-12-21T16:55:11.409875",
   "package_url": "https://pypi.org/project/ribbitxdb/"
 }

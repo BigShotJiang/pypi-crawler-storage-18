@@ -1,0 +1,11 @@
+{
+  "name": "prophecyperfect",
+  "version": "2025.12.21163318",
+  "summary": "The system takes a brief textual description, prompt, or statement from the user and analyzes it to determine if it correctly expresses a prophetic or visionary statement in the perfect tense. Using p",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prophecyperfect-2025.12.21163318.tar.gz",
+  "download_time": "2025-12-21T16:55:26.339992",
+  "package_url": "https://pypi.org/project/prophecyperfect/"
+}

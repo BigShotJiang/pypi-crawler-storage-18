@@ -1,0 +1,11 @@
+{
+  "name": "epoxy-calc",
+  "version": "1.1.0",
+  "summary": "Swell-resistant epoxy mix calculator",
+  "author": "Tobias Brox",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "epoxy_calc-1.1.0.tar.gz",
+  "download_time": "2025-12-21T16:55:32.511748",
+  "package_url": "https://pypi.org/project/epoxy-calc/"
+}
