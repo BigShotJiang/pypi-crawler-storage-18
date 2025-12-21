@@ -1,0 +1,11 @@
+{
+  "name": "mindspeed-rl",
+  "version": "0.0.1.dev1",
+  "summary": "MindSpeed-RL for LLMs of Ascend",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://gitcode.com/Ascend/MindSpeed-RL",
+  "download_filename": "mindspeed_rl-0.0.1.dev1.tar.gz",
+  "download_time": "2025-12-21T12:27:25.660722",
+  "package_url": "https://pypi.org/project/mindspeed-rl/"
+}

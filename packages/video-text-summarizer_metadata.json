@@ -1,0 +1,11 @@
+{
+  "name": "video-text-summarizer",
+  "version": "2025.12.21114602",
+  "summary": "A new package designed to analyze and summarize video content by processing pre-extracted textual information such as transcripts, subtitles, and descriptions. It leverages structured pattern matching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_text_summarizer-2025.12.21114602.tar.gz",
+  "download_time": "2025-12-21T12:27:47.204728",
+  "package_url": "https://pypi.org/project/video-text-summarizer/"
+}

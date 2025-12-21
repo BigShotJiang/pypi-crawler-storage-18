@@ -1,11 +1,11 @@
 {
   "name": "hanzo-mcp",
-  "version": "0.9.8",
+  "version": "0.9.10",
   "summary": "The Zen of Hanzo MCP: One server to rule them all. The ultimate MCP that orchestrates all others.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hanzo_mcp-0.9.8.tar.gz",
-  "download_time": "2025-12-21T11:49:14.082237",
+  "download_filename": "hanzo_mcp-0.9.10.tar.gz",
+  "download_time": "2025-12-21T12:27:16.947744",
   "package_url": "https://pypi.org/project/hanzo-mcp/"
 }

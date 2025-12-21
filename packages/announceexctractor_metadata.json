@@ -1,0 +1,11 @@
+{
+  "name": "announceexctractor",
+  "version": "2025.12.21121449",
+  "summary": "The package helps users extract key details from short announcements or descriptions. It focuses on understanding the core offering and any associated benefits presented in plain text, without needing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "announceexctractor-2025.12.21121449.tar.gz",
+  "download_time": "2025-12-21T12:27:18.480269",
+  "package_url": "https://pypi.org/project/announceexctractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mindspeed-llm",
+  "version": "0.0.1.dev1",
+  "summary": "MindSpeed for LLMs of Ascend",
+  "author": null,
+  "license": "Apache",
+  "home_page": "https://gitcode.com/Ascend/MindSpeed-LLM",
+  "download_filename": "mindspeed_llm-0.0.1.dev1.tar.gz",
+  "download_time": "2025-12-21T12:27:30.851682",
+  "package_url": "https://pypi.org/project/mindspeed-llm/"
+}

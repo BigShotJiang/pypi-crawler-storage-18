@@ -1,0 +1,11 @@
+{
+  "name": "django-azure-communication-email",
+  "version": "1.6.0",
+  "summary": "A Django email backend for Azure Communication Email service.",
+  "author": "Dmitrii Azarenko",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/retech-us/django-azure-communication-email",
+  "download_filename": "django_azure_communication_email-1.6.0.tar.gz",
+  "download_time": "2025-12-21T12:27:16.433116",
+  "package_url": "https://pypi.org/project/django-azure-communication-email/"
+}

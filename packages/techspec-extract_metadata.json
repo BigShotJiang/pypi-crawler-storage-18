@@ -1,0 +1,11 @@
+{
+  "name": "techspec-extract",
+  "version": "2025.12.21115447",
+  "summary": "A new package designed to process user input descriptions of technical products or components and generate structured summaries or specifications. It leverages LLMs to interpret the input text and ext",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techspec_extract-2025.12.21115447.tar.gz",
+  "download_time": "2025-12-21T12:27:34.964490",
+  "package_url": "https://pypi.org/project/techspec-extract/"
+}

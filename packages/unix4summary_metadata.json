@@ -1,0 +1,11 @@
+{
+  "name": "unix4summary",
+  "version": "2025.12.21115644",
+  "summary": "A new package designed to facilitate the extraction of structured summaries or key information from user inputs related to Unix Fourth Edition. It processes textual prompts about Unix concepts, comman",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unix4summary-2025.12.21115644.tar.gz",
+  "download_time": "2025-12-21T12:27:34.453583",
+  "package_url": "https://pypi.org/project/unix4summary/"
+}

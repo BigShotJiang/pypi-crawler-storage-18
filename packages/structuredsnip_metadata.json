@@ -1,0 +1,11 @@
+{
+  "name": "structuredsnip",
+  "version": "2025.12.21115854",
+  "summary": "A new package that takes unstructured text input from users and returns structured, categorized feedback or suggestions. It uses pattern matching to ensure responses follow a consistent format, such a",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "structuredsnip-2025.12.21115854.tar.gz",
+  "download_time": "2025-12-21T12:27:32.383097",
+  "package_url": "https://pypi.org/project/structuredsnip/"
+}

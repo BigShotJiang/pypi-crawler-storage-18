@@ -1,0 +1,11 @@
+{
+  "name": "financial-parser",
+  "version": "2025.12.21115104",
+  "summary": "A new package is designed to analyze financial news headlines and extract key structured information such as company names, financial targets, timeframes, and goal updates from text inputs. It simplif",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "financial_parser-2025.12.21115104.tar.gz",
+  "download_time": "2025-12-21T12:27:38.029053",
+  "package_url": "https://pypi.org/project/financial-parser/"
+}

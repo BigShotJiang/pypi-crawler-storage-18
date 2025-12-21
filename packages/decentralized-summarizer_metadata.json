@@ -1,0 +1,11 @@
+{
+  "name": "decentralized-summarizer",
+  "version": "2025.12.21120929",
+  "summary": "A new package that processes user input to generate structured summaries of decentralized protocol concepts, such as Polyproto, by extracting key features and benefits. It uses pattern matching to ens",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decentralized_summarizer-2025.12.21120929.tar.gz",
+  "download_time": "2025-12-21T12:27:24.640773",
+  "package_url": "https://pypi.org/project/decentralized-summarizer/"
+}
