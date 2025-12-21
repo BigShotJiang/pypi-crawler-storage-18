@@ -1,11 +1,11 @@
 {
   "name": "basalam.hermes-messaging-sdk",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python SDK to integrate and interact with Hermes Marketing Automation Platform",
   "author": "Hasan Golparvar",
   "license": null,
   "home_page": "https://github.com/basalam/hermes-messaging-sdk",
-  "download_filename": "basalam_hermes_messaging_sdk-0.0.4.tar.gz",
-  "download_time": "2025-12-21T09:18:21.019230",
+  "download_filename": "basalam_hermes_messaging_sdk-0.0.5.tar.gz",
+  "download_time": "2025-12-21T09:48:46.855302",
   "package_url": "https://pypi.org/project/basalam.hermes-messaging-sdk/"
 }
