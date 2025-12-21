@@ -1,0 +1,11 @@
+{
+  "name": "pancakeswap-universal-router-decoder",
+  "version": "0.1.2",
+  "summary": "Decode & Encode transactions sent to the Pancakeswap Universal Router. Support Pancakeswap V4",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pancakeswap_universal_router_decoder-0.1.2.tar.gz",
+  "download_time": "2025-12-21T15:31:36.158414",
+  "package_url": "https://pypi.org/project/pancakeswap-universal-router-decoder/"
+}

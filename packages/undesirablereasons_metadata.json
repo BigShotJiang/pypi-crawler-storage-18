@@ -1,0 +1,11 @@
+{
+  "name": "undesirablereasons",
+  "version": "2025.12.21151640",
+  "summary": "A new package that helps users extract and organize key reasons from text inputs, specifically focusing on why certain actions or outcomes might be undesirable. For example, given a text input about t",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "undesirablereasons-2025.12.21151640.tar.gz",
+  "download_time": "2025-12-21T15:31:32.307081",
+  "package_url": "https://pypi.org/project/undesirablereasons/"
+}

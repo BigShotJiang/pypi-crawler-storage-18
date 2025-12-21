@@ -1,11 +1,11 @@
 {
   "name": "loxone-api",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "Async client for the Loxone Miniserver",
   "author": "Tim",
   "license": null,
   "home_page": null,
-  "download_filename": "loxone_api-0.1.24.tar.gz",
-  "download_time": "2025-12-21T15:13:57.718835",
+  "download_filename": "loxone_api-0.1.25.tar.gz",
+  "download_time": "2025-12-21T15:31:32.838562",
   "package_url": "https://pypi.org/project/loxone-api/"
 }

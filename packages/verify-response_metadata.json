@@ -1,0 +1,11 @@
+{
+  "name": "verify-response",
+  "version": "2025.12.21152239",
+  "summary": "A new package enables users to provide text inputs and receive reliably structured responses that clearly present key information with confidence indicators, reducing misunderstanding and overconfiden",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "verify_response-2025.12.21152239.tar.gz",
+  "download_time": "2025-12-21T15:31:26.383544",
+  "package_url": "https://pypi.org/project/verify-response/"
+}

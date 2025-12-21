@@ -1,0 +1,11 @@
+{
+  "name": "gdnox",
+  "version": "0.1.1",
+  "summary": "Undetectable browser automation library with stealth features, closed Shadow DOM access, and antibot bypass capabilities",
+  "author": "Rafael",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "home_page": "https://github.com/rafaelgdn/GDNox",
+  "download_filename": "gdnox-0.1.1.tar.gz",
+  "download_time": "2025-12-21T15:31:25.286728",
+  "package_url": "https://pypi.org/project/gdnox/"
+}

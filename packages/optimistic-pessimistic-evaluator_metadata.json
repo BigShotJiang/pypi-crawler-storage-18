@@ -1,0 +1,11 @@
+{
+  "name": "optimistic-pessimistic-evaluator",
+  "version": "2025.12.21151045",
+  "summary": "A new package is designed to facilitate structured evaluation of a system's performance comparison between optimistic and pessimistic approaches. It takes a textual description or data snippet as inpu",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optimistic_pessimistic_evaluator-2025.12.21151045.tar.gz",
+  "download_time": "2025-12-21T15:31:46.804756",
+  "package_url": "https://pypi.org/project/optimistic-pessimistic-evaluator/"
+}

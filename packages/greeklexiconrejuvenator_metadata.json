@@ -1,0 +1,11 @@
+{
+  "name": "greeklexiconrejuvenator",
+  "version": "2025.12.21151932",
+  "summary": "A new package designed to analyze user-provided text about ancient Greek terms and generate a structured summary highlighting terms that should be revitalized in modern language. It leverages pattern",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greeklexiconrejuvenator-2025.12.21151932.tar.gz",
+  "download_time": "2025-12-21T15:31:28.051817",
+  "package_url": "https://pypi.org/project/greeklexiconrejuvenator/"
+}

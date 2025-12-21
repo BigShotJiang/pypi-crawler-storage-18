@@ -1,20 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T15:14:34.371753
-- **Total Packages**: 80
-- **Total Size**: 23.34 MB
+- **Download Time**: 2025-12-21T15:32:06.037439
+- **Total Packages**: 78
+- **Total Size**: 24.15 MB
 
 ## Packages List
-- airbornehrs
+- cppmake
+- spark-llm-eval
+- cppmakelib
+- rpyc-pve-cloud
+- pytest-pve-cloud
+- storey
+- sqlite-column-sentry
+- kish
+- jeremydimond.pygamesim
+- gdnox
+- waveassist
+- verify-response
+- ha-mcp
+- pluto-ai
+- greeklexiconrejuvenator
+- mcp-vector-search
+- transformer-cloner
+- cloudcheck
 - py-pve-cloud
+- vlm-recog
+- undesirablereasons
+- loxone-api
+- swarmpython
+- rumdl
+- stewiedev-hello
+- moddingtextparser
+- lean-lsp-mcp
+- pancakeswap-universal-router-decoder
+- jeremydimond.pymlga
+- mizutsune-taobaosearch-mcp-server
+- stats-tdd-lab
+- retab
+- docu-ocr-engine
+- xcomponent
+- rdworks
+- htmlgraph
+- just-bin
+- zensical
+- data-wise-location-mcp-server
+- telegram-dsl
+- lumigo-opentelemetry
+- darkstrata-credential-check
+- hiearch
+- optimistic-pessimistic-evaluator
+- rdkit-dof
+- airbornehrs
 - rossetta-fastapi
 - enigmapython
-- darkstrata-credential-check
 - rails-delegated-analyzer
 - wordly
 - lattica-polymorph
-- data-wise-location-mcp-server
 - vellum-workflow-server
 - pyrokid-cxr-clientm
 - claude-mira3
@@ -22,14 +64,10 @@
 - usb-remote
 - cmdbox
 - darren-utils
-- mizutsune-taobaosearch-mcp-server
-- loxone-api
 - PyTextTable
 - qagentic-pytest
 - news-summarizer
 - amlgym
-- rpyc-pve-cloud
-- pytest-pve-cloud
 - opendraft
 - DensityFlowMO
 - drm-protect
@@ -37,7 +75,6 @@
 - portpilot
 - perfbenchify
 - aiobmsble
-- retab
 - logzai-otlp
 - onnx2tf
 - timed-prompt
@@ -47,42 +84,3 @@
 - sklearn-compat
 - znum
 - hcaptcha-challenger
-- typed-linq-collections
-- docu-ocr-engine
-- b3quant
-- structuredxtract
-- setup-fleet-mcp
-- blocket-api
-- metabOmics
-- fluxcrud
-- grove-cli
-- legit-api-client
-- twrate
-- nshogi
-- rich-click
-- adaptive-router-py
-- preact-codegen
-- python-invar
-- fal-mcp-server
-- xpander-sdk
-- gault
-- htree
-- autodeploydocker
-- robbuffet
-- tofu-tree
-- chqr
-- psleak
-- rds-proxy-password-rotation
-- wisent
-- essen_BJS
-- gameconcept-analyzer
-- yirifi-ops-mcp-hub
-- esse_BJS
-- SAMBA-ilum
-- imagejenerator
-- ymery
-- vibe-analyzer
-- superwise-api
-- aerri-ai
-- animtoreal
-- mathyBJS
