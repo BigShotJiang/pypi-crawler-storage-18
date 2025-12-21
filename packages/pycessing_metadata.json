@@ -1,0 +1,11 @@
+{
+  "name": "pycessing",
+  "version": "0.0.2",
+  "summary": "PYTHON module trying to implement PROCESSING in PYTHON via PYGAME.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycessing-0.0.2.tar.gz",
+  "download_time": "2025-12-21T18:48:25.222918",
+  "package_url": "https://pypi.org/project/pycessing/"
+}

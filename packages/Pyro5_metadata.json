@@ -1,0 +1,11 @@
+{
+  "name": "Pyro5",
+  "version": "5.16",
+  "summary": "Remote object communication library, fifth major version",
+  "author": "Irmen de Jong",
+  "license": "MIT",
+  "home_page": "https://github.com/irmen/Pyro5",
+  "download_filename": "pyro5-5.16.tar.gz",
+  "download_time": "2025-12-21T18:47:55.240220",
+  "package_url": "https://pypi.org/project/Pyro5/"
+}

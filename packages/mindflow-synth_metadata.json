@@ -1,0 +1,11 @@
+{
+  "name": "mindflow-synth",
+  "version": "2025.12.21184613",
+  "summary": "mindflow-synth extracts and structures insights on deep focus and flow from text, providing consistent, actionable summaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mindflow_synth-2025.12.21184613.tar.gz",
+  "download_time": "2025-12-21T18:47:41.401755",
+  "package_url": "https://pypi.org/project/mindflow-synth/"
+}

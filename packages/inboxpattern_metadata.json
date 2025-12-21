@@ -1,0 +1,11 @@
+{
+  "name": "inboxpattern",
+  "version": "2025.12.21181804",
+  "summary": "A new package that helps users and organizations analyze and categorize email account usage patterns. The package takes user-submitted text input describing their email management habits and returns a",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inboxpattern-2025.12.21181804.tar.gz",
+  "download_time": "2025-12-21T18:48:17.692984",
+  "package_url": "https://pypi.org/project/inboxpattern/"
+}

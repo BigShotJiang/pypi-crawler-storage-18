@@ -1,0 +1,11 @@
+{
+  "name": "fractal-categorizer",
+  "version": "2025.12.21180718",
+  "summary": "A new package that processes user-provided text descriptions of fractal patterns, cellular automata configurations, or similar generative systems, and returns structured analyses or classifications. F",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractal_categorizer-2025.12.21180718.tar.gz",
+  "download_time": "2025-12-21T18:48:27.443367",
+  "package_url": "https://pypi.org/project/fractal-categorizer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logference",
+  "version": "2025.12.21182056",
+  "summary": "A new package would process user complaints or descriptions about logging systems, extracting structured insights such as common pain points, root causes, or improvement suggestions. It uses an LLM to",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logference-2025.12.21182056.tar.gz",
+  "download_time": "2025-12-21T18:48:11.800792",
+  "package_url": "https://pypi.org/project/logference/"
+}

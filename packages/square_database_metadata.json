@@ -1,0 +1,11 @@
+{
+  "name": "square_database",
+  "version": "3.4.0",
+  "summary": "database layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_database-3.4.0.tar.gz",
+  "download_time": "2025-12-21T18:47:54.715105",
+  "package_url": "https://pypi.org/project/square_database/"
+}

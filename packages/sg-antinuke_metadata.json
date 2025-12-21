@@ -1,0 +1,11 @@
+{
+  "name": "sg-antinuke",
+  "version": "0.1.0",
+  "summary": "Reusable Anti-Nuke Discord cog from SassGuard",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "sg_antinuke-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-12-21T18:47:59.505786",
+  "package_url": "https://pypi.org/project/sg-antinuke/"
+}

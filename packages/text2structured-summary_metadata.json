@@ -1,0 +1,11 @@
+{
+  "name": "text2structured-summary",
+  "version": "2025.12.21183445",
+  "summary": "text2structured-summary generates structured summaries from unstructured text using an LLM.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text2structured_summary-2025.12.21183445.tar.gz",
+  "download_time": "2025-12-21T18:47:53.154989",
+  "package_url": "https://pypi.org/project/text2structured-summary/"
+}

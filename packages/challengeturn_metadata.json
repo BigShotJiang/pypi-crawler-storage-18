@@ -1,0 +1,11 @@
+{
+  "name": "challengeturn",
+  "version": "2025.12.21183136",
+  "summary": "A new package that analyzes user input text to determine if it expresses a challenge or a statement of inability, and returns a structured, encouraging response. It uses pattern matching to identify p",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "challengeturn-2025.12.21183136.tar.gz",
+  "download_time": "2025-12-21T18:47:58.379879",
+  "package_url": "https://pypi.org/project/challengeturn/"
+}

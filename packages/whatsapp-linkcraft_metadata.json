@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-linkcraft",
+  "version": "2025.12.21183621",
+  "summary": "whatsapp-linkcraft generates validated WhatsApp chat links from phone numbers using an LLM, handling formatting and errors automatically for clickable URLs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatsapp_linkcraft-2025.12.21183621.tar.gz",
+  "download_time": "2025-12-21T18:47:51.550995",
+  "package_url": "https://pypi.org/project/whatsapp-linkcraft/"
+}

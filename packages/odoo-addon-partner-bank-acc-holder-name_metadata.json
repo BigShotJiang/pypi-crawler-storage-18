@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-bank-acc-holder-name",
+  "version": "18.0.1.0.0.2",
+  "summary": "Show the account holder name field on bank accounts",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_bank_acc_holder_name-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-21T18:48:18.216544",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-bank-acc-holder-name/"
+}

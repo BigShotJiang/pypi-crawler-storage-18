@@ -1,0 +1,11 @@
+{
+  "name": "tracium",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the Tracium telemetry and evaluation API. Automatic tracing for OpenAI, Anthropic, Google Gemini, LangChain, and LangGraph.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracium-0.1.0.tar.gz",
+  "download_time": "2025-12-21T18:48:18.755129",
+  "package_url": "https://pypi.org/project/tracium/"
+}
