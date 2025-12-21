@@ -1,57 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T13:05:26.461589
+- **Download Time**: 2025-12-21T13:38:27.376730
 - **Total Packages**: 93
-- **Total Size**: 28.78 MB
+- **Total Size**: 13.05 MB
 
 ## Packages List
-- hamtaa-batch-runner
-- zymmr-client
-- chguard
-- typhonlint-threadsafe
-- fastapi-voyager
-- lexigram-web
-- lexigram-tasks
-- scriptbook
-- lexigram-storage
-- metabOmics
-- lexigram-starters
-- minting
-- lexigram-search
-- webhdfsmagic
-- lexigram-runtime
-- nshogi-dev
-- lexigram-policy
-- lexigram-monitor
-- lexigram-messaging
-- lexigram-intelligence
-- lexigram-graphql
-- lexigram-framework
-- lexigram-events
-- search-bikeshed
-- hamtaa-texttools
-- transitmaplint
-- xync-client
-- athenah-ai
-- lexigram
-- news-structurize
-- ribbitxdb
-- fmtr.tools
-- webtoolkit
-- selfmemory
-- fastapi-boot
-- superset-chat
-- nselib
-- tensorcircuit-nightly
-- lyzr-agents
-- portpilot
-- notifex
-- django-grpc-framework-plus
-- lazyclaude
-- krazy
-- pb2
-- nlboard
 - pymc
 - power-grid-model
 - evative7-test-pkg
@@ -60,6 +14,7 @@
 - fast-agent-acp
 - fast-agent-mcp
 - py-adtools
+- portpilot
 - budgetscribe
 - mlx-omni-server
 - vboxinit
@@ -82,6 +37,7 @@
 - b3quant
 - coinsignal
 - aimodelshare
+- selfmemory
 - gymnasium-sudoku
 - pyclupan
 - insightminer
@@ -94,8 +50,52 @@
 - transpatter
 - volta-framework
 - hooktest-fin
+- lyzr-agents
 - dorky-app
+- ribbitxdb
 - unifyai
 - fintextract
 - remnapy
 - JJprinter
+- entari-plugin-hyw
+- opkit
+- sutras
+- storey
+- mlserve-sdk
+- mlflow-skinny
+- pybotchi
+- llamafactory-ascend
+- dvt-core
+- netbox-contract
+- metabOmics
+- mlflow-tracing
+- asynctasq
+- pyrig
+- django-azure-communication-email
+- hanzo-mcp
+- typed-linq-collections
+- locknkeycmd
+- announceexctractor
+- fast-generic-api
+- PySyriatel
+- api-foundry
+- oncocyrix
+- nocaplang
+- chemistryai
+- matrice-streaming
+- green-invoice
+- hallyd
+- multi-broker-sdk
+- decentralized-summarizer
+- gsheetstables
+- mindspeed-rl
+- market-tickers
+- compass_api_sdk
+- MRArbGrad
+- a2a-llm-tracker
+- carbonara
+- pypas-cli
+- aerri-ai
+- shareddata
+- vibetuner
+- mindspeed-llm

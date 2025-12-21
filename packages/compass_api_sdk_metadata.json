@@ -1,11 +1,11 @@
 {
   "name": "compass_api_sdk",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "summary": "Compass API SDK.",
   "author": "royalnine",
   "license": null,
   "home_page": "https://github.com/CompassLabs/mono.git",
-  "download_filename": "compass_api_sdk-2.0.18.tar.gz",
-  "download_time": "2025-12-21T12:27:26.744271",
+  "download_filename": "compass_api_sdk-2.0.19.tar.gz",
+  "download_time": "2025-12-21T13:38:22.490100",
   "package_url": "https://pypi.org/project/compass_api_sdk/"
 }
