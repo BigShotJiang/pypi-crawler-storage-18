@@ -1,0 +1,11 @@
+{
+  "name": "foodtrend-analyzer",
+  "version": "2025.12.21184951",
+  "summary": "Analyze and summarize food trends from text inputs, extracting key points and identifying patterns.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foodtrend_analyzer-2025.12.21184951.tar.gz",
+  "download_time": "2025-12-21T19:11:26.406839",
+  "package_url": "https://pypi.org/project/foodtrend-analyzer/"
+}

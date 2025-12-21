@@ -1,11 +1,11 @@
 {
   "name": "memorer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for Memorer - Intelligent Memory for AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memorer-0.1.0.tar.gz",
-  "download_time": "2025-12-21T11:28:14.502109",
+  "download_filename": "memorer-0.1.1.tar.gz",
+  "download_time": "2025-12-21T19:11:20.985164",
   "package_url": "https://pypi.org/project/memorer/"
 }
