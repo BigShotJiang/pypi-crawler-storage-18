@@ -1,0 +1,11 @@
+{
+  "name": "intentpy",
+  "version": "0.1.0",
+  "summary": "Declarative intent-based execution with preconditions, fallbacks, and nested intent tracing",
+  "author": "Siddhant Sukhatankar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "intentpy-0.1.0.tar.gz",
+  "download_time": "2025-12-21T23:13:59.632230",
+  "package_url": "https://pypi.org/project/intentpy/"
+}

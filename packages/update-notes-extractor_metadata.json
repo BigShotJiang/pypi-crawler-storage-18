@@ -1,0 +1,11 @@
+{
+  "name": "update-notes-extractor",
+  "version": "2025.12.21225744",
+  "summary": "update-notes-extractor is a package that extracts and structures release notes from software updates for easy, standardized, machine-readable summaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "update_notes_extractor-2025.12.21225744.tar.gz",
+  "download_time": "2025-12-21T23:14:03.741176",
+  "package_url": "https://pypi.org/project/update-notes-extractor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tech-insights-extractor",
+  "version": "2025.12.21230046",
+  "summary": "tech-insights-extractor summarizes tech breakthroughs, extracts key innovations, and categorizes advances from user text using LLM prompts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tech_insights_extractor-2025.12.21230046.tar.gz",
+  "download_time": "2025-12-21T23:14:01.175093",
+  "package_url": "https://pypi.org/project/tech-insights-extractor/"
+}

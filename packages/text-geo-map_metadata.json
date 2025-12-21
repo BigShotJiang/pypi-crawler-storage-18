@@ -1,0 +1,11 @@
+{
+  "name": "text-geo-map",
+  "version": "2025.12.21225445",
+  "summary": "text-geo-map turns plain text location descriptions into standardized geospatial data for interactive maps.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "text_geo_map-2025.12.21225445.tar.gz",
+  "download_time": "2025-12-21T23:14:07.393405",
+  "package_url": "https://pypi.org/project/text-geo-map/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rankextractplus",
+  "version": "2025.12.21231046",
+  "summary": "rankextractplus extracts and structures ranked info from text, organizing data for easier comparison and analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rankextractplus-2025.12.21231046.tar.gz",
+  "download_time": "2025-12-21T23:13:49.080806",
+  "package_url": "https://pypi.org/project/rankextractplus/"
+}

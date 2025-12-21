@@ -1,0 +1,11 @@
+{
+  "name": "phenomenon-interpreter",
+  "version": "2025.12.21230657",
+  "summary": "phenomenon-interpreter analyzes textual descriptions of natural events to generate structured summaries or classifications automatically",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phenomenon_interpreter-2025.12.21230657.tar.gz",
+  "download_time": "2025-12-21T23:13:52.237208",
+  "package_url": "https://pypi.org/project/phenomenon-interpreter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygdtf",
+  "version": "1.4.2",
+  "summary": "General Device Type Format (GDTF) library for Python",
+  "author": "Jack Page",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygdtf-1.4.2-py3-none-any.whl",
+  "download_time": "2025-12-21T23:14:05.793781",
+  "package_url": "https://pypi.org/project/pygdtf/"
+}

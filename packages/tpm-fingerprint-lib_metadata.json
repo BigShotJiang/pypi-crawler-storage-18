@@ -1,0 +1,11 @@
+{
+  "name": "tpm-fingerprint-lib",
+  "version": "1.0.0",
+  "summary": "Comprehensive TPM-based device fingerprinting with cryptographically enforced governance",
+  "author": "TPM Fingerprint Library",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tpm-fingerprint-lib",
+  "download_filename": "tpm_fingerprint_lib-1.0.0.tar.gz",
+  "download_time": "2025-12-21T23:14:12.038421",
+  "package_url": "https://pypi.org/project/tpm-fingerprint-lib/"
+}

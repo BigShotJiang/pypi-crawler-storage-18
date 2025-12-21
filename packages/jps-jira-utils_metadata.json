@@ -1,11 +1,11 @@
 {
   "name": "jps-jira-utils",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "Collection of Python scripts for interacting with Jira tickets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jps_jira_utils-0.6.0.tar.gz",
-  "download_time": "2025-12-21T22:34:58.941189",
+  "download_filename": "jps_jira_utils-0.8.0.tar.gz",
+  "download_time": "2025-12-21T23:14:00.664219",
   "package_url": "https://pypi.org/project/jps-jira-utils/"
 }
