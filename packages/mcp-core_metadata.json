@@ -1,11 +1,11 @@
 {
   "name": "mcp-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Open source interface for building MCP servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_core-0.1.0.tar.gz",
-  "download_time": "2025-12-20T17:44:34.582793",
+  "download_filename": "mcp_core-0.1.1.tar.gz",
+  "download_time": "2025-12-21T05:42:27.585823",
   "package_url": "https://pypi.org/project/mcp-core/"
 }

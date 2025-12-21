@@ -1,0 +1,11 @@
+{
+  "name": "msgmodel",
+  "version": "4.0.0",
+  "summary": "Unified Python library for interacting with LLM providers (OpenAI, Gemini, Anthropic Claude). Simple, consistent syntax with stateless design.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msgmodel-4.0.0.tar.gz",
+  "download_time": "2025-12-21T05:42:37.902854",
+  "package_url": "https://pypi.org/project/msgmodel/"
+}

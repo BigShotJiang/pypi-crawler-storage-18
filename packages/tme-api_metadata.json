@@ -1,0 +1,11 @@
+{
+  "name": "tme-api",
+  "version": "1.0.1",
+  "summary": "tme_api",
+  "author": "lds",
+  "license": "GNU GPL 3",
+  "home_page": "https://github.com/ldsxp/tme_api",
+  "download_filename": "tme_api-1.0.1.tar.gz",
+  "download_time": "2025-12-21T05:42:35.178066",
+  "package_url": "https://pypi.org/project/tme-api/"
+}

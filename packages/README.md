@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T05:16:27.032451
-- **Total Packages**: 75
-- **Total Size**: 25.71 MB
+- **Download Time**: 2025-12-21T05:43:06.103719
+- **Total Packages**: 79
+- **Total Size**: 14.28 MB
 
 ## Packages List
+- dash-pydantic-form
+- dash-pydantic-utils
+- rwkv-emb
+- state-machine-amz-py
+- plotspec
+- usso
+- nsip-skills
+- nsip-mcp-server
+- zfslib
+- mcp-core
+- nsip-client
+- mypy-protobuf
+- mocksmith
+- holoviz-mcp
+- ant-ray-cpp-nightly
+- fastapi-fullstack
+- newrelic-sb-sdk
+- jbom
+- artificer-agents
+- compose-farm
+- pybrsa
+- tme-api
+- pyside-cli
+- pulse-python-sdk
+- aifoundary
+- source-atlas
+- msgmodel
+- hai-sh
 - miiflow-llm
 - srcly
 - AstrBot
@@ -14,7 +42,6 @@
 - robotpy-pykit
 - discrete-fourier
 - web-scraper-toolkit
-- plotspec
 - trending
 - device-fingerprinting-pro
 - adaptivegears
@@ -30,13 +57,9 @@
 - threefive
 - SRTfu
 - auto-schema
-- nsip-skills
 - db-connect-mcp
-- nsip-mcp-server
-- nsip-client
 - tenuo
 - preview-server
-- compose-farm
 - gridvoting-jax
 - metalq
 - mp-tunnel
@@ -62,22 +85,3 @@
 - cilow
 - obra
 - textual-capture
-- crml-engine
-- JCer
-- paramath-lang
-- pyridescence
-- zfslib
-- pulumi-juniper-mist
-- keras-nightly
-- typed-envs
-- constcheck
-- chakra-qml
-- openjiuwen
-- basic-memory-hooks
-- f5xc-py-substrate
-- pyside-cli
-- pulumi-vault
-- claude-mira
-- beancode
-- pytrilogy
-- ligo.skymap

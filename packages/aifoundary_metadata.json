@@ -1,0 +1,11 @@
+{
+  "name": "aifoundary",
+  "version": "3.1.0",
+  "summary": "AI Operating Control Plane with RAG governance, MCP authorization, and audit-grade decision reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aifoundary-3.1.0.tar.gz",
+  "download_time": "2025-12-21T05:42:36.854885",
+  "package_url": "https://pypi.org/project/aifoundary/"
+}

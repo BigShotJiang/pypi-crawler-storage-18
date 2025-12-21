@@ -1,0 +1,11 @@
+{
+  "name": "state-machine-amz-py",
+  "version": "0.0.1",
+  "summary": "A powerful, extensible Amazon States Language based FSM implementation for Python with PostgreSQL persistence",
+  "author": "Hussain Pithawala",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "state_machine_amz_py-0.0.1.tar.gz",
+  "download_time": "2025-12-21T05:42:24.381485",
+  "package_url": "https://pypi.org/project/state-machine-amz-py/"
+}
