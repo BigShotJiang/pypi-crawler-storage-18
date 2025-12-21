@@ -1,0 +1,11 @@
+{
+  "name": "preact-codegen",
+  "version": "2025.12.21144856",
+  "summary": "A new package that helps developers quickly set up Preact applications without needing a complex build configuration. Users can describe their application requirements in plain text, including desired",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "preact_codegen-2025.12.21144856.tar.gz",
+  "download_time": "2025-12-21T15:14:20.356738",
+  "package_url": "https://pypi.org/project/preact-codegen/"
+}

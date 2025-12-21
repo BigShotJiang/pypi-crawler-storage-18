@@ -1,0 +1,11 @@
+{
+  "name": "htree",
+  "version": "4.0.0",
+  "summary": "A library for tree reading, embedding, and analysis of phylogenetic trees",
+  "author": "Puoya Tabaghi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "htree-4.0.0.tar.gz",
+  "download_time": "2025-12-21T15:14:23.096319",
+  "package_url": "https://pypi.org/project/htree/"
+}

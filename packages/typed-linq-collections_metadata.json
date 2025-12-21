@@ -1,11 +1,11 @@
 {
   "name": "typed-linq-collections",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "summary": "Complete LINQ, language integrated query, implementation for Python with full type annotations, comprehensive documentation, 100% test coverage, and queryable drop in replacements for the builtin collection types.",
   "author": "Magnus Lidbom",
   "license": null,
   "home_page": null,
-  "download_filename": "typed_linq_collections-0.9.6.tar.gz",
-  "download_time": "2025-12-21T12:27:17.457928",
+  "download_filename": "typed_linq_collections-0.9.7.tar.gz",
+  "download_time": "2025-12-21T15:14:12.307087",
   "package_url": "https://pypi.org/project/typed-linq-collections/"
 }

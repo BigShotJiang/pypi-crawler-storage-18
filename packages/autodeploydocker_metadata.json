@@ -1,0 +1,11 @@
+{
+  "name": "autodeploydocker",
+  "version": "2025.12.21144536",
+  "summary": "A new package that simplifies the deployment of Docker and Docker Compose applications to servers without requiring configuration changes or causing downtime. It automates the process, making it acces",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autodeploydocker-2025.12.21144536.tar.gz",
+  "download_time": "2025-12-21T15:14:23.636908",
+  "package_url": "https://pypi.org/project/autodeploydocker/"
+}

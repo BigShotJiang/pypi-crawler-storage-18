@@ -1,11 +1,11 @@
 {
   "name": "qagentic-pytest",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "AI-Powered Test Intelligence SDK for Python - pytest plugin with automatic failure analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qagentic_pytest-0.1.2.tar.gz",
-  "download_time": "2025-12-21T14:33:29.359314",
+  "download_filename": "qagentic_pytest-0.1.3.tar.gz",
+  "download_time": "2025-12-21T15:13:58.866899",
   "package_url": "https://pypi.org/project/qagentic-pytest/"
 }

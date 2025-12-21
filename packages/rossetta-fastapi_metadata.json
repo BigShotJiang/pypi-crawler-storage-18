@@ -1,0 +1,11 @@
+{
+  "name": "rossetta-fastapi",
+  "version": "0.1.0",
+  "summary": "Zero-config network request obfuscation middleware for FastAPI - protect your APIs from reverse engineering",
+  "author": "Rossetta API Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yiheinchai/rossetta-api",
+  "download_filename": "rossetta_fastapi-0.1.0.tar.gz",
+  "download_time": "2025-12-21T15:13:48.647810",
+  "package_url": "https://pypi.org/project/rossetta-fastapi/"
+}

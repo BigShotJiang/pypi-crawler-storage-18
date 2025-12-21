@@ -1,0 +1,11 @@
+{
+  "name": "perfbenchify",
+  "version": "2025.12.21145744",
+  "summary": "A new package that transforms unstructured text descriptions of software performance benchmarks into standardized, comparable metrics. Users input text descriptions of performance tests, and the packa",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "perfbenchify-2025.12.21145744.tar.gz",
+  "download_time": "2025-12-21T15:14:05.229152",
+  "package_url": "https://pypi.org/project/perfbenchify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "robbuffet",
+  "version": "0.2",
+  "summary": "Conformal prediction and robust decision-making toolkit (PyTorch + CVXPY)",
+  "author": "Yash Patel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "robbuffet-0.2.tar.gz",
+  "download_time": "2025-12-21T15:14:24.698458",
+  "package_url": "https://pypi.org/project/robbuffet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nshogi",
+  "version": "0.2.1",
+  "summary": "nshogi Python library",
+  "author": "nyashiki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nshogi-0.2.1.tar.gz",
+  "download_time": "2025-12-21T15:14:18.664512",
+  "package_url": "https://pypi.org/project/nshogi/"
+}

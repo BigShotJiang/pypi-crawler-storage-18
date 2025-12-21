@@ -1,0 +1,11 @@
+{
+  "name": "vibe-analyzer",
+  "version": "2025.12.21143555",
+  "summary": "A new package that analyzes user-provided text to detect and categorize the overall emotional tone or 'vibe' of the content. It processes input text and returns a structured summary of the detected em",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibe_analyzer-2025.12.21143555.tar.gz",
+  "download_time": "2025-12-21T15:14:31.724812",
+  "package_url": "https://pypi.org/project/vibe-analyzer/"
+}

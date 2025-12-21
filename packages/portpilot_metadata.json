@@ -1,11 +1,11 @@
 {
   "name": "portpilot",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Interactive terminal port manager for developers",
   "author": "Emre Çalışkan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "portpilot-0.1.2.tar.gz",
-  "download_time": "2025-12-21T13:04:57.194755",
+  "download_filename": "portpilot-0.1.3.tar.gz",
+  "download_time": "2025-12-21T15:14:04.620792",
   "package_url": "https://pypi.org/project/portpilot/"
 }

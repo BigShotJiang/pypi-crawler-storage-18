@@ -1,0 +1,11 @@
+{
+  "name": "gameconcept-analyzer",
+  "version": "2025.12.21143849",
+  "summary": "A new package that processes user-submitted text descriptions of local multiplayer party game concepts and returns structured feedback or suggestions. It helps game developers or enthusiasts by analyz",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gameconcept_analyzer-2025.12.21143849.tar.gz",
+  "download_time": "2025-12-21T15:14:28.513581",
+  "package_url": "https://pypi.org/project/gameconcept-analyzer/"
+}

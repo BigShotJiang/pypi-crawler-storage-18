@@ -1,0 +1,11 @@
+{
+  "name": "news-summarizer",
+  "version": "2025.12.21150146",
+  "summary": "A new package designed to facilitate the generation of structured summaries and insights from user-provided news headlines or short articles. It uses pattern matching to ensure responses are consisten",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "news_summarizer-2025.12.21150146.tar.gz",
+  "download_time": "2025-12-21T15:13:59.475395",
+  "package_url": "https://pypi.org/project/news-summarizer/"
+}

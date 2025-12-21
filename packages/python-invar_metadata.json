@@ -1,0 +1,11 @@
+{
+  "name": "python-invar",
+  "version": "0.5.0",
+  "summary": "AI-native software engineering framework with design-by-contract",
+  "author": "Invar Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_invar-0.5.0.tar.gz",
+  "download_time": "2025-12-21T15:14:20.900092",
+  "package_url": "https://pypi.org/project/python-invar/"
+}

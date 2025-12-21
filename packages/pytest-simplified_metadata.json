@@ -1,0 +1,11 @@
+{
+  "name": "pytest-simplified",
+  "version": "1.0.0rc2",
+  "summary": "A PyTest plugin to simplify testing classes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_simplified-1.0.0rc2.tar.gz",
+  "download_time": "2025-12-21T15:14:04.015194",
+  "package_url": "https://pypi.org/project/pytest-simplified/"
+}
