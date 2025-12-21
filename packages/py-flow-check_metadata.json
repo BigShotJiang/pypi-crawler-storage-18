@@ -1,0 +1,11 @@
+{
+  "name": "py-flow-check",
+  "version": "1.0.0",
+  "summary": "Detect logical flow bugs in Python code using static analysis",
+  "author": "Sourav Parija",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_flow_check-1.0.0.tar.gz",
+  "download_time": "2025-12-21T04:07:55.667433",
+  "package_url": "https://pypi.org/project/py-flow-check/"
+}

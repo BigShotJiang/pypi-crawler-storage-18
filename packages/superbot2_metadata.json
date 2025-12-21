@@ -1,0 +1,11 @@
+{
+  "name": "superbot2",
+  "version": "0.1.0",
+  "summary": "A modular robotics framework for controlling various robots",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superbot2-0.1.0.tar.gz",
+  "download_time": "2025-12-21T04:08:03.163463",
+  "package_url": "https://pypi.org/project/superbot2/"
+}

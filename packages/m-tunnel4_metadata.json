@@ -1,0 +1,11 @@
+{
+  "name": "m-tunnel4",
+  "version": "4.0.3",
+  "summary": "Tunnel System V4 - Cloudflare Workers based tunnel system",
+  "author": "Tunnel System Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tunnel-v4",
+  "download_filename": "m_tunnel4-4.0.3.tar.gz",
+  "download_time": "2025-12-21T04:08:15.242369",
+  "package_url": "https://pypi.org/project/m-tunnel4/"
+}

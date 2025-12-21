@@ -1,0 +1,11 @@
+{
+  "name": "pyhartig",
+  "version": "0.2.0",
+  "summary": "A Python implementation of Olaf Hartig's algebra for Knowledge Graph Construction. Developed for the 'Engineering For Research I' course (M1 SMART Computing) at Nantes Université (LS2N - GDD Team).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhartig-0.2.0.tar.gz",
+  "download_time": "2025-12-21T04:07:59.725359",
+  "package_url": "https://pypi.org/project/pyhartig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-heart-locker",
+  "version": "1.1",
+  "summary": "Python process locker to avoid repeatedly executing the same script at the same time",
+  "author": "EXP",
+  "license": null,
+  "home_page": "https://github.com/EXP-Codes/py-heart-locker",
+  "download_filename": "py_heart_locker-1.1.tar.gz",
+  "download_time": "2025-12-21T04:07:54.511751",
+  "package_url": "https://pypi.org/project/py-heart-locker/"
+}

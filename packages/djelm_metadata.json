@@ -1,0 +1,11 @@
+{
+  "name": "djelm",
+  "version": "0.22.5",
+  "summary": "A framework for using Elm programs in a Django project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djelm-0.22.5.tar.gz",
+  "download_time": "2025-12-21T04:07:37.542956",
+  "package_url": "https://pypi.org/project/djelm/"
+}

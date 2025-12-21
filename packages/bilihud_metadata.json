@@ -1,0 +1,11 @@
+{
+  "name": "bilihud",
+  "version": "0.1.1",
+  "summary": "B站弹幕阅读器 - 一个可以在游戏全屏时显示弹幕的Qt应用程序",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bilihud-0.1.1.tar.gz",
+  "download_time": "2025-12-21T04:08:02.586496",
+  "package_url": "https://pypi.org/project/bilihud/"
+}

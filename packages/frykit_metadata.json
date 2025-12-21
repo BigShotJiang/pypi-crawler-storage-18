@@ -1,0 +1,11 @@
+{
+  "name": "frykit",
+  "version": "0.8.0",
+  "summary": "A simple toolbox for Matplotib and Cartopy",
+  "author": "ZhaJiMan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frykit-0.8.0.tar.gz",
+  "download_time": "2025-12-21T04:07:39.307339",
+  "package_url": "https://pypi.org/project/frykit/"
+}
