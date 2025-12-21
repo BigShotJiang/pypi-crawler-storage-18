@@ -1,0 +1,11 @@
+{
+  "name": "torch-brain",
+  "version": "0.1.0",
+  "summary": "A package for deep learning models for neuroscience",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "torch_brain-0.1.0.tar.gz",
+  "download_time": "2025-12-21T20:15:50.550360",
+  "package_url": "https://pypi.org/project/torch-brain/"
+}

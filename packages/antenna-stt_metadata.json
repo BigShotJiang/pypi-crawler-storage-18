@@ -1,0 +1,11 @@
+{
+  "name": "antenna-stt",
+  "version": "0.3.0",
+  "summary": "Rust-powered Speech-to-Text toolkit with Whisper, Distil-Whisper, and streaming transcription",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "antenna_stt-0.3.0.tar.gz",
+  "download_time": "2025-12-21T20:15:57.517093",
+  "package_url": "https://pypi.org/project/antenna-stt/"
+}

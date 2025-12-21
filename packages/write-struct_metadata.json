@@ -1,0 +1,11 @@
+{
+  "name": "write-struct",
+  "version": "2025.12.21200316",
+  "summary": "write-struct transforms user-submitted text into structured, formatted content for improved readability and consistency.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "write_struct-2025.12.21200316.tar.gz",
+  "download_time": "2025-12-21T20:15:51.721534",
+  "package_url": "https://pypi.org/project/write-struct/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "perf-metric-xtr",
+  "version": "2025.12.21195642",
+  "summary": "perf-metric-xtr extracts key performance metrics from tech announcements and outputs standardized summaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "perf_metric_xtr-2025.12.21195642.tar.gz",
+  "download_time": "2025-12-21T20:15:58.541434",
+  "package_url": "https://pypi.org/project/perf-metric-xtr/"
+}

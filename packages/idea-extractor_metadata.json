@@ -1,0 +1,11 @@
+{
+  "name": "idea-extractor",
+  "version": "2025.12.21195340",
+  "summary": "idea-extractor extracts, categorizes, and scores high‑impact software ideas from forum discussions, outputting themes, feasibility and market impact.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "idea_extractor-2025.12.21195340.tar.gz",
+  "download_time": "2025-12-21T20:16:02.144884",
+  "package_url": "https://pypi.org/project/idea-extractor/"
+}

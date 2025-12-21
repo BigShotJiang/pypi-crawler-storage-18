@@ -1,11 +1,11 @@
 {
   "name": "postgres-graph-rag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lean GraphRAG library using Postgres/pgvector as the sole database",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "postgres_graph_rag-0.1.0.tar.gz",
-  "download_time": "2025-12-21T17:48:39.100563",
+  "download_filename": "postgres_graph_rag-0.1.1.tar.gz",
+  "download_time": "2025-12-21T20:16:00.098606",
   "package_url": "https://pypi.org/project/postgres-graph-rag/"
 }

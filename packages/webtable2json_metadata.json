@@ -1,11 +1,11 @@
 {
   "name": "webtable2json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Extract HTML tables from webpages and convert them to JSON format",
-  "author": "Your Name",
+  "author": "Raja CSP Raman",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/webtable2json",
-  "download_filename": "webtable2json-1.0.0.tar.gz",
-  "download_time": "2025-12-21T19:49:01.496335",
+  "download_filename": "webtable2json-1.1.0.tar.gz",
+  "download_time": "2025-12-21T20:15:50.038092",
   "package_url": "https://pypi.org/project/webtable2json/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "econ-legalizer",
+  "version": "2025.12.21195956",
+  "summary": "econ-legalizer is a package that extracts structured summaries and insights from text input on regional economic and legal issues.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "econ_legalizer-2025.12.21195956.tar.gz",
+  "download_time": "2025-12-21T20:15:54.362418",
+  "package_url": "https://pypi.org/project/econ-legalizer/"
+}

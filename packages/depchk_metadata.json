@@ -1,11 +1,11 @@
 {
   "name": "depchk",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Dependency version checker that analyzes pyproject.toml files and get upgrade recommendations",
   "author": "Robin Schulz",
   "license": "MIT",
   "home_page": "https://github.com/bulletinmybeard/depchk",
-  "download_filename": "depchk-0.8.0.tar.gz",
-  "download_time": "2025-12-21T10:14:36.293580",
+  "download_filename": "depchk-0.8.1.tar.gz",
+  "download_time": "2025-12-21T20:16:07.379872",
   "package_url": "https://pypi.org/project/depchk/"
 }

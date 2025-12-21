@@ -1,0 +1,11 @@
+{
+  "name": "csrf-sentry",
+  "version": "2025.12.21200926",
+  "summary": "Helps developers implement tailored CSRF protection strategies without tokens, ensuring robust security and easy integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "csrf_sentry-2025.12.21200926.tar.gz",
+  "download_time": "2025-12-21T20:15:45.261959",
+  "package_url": "https://pypi.org/project/csrf-sentry/"
+}

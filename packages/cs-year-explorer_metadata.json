@@ -1,0 +1,11 @@
+{
+  "name": "cs-year-explorer",
+  "version": "2025.12.21200620",
+  "summary": "Access computer science history by year, including major breakthroughs, research papers, and technological advancements.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cs_year_explorer-2025.12.21200620.tar.gz",
+  "download_time": "2025-12-21T20:15:49.527635",
+  "package_url": "https://pypi.org/project/cs-year-explorer/"
+}
