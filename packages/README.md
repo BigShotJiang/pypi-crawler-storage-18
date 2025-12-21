@@ -1,16 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T22:35:27.999563
-- **Total Packages**: 79
-- **Total Size**: 25.89 MB
+- **Download Time**: 2025-12-21T22:50:59.631506
+- **Total Packages**: 81
+- **Total Size**: 7.68 MB
 
 ## Packages List
+- memex-md-mcp
+- KekikStream
+- localargo
+- winidjango
+- gentoolcli
+- beads-mcp
+- nai-t5-wrapper
+- dash-glide-grid
+- laserfarm
+- now-playing-cli
+- inkwell-cli
+- sequel-ag
+- llm-editor
+- pytest-funcnodes
+- spiki
+- ucapi-framework
+- mai-tai-mcp
+- scrapy-seleniumbase-cdp
+- maintsight-pip
+- pyaxml
+- spimdisasm
+- torchfbm
+- zepben.protobuf
+- sturnus
+- fortscript
+- dycw-utilities
+- openopus
+- tclint
 - simboba
 - moreniius
 - wizlight-simple
 - foamlib
-- inkwell-cli
 - devrules
 - scientific-writer
 - django-mercury-performance
@@ -21,7 +48,6 @@
 - praisonaiwp
 - vtk-python-docs
 - dvt-core
-- mai-tai-mcp
 - logsynth
 - molsystem
 - PySyriatel
@@ -37,7 +63,6 @@
 - pocket-joe
 - niquery
 - metaflowx
-- dycw-utilities
 - fudstop4
 - decayshape
 - sparkless
@@ -57,31 +82,8 @@
 - pexams
 - bgg-api
 - model-config-tests
-- KekikStream
 - yirifi-ops-mcp-hub
 - multisport-py
 - funccomb
 - jrnl-mw
 - nthlayer
-- IncludeCPP
-- sloppylint
-- pwndoc-mcp-server
-- tokentally
-- opendraft
-- trmd
-- objinspect
-- imbalanced-learn
-- tapostreamer
-- webtoolkit
-- claude-code-wrapped
-- my_test_tuxpkg_project
-- quantum-debugger
-- gait-ai
-- ggai
-- mopac-step
-- claude-code-tools
-- celestsp
-- diet-pandas
-- vision-stream-toolkit
-- fallom
-- litestar-vite

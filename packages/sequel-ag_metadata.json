@@ -1,0 +1,11 @@
+{
+  "name": "sequel-ag",
+  "version": "1.0.0",
+  "summary": "A TUI for browsing Google Cloud resources",
+  "author": "Sequel Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sequel_ag-1.0.0.tar.gz",
+  "download_time": "2025-12-21T22:50:21.903006",
+  "package_url": "https://pypi.org/project/sequel-ag/"
+}
