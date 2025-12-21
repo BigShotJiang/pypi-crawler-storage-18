@@ -1,0 +1,11 @@
+{
+  "name": "f5-tts",
+  "version": "1.1.15",
+  "summary": "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "f5_tts-1.1.15.tar.gz",
+  "download_time": "2025-12-21T07:48:47.495137",
+  "package_url": "https://pypi.org/project/f5-tts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "removebg-cli",
+  "version": "1.0.0",
+  "summary": "智能图片背景移除命令行工具 (remove.bg API)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "removebg_cli-1.0.0.tar.gz",
+  "download_time": "2025-12-21T07:48:52.766890",
+  "package_url": "https://pypi.org/project/removebg-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-edi-proxy-client-peppol",
+  "version": "16.0.1.0.0.3",
+  "summary": "Proxy features for the peppol access point",
+  "author": "Odoo S.A.,ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/acsone/odoo-peppol-backport",
+  "download_filename": "odoo_addon_account_edi_proxy_client_peppol-16.0.1.0.0.3.tar.gz",
+  "download_time": "2025-12-21T07:48:35.818173",
+  "package_url": "https://pypi.org/project/odoo-addon-account-edi-proxy-client-peppol/"
+}

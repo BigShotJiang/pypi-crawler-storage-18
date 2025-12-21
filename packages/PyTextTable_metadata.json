@@ -1,0 +1,11 @@
+{
+  "name": "PyTextTable",
+  "version": "0.1.4",
+  "summary": "A class for drawing table in text console for python in windows or linux",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytexttable-0.1.4.tar.gz",
+  "download_time": "2025-12-21T07:48:34.795655",
+  "package_url": "https://pypi.org/project/PyTextTable/"
+}
