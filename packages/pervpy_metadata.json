@@ -1,0 +1,11 @@
+{
+  "name": "pervpy",
+  "version": "0.1.3",
+  "summary": "Analyzing and profiling python applications, innocently",
+  "author": "Vieolo B.V.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pervpy-0.1.3.tar.gz",
+  "download_time": "2025-12-21T21:41:05.245811",
+  "package_url": "https://pypi.org/project/pervpy/"
+}

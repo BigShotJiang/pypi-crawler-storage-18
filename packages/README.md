@@ -1,16 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-21T21:30:52.299428
-- **Total Packages**: 83
-- **Total Size**: 23.64 MB
+- **Download Time**: 2025-12-21T21:41:40.877499
+- **Total Packages**: 77
+- **Total Size**: 19.16 MB
 
 ## Packages List
+- pydantic-stack-core
+- agenticmem
+- sweet_tea
+- agenticmem-commons
+- starlog-mcp
+- modelswrkpi
+- pys3local
+- homeharvest
+- mauve-gpu
+- librenms-mcp
+- not1mm
+- phylogenie
+- gitcraft
+- dvt-core
+- pervpy
+- mlserve-sdk
+- jps-jira-utils
+- IncludeCPP
+- roboka
+- comaps-map-distributor
+- llm-editor
+- SmolBit
+- aeronavx
+- agilicus
+- unbihexium
+- symbeam
+- tarxemo-django-graphene-utils
+- libp2p
+- tenuo
 - mcp-docker
 - tgb-seq
 - cisco-nso-mcp-server
 - smartsheet-dataframe
-- sweet_tea
 - telegram-rag-bot
 - true-lies-validator
 - geoai-py
@@ -18,14 +46,10 @@
 - mcp-stata
 - tapoapi
 - gyvatukas
-- tarxemo-django-graphene-utils
 - grizabella
-- IncludeCPP
-- mauve-gpu
 - posthoganalytics
 - posthog
 - workbench
-- dvt-core
 - HTMLCompare
 - scurrypy
 - tencentcloud-sdk-python-intl-en
@@ -44,7 +68,6 @@
 - tencentcloud-sdk-python-gs
 - tencentcloud-sdk-python-essbasic
 - tencentcloud-sdk-python-emr
-- modelswrkpi
 - tencentcloud-sdk-python-dnspod
 - tencentcloud-sdk-python-cynosdb
 - chalkpy
@@ -60,32 +83,3 @@
 - tencentcloud-sdk-python-ags
 - animesubinfo-cli
 - pyautoencoder
-- msgmodel
-- segment-geospatial
-- jps-jira-utils
-- plaknit
-- mtanvil
-- clipr-yt
-- dspeed
-- python-sn2
-- haxmas-day-9-dragonsenseiguy
-- rossetta-fastapi
-- neatrl
-- diet-pandas
-- jeremydimond.pygamesim
-- hedit
-- containerl
-- alphadia-search-rs
-- nukat
-- libreyolo
-- hytale-api
-- blues-lib
-- pwndoc-mcp-server
-- metaflowx
-- babelvec
-- hello-one-two
-- free-grok
-- jeremydimond.pymlga
-- dkinst
-- chronos-forecaster
-- image-interlacement
