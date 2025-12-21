@@ -1,11 +1,11 @@
 {
   "name": "winnap",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "Modern Tkinter UI Library with auto-start pages and elegant components",
   "author": "x2slynexis",
   "license": null,
   "home_page": null,
-  "download_filename": "winnap-3.1.1.tar.gz",
-  "download_time": "2025-12-21T07:48:40.486027",
+  "download_filename": "winnap-3.1.2.tar.gz",
+  "download_time": "2025-12-21T09:39:28.465914",
   "package_url": "https://pypi.org/project/winnap/"
 }

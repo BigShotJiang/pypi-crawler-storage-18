@@ -1,0 +1,11 @@
+{
+  "name": "phoenix-bot-api",
+  "version": "1.0.7",
+  "summary": "Python client for Phoenix API",
+  "author": "Hatz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phoenix_bot_api-1.0.7-py3-none-any.whl",
+  "download_time": "2025-12-21T09:39:19.533104",
+  "package_url": "https://pypi.org/project/phoenix-bot-api/"
+}

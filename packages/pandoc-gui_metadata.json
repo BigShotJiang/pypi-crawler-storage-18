@@ -1,11 +1,11 @@
 {
   "name": "pandoc-gui",
-  "version": "1.0.4",
-  "summary": "('A Universal Pandoc GUI Converter',)",
+  "version": "1.0.5",
+  "summary": "A Universal Pandoc GUI Converter",
   "author": "Jian Tao",
   "license": null,
   "home_page": "https://github.com/jtao/pandoc_gui",
-  "download_filename": "pandoc_gui-1.0.4.tar.gz",
-  "download_time": "2025-12-21T09:18:16.809377",
+  "download_filename": "pandoc_gui-1.0.5.tar.gz",
+  "download_time": "2025-12-21T09:39:25.335680",
   "package_url": "https://pypi.org/project/pandoc-gui/"
 }

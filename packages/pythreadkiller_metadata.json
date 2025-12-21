@@ -1,11 +1,11 @@
 {
   "name": "pythreadkiller",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "summary": "A utility to manage and kill threads in Python applications",
   "author": "Muthukumar Subramanian",
   "license": null,
   "home_page": "https://github.com/kumarmuthu/PyThreadKiller",
-  "download_filename": "pythreadkiller-3.0.7.tar.gz",
-  "download_time": "2025-12-21T09:18:32.046589",
+  "download_filename": "pythreadkiller-3.0.8.tar.gz",
+  "download_time": "2025-12-21T09:39:16.936567",
   "package_url": "https://pypi.org/project/pythreadkiller/"
 }

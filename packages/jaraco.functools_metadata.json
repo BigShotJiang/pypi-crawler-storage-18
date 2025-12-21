@@ -1,0 +1,11 @@
+{
+  "name": "jaraco.functools",
+  "version": "4.4.0",
+  "summary": "Functools like those found in stdlib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaraco_functools-4.4.0.tar.gz",
+  "download_time": "2025-12-21T09:39:21.708697",
+  "package_url": "https://pypi.org/project/jaraco.functools/"
+}

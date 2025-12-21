@@ -1,11 +1,11 @@
 {
   "name": "colab-client",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Python client for programmatically interacting with Google Colab",
   "author": "sachnun",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "colab_client-0.1.2.tar.gz",
-  "download_time": "2025-12-21T09:18:50.625892",
+  "download_filename": "colab_client-0.1.4.tar.gz",
+  "download_time": "2025-12-21T09:39:26.357916",
   "package_url": "https://pypi.org/project/colab-client/"
 }
