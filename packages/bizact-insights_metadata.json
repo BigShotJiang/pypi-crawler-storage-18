@@ -1,0 +1,11 @@
+{
+  "name": "bizact-insights",
+  "version": "2025.12.21201957",
+  "summary": "Text input processor for corporate actions, extracting key entities, actions, and context.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bizact_insights-2025.12.21201957.tar.gz",
+  "download_time": "2025-12-21T20:35:31.901831",
+  "package_url": "https://pypi.org/project/bizact-insights/"
+}

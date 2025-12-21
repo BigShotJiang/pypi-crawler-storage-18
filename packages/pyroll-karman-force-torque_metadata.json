@@ -1,0 +1,11 @@
+{
+  "name": "pyroll-karman-force-torque",
+  "version": "3.0.0a0",
+  "summary": "Plugin for PyRoll providing the power and labour model solving the von-Karman equation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyroll_karman_force_torque-3.0.0a0.tar.gz",
+  "download_time": "2025-12-21T20:35:10.794451",
+  "package_url": "https://pypi.org/project/pyroll-karman-force-torque/"
+}

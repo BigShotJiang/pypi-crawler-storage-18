@@ -1,0 +1,11 @@
+{
+  "name": "phantom-make",
+  "version": "0.1.16",
+  "summary": "A python-based traceable make system",
+  "author": "Phantom1003",
+  "license": null,
+  "home_page": "https://github.com/Phantom1003/ptm",
+  "download_filename": "phantom_make-0.1.16.tar.gz",
+  "download_time": "2025-12-21T20:35:30.806969",
+  "package_url": "https://pypi.org/project/phantom-make/"
+}

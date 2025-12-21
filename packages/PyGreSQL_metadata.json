@@ -1,0 +1,11 @@
+{
+  "name": "PyGreSQL",
+  "version": "6.2.0",
+  "summary": "Python PostgreSQL interfaces",
+  "author": "D'Arcy J. M. Cain",
+  "license": null,
+  "home_page": "https://pygresql.github.io/",
+  "download_filename": "pygresql-6.2.0.tar.gz",
+  "download_time": "2025-12-21T20:35:34.546661",
+  "package_url": "https://pypi.org/project/PyGreSQL/"
+}

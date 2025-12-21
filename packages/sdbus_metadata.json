@@ -1,0 +1,11 @@
+{
+  "name": "sdbus",
+  "version": "0.14.2",
+  "summary": "Modern Python D-Bus library. Based on sd-bus from libsystemd.",
+  "author": "igo95862",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://github.com/python-sdbus/python-sdbus",
+  "download_filename": "sdbus-0.14.2.tar.gz",
+  "download_time": "2025-12-21T20:35:28.224725",
+  "package_url": "https://pypi.org/project/sdbus/"
+}

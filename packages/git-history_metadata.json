@@ -1,0 +1,11 @@
+{
+  "name": "git-history",
+  "version": "0.8",
+  "summary": "Tools for analyzing Git history using SQLite",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_history-0.8.tar.gz",
+  "download_time": "2025-12-21T20:35:23.218006",
+  "package_url": "https://pypi.org/project/git-history/"
+}
