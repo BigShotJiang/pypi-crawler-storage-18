@@ -1,0 +1,11 @@
+{
+  "name": "libreyolo",
+  "version": "0.1.0",
+  "summary": "Libre YOLO - An open source YOLO library with MIT license.",
+  "author": "LibreYOLO Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libreyolo-0.1.0.tar.gz",
+  "download_time": "2025-12-21T21:13:08.872590",
+  "package_url": "https://pypi.org/project/libreyolo/"
+}

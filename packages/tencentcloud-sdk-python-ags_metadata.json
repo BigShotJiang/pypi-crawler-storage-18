@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-ags",
+  "version": "3.1.16",
+  "summary": "Tencent Cloud Ags SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_ags-3.1.16.tar.gz",
+  "download_time": "2025-12-21T21:12:55.448877",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-ags/"
+}

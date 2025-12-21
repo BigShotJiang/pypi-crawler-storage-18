@@ -1,0 +1,11 @@
+{
+  "name": "hytale-api",
+  "version": "2.0.0",
+  "summary": "A library for interaction with the Hytale API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hytale_api-2.0.0.tar.gz",
+  "download_time": "2025-12-21T21:13:09.384039",
+  "package_url": "https://pypi.org/project/hytale-api/"
+}

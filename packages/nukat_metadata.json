@@ -1,0 +1,11 @@
+{
+  "name": "nukat",
+  "version": "1.0.0",
+  "summary": "Python client for searching the NUKAT library catalog",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nukat-1.0.0.tar.gz",
+  "download_time": "2025-12-21T21:13:08.359762",
+  "package_url": "https://pypi.org/project/nukat/"
+}

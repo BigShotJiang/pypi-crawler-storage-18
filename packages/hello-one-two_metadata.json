@@ -1,0 +1,11 @@
+{
+  "name": "hello-one-two",
+  "version": "2.3.2",
+  "summary": "A useful Python package",
+  "author": "Nyein Chan Aung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hello_one_two-2.3.2.tar.gz",
+  "download_time": "2025-12-21T21:13:12.466477",
+  "package_url": "https://pypi.org/project/hello-one-two/"
+}

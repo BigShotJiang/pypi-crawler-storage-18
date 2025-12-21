@@ -1,0 +1,11 @@
+{
+  "name": "chronos-forecaster",
+  "version": "0.2.1",
+  "summary": "Unified interface for Amazon Chronos and Chronos-2 time series forecasting engines.",
+  "author": "Sebastião Santos Lessa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chronos_forecaster-0.2.1.tar.gz",
+  "download_time": "2025-12-21T21:13:14.519350",
+  "package_url": "https://pypi.org/project/chronos-forecaster/"
+}

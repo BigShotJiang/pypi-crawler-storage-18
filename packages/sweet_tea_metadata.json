@@ -1,11 +1,11 @@
 {
   "name": "sweet_tea",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "A comprehensive Python factory pattern implementation with thread-safe operations and type-safe generics",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sweet_tea-0.1.28.tar.gz",
-  "download_time": "2025-12-21T20:50:57.446176",
+  "download_filename": "sweet_tea-0.1.29.tar.gz",
+  "download_time": "2025-12-21T21:13:10.411651",
   "package_url": "https://pypi.org/project/sweet_tea/"
 }

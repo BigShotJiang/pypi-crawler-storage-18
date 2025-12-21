@@ -1,11 +1,11 @@
 {
   "name": "pwndoc-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Model Context Protocol server for PwnDoc penetration testing documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pwndoc_mcp_server-1.0.2.tar.gz",
-  "download_time": "2025-12-21T19:49:03.029040",
+  "download_filename": "pwndoc_mcp_server-1.0.3.tar.gz",
+  "download_time": "2025-12-21T21:13:10.925958",
   "package_url": "https://pypi.org/project/pwndoc-mcp-server/"
 }
