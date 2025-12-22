@@ -1,0 +1,11 @@
+{
+  "name": "lpamsdk",
+  "version": "1.0.0",
+  "summary": "Python wrapper for LPAMSDK",
+  "author": "Guannan Guo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lpamsdk-1.0.0.tar.gz",
+  "download_time": "2025-12-22T08:22:56.375991",
+  "package_url": "https://pypi.org/project/lpamsdk/"
+}

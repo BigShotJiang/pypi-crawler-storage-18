@@ -1,11 +1,11 @@
 {
   "name": "PyBrKarma",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "PyBrKarma - Python with Braces Runtime Transformer",
   "author": "Md Abu Salehin",
   "license": null,
   "home_page": "https://github.com/Salehin-07/PyBrKarma",
-  "download_filename": "pybrkarma-1.1.4.tar.gz",
-  "download_time": "2025-12-22T07:52:31.573754",
+  "download_filename": "pybrkarma-1.1.5.tar.gz",
+  "download_time": "2025-12-22T08:23:00.342261",
   "package_url": "https://pypi.org/project/PyBrKarma/"
 }

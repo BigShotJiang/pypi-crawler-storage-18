@@ -1,0 +1,11 @@
+{
+  "name": "acto",
+  "version": "0.6.1",
+  "summary": "Automate Common Tasks On-demand",
+  "author": "Hansimov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acto-0.6.1.tar.gz",
+  "download_time": "2025-12-22T08:22:47.017278",
+  "package_url": "https://pypi.org/project/acto/"
+}

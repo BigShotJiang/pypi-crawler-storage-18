@@ -1,0 +1,11 @@
+{
+  "name": "psycopol-synth",
+  "version": "2025.12.22081424",
+  "summary": "psycopol-synth analyzes psychological-political theories, extracting concepts and relationships to provide clear structured summaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psycopol_synth-2025.12.22081424.tar.gz",
+  "download_time": "2025-12-22T08:22:44.805323",
+  "package_url": "https://pypi.org/project/psycopol-synth/"
+}

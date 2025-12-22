@@ -1,0 +1,11 @@
+{
+  "name": "deepfos",
+  "version": "1.1.78",
+  "summary": "Collecions of useful and handy tools for deepfos platform",
+  "author": "deepfos-python-team",
+  "license": null,
+  "home_page": "http://py.deepfos.com",
+  "download_filename": "deepfos-1.1.78-py3-none-any.whl",
+  "download_time": "2025-12-22T08:23:07.129760",
+  "package_url": "https://pypi.org/project/deepfos/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "release-extractor",
+  "version": "2025.12.22081104",
+  "summary": "Extracts key release details from unstructured text to create clear, structured summaries.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "release_extractor-2025.12.22081104.tar.gz",
+  "download_time": "2025-12-22T08:22:50.838680",
+  "package_url": "https://pypi.org/project/release-extractor/"
+}

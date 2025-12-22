@@ -1,0 +1,11 @@
+{
+  "name": "sustainability-measurement-agent",
+  "version": "0.1.8",
+  "summary": "Sustainability Measurement Agent - A tool for collecting and analyzing sustainability metrics in cloud native enviroments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sustainability_measurement_agent-0.1.8.tar.gz",
+  "download_time": "2025-12-22T08:22:36.960920",
+  "package_url": "https://pypi.org/project/sustainability-measurement-agent/"
+}

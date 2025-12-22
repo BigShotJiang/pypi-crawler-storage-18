@@ -1,0 +1,11 @@
+{
+  "name": "aipdf",
+  "version": "0.0.7.0",
+  "summary": "A tool to extract PDF files to markdown, or any other format using AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aipdf-0.0.7.0.tar.gz",
+  "download_time": "2025-12-22T08:23:15.353358",
+  "package_url": "https://pypi.org/project/aipdf/"
+}

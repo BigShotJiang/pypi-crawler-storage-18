@@ -1,0 +1,11 @@
+{
+  "name": "forum-guard",
+  "version": "2025.12.22075453",
+  "summary": "enables structured and reliable textual interactions in global forums through pattern matching and retries, facilitating high-quality conversations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forum_guard-2025.12.22075453.tar.gz",
+  "download_time": "2025-12-22T08:23:13.734701",
+  "package_url": "https://pypi.org/project/forum-guard/"
+}

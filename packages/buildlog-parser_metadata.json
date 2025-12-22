@@ -1,0 +1,11 @@
+{
+  "name": "buildlog-parser",
+  "version": "2025.12.22082056",
+  "summary": "buildlog-parser extracts structured log data, categorizing status, errors, warnings, timestamps for easy CI analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "buildlog_parser-2025.12.22082056.tar.gz",
+  "download_time": "2025-12-22T08:22:35.790973",
+  "package_url": "https://pypi.org/project/buildlog-parser/"
+}
