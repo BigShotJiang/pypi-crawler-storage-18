@@ -1,11 +1,11 @@
 {
   "name": "buvis-pybase",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Foundation of BUVIS python projects",
   "author": "Tomáš Bouška",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "buvis_pybase-0.3.4.tar.gz",
-  "download_time": "2025-12-22T19:29:42.663639",
+  "download_filename": "buvis_pybase-0.3.5.tar.gz",
+  "download_time": "2025-12-22T20:17:23.602689",
   "package_url": "https://pypi.org/project/buvis-pybase/"
 }

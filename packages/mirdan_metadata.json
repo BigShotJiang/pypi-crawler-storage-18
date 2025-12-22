@@ -1,11 +1,11 @@
 {
   "name": "mirdan",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "AI Code Quality Orchestrator - Automatically transforms developer prompts into high-quality, structured requests",
   "author": "Sean Corkum",
   "license": null,
   "home_page": null,
-  "download_filename": "mirdan-0.0.4.tar.gz",
-  "download_time": "2025-12-20T19:10:42.837537",
+  "download_filename": "mirdan-0.0.5.tar.gz",
+  "download_time": "2025-12-22T20:17:34.918869",
   "package_url": "https://pypi.org/project/mirdan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bioio",
+  "version": "3.2.0",
+  "summary": "Image reading, metadata management, and image writing for Microscopy images in Python",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "bioio-3.2.0.tar.gz",
+  "download_time": "2025-12-22T20:17:16.438941",
+  "package_url": "https://pypi.org/project/bioio/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-django-azure",
-  "version": "1.0.56",
+  "version": "1.0.57",
   "summary": "Simply deployment of Django on Azure with Pulumi",
   "author": "Maarten Ureel",
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_django_azure-1.0.56.tar.gz",
-  "download_time": "2025-12-21T13:05:20.738422",
+  "download_filename": "pulumi_django_azure-1.0.57.tar.gz",
+  "download_time": "2025-12-22T20:17:19.080621",
   "package_url": "https://pypi.org/project/pulumi-django-azure/"
 }

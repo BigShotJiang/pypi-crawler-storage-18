@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-mainframe3270",
+  "version": "4.3",
+  "summary": "Mainframe Test library for Robot Framework",
+  "author": "Altran Portugal",
+  "license": "MIT License",
+  "home_page": "https://github.com/MarketSquare/Robot-Framework-Mainframe-3270-Library",
+  "download_filename": "robotframework_mainframe3270-4.3.tar.gz",
+  "download_time": "2025-12-22T20:17:11.121157",
+  "package_url": "https://pypi.org/project/robotframework-mainframe3270/"
+}

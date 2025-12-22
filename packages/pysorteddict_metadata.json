@@ -1,0 +1,11 @@
+{
+  "name": "pysorteddict",
+  "version": "0.13.0",
+  "summary": "Python dictionary in which the keys are always in ascending order",
+  "author": "Vishal Pankaj Chandratreya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysorteddict-0.13.0.tar.gz",
+  "download_time": "2025-12-22T20:17:34.405282",
+  "package_url": "https://pypi.org/project/pysorteddict/"
+}

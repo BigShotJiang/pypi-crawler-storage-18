@@ -1,11 +1,11 @@
 {
   "name": "cmdfixer-gemini",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Fix corrupted shell commands using AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmdfixer_gemini-0.1.7.tar.gz",
-  "download_time": "2025-12-22T19:40:03.696378",
+  "download_filename": "cmdfixer_gemini-0.1.9.tar.gz",
+  "download_time": "2025-12-22T20:17:29.783586",
   "package_url": "https://pypi.org/project/cmdfixer-gemini/"
 }

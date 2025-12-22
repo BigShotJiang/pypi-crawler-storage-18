@@ -1,0 +1,11 @@
+{
+  "name": "dbt-redshift",
+  "version": "1.10.0",
+  "summary": "The Redshift adapter plugin for dbt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_redshift-1.10.0.tar.gz",
+  "download_time": "2025-12-22T20:17:03.360478",
+  "package_url": "https://pypi.org/project/dbt-redshift/"
+}

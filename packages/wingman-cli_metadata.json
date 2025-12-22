@@ -1,0 +1,11 @@
+{
+  "name": "wingman-cli",
+  "version": "0.2.0",
+  "summary": "AI-powered TUI coding assistant for the terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wingman_cli-0.2.0.tar.gz",
+  "download_time": "2025-12-22T20:17:39.545578",
+  "package_url": "https://pypi.org/project/wingman-cli/"
+}

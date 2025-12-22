@@ -1,0 +1,11 @@
+{
+  "name": "sabctools",
+  "version": "9.2.0",
+  "summary": "C implementations of functions for use within SABnzbd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sabctools-9.2.0.tar.gz",
+  "download_time": "2025-12-22T20:17:22.063815",
+  "package_url": "https://pypi.org/project/sabctools/"
+}
