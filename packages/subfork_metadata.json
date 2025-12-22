@@ -1,0 +1,11 @@
+{
+  "name": "subfork",
+  "version": "1.0.3",
+  "summary": "Subfork Python API",
+  "author": "Subfork",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/subforkdev/subfork",
+  "download_filename": "subfork-1.0.3.tar.gz",
+  "download_time": "2025-12-22T17:50:30.740414",
+  "package_url": "https://pypi.org/project/subfork/"
+}

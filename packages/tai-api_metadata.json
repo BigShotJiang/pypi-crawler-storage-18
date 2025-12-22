@@ -1,0 +1,11 @@
+{
+  "name": "tai-api",
+  "version": "0.2.13",
+  "summary": "FastAPI framework with TAI ecosystem integration",
+  "author": "MateoSaezMata",
+  "license": "MIT",
+  "home_page": "https://www.triplealpha.in/es/",
+  "download_filename": "tai_api-0.2.13.tar.gz",
+  "download_time": "2025-12-22T17:51:05.187914",
+  "package_url": "https://pypi.org/project/tai-api/"
+}

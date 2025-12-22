@@ -1,0 +1,11 @@
+{
+  "name": "celeste-cohere",
+  "version": "0.3.3",
+  "summary": "Cohere provider package for Celeste AI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "celeste_cohere-0.3.3.tar.gz",
+  "download_time": "2025-12-22T17:50:57.453815",
+  "package_url": "https://pypi.org/project/celeste-cohere/"
+}

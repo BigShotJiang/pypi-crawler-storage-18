@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-settings",
+  "version": "1.4.0",
+  "summary": "The HEA settings service.",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_settings-1.4.0.tar.gz",
+  "download_time": "2025-12-22T17:50:47.349137",
+  "package_url": "https://pypi.org/project/heaserver-settings/"
+}

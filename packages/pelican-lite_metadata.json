@@ -1,0 +1,11 @@
+{
+  "name": "pelican-lite",
+  "version": "1.1.3",
+  "summary": "Efficient reimplementation of PELICAN (Permutation-Equivariant and Lorentz-Invariant or Covariant Aggregator Network for Particle Physics)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pelican_lite-1.1.3.tar.gz",
+  "download_time": "2025-12-22T17:51:00.514180",
+  "package_url": "https://pypi.org/project/pelican-lite/"
+}

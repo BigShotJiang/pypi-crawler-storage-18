@@ -1,11 +1,11 @@
 {
   "name": "aieng-bot-maintain",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Vector Institute AI Engineering Bot for Maintenance Tasks",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aieng_bot_maintain-0.3.0.tar.gz",
-  "download_time": "2025-12-21T16:55:10.385721",
+  "download_filename": "aieng_bot_maintain-0.4.0.tar.gz",
+  "download_time": "2025-12-22T17:51:02.038990",
   "package_url": "https://pypi.org/project/aieng-bot-maintain/"
 }

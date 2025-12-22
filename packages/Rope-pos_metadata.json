@@ -1,0 +1,11 @@
+{
+  "name": "Rope-pos",
+  "version": "0.1.0",
+  "summary": "Rotary Positional Embedding (RoPE) for PyTorch",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rope_pos-0.1.0.tar.gz",
+  "download_time": "2025-12-22T17:50:39.454856",
+  "package_url": "https://pypi.org/project/Rope-pos/"
+}

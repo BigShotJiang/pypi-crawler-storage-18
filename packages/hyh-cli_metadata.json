@@ -1,0 +1,11 @@
+{
+  "name": "hyh-cli",
+  "version": "0.1.0a1",
+  "summary": "CLI orchestration tool for agentic workflows - coordinate tasks with claude-code and other AI agents",
+  "author": "Pedro Proenca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyh_cli-0.1.0a1.tar.gz",
+  "download_time": "2025-12-22T17:50:35.570219",
+  "package_url": "https://pypi.org/project/hyh-cli/"
+}

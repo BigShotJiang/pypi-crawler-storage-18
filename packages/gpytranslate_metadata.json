@@ -1,0 +1,11 @@
+{
+  "name": "gpytranslate",
+  "version": "2.1.0",
+  "summary": "A Python3 library for translating text using Google Translate API.",
+  "author": "Davide Galilei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpytranslate-2.1.0.tar.gz",
+  "download_time": "2025-12-22T17:50:38.374680",
+  "package_url": "https://pypi.org/project/gpytranslate/"
+}
