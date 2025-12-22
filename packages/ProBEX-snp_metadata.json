@@ -1,0 +1,11 @@
+{
+  "name": "ProBEX-snp",
+  "version": "0.1.1",
+  "summary": "A tool for SNP-based Poisson binding analysis on SNP-bind-n-seq sequencing data",
+  "author": "Shreya Sharma, PhD student @IITR",
+  "license": "MIT",
+  "home_page": "https://github.com/Shreya-droid/SNPoiss_bind_n_seq",
+  "download_filename": "probex_snp-0.1.1.tar.gz",
+  "download_time": "2025-12-22T06:56:25.819963",
+  "package_url": "https://pypi.org/project/ProBEX-snp/"
+}

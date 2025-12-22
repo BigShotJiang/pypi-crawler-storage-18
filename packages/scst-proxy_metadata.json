@@ -1,0 +1,11 @@
+{
+  "name": "scst-proxy",
+  "version": "0.6.9",
+  "summary": "Register user on SCST proxy server",
+  "author": "Aleksey Misyagin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scst_proxy-0.6.9-py3-none-any.whl",
+  "download_time": "2025-12-22T06:56:27.895422",
+  "package_url": "https://pypi.org/project/scst-proxy/"
+}

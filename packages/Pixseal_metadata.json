@@ -1,0 +1,11 @@
+{
+  "name": "Pixseal",
+  "version": "0.2.2",
+  "summary": "Encrypted Image Watermark Injector / Validator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixseal-0.2.2.tar.gz",
+  "download_time": "2025-12-22T06:56:20.159234",
+  "package_url": "https://pypi.org/project/Pixseal/"
+}

@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T06:26:28.357706
-- **Total Packages**: 77
-- **Total Size**: 24.49 MB
+- **Download Time**: 2025-12-22T06:56:57.466371
+- **Total Packages**: 86
+- **Total Size**: 15.62 MB
 
 ## Packages List
+- nextrec
+- funcorga
+- marshmallow
+- lythonic
+- aiauto-client
+- antchain-mdpapi
+- ctyun-cli
+- dycw-restic
+- karaoke-gen
+- match-predicting-ann-server-pub-api
+- django-email-learning
+- automation-error-detector
+- wisent
+- roamresearch-client-py
+- wagtail-scenario-test
+- Pixseal
+- scikit-robot
+- scadm
+- ipyplines
+- doeflow
+- aline-ai
+- reckomate-sdk
+- dora-rs-cli-robodriver
+- plotastrodata
+- modelswrkpi
+- azure-mgmt-networkcloud
+- ProBEX-snp
+- clickmate
+- matrice-inference
+- compose-farm
+- scst-proxy
+- optimization-benchmarks
+- tej-tool-api
+- py2cpp
+- dora-rs-robodriver
+- win-folder-manager
+- xll-kit
+- airbornehrs
+- reckomate-ai-sdk
+- phasor-handler
+- amp-instrumentation
+- cinecli
+- pwndoc-mcp-server
+- python-invar
+- agentpool
 - ant-ray-cpp-nightly
 - alibaba-cloud-ops-mcp-server
 - dfsx
@@ -16,10 +61,8 @@
 - tigeropen
 - kbackup
 - cosmica
-- reckomate-ai-sdk
 - alibabacloud-alikafka20190916
 - thordata-sdk
-- marshmallow
 - easy-start-hikvision
 - ifc-graph
 - multi-mcp
@@ -49,37 +92,3 @@
 - easy-start-tiehu
 - ezphot
 - gmi-ieops
-- pyscript-programming-language
-- cc-conversation-search
-- paytechuz
-- win-folder-manager
-- nia-mcp-server
-- dycw-restic
-- specular-differentiation
-- easy-start-wecom
-- dvt-core
-- antchain-mdpapi
-- langchain-llm-config
-- nd-sdk
-- reckomate-sdk
-- command-eval
-- florestbotfunctions
-- zc.buildout.languageserver
-- fx-sdk
-- maxframe
-- mp-tunnel
-- lims2-sdk
-- gault
-- MeUtils
-- meshly
-- alibabacloud-dianjin20240628
-- HAXZARC
-- quantile-regression-pdlp
-- hossam
-- roamresearch-client-py
-- GitKat
-- httpxx
-- dataflow-dbt
-- automation-error-detector
-- puda-drivers
-- discrete-math-toolkit

@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-scenario-test",
+  "version": "0.1.0",
+  "summary": "E2E scenario testing framework for Wagtail applications",
+  "author": "kkm-horikawa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_scenario_test-0.1.0.tar.gz",
+  "download_time": "2025-12-22T06:56:19.647190",
+  "package_url": "https://pypi.org/project/wagtail-scenario-test/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roamresearch-client-py",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Roam Research Python client with built-in CLI and MCP server support.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "roamresearch_client_py-0.3.0.tar.gz",
-  "download_time": "2025-12-22T05:46:09.932212",
+  "download_filename": "roamresearch_client_py-0.3.1.tar.gz",
+  "download_time": "2025-12-22T06:56:18.629881",
   "package_url": "https://pypi.org/project/roamresearch-client-py/"
 }
