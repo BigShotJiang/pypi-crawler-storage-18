@@ -1,0 +1,11 @@
+{
+  "name": "ginga",
+  "version": "5.5.1",
+  "summary": "A scientific image viewer and toolkit",
+  "author": "Ginga Maintainers",
+  "license": "BSD",
+  "home_page": "https://ejeschke.github.io/ginga/",
+  "download_filename": "ginga-5.5.1-py2.py3-none-any.whl",
+  "download_time": "2025-12-22T22:52:59.789310",
+  "package_url": "https://pypi.org/project/ginga/"
+}

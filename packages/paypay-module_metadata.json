@@ -1,11 +1,11 @@
 {
   "name": "paypay-module",
-  "version": "0.5.3",
-  "summary": "Enhanced PayPay Module with AWS WAF Bypass Support",
+  "version": "0.5.4",
+  "summary": "paypay bot検知の対策版",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paypay_module-0.5.3.tar.gz",
-  "download_time": "2025-12-22T13:11:52.829983",
+  "download_filename": "paypay_module-0.5.4.tar.gz",
+  "download_time": "2025-12-22T22:52:42.452037",
   "package_url": "https://pypi.org/project/paypay-module/"
 }

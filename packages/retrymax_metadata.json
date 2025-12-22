@@ -1,11 +1,11 @@
 {
   "name": "retrymax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tiny retry decorator for sync and async Python functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "retrymax-0.1.1.tar.gz",
-  "download_time": "2025-12-21T21:30:22.467576",
+  "download_filename": "retrymax-0.1.2.tar.gz",
+  "download_time": "2025-12-22T22:53:07.663261",
   "package_url": "https://pypi.org/project/retrymax/"
 }

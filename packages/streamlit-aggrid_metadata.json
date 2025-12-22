@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-aggrid",
+  "version": "1.2.1",
+  "summary": "Streamlit component implementation of ag-grid",
+  "author": "Pablo Fonseca",
+  "license": "MIT",
+  "home_page": "https://github.com/PablocFonseca/streamlit-aggrid",
+  "download_filename": "streamlit_aggrid-1.2.1.tar.gz",
+  "download_time": "2025-12-22T22:52:40.356875",
+  "package_url": "https://pypi.org/project/streamlit-aggrid/"
+}
