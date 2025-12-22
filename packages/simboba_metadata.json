@@ -1,11 +1,11 @@
 {
   "name": "simboba",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A lightweight tool for generating annotated eval datasets and running LLM-as-judge evaluations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simboba-0.1.2.tar.gz",
-  "download_time": "2025-12-21T22:34:42.925869",
+  "download_filename": "simboba-0.1.3.tar.gz",
+  "download_time": "2025-12-22T21:49:37.764234",
   "package_url": "https://pypi.org/project/simboba/"
 }

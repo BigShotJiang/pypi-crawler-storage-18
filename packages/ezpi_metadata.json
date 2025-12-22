@@ -1,11 +1,11 @@
 {
   "name": "ezpi",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A simple library to write content to public-inbox repositories",
-  "author": null,
+  "author": "Konstantin Ryabitsev",
   "license": null,
-  "home_page": null,
-  "download_filename": "ezpi-0.5.0.tar.gz",
-  "download_time": "2025-12-22T21:13:53.293591",
+  "home_page": "https://sr.ht/~monsieuricon/ezpi/",
+  "download_filename": "ezpi-0.5.1.tar.gz",
+  "download_time": "2025-12-22T21:49:29.376392",
   "package_url": "https://pypi.org/project/ezpi/"
 }

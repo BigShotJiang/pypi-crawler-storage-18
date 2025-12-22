@@ -1,15 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T21:32:17.273031
-- **Total Packages**: 90
-- **Total Size**: 31.23 MB
+- **Download Time**: 2025-12-22T21:50:16.124718
+- **Total Packages**: 89
+- **Total Size**: 24.73 MB
 
 ## Packages List
+- cas-toolbox
+- ezpi
+- paytechuz
+- rrc-mapdata-parser
+- stouputils
+- localstack-core
+- django-formset
+- pulumi-provider-boilerplate
+- IncludeCPP
+- azure-functions-test
+- brplot
+- google-ad-manager-mcp
+- neutrosophic-pls
+- jettex
+- pulumi-xyz
+- ScriptCollection
+- simboba
+- pycrires
+- code-puppy
+- deepxromm
+- safari-sdk
+- lgatr
+- leanvec
+- pymvr
+- marpledata
+- django-dbtasks
+- macroni
+- queuerPy
+- chbe444umd
+- loladb
+- pulumi-alicloud
+- robot-birdbrain
+- species
+- solvOR
+- pulumi-ns1
+- aiogram-smart-messages
+- sparkless-testing
 - enthusiast-model-azureopenai
 - judgeval
 - poiidx
-- IncludeCPP
 - whatdidyoudo
 - hindsight-litellm
 - sentience-python
@@ -19,7 +55,6 @@
 - fal-mcp-server
 - acton-agent
 - playa-pdf
-- paytechuz
 - telemetrix-rpi-pico-2w
 - flights
 - snowglobe
@@ -35,13 +70,11 @@
 - dbt-fusion-package-tools
 - dbt-autofix
 - choppa
-- species
 - numerai-tools
 - vibemem
 - atspm-report
 - FastDeduplicator
 - ai-blame
-- sparkless-testing
 - typed-linq-collections
 - polydup
 - tencentcloud-sdk-python-wedata
@@ -62,37 +95,3 @@
 - tencentcloud-sdk-python-rce
 - tencentcloud-sdk-python-mps
 - tencentcloud-sdk-python-lke
-- ezpi
-- usageflow-flask
-- tencentcloud-sdk-python-lighthouse
-- usageflow-fastapi
-- usageflow-core
-- tencentcloud-sdk-python-ess
-- celeste-image-generation
-- celeste-ai
-- tencentcloud-sdk-python-csip
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-cme
-- tencentcloud-sdk-python-cls
-- sieves
-- aiogram-smart-messages
-- tencentcloud-sdk-python-cdwdoris
-- power-switch-pro
-- tencentcloud-sdk-python-cdn
-- tencentcloud-sdk-python-bh
-- tencentcloud-sdk-python-ai3d
-- blues-lib
-- ap-test-project-251219v3
-- starteller-cli
-- bohra
-- mcp-mesh
-- geopandas
-- aa-bb
-- swarm-mcp
-- crystalwindow
-- stinger-ipc
-- webtoolkitex
-- grouped-mm-bf16
-- dyff-schema
-- stringzz
-- truss

@@ -1,11 +1,11 @@
 {
   "name": "robot-birdbrain",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "summary": "Rewritten Python Library for Birdbrain Technologies Hummingbird Bit and Finch 2.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robot_birdbrain-0.13.0.tar.gz",
-  "download_time": "2025-12-21T04:07:47.607598",
+  "download_filename": "robot_birdbrain-0.14.0.tar.gz",
+  "download_time": "2025-12-22T21:49:45.682434",
   "package_url": "https://pypi.org/project/robot-birdbrain/"
 }

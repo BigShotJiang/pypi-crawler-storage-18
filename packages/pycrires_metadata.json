@@ -1,0 +1,11 @@
+{
+  "name": "pycrires",
+  "version": "0.4.1",
+  "summary": "Data reduction pipeline for VLT/CRIRES+",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycrires-0.4.1-py3-none-any.whl",
+  "download_time": "2025-12-22T21:49:38.285718",
+  "package_url": "https://pypi.org/project/pycrires/"
+}
