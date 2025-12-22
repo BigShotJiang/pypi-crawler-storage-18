@@ -1,0 +1,11 @@
+{
+  "name": "netbox-qrcode",
+  "version": "0.0.20",
+  "summary": "QR Code generation for netbox objects",
+  "author": "Nikolay Yuzefovich",
+  "license": null,
+  "home_page": "https://github.com/netbox-community/netbox-qrcode",
+  "download_filename": "netbox_qrcode-0.0.20.tar.gz",
+  "download_time": "2025-12-22T12:34:23.921378",
+  "package_url": "https://pypi.org/project/netbox-qrcode/"
+}

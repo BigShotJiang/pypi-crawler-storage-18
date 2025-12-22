@@ -1,0 +1,11 @@
+{
+  "name": "gf2-lin-algebra",
+  "version": "0.1.1",
+  "summary": "A linear algebra package to compute operations in GF(2).",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/LucaBonamino/gf2_lin_algebra",
+  "download_filename": "gf2_lin_algebra-0.1.1.tar.gz",
+  "download_time": "2025-12-22T12:34:05.556397",
+  "package_url": "https://pypi.org/project/gf2-lin-algebra/"
+}

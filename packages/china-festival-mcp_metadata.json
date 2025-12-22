@@ -1,0 +1,11 @@
+{
+  "name": "china-festival-mcp",
+  "version": "0.1.10",
+  "summary": "中国节假日和农历转换MCP服务器",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "china_festival_mcp-0.1.10.tar.gz",
+  "download_time": "2025-12-22T12:34:11.598523",
+  "package_url": "https://pypi.org/project/china-festival-mcp/"
+}
