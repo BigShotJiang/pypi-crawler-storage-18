@@ -1,0 +1,11 @@
+{
+  "name": "pytimebudget",
+  "version": "0.1.1",
+  "summary": "Zero-effort performance regression detection for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytimebudget-0.1.1.tar.gz",
+  "download_time": "2025-12-22T22:37:48.277707",
+  "package_url": "https://pypi.org/project/pytimebudget/"
+}

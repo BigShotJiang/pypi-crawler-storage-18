@@ -1,11 +1,11 @@
 {
   "name": "brplot",
-  "version": "0.0.10.49",
+  "version": "0.0.11.51",
   "summary": "A fast and small plotting library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brplot-0.0.10.49.tar.gz",
-  "download_time": "2025-12-22T22:15:39.810151",
+  "download_filename": "brplot-0.0.11.51.tar.gz",
+  "download_time": "2025-12-22T22:37:50.570790",
   "package_url": "https://pypi.org/project/brplot/"
 }
