@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-rce",
+  "version": "3.1.17",
+  "summary": "Tencent Cloud Rce SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_rce-3.1.17.tar.gz",
+  "download_time": "2025-12-22T21:13:51.703300",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-rce/"
+}

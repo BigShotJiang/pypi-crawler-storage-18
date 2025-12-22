@@ -1,11 +1,11 @@
 {
   "name": "satmarg",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Predict satellite overpasses based on TLE and user location",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "satmarg-0.3.1.tar.gz",
-  "download_time": "2025-12-22T20:43:20.646993",
+  "download_filename": "satmarg-0.3.2.tar.gz",
+  "download_time": "2025-12-22T21:14:24.925193",
   "package_url": "https://pypi.org/project/satmarg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "klogg",
+  "version": "0.1.7",
+  "summary": "Simple command line work logger",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "klogg-0.1.7.tar.gz",
+  "download_time": "2025-12-22T21:14:27.010982",
+  "package_url": "https://pypi.org/project/klogg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bazel-runfiles",
+  "version": "1.7.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/bazel-contrib/rules_python",
+  "download_filename": "bazel_runfiles-1.7.0-py3-none-any.whl",
+  "download_time": "2025-12-22T21:14:32.734080",
+  "package_url": "https://pypi.org/project/bazel-runfiles/"
+}

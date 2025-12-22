@@ -1,0 +1,11 @@
+{
+  "name": "bottle-sipper",
+  "version": "0.1.31.post4",
+  "summary": "Simple, zero-configuration command-line static HTTP server.",
+  "author": "Paul Gundarapu",
+  "license": "MIT",
+  "home_page": "https://github.com/leogps/bottle-sipper",
+  "download_filename": "bottle_sipper-0.1.31.post4.tar.gz",
+  "download_time": "2025-12-22T21:14:34.814015",
+  "package_url": "https://pypi.org/project/bottle-sipper/"
+}

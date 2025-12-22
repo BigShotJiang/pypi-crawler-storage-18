@@ -1,0 +1,11 @@
+{
+  "name": "starteller-cli",
+  "version": "1.0.2",
+  "summary": "A command-line tool for astrophotographers to find optimal viewing times for deep sky objects",
+  "author": "ConnRaus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starteller_cli-1.0.2.tar.gz",
+  "download_time": "2025-12-22T21:14:05.421698",
+  "package_url": "https://pypi.org/project/starteller-cli/"
+}

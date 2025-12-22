@@ -1,0 +1,11 @@
+{
+  "name": "power-switch-pro",
+  "version": "1.1.0",
+  "summary": "Python library for Digital Loggers Power Switch Pro REST API",
+  "author": "Bryan Kemp",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/bryan/power_switch_pro",
+  "download_filename": "power_switch_pro-1.1.0.tar.gz",
+  "download_time": "2025-12-22T21:14:01.743141",
+  "package_url": "https://pypi.org/project/power-switch-pro/"
+}
