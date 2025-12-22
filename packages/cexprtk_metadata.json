@@ -1,0 +1,11 @@
+{
+  "name": "cexprtk",
+  "version": "0.4.2",
+  "summary": "Mathematical expression parser: cython wrapper around the 'C++ Mathematical Expression Toolkit Library' ",
+  "author": "M.J.D. Rushton",
+  "license": "CPL",
+  "home_page": "https://github.com/mjdrushton/cexprtk",
+  "download_filename": "cexprtk-0.4.2.tar.gz",
+  "download_time": "2025-12-22T17:34:53.792499",
+  "package_url": "https://pypi.org/project/cexprtk/"
+}
