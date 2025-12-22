@@ -1,0 +1,11 @@
+{
+  "name": "lab-auto-pulumi",
+  "version": "0.1.18",
+  "summary": "Pulumi helpers. Especially useful for tooling created by the LabAutomationAndScreening github organization.",
+  "author": "Eli Fine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lab_auto_pulumi-0.1.18.tar.gz",
+  "download_time": "2025-12-22T14:54:53.121903",
+  "package_url": "https://pypi.org/project/lab-auto-pulumi/"
+}

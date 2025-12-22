@@ -1,0 +1,11 @@
+{
+  "name": "cmake-file-api",
+  "version": "0.0.8.6",
+  "summary": "Read and interpret CMake's file-based API",
+  "author": "Anonymous Maarten",
+  "license": "MIT",
+  "home_page": "http://github.com/madebr/python-cmake-file-api",
+  "download_filename": "cmake_file_api-0.0.8.6.tar.gz",
+  "download_time": "2025-12-22T14:54:49.534179",
+  "package_url": "https://pypi.org/project/cmake-file-api/"
+}

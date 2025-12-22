@@ -1,0 +1,11 @@
+{
+  "name": "crossfire",
+  "version": "1.1.1",
+  "summary": "crossfire: Download spatial data sets from crossfire project",
+  "author": "Felipe Barros",
+  "license": null,
+  "home_page": "https://fogocruzado.org.br/",
+  "download_filename": "crossfire-1.1.1.tar.gz",
+  "download_time": "2025-12-22T14:54:55.178648",
+  "package_url": "https://pypi.org/project/crossfire/"
+}

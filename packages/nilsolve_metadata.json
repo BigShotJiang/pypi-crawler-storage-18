@@ -1,0 +1,11 @@
+{
+  "name": "nilsolve",
+  "version": "0.1.0",
+  "summary": "Lab-grade nonlinear dynamics toolkit: stiff ODE solving + scans + continuation",
+  "author": "Nilanjan Panda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nilsolve-0.1.0.tar.gz",
+  "download_time": "2025-12-22T14:54:35.083854",
+  "package_url": "https://pypi.org/project/nilsolve/"
+}

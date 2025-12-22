@@ -1,0 +1,11 @@
+{
+  "name": "conda-lock",
+  "version": "4.0.0",
+  "summary": "Lockfiles for conda",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conda_lock-4.0.0.tar.gz",
+  "download_time": "2025-12-22T14:54:53.639759",
+  "package_url": "https://pypi.org/project/conda-lock/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datefun",
+  "version": "0.0.8",
+  "summary": "Functional approach to dates (as ISO-DATE string)",
+  "author": "Nauri Nastik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datefun-0.0.8-py3-none-any.whl",
+  "download_time": "2025-12-22T14:54:55.689842",
+  "package_url": "https://pypi.org/project/datefun/"
+}
