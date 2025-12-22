@@ -1,0 +1,11 @@
+{
+  "name": "WebRequest",
+  "version": "0.1.0",
+  "summary": "Like `requests`, but shittier.",
+  "author": "Connor Wolf",
+  "license": null,
+  "home_page": "https://github.com/fake-name/WebRequest",
+  "download_filename": "webrequest-0.1.0.tar.gz",
+  "download_time": "2025-12-22T04:52:20.245858",
+  "package_url": "https://pypi.org/project/WebRequest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dlgram",
+  "version": "2.3.61",
+  "summary": "Fork of pyrogram. Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dlgram-2.3.61.tar.gz",
+  "download_time": "2025-12-22T04:52:18.155405",
+  "package_url": "https://pypi.org/project/dlgram/"
+}

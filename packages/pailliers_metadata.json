@@ -1,0 +1,11 @@
+{
+  "name": "pailliers",
+  "version": "0.3.1",
+  "summary": "Minimal pure-Python implementation of Paillier's additively homomorphic cryptosystem.",
+  "author": "Andrei Lapets",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pailliers-0.3.1.tar.gz",
+  "download_time": "2025-12-22T04:51:54.893865",
+  "package_url": "https://pypi.org/project/pailliers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avp-stream",
+  "version": "2.50",
+  "summary": "This python package streams diverse tracking data available from AVP to any devices that can communicate with gRPC.",
+  "author": "Younghyo Park",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avp_stream-2.50.tar.gz",
+  "download_time": "2025-12-22T04:52:04.527494",
+  "package_url": "https://pypi.org/project/avp-stream/"
+}

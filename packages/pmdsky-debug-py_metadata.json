@@ -1,0 +1,11 @@
+{
+  "name": "pmdsky-debug-py",
+  "version": "10.2.23",
+  "summary": "pmdsky-debug symbols for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pmdsky_debug_py-10.2.23-py3-none-any.whl",
+  "download_time": "2025-12-22T04:51:55.455823",
+  "package_url": "https://pypi.org/project/pmdsky-debug-py/"
+}

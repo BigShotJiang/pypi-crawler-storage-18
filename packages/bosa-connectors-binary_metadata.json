@@ -1,11 +1,11 @@
 {
   "name": "bosa-connectors-binary",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "BOSA Connectors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bosa_connectors_binary-0.3.2-cp311-cp311-macosx_13_0_arm64.macosx_15_0_arm64.whl",
-  "download_time": "2025-12-22T04:11:42.790025",
+  "download_filename": "bosa_connectors_binary-0.3.3-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-22T04:52:21.835649",
   "package_url": "https://pypi.org/project/bosa-connectors-binary/"
 }

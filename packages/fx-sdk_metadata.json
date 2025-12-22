@@ -1,11 +1,11 @@
 {
   "name": "fx-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Pythonic SDK for the f(x) Protocol",
   "author": "Christopher Stampar (@cstampar)",
   "license": null,
   "home_page": "https://fx.aladdin.club/",
-  "download_filename": "fx_sdk-0.1.0.tar.gz",
-  "download_time": "2025-12-21T08:19:04.956587",
+  "download_filename": "fx_sdk-0.2.0.tar.gz",
+  "download_time": "2025-12-22T04:52:07.147613",
   "package_url": "https://pypi.org/project/fx-sdk/"
 }
