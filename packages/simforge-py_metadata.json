@@ -1,11 +1,11 @@
 {
   "name": "simforge-py",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Simforge client for provider-based API calls with local BAML execution",
   "author": "Harvest Team",
   "license": null,
   "home_page": null,
-  "download_filename": "simforge_py-0.2.0.tar.gz",
-  "download_time": "2025-12-22T07:20:54.456818",
+  "download_filename": "simforge_py-0.2.1.tar.gz",
+  "download_time": "2025-12-22T07:52:35.420031",
   "package_url": "https://pypi.org/project/simforge-py/"
 }

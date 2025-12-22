@@ -1,0 +1,11 @@
+{
+  "name": "kibernikto",
+  "version": "1.10.2",
+  "summary": "AI multiagent framework with telegram bot connection",
+  "author": null,
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/solovieff/kibernikto",
+  "download_filename": "kibernikto-1.10.2.tar.gz",
+  "download_time": "2025-12-22T07:52:31.047219",
+  "package_url": "https://pypi.org/project/kibernikto/"
+}
