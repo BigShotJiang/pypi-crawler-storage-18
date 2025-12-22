@@ -1,0 +1,11 @@
+{
+  "name": "django-idea-analyzer",
+  "version": "2025.12.22110310",
+  "summary": "django-idea-analyzer provides structured feedback on Django project ideas, assessing feasibility, challenges, and best practices for efficient development evaluation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_idea_analyzer-2025.12.22110310.tar.gz",
+  "download_time": "2025-12-22T11:15:00.178298",
+  "package_url": "https://pypi.org/project/django-idea-analyzer/"
+}

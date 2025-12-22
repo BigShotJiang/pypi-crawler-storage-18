@@ -1,0 +1,11 @@
+{
+  "name": "copyright-stats-extractor",
+  "version": "2025.12.22110614",
+  "summary": "copyright-stats-extractor parses headlines/articles on digital copyright enforcement to auto‑extract stats like takedown counts, year, and parties.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copyright_stats_extractor-2025.12.22110614.tar.gz",
+  "download_time": "2025-12-22T11:14:52.343623",
+  "package_url": "https://pypi.org/project/copyright-stats-extractor/"
+}

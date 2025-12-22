@@ -1,0 +1,11 @@
+{
+  "name": "holiday-narrative-parser",
+  "version": "2025.12.22105725",
+  "summary": "holiday-narrative-parser processes holiday event narratives to extract themes, tone, and key details for analysis and summarization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "holiday_narrative_parser-2025.12.22105725.tar.gz",
+  "download_time": "2025-12-22T11:15:09.027032",
+  "package_url": "https://pypi.org/project/holiday-narrative-parser/"
+}

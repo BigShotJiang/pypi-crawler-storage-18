@@ -1,0 +1,11 @@
+{
+  "name": "edri",
+  "version": "2025.12.3",
+  "summary": "Event Driven Routing Infrastructure",
+  "author": "Marek Olšan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edri-2025.12.3.tar.gz",
+  "download_time": "2025-12-22T11:15:04.345281",
+  "package_url": "https://pypi.org/project/edri/"
+}

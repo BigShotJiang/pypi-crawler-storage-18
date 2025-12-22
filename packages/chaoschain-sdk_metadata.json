@@ -1,0 +1,11 @@
+{
+  "name": "chaoschain-sdk",
+  "version": "0.3.1",
+  "summary": "Production SDK for building verifiable AI agents with ChaosChain Protocol - Studios, Proof of Agency, ERC-8004, x402",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chaoschain_sdk-0.3.1.tar.gz",
+  "download_time": "2025-12-22T11:14:49.182571",
+  "package_url": "https://pypi.org/project/chaoschain-sdk/"
+}
