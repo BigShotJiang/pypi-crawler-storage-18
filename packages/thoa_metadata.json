@@ -1,0 +1,11 @@
+{
+  "name": "thoa",
+  "version": "0.1.2",
+  "summary": "Thoa Command Line Interface for Remote Job Submission",
+  "author": "GWC GmbH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thoa-0.1.2.tar.gz",
+  "download_time": "2025-12-22T16:49:58.998372",
+  "package_url": "https://pypi.org/project/thoa/"
+}

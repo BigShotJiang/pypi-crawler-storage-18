@@ -1,0 +1,11 @@
+{
+  "name": "biobb-godmd",
+  "version": "5.2.0",
+  "summary": "Biobb_godmd is a BioBB category for GOdMD tool (protein conformational transitions).",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_godmd",
+  "download_filename": "biobb_godmd-5.2.0.tar.gz",
+  "download_time": "2025-12-22T16:50:06.314355",
+  "package_url": "https://pypi.org/project/biobb-godmd/"
+}

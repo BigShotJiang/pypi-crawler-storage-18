@@ -1,0 +1,11 @@
+{
+  "name": "biobb-io",
+  "version": "5.2.0",
+  "summary": "Biobb_io is the Biobb module collection to fetch data to be consumed by the rest of the Biobb building blocks.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_io",
+  "download_filename": "biobb_io-5.2.0.tar.gz",
+  "download_time": "2025-12-22T16:49:48.428672",
+  "package_url": "https://pypi.org/project/biobb-io/"
+}

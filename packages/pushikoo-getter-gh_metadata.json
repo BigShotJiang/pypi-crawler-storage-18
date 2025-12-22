@@ -1,0 +1,11 @@
+{
+  "name": "pushikoo-getter-gh",
+  "version": "0.1.2",
+  "summary": "GitHub getter adapter for Pushikoo.",
+  "author": "Pushikoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushikoo_getter_gh-0.1.2.tar.gz",
+  "download_time": "2025-12-22T16:49:31.714546",
+  "package_url": "https://pypi.org/project/pushikoo-getter-gh/"
+}

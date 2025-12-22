@@ -1,0 +1,11 @@
+{
+  "name": "implicit-lambda",
+  "version": "0.4.1",
+  "summary": "Implicit lambdas with placeholder notation and code generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "implicit_lambda-0.4.1.tar.gz",
+  "download_time": "2025-12-22T16:49:30.675621",
+  "package_url": "https://pypi.org/project/implicit-lambda/"
+}

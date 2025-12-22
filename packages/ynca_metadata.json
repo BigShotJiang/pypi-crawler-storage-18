@@ -1,0 +1,11 @@
+{
+  "name": "ynca",
+  "version": "5.27.0",
+  "summary": "Package to control Yamaha receivers that support the YNCA protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ynca-5.27.0.tar.gz",
+  "download_time": "2025-12-22T16:49:50.664216",
+  "package_url": "https://pypi.org/project/ynca/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nvidb",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "A package that provides an aggregated view of the NVIDIA GPU information on several hosts.",
   "author": "L1ght",
   "license": null,
   "home_page": null,
-  "download_filename": "nvidb-1.5.0.tar.gz",
-  "download_time": "2025-12-21T16:55:32.001111",
+  "download_filename": "nvidb-1.6.0.tar.gz",
+  "download_time": "2025-12-22T16:49:27.559741",
   "package_url": "https://pypi.org/project/nvidb/"
 }
