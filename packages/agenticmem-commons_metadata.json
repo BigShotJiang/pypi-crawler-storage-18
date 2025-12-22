@@ -1,11 +1,11 @@
 {
   "name": "agenticmem-commons",
-  "version": "0.1.4.3",
+  "version": "0.1.4.4",
   "summary": null,
   "author": "Yi Lu",
   "license": null,
   "home_page": null,
-  "download_filename": "agenticmem_commons-0.1.4.3.tar.gz",
-  "download_time": "2025-12-21T21:40:59.359910",
+  "download_filename": "agenticmem_commons-0.1.4.4.tar.gz",
+  "download_time": "2025-12-22T05:46:21.874816",
   "package_url": "https://pypi.org/project/agenticmem-commons/"
 }

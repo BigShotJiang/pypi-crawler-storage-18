@@ -1,0 +1,11 @@
+{
+  "name": "linkstat",
+  "version": "1.0.0",
+  "summary": "Perform connectivity checks on URLs listed in the Markdown",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkstat-1.0.0.tar.gz",
+  "download_time": "2025-12-22T05:46:09.402282",
+  "package_url": "https://pypi.org/project/linkstat/"
+}
