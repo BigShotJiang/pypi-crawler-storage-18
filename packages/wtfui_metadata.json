@@ -1,0 +1,11 @@
+{
+  "name": "wtfui",
+  "version": "0.1.0a1",
+  "summary": "A Pythonic UI framework using context managers and signals",
+  "author": "Pedro Proença",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wtfui-0.1.0a1.tar.gz",
+  "download_time": "2025-12-22T18:52:42.504065",
+  "package_url": "https://pypi.org/project/wtfui/"
+}
