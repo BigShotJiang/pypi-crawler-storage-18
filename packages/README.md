@@ -1,17 +1,78 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T19:14:07.078025
-- **Total Packages**: 64
-- **Total Size**: 15.24 MB
+- **Download Time**: 2025-12-22T19:29:59.756866
+- **Total Packages**: 87
+- **Total Size**: 42.83 MB
 
 ## Packages List
+- gammarers.aws-waf-ip-restrict-rule
+- xpander-sdk
+- webtoolkitex
+- plurals
+- remdb
+- contex-python
+- arize-phoenix
+- foundationallm-agent-plugins-langchain
+- foundationallm-agent-plugins-azure-ai
+- foundationallm-agent-plugins-experimental
+- foundationallm-agent-plugins
+- foundationallm
+- wisent
+- auroraview
+- movoid-log
+- kopi-docka
+- prompt-siren
+- datamint
+- webtoolkit
+- rupdf
+- feathersdk
+- indexify
+- zpp_config
+- nextmv
+- recko-ai-sdk
+- fintrack-cli
+- gate-io-api
+- kucoin-api
+- kucoin-futures-api
+- bybit-api
+- coinex-api
+- bitmart
+- bingx
+- mexc-exchange-api
+- crypto-com-sdk
+- woo-api
+- binance
+- bitmex-api
+- htx
+- bitget
+- woofipro-api
+- okx-exchange
+- fountain-life-service-clients
+- openapi-core
+- sqlit-tui
+- fsdc-security
+- rofl
+- agentrank
+- agenta
+- infrahub-server
+- infrahub-testcontainers
+- movoid-debug
+- pycarlo
+- ragstack-mcp
+- mat3ra-code
+- aa-bb
+- buvis-pybase
+- pytest-notifier-plugin
+- whispi
+- ccxt
+- dbt-core
+- oarepo-oai-pmh-harvester
 - weightedpca
 - IncludeCPP
 - enfrosp-enmapboxapp
 - arthur-client
 - PraisonAI
-- whispi
 - bengal
 - agentry-community
 - cpumarkets
@@ -20,53 +81,15 @@
 - pulumi-gitlab
 - cisco-ai-mcp-scanner
 - python-lucide
-- wisent
 - mapc_suitability
 - opvious
-- movoid-log
 - bittensor
 - mat3ra-utils
 - robotpy-pykit
 - movoid-function
 - dvt-core
-- webtoolkit
 - gf2-lin-algebra
 - datedict
 - cocoindex
 - pulumi-digitalocean
 - CNNreg
-- anvil-tui
-- pandera
-- buvis-pybase
-- cybrid-api-bank-python
-- gcp-mcp-fastmcp
-- polydup
-- cybrid-api-organization-python
-- cybrid-api-id-python
-- cachememo
-- macroni
-- hydroserverpy
-- bluetti-bt-lib
-- fprime-gds
-- openwebui-chat-client
-- cve-report-aggregator
-- dagctl
-- kib-lap
-- jax2onnx
-- pulumi-pagerduty
-- MinecraftDockerCLI
-- pyb-assistent
-- pycodereview
-- inkwell-cli
-- pulumi-datadog
-- heaserver-folders-aws-s3
-- leanvec
-- phantom-make
-- jet-django
-- jet-bridge
-- jet-bridge-base
-- flet-charts
-- shaprpy
-- claude-mpm
-- kopi-docka
-- pyreduce-astro

@@ -1,0 +1,11 @@
+{
+  "name": "kucoin-api",
+  "version": "0.0.118",
+  "summary": "kucoin crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kucoin_api-0.0.118.tar.gz",
+  "download_time": "2025-12-22T19:29:26.359203",
+  "package_url": "https://pypi.org/project/kucoin-api/"
+}

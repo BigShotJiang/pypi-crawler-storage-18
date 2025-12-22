@@ -1,0 +1,11 @@
+{
+  "name": "openapi-core",
+  "version": "0.22.0",
+  "summary": "client-side and server-side support for the OpenAPI Specification v3",
+  "author": "Artur Maciag",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "openapi_core-0.22.0.tar.gz",
+  "download_time": "2025-12-22T19:29:35.226556",
+  "package_url": "https://pypi.org/project/openapi-core/"
+}

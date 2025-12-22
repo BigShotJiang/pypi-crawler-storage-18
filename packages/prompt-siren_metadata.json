@@ -1,0 +1,11 @@
+{
+  "name": "prompt-siren",
+  "version": "0.0.1a0",
+  "summary": "A research workbench for developing and testing attacks against large language models, with a focus on prompt injection vulnerabilities and defenses.",
+  "author": "Edoardo Debenedetti, Ivan Evtimov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_siren-0.0.1a0.tar.gz",
+  "download_time": "2025-12-22T19:29:20.356829",
+  "package_url": "https://pypi.org/project/prompt-siren/"
+}
