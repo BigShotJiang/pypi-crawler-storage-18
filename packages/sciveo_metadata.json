@@ -1,11 +1,11 @@
 {
   "name": "sciveo",
-  "version": "0.1.89",
+  "version": "0.1.90",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sciveo-0.1.89.tar.gz",
-  "download_time": "2025-12-21T22:14:01.590054",
+  "download_filename": "sciveo-0.1.90.tar.gz",
+  "download_time": "2025-12-22T09:22:51.780067",
   "package_url": "https://pypi.org/project/sciveo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vuln-structure",
+  "version": "2025.12.22090418",
+  "summary": "vuln-structure is a package that extracts vulnerability details from raw text and outputs standardized, structured data for security teams.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vuln_structure-2025.12.22090418.tar.gz",
+  "download_time": "2025-12-22T09:22:59.506446",
+  "package_url": "https://pypi.org/project/vuln-structure/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "analysis-tool",
+  "version": "1.0.0",
+  "summary": "A generic analysis tool for various data analyses. Mainly for the analysis of the LHCb experiment.",
+  "author": "Jie Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/JieWu-GitHub/Analysis_tools",
+  "download_filename": "analysis_tool-1.0.0.tar.gz",
+  "download_time": "2025-12-22T09:22:37.187312",
+  "package_url": "https://pypi.org/project/analysis-tool/"
+}
