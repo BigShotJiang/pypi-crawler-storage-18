@@ -1,0 +1,11 @@
+{
+  "name": "py4eos",
+  "version": "0.6.0",
+  "summary": "Convenience functions for working with HDF4-EOS datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py4eos-0.6.0.tar.gz",
+  "download_time": "2025-12-22T19:40:08.776382",
+  "package_url": "https://pypi.org/project/py4eos/"
+}
