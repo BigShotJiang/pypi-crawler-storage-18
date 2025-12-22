@@ -1,11 +1,11 @@
 {
   "name": "slrdecisionmerger",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python toolkit to divide BibTeX files among reviewers and merge their decisions for Systematic Literature Reviews",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slrdecisionmerger-0.1.1.tar.gz",
-  "download_time": "2025-12-22T14:16:11.973897",
+  "download_filename": "slrdecisionmerger-0.1.2.tar.gz",
+  "download_time": "2025-12-22T15:17:00.277870",
   "package_url": "https://pypi.org/project/slrdecisionmerger/"
 }

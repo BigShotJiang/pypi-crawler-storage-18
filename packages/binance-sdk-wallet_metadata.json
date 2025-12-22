@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-wallet",
+  "version": "5.0.0",
+  "summary": "Official Binance Wallet SDK - A lightweight library that provides a convenient interface to Binance's Wallet REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_wallet-5.0.0.tar.gz",
+  "download_time": "2025-12-22T15:16:32.548352",
+  "package_url": "https://pypi.org/project/binance-sdk-wallet/"
+}

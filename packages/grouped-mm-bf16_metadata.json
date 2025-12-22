@@ -1,0 +1,11 @@
+{
+  "name": "grouped-mm-bf16",
+  "version": "0.1.1",
+  "summary": "Triton GPU-only grouped_mm (BF16) matching PyTorch grouped_mm semantics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grouped_mm_bf16-0.1.1.tar.gz",
+  "download_time": "2025-12-22T15:16:39.299869",
+  "package_url": "https://pypi.org/project/grouped-mm-bf16/"
+}

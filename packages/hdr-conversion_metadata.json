@@ -1,0 +1,11 @@
+{
+  "name": "hdr-conversion",
+  "version": "0.1.0a1",
+  "summary": "tools for converting HDR images between different formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdr_conversion-0.1.0a1.tar.gz",
+  "download_time": "2025-12-22T15:16:43.982839",
+  "package_url": "https://pypi.org/project/hdr-conversion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mapc_suitability",
+  "version": "0.2.11",
+  "summary": "A python package for running suitability functions at MAPC",
+  "author": "RBowers",
+  "license": "MIT",
+  "home_page": "https://github.com/MAPC/mapc-suitability",
+  "download_filename": "mapc_suitability-0.2.11.tar.gz",
+  "download_time": "2025-12-22T15:16:59.758427",
+  "package_url": "https://pypi.org/project/mapc_suitability/"
+}
