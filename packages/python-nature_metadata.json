@@ -1,0 +1,11 @@
+{
+  "name": "python-nature",
+  "version": "1.0.0",
+  "summary": "Strongly-typed genetic programming for evolving instance methods on vanilla Python classes",
+  "author": "dg",
+  "license": "MIT",
+  "home_page": "https://github.com/dgabriele/nature",
+  "download_filename": "python_nature-1.0.0.tar.gz",
+  "download_time": "2025-12-22T01:12:53.159628",
+  "package_url": "https://pypi.org/project/python-nature/"
+}

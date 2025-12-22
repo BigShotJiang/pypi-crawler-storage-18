@@ -1,11 +1,11 @@
 {
   "name": "Unified-python-sdk",
-  "version": "0.56.6",
+  "version": "0.56.7",
   "summary": "Python Client SDK for Unified.to",
   "author": "Unified API Inc.",
   "license": null,
   "home_page": "https://github.com/unified-to/unified-python-sdk.git",
-  "download_filename": "unified_python_sdk-0.56.6.tar.gz",
-  "download_time": "2025-12-21T01:13:44.746801",
+  "download_filename": "unified_python_sdk-0.56.7.tar.gz",
+  "download_time": "2025-12-22T01:12:41.726825",
   "package_url": "https://pypi.org/project/Unified-python-sdk/"
 }

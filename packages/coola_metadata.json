@@ -1,0 +1,11 @@
+{
+  "name": "coola",
+  "version": "0.10.0",
+  "summary": "Library to check equality between two complex/nested objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coola-0.10.0.tar.gz",
+  "download_time": "2025-12-22T01:12:22.634216",
+  "package_url": "https://pypi.org/project/coola/"
+}

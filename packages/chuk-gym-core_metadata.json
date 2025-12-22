@@ -1,0 +1,11 @@
+{
+  "name": "chuk-gym-core",
+  "version": "0.1.0",
+  "summary": "Shared infrastructure for reasoning gym environments (math, puzzles, logic)",
+  "author": "Chris Hay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chuk_gym_core-0.1.0.tar.gz",
+  "download_time": "2025-12-22T01:12:33.072316",
+  "package_url": "https://pypi.org/project/chuk-gym-core/"
+}

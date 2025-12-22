@@ -1,11 +1,11 @@
 {
   "name": "stak-git",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Minimal stacked changes for git - build big features as small branches",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stak_git-1.0.1.tar.gz",
-  "download_time": "2025-12-21T03:05:58.920808",
+  "download_filename": "stak_git-1.0.4.tar.gz",
+  "download_time": "2025-12-22T01:12:49.457271",
   "package_url": "https://pypi.org/project/stak-git/"
 }

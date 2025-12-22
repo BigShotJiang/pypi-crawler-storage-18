@@ -1,11 +1,11 @@
 {
   "name": "Apside",
-  "version": "0.6",
+  "version": "0.8",
   "summary": null,
   "author": "Venkata Pendyala",
   "license": null,
   "home_page": null,
-  "download_filename": "apside-0.6.tar.gz",
-  "download_time": "2025-12-21T20:50:35.362953",
+  "download_filename": "apside-0.8.tar.gz",
+  "download_time": "2025-12-22T01:12:36.795779",
   "package_url": "https://pypi.org/project/Apside/"
 }

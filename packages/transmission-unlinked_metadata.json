@@ -1,0 +1,11 @@
+{
+  "name": "transmission-unlinked",
+  "version": "0.1.2",
+  "summary": "Helps you remove your transmission torrents which have no hardlinks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transmission_unlinked-0.1.2.tar.gz",
+  "download_time": "2025-12-22T01:12:21.493892",
+  "package_url": "https://pypi.org/project/transmission-unlinked/"
+}
