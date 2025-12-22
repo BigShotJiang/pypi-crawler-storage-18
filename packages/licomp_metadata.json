@@ -1,0 +1,11 @@
+{
+  "name": "licomp",
+  "version": "0.5.16",
+  "summary": "An interface to generalise license compatibility resources",
+  "author": "Henrik Sanklef",
+  "license": null,
+  "home_page": "https://github.com/hesa/licomp",
+  "download_filename": "licomp-0.5.16.tar.gz",
+  "download_time": "2025-12-22T23:33:02.151332",
+  "package_url": "https://pypi.org/project/licomp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "teslemetry-stream",
+  "version": "0.9.0",
+  "summary": "Teslemetry Streaming API library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "teslemetry_stream-0.9.0.tar.gz",
+  "download_time": "2025-12-22T23:32:42.071607",
+  "package_url": "https://pypi.org/project/teslemetry-stream/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "explipy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Human-readable exception explanations for Python, including NumPy, Pandas, and requests.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "explipy-0.1.1.tar.gz",
-  "download_time": "2025-12-22T23:15:03.455991",
+  "download_filename": "explipy-0.1.2.tar.gz",
+  "download_time": "2025-12-22T23:32:50.632856",
   "package_url": "https://pypi.org/project/explipy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "async-pcloud",
+  "version": "0.1.3",
+  "summary": "Async python API client for PCloud",
+  "author": "Noob",
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_pcloud-0.1.3.tar.gz",
+  "download_time": "2025-12-22T23:32:49.590628",
+  "package_url": "https://pypi.org/project/async-pcloud/"
+}
