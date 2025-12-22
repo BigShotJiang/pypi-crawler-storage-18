@@ -1,0 +1,11 @@
+{
+  "name": "ephemeral-pulumi-deploy",
+  "version": "0.0.6",
+  "summary": "Library for facilitating easy deployment of ephemeral pulumi stacks",
+  "author": "Eli Fine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ephemeral_pulumi_deploy-0.0.6.tar.gz",
+  "download_time": "2025-12-22T14:16:22.226481",
+  "package_url": "https://pypi.org/project/ephemeral-pulumi-deploy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "crew-cli",
+  "version": "1.0.0",
+  "summary": "A Package Manager for C/C++",
+  "author": "127 Crew",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/127crew/crewpackagemanager",
+  "download_filename": "crew_cli-1.0.0.tar.gz",
+  "download_time": "2025-12-22T14:16:24.893880",
+  "package_url": "https://pypi.org/project/crew-cli/"
+}

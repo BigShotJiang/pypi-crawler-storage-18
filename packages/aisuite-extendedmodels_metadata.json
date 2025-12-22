@@ -1,0 +1,11 @@
+{
+  "name": "aisuite-extendedmodels",
+  "version": "0.1.14",
+  "summary": "Uniform access layer for LLMs",
+  "author": "Andrew Ng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aisuite_extendedmodels-0.1.14.tar.gz",
+  "download_time": "2025-12-22T14:16:36.141302",
+  "package_url": "https://pypi.org/project/aisuite-extendedmodels/"
+}

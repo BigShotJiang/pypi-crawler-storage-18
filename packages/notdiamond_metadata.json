@@ -1,0 +1,11 @@
+{
+  "name": "notdiamond",
+  "version": "1.1.2",
+  "summary": "The official Python library for the notdiamond API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "notdiamond-1.1.2.tar.gz",
+  "download_time": "2025-12-22T14:16:05.941861",
+  "package_url": "https://pypi.org/project/notdiamond/"
+}

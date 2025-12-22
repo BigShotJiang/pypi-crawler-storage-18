@@ -1,11 +1,11 @@
 {
   "name": "klaude-code",
-  "version": "1.2.25",
+  "version": "1.2.26",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klaude_code-1.2.25.tar.gz",
-  "download_time": "2025-12-22T04:11:42.247396",
+  "download_filename": "klaude_code-1.2.26-py3-none-any.whl",
+  "download_time": "2025-12-22T14:16:06.472564",
   "package_url": "https://pypi.org/project/klaude-code/"
 }

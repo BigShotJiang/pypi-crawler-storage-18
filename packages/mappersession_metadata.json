@@ -1,0 +1,11 @@
+{
+  "name": "mappersession",
+  "version": "0.0.16",
+  "summary": "Session management tools in python for the libmapper signal mapping framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mappersession-0.0.16-py3-none-any.whl",
+  "download_time": "2025-12-22T14:16:17.872587",
+  "package_url": "https://pypi.org/project/mappersession/"
+}

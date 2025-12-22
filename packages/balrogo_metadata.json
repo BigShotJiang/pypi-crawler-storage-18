@@ -1,0 +1,11 @@
+{
+  "name": "balrogo",
+  "version": "1.9.2",
+  "summary": "Bayesian Astrometric Likelihood Recovery of Galactic Objects",
+  "author": "Eduardo Vitral",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/eduardo-vitral/balrogo",
+  "download_filename": "balrogo-1.9.2.tar.gz",
+  "download_time": "2025-12-22T14:16:22.777212",
+  "package_url": "https://pypi.org/project/balrogo/"
+}

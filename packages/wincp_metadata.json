@@ -1,11 +1,11 @@
 {
   "name": "wincp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "WinCP - Secure CMP Compressor with GUI and CLI",
-  "author": "Your Name",
+  "author": "xqrto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wincp-1.0.0.tar.gz",
-  "download_time": "2025-12-21T23:31:14.767252",
+  "download_filename": "wincp-1.0.2.tar.gz",
+  "download_time": "2025-12-22T14:16:46.405108",
   "package_url": "https://pypi.org/project/wincp/"
 }
