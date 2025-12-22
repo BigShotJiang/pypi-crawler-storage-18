@@ -1,0 +1,11 @@
+{
+  "name": "gps-building-blocks",
+  "version": "1.252.0",
+  "summary": "Modules and tools useful for use with advanced data solutions on Google Ads, Google Marketing Platform and Google Cloud.",
+  "author": "gPS Team",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/google/gps_building_blocks",
+  "download_filename": "gps_building_blocks-1.252.0-py3-none-any.whl",
+  "download_time": "2025-12-22T14:44:25.470021",
+  "package_url": "https://pypi.org/project/gps-building-blocks/"
+}

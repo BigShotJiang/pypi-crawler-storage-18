@@ -1,0 +1,11 @@
+{
+  "name": "slrquerytester",
+  "version": "0.2.1",
+  "summary": "A Python toolkit to test queries across multiple bibliographic databases for Systematic Literature Reviews",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slrquerytester-0.2.1.tar.gz",
+  "download_time": "2025-12-22T14:44:31.044682",
+  "package_url": "https://pypi.org/project/slrquerytester/"
+}

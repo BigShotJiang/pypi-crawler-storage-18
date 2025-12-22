@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-maintenance",
+  "version": "19.0.1.0.0.2",
+  "summary": "Base Maintenance",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_base_maintenance-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-22T14:44:07.841954",
+  "package_url": "https://pypi.org/project/odoo-addon-base-maintenance/"
+}

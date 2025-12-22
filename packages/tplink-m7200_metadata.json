@@ -1,0 +1,11 @@
+{
+  "name": "tplink-m7200",
+  "version": "20251219",
+  "summary": "TP-Link M7000/M7200 API client and CLI",
+  "author": "Gürkan Vural",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tplink_m7200-20251219.tar.gz",
+  "download_time": "2025-12-22T14:44:24.354679",
+  "package_url": "https://pypi.org/project/tplink-m7200/"
+}

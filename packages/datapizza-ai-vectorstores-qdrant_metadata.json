@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-vectorstores-qdrant",
+  "version": "0.0.7",
+  "summary": "Qdrant vectorstore for the datapizza-ai framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_vectorstores_qdrant-0.0.7.tar.gz",
+  "download_time": "2025-12-22T14:44:26.591006",
+  "package_url": "https://pypi.org/project/datapizza-ai-vectorstores-qdrant/"
+}

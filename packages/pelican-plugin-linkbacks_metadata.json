@@ -1,0 +1,11 @@
+{
+  "name": "pelican-plugin-linkbacks",
+  "version": "1.0.5",
+  "summary": "Pelican plugin implementing Linkback protocols, on the linking server side",
+  "author": "Lucas Cimon (@Lucas-C)",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "pelican_plugin_linkbacks-1.0.5.tar.gz",
+  "download_time": "2025-12-22T14:44:29.340451",
+  "package_url": "https://pypi.org/project/pelican-plugin-linkbacks/"
+}

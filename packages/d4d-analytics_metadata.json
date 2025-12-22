@@ -1,0 +1,11 @@
+{
+  "name": "d4d-analytics",
+  "version": "0.1.0",
+  "summary": "Institutional-grade analytics infrastructure for Ethereum microcaps.",
+  "author": "Crypto Underground",
+  "license": "MIT",
+  "home_page": "https://d4d.com",
+  "download_filename": "d4d_analytics-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-22T14:43:44.510207",
+  "package_url": "https://pypi.org/project/d4d-analytics/"
+}

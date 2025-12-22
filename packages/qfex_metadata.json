@@ -1,0 +1,11 @@
+{
+  "name": "qfex",
+  "version": "0.1.0",
+  "summary": "A Python SDK for the QFEX Taker API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qfex-0.1.0.tar.gz",
+  "download_time": "2025-12-22T14:43:59.861541",
+  "package_url": "https://pypi.org/project/qfex/"
+}

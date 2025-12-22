@@ -1,0 +1,11 @@
+{
+  "name": "nordlys-py",
+  "version": "0.1.0",
+  "summary": "Python client SDK for Nordlys intelligent model selection service",
+  "author": "Botir Khaltaev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nordlys_py-0.1.0.tar.gz",
+  "download_time": "2025-12-22T14:44:29.886242",
+  "package_url": "https://pypi.org/project/nordlys-py/"
+}

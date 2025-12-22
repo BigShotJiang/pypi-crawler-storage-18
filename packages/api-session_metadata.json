@@ -1,0 +1,11 @@
+{
+  "name": "api-session",
+  "version": "1.5.3",
+  "summary": "requests.Session to work with JSON APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "api_session-1.5.3.tar.gz",
+  "download_time": "2025-12-22T14:44:19.934782",
+  "package_url": "https://pypi.org/project/api-session/"
+}

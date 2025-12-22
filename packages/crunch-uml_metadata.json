@@ -1,11 +1,11 @@
 {
   "name": "crunch-uml",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Crunch_uml reads UML Class model from multiple formats (including XMI, Enterprise Architect XMI, Excel, Json, and others), can perform transformations and renders them to other formats (including Markdown, json, json schema and many others).",
   "author": "Arjen Brienen",
   "license": "MIT",
   "home_page": "http://github.com/brienen/crunch_uml",
-  "download_filename": "crunch_uml-0.4.2-py3-none-any.whl",
-  "download_time": "2025-12-20T17:52:25.392627",
+  "download_filename": "crunch_uml-0.4.4-py3-none-any.whl",
+  "download_time": "2025-12-22T14:44:02.668111",
   "package_url": "https://pypi.org/project/crunch-uml/"
 }

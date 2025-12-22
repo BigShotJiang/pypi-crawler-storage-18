@@ -1,0 +1,11 @@
+{
+  "name": "Products.MeetingCommunes",
+  "version": "4.2.16",
+  "summary": "Official meetings management for college and council of belgiancommunes (PloneMeeting extension profile)",
+  "author": "Gauthier Bastien",
+  "license": "GPL",
+  "home_page": "http://www.imio.be/produits/gestion-des-deliberations",
+  "download_filename": "products_meetingcommunes-4.2.16.tar.gz",
+  "download_time": "2025-12-22T14:43:51.374265",
+  "package_url": "https://pypi.org/project/Products.MeetingCommunes/"
+}

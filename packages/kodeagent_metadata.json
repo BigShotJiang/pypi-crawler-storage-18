@@ -1,11 +1,11 @@
 {
   "name": "kodeagent",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "A minimalistic approach to building AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kodeagent-0.5.0.tar.gz",
-  "download_time": "2025-12-21T06:21:35.723653",
+  "download_filename": "kodeagent-0.5.2.tar.gz",
+  "download_time": "2025-12-22T14:44:32.174618",
   "package_url": "https://pypi.org/project/kodeagent/"
 }
