@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-12-22T23:33:28.762938",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 10.87,
+  "download_time": "2025-12-22T23:51:07.666738",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 6.44,
   "packages": [
-    "PathiumAPI",
-    "braintrust",
-    "teslemetry-stream",
-    "evomotif",
-    "buvis-pybase",
-    "koality",
-    "macroni",
-    "test-poooooooooooooooooc",
     "cctbx",
     "robologger",
     "ScriptCollection",
@@ -57,6 +49,7 @@
     "pyflind",
     "zepben.protobuf",
     "letta-client",
+    "buvis-pybase",
     "epub-pipeline",
     "binance_syncer",
     "airbyte-agent-linear",
@@ -94,6 +87,11 @@
     "my_test_tuxpkg_project",
     "pygha",
     "mmm-proto-schema",
-    "flatspark"
+    "flatspark",
+    "pypnm-docsis",
+    "metient",
+    "karaoke-gen",
+    "assistant-stream-ce",
+    "ywsd"
   ]
 }
