@@ -1,0 +1,11 @@
+{
+  "name": "pyhelpers",
+  "version": "2.3.2",
+  "summary": "An open-source toolkit for facilitating Python users' data manipulation tasks",
+  "author": "Qian Fu",
+  "license": "MIT",
+  "home_page": "https://github.com/mikeqfu/pyhelpers",
+  "download_filename": "pyhelpers-2.3.2.tar.gz",
+  "download_time": "2025-12-22T15:59:09.962421",
+  "package_url": "https://pypi.org/project/pyhelpers/"
+}

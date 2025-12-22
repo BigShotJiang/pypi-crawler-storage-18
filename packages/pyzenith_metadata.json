@@ -1,11 +1,11 @@
 {
   "name": "pyzenith",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Cross-Platform ML Optimization Framework with ONNX Interpreter",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyzenith-0.2.1.tar.gz",
-  "download_time": "2025-12-22T08:51:48.501611",
+  "download_filename": "pyzenith-0.2.3.tar.gz",
+  "download_time": "2025-12-22T15:58:34.947023",
   "package_url": "https://pypi.org/project/pyzenith/"
 }

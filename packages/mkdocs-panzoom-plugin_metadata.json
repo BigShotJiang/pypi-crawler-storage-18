@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-panzoom-plugin",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "MkDocs Plugin to enable pan & zoom on images and mermaid diagrams",
   "author": "PLAYG0N",
   "license": "MIT",
   "home_page": "https://github.com/PLAYG0N/mkdocs-panzoom.git",
-  "download_filename": "mkdocs_panzoom_plugin-0.5.1.tar.gz",
-  "download_time": "2025-12-21T16:16:55.583302",
+  "download_filename": "mkdocs_panzoom_plugin-0.5.2.tar.gz",
+  "download_time": "2025-12-22T15:59:05.322161",
   "package_url": "https://pypi.org/project/mkdocs-panzoom-plugin/"
 }

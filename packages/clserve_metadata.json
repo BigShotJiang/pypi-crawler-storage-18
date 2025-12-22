@@ -1,0 +1,11 @@
+{
+  "name": "clserve",
+  "version": "0.3.1",
+  "summary": "CLI tool for serving LLM models on Alps",
+  "author": "Nathan Ranchin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clserve-0.3.1.tar.gz",
+  "download_time": "2025-12-22T15:59:19.292775",
+  "package_url": "https://pypi.org/project/clserve/"
+}

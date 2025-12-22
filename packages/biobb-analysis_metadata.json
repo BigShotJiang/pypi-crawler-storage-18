@@ -1,0 +1,11 @@
+{
+  "name": "biobb-analysis",
+  "version": "5.2.0",
+  "summary": "Biobb_analysis is the Biobb module collection to perform analysis of molecular dynamics simulations.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_analysis",
+  "download_filename": "biobb_analysis-5.2.0.tar.gz",
+  "download_time": "2025-12-22T15:59:24.975703",
+  "package_url": "https://pypi.org/project/biobb-analysis/"
+}

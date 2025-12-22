@@ -1,11 +1,11 @@
 {
   "name": "dobby-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Lightweight multi-provider LLM SDK with streaming and tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dobby_sdk-0.2.0.tar.gz",
-  "download_time": "2025-12-22T12:34:03.407386",
+  "download_filename": "dobby_sdk-0.2.1.tar.gz",
+  "download_time": "2025-12-22T15:58:50.207917",
   "package_url": "https://pypi.org/project/dobby-sdk/"
 }

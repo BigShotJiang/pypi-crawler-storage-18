@@ -1,0 +1,11 @@
+{
+  "name": "heat",
+  "version": "1.7.0",
+  "summary": "A framework for high-performance data analytics and machine learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "heat-1.7.0.tar.gz",
+  "download_time": "2025-12-22T15:59:20.374860",
+  "package_url": "https://pypi.org/project/heat/"
+}

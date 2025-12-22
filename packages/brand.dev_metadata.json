@@ -1,0 +1,11 @@
+{
+  "name": "brand.dev",
+  "version": "1.27.0",
+  "summary": "The official Python library for the brand.dev API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "brand_dev-1.27.0.tar.gz",
+  "download_time": "2025-12-22T15:58:37.049856",
+  "package_url": "https://pypi.org/project/brand.dev/"
+}

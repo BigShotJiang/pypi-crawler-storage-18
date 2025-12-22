@@ -1,0 +1,11 @@
+{
+  "name": "litecharts",
+  "version": "0.1.1",
+  "summary": "Python wrapper for TradingView Lightweight Charts",
+  "author": "Chad Thackray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "litecharts-0.1.1.tar.gz",
+  "download_time": "2025-12-22T15:59:17.755404",
+  "package_url": "https://pypi.org/project/litecharts/"
+}

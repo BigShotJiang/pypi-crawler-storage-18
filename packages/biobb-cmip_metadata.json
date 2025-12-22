@@ -1,0 +1,11 @@
+{
+  "name": "biobb-cmip",
+  "version": "5.2.0",
+  "summary": "biobb_cmip is the Biobb module collection to compute classical molecular interaction potentials.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_cmip",
+  "download_filename": "biobb_cmip-5.2.0.tar.gz",
+  "download_time": "2025-12-22T15:59:10.983946",
+  "package_url": "https://pypi.org/project/biobb-cmip/"
+}
