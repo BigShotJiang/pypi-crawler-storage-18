@@ -1,0 +1,11 @@
+{
+  "name": "antchain-bxpt-new",
+  "version": "1.2.28",
+  "summary": "Ant Chain BXPT_NEW SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_bxpt_new-1.2.28.tar.gz",
+  "download_time": "2025-12-22T07:43:22.525856",
+  "package_url": "https://pypi.org/project/antchain-bxpt-new/"
+}

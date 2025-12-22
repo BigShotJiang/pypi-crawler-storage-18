@@ -1,12 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T07:21:20.745546
-- **Total Packages**: 81
-- **Total Size**: 34.62 MB
+- **Download Time**: 2025-12-22T07:43:45.131812
+- **Total Packages**: 80
+- **Total Size**: 25.21 MB
 
 ## Packages List
+- sentience-python
+- mehdashti-observability
+- agentic-fabriq-sdk
+- obj-hash
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
 - python-http-helper
+- feldera
+- praisonaiwp
+- velbus-aio
+- mima-engine
+- rpa-moodle
+- jcloudai
+- leap-model-parser
+- automation-error-detector
+- bbot
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- what-is-my-ip-simp
+- alibabacloud-ocr20191230
+- antchain-bot
+- quickcrop
+- vibephysics
+- ragbio
+- mehdashti-smart-cache
+- stigg-api-client-v2
+- mce-deepeval-adapter
+- miniml-jax
+- stigg-api-client
+- uzombie
+- quick-sentiments
+- amsdal
+- pulumi-aws-native
+- cltk
+- soorma-core
+- braindecode
+- soorma-common
+- antchain-bxpt-new
+- mf6rtm
+- typed-linq-collections
+- metrics-computation-engine
+- karaoke-gen
+- virtuals-acp
+- rule34scraper
+- codemie-sdk-python
+- pwndoc-mcp-server
+- doblib
+- wooordhunt-parser
+- petrus
 - uniform-signal-interp
 - tifftopdf
 - aerofs
@@ -18,9 +66,7 @@
 - rappel
 - libcom
 - win-folder-manager
-- ragbio
 - sakuragent
-- vibephysics
 - cache-dit
 - django-email-learning
 - praisonaippt
@@ -29,10 +75,6 @@
 - streamlit-nightly
 - modelswrkpi
 - dvc-data
-- automation-error-detector
-- praisonaiwp
-- karaoke-gen
-- quick-sentiments
 - pymecli
 - lmrp
 - pylax
@@ -44,46 +86,3 @@
 - marshmallow
 - lythonic
 - aiauto-client
-- antchain-mdpapi
-- ctyun-cli
-- dycw-restic
-- match-predicting-ann-server-pub-api
-- wisent
-- roamresearch-client-py
-- wagtail-scenario-test
-- Pixseal
-- scikit-robot
-- scadm
-- ipyplines
-- doeflow
-- aline-ai
-- reckomate-sdk
-- dora-rs-cli-robodriver
-- plotastrodata
-- azure-mgmt-networkcloud
-- ProBEX-snp
-- clickmate
-- matrice-inference
-- compose-farm
-- scst-proxy
-- optimization-benchmarks
-- tej-tool-api
-- py2cpp
-- dora-rs-robodriver
-- xll-kit
-- airbornehrs
-- reckomate-ai-sdk
-- phasor-handler
-- amp-instrumentation
-- cinecli
-- pwndoc-mcp-server
-- python-invar
-- agentpool
-- ant-ray-cpp-nightly
-- alibaba-cloud-ops-mcp-server
-- dfsx
-- sugarai
-- grove-cli
-- glaip-sdk
-- preview-server
-- tigeropen

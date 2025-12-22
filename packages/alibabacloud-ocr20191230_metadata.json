@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ocr20191230",
+  "version": "4.0.2",
+  "summary": "Alibaba Cloud OCR (20191230) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ocr20191230-4.0.2.tar.gz",
+  "download_time": "2025-12-22T07:43:12.421287",
+  "package_url": "https://pypi.org/project/alibabacloud-ocr20191230/"
+}

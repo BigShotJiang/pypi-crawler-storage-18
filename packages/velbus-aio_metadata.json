@@ -1,0 +1,11 @@
+{
+  "name": "velbus-aio",
+  "version": "2025.12.0",
+  "summary": "Open-source home automation platform running on Python 3.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "velbus_aio-2025.12.0.tar.gz",
+  "download_time": "2025-12-22T07:43:06.750886",
+  "package_url": "https://pypi.org/project/velbus-aio/"
+}

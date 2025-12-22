@@ -1,0 +1,11 @@
+{
+  "name": "doblib",
+  "version": "0.20.3",
+  "summary": "Management tool for Odoo installations",
+  "author": "initOS GmbH",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/initos/dob-lib",
+  "download_filename": "doblib-0.20.3-py3-none-any.whl",
+  "download_time": "2025-12-22T07:43:27.234221",
+  "package_url": "https://pypi.org/project/doblib/"
+}
