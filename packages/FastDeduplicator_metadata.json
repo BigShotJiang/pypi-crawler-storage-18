@@ -1,0 +1,11 @@
+{
+  "name": "FastDeduplicator",
+  "version": "0.1.0",
+  "summary": "A CLI tool designed to find and handle duplicate files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastdeduplicator-0.1.0.tar.gz",
+  "download_time": "2025-12-22T21:31:47.361499",
+  "package_url": "https://pypi.org/project/FastDeduplicator/"
+}
