@@ -1,11 +1,11 @@
 {
   "name": "agentry-community",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A modular AI agent framework built from scratch in Python, designed to evolve",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentry_community-1.0.0.tar.gz",
-  "download_time": "2025-12-22T18:52:17.285878",
+  "download_filename": "agentry_community-1.0.1.tar.gz",
+  "download_time": "2025-12-22T19:13:34.094615",
   "package_url": "https://pypi.org/project/agentry-community/"
 }

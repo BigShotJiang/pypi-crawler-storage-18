@@ -1,0 +1,11 @@
+{
+  "name": "weightedpca",
+  "version": "0.1.0",
+  "summary": "Weighted Principal Component Analysis",
+  "author": "Chris J.",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "weightedpca-0.1.0.tar.gz",
+  "download_time": "2025-12-22T19:13:30.213445",
+  "package_url": "https://pypi.org/project/weightedpca/"
+}

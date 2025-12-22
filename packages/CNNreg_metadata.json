@@ -1,0 +1,11 @@
+{
+  "name": "CNNreg",
+  "version": "0.1.0",
+  "summary": "CNN-based regression for cell type deconvolution of bulk RNA-seq using scRNA-seq reference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cnnreg-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-22T19:13:46.157494",
+  "package_url": "https://pypi.org/project/CNNreg/"
+}

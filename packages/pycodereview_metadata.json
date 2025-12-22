@@ -1,0 +1,11 @@
+{
+  "name": "pycodereview",
+  "version": "2.0.0",
+  "summary": "Static checks for common Python code risks and hygiene issues.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycodereview-2.0.0.tar.gz",
+  "download_time": "2025-12-22T19:13:58.851172",
+  "package_url": "https://pypi.org/project/pycodereview/"
+}

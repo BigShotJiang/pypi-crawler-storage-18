@@ -1,11 +1,11 @@
 {
   "name": "dagctl",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "CLI tool for managing SQLMesh projects with dagctl-hosted state databases",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dagctl-0.1.5-py3-none-any.whl",
-  "download_time": "2025-12-22T14:44:28.200631",
+  "download_filename": "dagctl-0.1.6-py3-none-any.whl",
+  "download_time": "2025-12-22T19:13:55.723780",
   "package_url": "https://pypi.org/project/dagctl/"
 }
