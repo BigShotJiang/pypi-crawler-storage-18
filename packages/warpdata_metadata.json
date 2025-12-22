@@ -1,0 +1,11 @@
+{
+  "name": "warpdata",
+  "version": "3.0.19",
+  "summary": "Remote-first dataset library for ML training",
+  "author": "WarpDatasets Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "warpdata-3.0.19.tar.gz",
+  "download_time": "2025-12-22T17:14:31.158158",
+  "package_url": "https://pypi.org/project/warpdata/"
+}

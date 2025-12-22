@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-activity",
+  "version": "1.7.0",
+  "summary": "A service for tracking activity in hea",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_activity-1.7.0.tar.gz",
+  "download_time": "2025-12-22T17:14:42.890607",
+  "package_url": "https://pypi.org/project/heaserver-activity/"
+}

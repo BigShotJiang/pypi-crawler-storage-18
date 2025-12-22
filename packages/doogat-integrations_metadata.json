@@ -1,11 +1,11 @@
 {
   "name": "doogat-integrations",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": null,
   "author": "Tomáš Bouška",
   "license": "GNU GPLv3",
   "home_page": null,
-  "download_filename": "doogat_integrations-0.2.1.tar.gz",
-  "download_time": "2025-12-22T16:49:37.952539",
+  "download_filename": "doogat_integrations-0.2.3.tar.gz",
+  "download_time": "2025-12-22T17:15:02.554788",
   "package_url": "https://pypi.org/project/doogat-integrations/"
 }

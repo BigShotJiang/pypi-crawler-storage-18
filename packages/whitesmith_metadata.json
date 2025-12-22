@@ -1,11 +1,11 @@
 {
   "name": "whitesmith",
-  "version": "5.1.2",
+  "version": "5.1.3",
   "summary": "Testing toolbox for blacksmith",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whitesmith-5.1.2.tar.gz",
-  "download_time": "2025-12-22T14:44:10.674359",
+  "download_filename": "whitesmith-5.1.3.tar.gz",
+  "download_time": "2025-12-22T17:15:07.418435",
   "package_url": "https://pypi.org/project/whitesmith/"
 }

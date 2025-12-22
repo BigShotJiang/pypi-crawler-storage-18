@@ -1,0 +1,11 @@
+{
+  "name": "Voronout",
+  "version": "0.0.4.0.1",
+  "summary": "Translating scipy.spatial's Voronoi diagrams into a set of cells bounded by a specified containing box, in easy-to-parse JSON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voronout-0.0.4.0.1.tar.gz",
+  "download_time": "2025-12-22T17:14:35.028152",
+  "package_url": "https://pypi.org/project/Voronout/"
+}

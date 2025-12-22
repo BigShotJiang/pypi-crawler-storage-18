@@ -1,0 +1,11 @@
+{
+  "name": "nofuture",
+  "version": "1.0.0",
+  "summary": "NoFuture: explicit Maybe and Result types. No futures. No exceptions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nofuture-1.0.0.tar.gz",
+  "download_time": "2025-12-22T17:14:40.260718",
+  "package_url": "https://pypi.org/project/nofuture/"
+}

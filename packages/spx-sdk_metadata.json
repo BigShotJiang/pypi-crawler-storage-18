@@ -1,0 +1,11 @@
+{
+  "name": "spx-sdk",
+  "version": "0.2.4",
+  "summary": "A Python library for managing and loading class instances from modules and YAML configurations.",
+  "author": "Aleksander Stanik",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spx_sdk-0.2.4.tar.gz",
+  "download_time": "2025-12-22T17:15:06.395798",
+  "package_url": "https://pypi.org/project/spx-sdk/"
+}

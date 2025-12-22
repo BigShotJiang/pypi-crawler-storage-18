@@ -1,11 +1,11 @@
 {
   "name": "unit-sdk",
-  "version": "1.2.10",
+  "version": "1.2.13",
   "summary": "SDK for developing Unit Apps.",
   "author": null,
   "license": "Copyright 2025 PageKey Solutions, LLC",
   "home_page": null,
-  "download_filename": "unit_sdk-1.2.10.tar.gz",
-  "download_time": "2025-12-22T16:18:57.808718",
+  "download_filename": "unit_sdk-1.2.13.tar.gz",
+  "download_time": "2025-12-22T17:15:10.639151",
   "package_url": "https://pypi.org/project/unit-sdk/"
 }

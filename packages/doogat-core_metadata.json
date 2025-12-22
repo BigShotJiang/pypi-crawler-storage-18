@@ -1,11 +1,11 @@
 {
   "name": "doogat-core",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": "Tomáš Bouška",
   "license": "GNU GPLv3",
   "home_page": null,
-  "download_filename": "doogat_core-0.2.0.tar.gz",
-  "download_time": "2025-12-22T16:49:47.887234",
+  "download_filename": "doogat_core-0.2.1.tar.gz",
+  "download_time": "2025-12-22T17:15:11.662771",
   "package_url": "https://pypi.org/project/doogat-core/"
 }
