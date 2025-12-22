@@ -1,11 +1,11 @@
 {
   "name": "tdsc-abus2023-pytorch",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "PyTorch dataset for TDSC ABUS 2023",
   "author": "Ali Naderi Parizi",
   "license": null,
   "home_page": "https://github.com/mralinp/tdsc-abus2023-pytorch",
-  "download_filename": "tdsc_abus2023_pytorch-0.1.8.tar.gz",
-  "download_time": "2025-12-22T11:14:45.352264",
+  "download_filename": "tdsc_abus2023_pytorch-0.1.9.tar.gz",
+  "download_time": "2025-12-22T11:31:10.534883",
   "package_url": "https://pypi.org/project/tdsc-abus2023-pytorch/"
 }

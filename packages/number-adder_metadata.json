@@ -1,0 +1,11 @@
+{
+  "name": "number-adder",
+  "version": "0.3.0",
+  "summary": "A simple number adding service with GDPR compliance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "number_adder-0.3.0.tar.gz",
+  "download_time": "2025-12-22T11:31:24.975101",
+  "package_url": "https://pypi.org/project/number-adder/"
+}

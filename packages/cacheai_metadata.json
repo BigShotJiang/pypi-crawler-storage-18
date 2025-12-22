@@ -1,0 +1,11 @@
+{
+  "name": "cacheai",
+  "version": "0.1.0",
+  "summary": "Official Python API for CacheAI - Semantic Caching for Large Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cacheai-0.1.0.tar.gz",
+  "download_time": "2025-12-22T11:31:23.414368",
+  "package_url": "https://pypi.org/project/cacheai/"
+}

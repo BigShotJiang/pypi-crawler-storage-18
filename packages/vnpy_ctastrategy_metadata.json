@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_ctastrategy",
+  "version": "1.4.0",
+  "summary": "CTA strategy application for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_ctastrategy-1.4.0.tar.gz",
+  "download_time": "2025-12-22T11:31:09.495408",
+  "package_url": "https://pypi.org/project/vnpy_ctastrategy/"
+}
