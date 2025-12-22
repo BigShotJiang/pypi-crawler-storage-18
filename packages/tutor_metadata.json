@@ -1,0 +1,11 @@
+{
+  "name": "tutor",
+  "version": "20.0.4",
+  "summary": "The Docker-based Open edX distribution designed for peace of mind",
+  "author": "Edly",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tutor-20.0.4.tar.gz",
+  "download_time": "2025-12-22T11:49:27.634680",
+  "package_url": "https://pypi.org/project/tutor/"
+}

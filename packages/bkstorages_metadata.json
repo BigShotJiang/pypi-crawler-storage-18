@@ -1,0 +1,11 @@
+{
+  "name": "bkstorages",
+  "version": "2.0.2",
+  "summary": "File storage backends for blueking PaaS platform",
+  "author": "blueking",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bkstorages-2.0.2.tar.gz",
+  "download_time": "2025-12-22T11:49:28.653402",
+  "package_url": "https://pypi.org/project/bkstorages/"
+}

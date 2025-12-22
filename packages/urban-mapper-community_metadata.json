@@ -1,0 +1,11 @@
+{
+  "name": "urban-mapper-community",
+  "version": "0.0.1",
+  "summary": "🗺️ Spatial Join & Enrich any urban layer given any external urban dataset of interest, streamline your urban analysis with Scikit-Learn-Like pipelines, and share your insights with the urban research community!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "urban_mapper_community-0.0.1.tar.gz",
+  "download_time": "2025-12-22T11:49:34.804366",
+  "package_url": "https://pypi.org/project/urban-mapper-community/"
+}

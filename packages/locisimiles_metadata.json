@@ -1,11 +1,11 @@
 {
   "name": "locisimiles",
-  "version": "0.2.9",
+  "version": "0.3.1",
   "summary": "LociSimiles is a Python package for finding intertextual links in Latin literature using pre-trained language models.",
   "author": "Julian Schelb",
   "license": null,
   "home_page": null,
-  "download_filename": "locisimiles-0.2.9.tar.gz",
-  "download_time": "2025-12-22T11:31:26.018508",
+  "download_filename": "locisimiles-0.3.1.tar.gz",
+  "download_time": "2025-12-22T11:49:14.895638",
   "package_url": "https://pypi.org/project/locisimiles/"
 }

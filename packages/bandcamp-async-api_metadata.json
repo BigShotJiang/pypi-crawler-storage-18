@@ -1,11 +1,11 @@
 {
   "name": "bandcamp-async-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Bandcamp Async API",
   "author": "Alexey ALERT Rubashёff",
   "license": null,
   "home_page": null,
-  "download_filename": "bandcamp_async_api-0.0.1.tar.gz",
-  "download_time": "2025-12-21T20:15:45.779613",
+  "download_filename": "bandcamp_async_api-0.0.2.tar.gz",
+  "download_time": "2025-12-22T11:49:09.293483",
   "package_url": "https://pypi.org/project/bandcamp-async-api/"
 }
