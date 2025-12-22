@@ -1,0 +1,11 @@
+{
+  "name": "nfelib",
+  "version": "2.3.0",
+  "summary": "nfelib: electronic invoicing library for Brazil",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nfelib-2.3.0.tar.gz",
+  "download_time": "2025-12-22T04:12:00.265266",
+  "package_url": "https://pypi.org/project/nfelib/"
+}

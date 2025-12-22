@@ -1,11 +1,11 @@
 {
   "name": "seokit",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "summary": "Claude Code toolkit for creating high-quality SEO articles",
   "author": "nguyennguyenit",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "seokit-1.0.24.tar.gz",
-  "download_time": "2025-12-20T18:45:38.743731",
+  "download_filename": "seokit-1.0.25.tar.gz",
+  "download_time": "2025-12-22T04:12:21.339944",
   "package_url": "https://pypi.org/project/seokit/"
 }

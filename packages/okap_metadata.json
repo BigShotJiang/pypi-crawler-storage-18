@@ -1,0 +1,11 @@
+{
+  "name": "okap",
+  "version": "0.1.1",
+  "summary": "Python SDK for OKAP (Open Key Access Protocol) - Secure API key delegation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "okap-0.1.1.tar.gz",
+  "download_time": "2025-12-22T04:11:59.217396",
+  "package_url": "https://pypi.org/project/okap/"
+}

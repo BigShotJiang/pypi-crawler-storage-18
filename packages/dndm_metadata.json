@@ -1,0 +1,11 @@
+{
+  "name": "dndm",
+  "version": "0.2.5",
+  "summary": "A Dungeons and Dragons CLI tool",
+  "author": "Ophelia Van Wye",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dndm-0.2.5.tar.gz",
+  "download_time": "2025-12-22T04:11:58.701862",
+  "package_url": "https://pypi.org/project/dndm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strands-google",
+  "version": "0.1.0",
+  "summary": "Google API integration tools for Strands Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strands_google-0.1.0.tar.gz",
+  "download_time": "2025-12-22T04:11:43.330102",
+  "package_url": "https://pypi.org/project/strands-google/"
+}

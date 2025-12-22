@@ -1,0 +1,11 @@
+{
+  "name": "nnunetv2-cam",
+  "version": "0.1.6.1",
+  "summary": "Class Activation Map generation for nnUNet v2 models",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nnunetv2_cam-0.1.6.1.tar.gz",
+  "download_time": "2025-12-22T04:11:54.917061",
+  "package_url": "https://pypi.org/project/nnunetv2-cam/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chromedriver-binary",
-  "version": "145.0.7589.0.0",
+  "version": "145.0.7591.0.0",
   "summary": "Installer for chromedriver.",
   "author": "Daniel Kaiser",
   "license": "MIT",
   "home_page": "https://github.com/danielkaiser/python-chromedriver-binary",
-  "download_filename": "chromedriver_binary-145.0.7589.0.0.tar.gz",
-  "download_time": "2025-12-21T04:48:41.291131",
+  "download_filename": "chromedriver_binary-145.0.7591.0.0.tar.gz",
+  "download_time": "2025-12-22T04:11:45.959883",
   "package_url": "https://pypi.org/project/chromedriver-binary/"
 }

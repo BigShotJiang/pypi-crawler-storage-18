@@ -1,0 +1,11 @@
+{
+  "name": "robola",
+  "version": "0.2.4",
+  "summary": "Robola MJCF Editor Local Bridge - Local Python Library for MuJoCo and Online Web mjcf editing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robola-0.2.4.tar.gz",
+  "download_time": "2025-12-22T04:12:09.736997",
+  "package_url": "https://pypi.org/project/robola/"
+}

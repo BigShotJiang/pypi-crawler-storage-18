@@ -1,0 +1,11 @@
+{
+  "name": "sakuragent",
+  "version": "0.2.0",
+  "summary": "Sakura Agent Framework - A streamlined LLM agent framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sakuragent-0.2.0.tar.gz",
+  "download_time": "2025-12-22T04:11:50.236508",
+  "package_url": "https://pypi.org/project/sakuragent/"
+}
