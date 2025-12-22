@@ -1,0 +1,11 @@
+{
+  "name": "ok-serial",
+  "version": "0.1",
+  "summary": "Serial port library (PySerial wrapper) with more features",
+  "author": "Dan Egnor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ok_serial-0.1.tar.gz",
+  "download_time": "2025-12-22T08:52:02.174118",
+  "package_url": "https://pypi.org/project/ok-serial/"
+}

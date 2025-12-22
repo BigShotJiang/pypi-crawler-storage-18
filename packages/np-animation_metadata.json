@@ -1,0 +1,11 @@
+{
+  "name": "np-animation",
+  "version": "1.0.0",
+  "summary": "A MicroPython library for driving NeoPixel animations with time functions and keyframes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "np_animation-1.0.0.tar.gz",
+  "download_time": "2025-12-22T08:51:52.552802",
+  "package_url": "https://pypi.org/project/np-animation/"
+}

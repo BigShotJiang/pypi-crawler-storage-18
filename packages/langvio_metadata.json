@@ -1,0 +1,11 @@
+{
+  "name": "langvio",
+  "version": "0.0.5",
+  "summary": "Connect language models to vision models for natural language visual analysis",
+  "author": "Mughees Mehdi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langvio-0.0.5.tar.gz",
+  "download_time": "2025-12-22T08:52:03.477134",
+  "package_url": "https://pypi.org/project/langvio/"
+}
