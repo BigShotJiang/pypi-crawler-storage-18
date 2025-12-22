@@ -1,0 +1,11 @@
+{
+  "name": "reckomate-ai-sdk",
+  "version": "0.1.0",
+  "summary": "Reckomate internal Python SDK",
+  "author": "Harish Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reckomate_ai_sdk-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-22T06:25:52.346272",
+  "package_url": "https://pypi.org/project/reckomate-ai-sdk/"
+}

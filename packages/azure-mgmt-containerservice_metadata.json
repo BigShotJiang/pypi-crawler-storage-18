@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-containerservice",
+  "version": "40.2.0",
+  "summary": "Microsoft Azure Containerservice Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_containerservice-40.2.0.tar.gz",
+  "download_time": "2025-12-22T06:25:57.757399",
+  "package_url": "https://pypi.org/project/azure-mgmt-containerservice/"
+}

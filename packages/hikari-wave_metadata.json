@@ -1,11 +1,11 @@
 {
   "name": "hikari-wave",
-  "version": "0.1.0a1",
+  "version": "0.2.0a1",
   "summary": "Voice module for `hikari`-based Discord bots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hikari_wave-0.1.0a1.tar.gz",
-  "download_time": "2025-12-21T04:08:13.501955",
+  "download_filename": "hikari_wave-0.2.0a1.tar.gz",
+  "download_time": "2025-12-22T06:26:08.441494",
   "package_url": "https://pypi.org/project/hikari-wave/"
 }

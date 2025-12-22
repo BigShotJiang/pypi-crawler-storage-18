@@ -1,0 +1,11 @@
+{
+  "name": "cosmica",
+  "version": "0.4.0",
+  "summary": "COnstellation Satellite siMulator for optIcal CommunicAtion",
+  "author": "Shunichiro Nomura, Vinícius Nery, Kazuki Takashima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cosmica-0.4.0.tar.gz",
+  "download_time": "2025-12-22T06:25:51.810044",
+  "package_url": "https://pypi.org/project/cosmica/"
+}
