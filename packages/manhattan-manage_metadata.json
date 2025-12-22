@@ -1,0 +1,11 @@
+{
+  "name": "manhattan-manage",
+  "version": "0.11.20",
+  "summary": "Classes and views for managing documents in a manhattan project.",
+  "author": "Anthony Blackshaw",
+  "license": "MIT",
+  "home_page": "https://git.getme.co.uk/manhattan/manhattan_manage",
+  "download_filename": "manhattan_manage-0.11.20.tar.gz",
+  "download_time": "2025-12-22T10:45:45.200548",
+  "package_url": "https://pypi.org/project/manhattan-manage/"
+}

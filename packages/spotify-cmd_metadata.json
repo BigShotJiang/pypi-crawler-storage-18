@@ -1,11 +1,11 @@
 {
   "name": "spotify-cmd",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Command line Spotify client",
   "author": "Maciej Ciemborowicz",
   "license": "GNU General Public License v3.0",
   "home_page": "https://github.com/ciembor/spotify-cmd",
-  "download_filename": "spotify_cmd-0.1.11.tar.gz",
-  "download_time": "2025-12-21T11:28:01.705854",
+  "download_filename": "spotify_cmd-0.1.12.tar.gz",
+  "download_time": "2025-12-22T10:45:17.900616",
   "package_url": "https://pypi.org/project/spotify-cmd/"
 }

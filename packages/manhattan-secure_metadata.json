@@ -1,0 +1,11 @@
+{
+  "name": "manhattan-secure",
+  "version": "0.2.0",
+  "summary": "A set of functions and utilties that broadly fall under the topic of security for manhattan.",
+  "author": "Anthony Blackshaw",
+  "license": "MIT",
+  "home_page": "https://git.getme.co.uk/manhattan/manhattan_secure",
+  "download_filename": "manhattan_secure-0.2.0.tar.gz",
+  "download_time": "2025-12-22T10:45:44.095951",
+  "package_url": "https://pypi.org/project/manhattan-secure/"
+}
