@@ -1,0 +1,11 @@
+{
+  "name": "pymodi-plus",
+  "version": "0.4.2",
+  "summary": "Python API for controlling modular electronics, MODI+.",
+  "author": "LUXROBO",
+  "license": "MIT",
+  "home_page": "https://github.com/LUXROBO/pymodi-plus",
+  "download_filename": "pymodi_plus-0.4.2.tar.gz",
+  "download_time": "2025-12-22T05:21:38.463057",
+  "package_url": "https://pypi.org/project/pymodi-plus/"
+}

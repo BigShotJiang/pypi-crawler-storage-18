@@ -1,0 +1,11 @@
+{
+  "name": "quantms-rescoring",
+  "version": "0.0.13",
+  "summary": "quantms-rescoring: Python scripts and helpers for the quantMS workflow",
+  "author": "Yasset Perez-Riverol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantms_rescoring-0.0.13.tar.gz",
+  "download_time": "2025-12-22T05:21:24.590717",
+  "package_url": "https://pypi.org/project/quantms-rescoring/"
+}

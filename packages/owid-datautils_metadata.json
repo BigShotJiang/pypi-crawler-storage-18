@@ -1,0 +1,11 @@
+{
+  "name": "owid-datautils",
+  "version": "0.6.2",
+  "summary": "Data utils library by the Data Team at Our World in Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owid_datautils-0.6.2.tar.gz",
+  "download_time": "2025-12-22T05:21:43.800343",
+  "package_url": "https://pypi.org/project/owid-datautils/"
+}

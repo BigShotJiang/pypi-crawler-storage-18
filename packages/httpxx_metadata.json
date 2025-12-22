@@ -1,11 +1,11 @@
 {
   "name": "httpxx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "httpx的封装",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "httpxx-0.1.0.tar.gz",
-  "download_time": "2025-12-22T01:12:26.659205",
+  "download_filename": "httpxx-0.1.1.tar.gz",
+  "download_time": "2025-12-22T05:21:35.505964",
   "package_url": "https://pypi.org/project/httpxx/"
 }
