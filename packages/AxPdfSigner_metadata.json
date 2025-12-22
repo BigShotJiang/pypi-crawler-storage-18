@@ -1,0 +1,11 @@
+{
+  "name": "AxPdfSigner",
+  "version": "1.0.1",
+  "summary": "Professional PDF Digital Signature SDK - Pure Python Implementation",
+  "author": "Axonate Tech",
+  "license": "Commercial",
+  "home_page": "https://axonatetech.com/",
+  "download_filename": "axpdfsigner-1.0.1.tar.gz",
+  "download_time": "2025-12-22T13:11:14.404684",
+  "package_url": "https://pypi.org/project/AxPdfSigner/"
+}

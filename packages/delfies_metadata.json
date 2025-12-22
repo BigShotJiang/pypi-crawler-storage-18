@@ -1,0 +1,11 @@
+{
+  "name": "delfies",
+  "version": "0.11.0",
+  "summary": "delfies is a tool for the detection of DNA Elimination breakpoints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "delfies-0.11.0.tar.gz",
+  "download_time": "2025-12-22T13:11:21.104070",
+  "package_url": "https://pypi.org/project/delfies/"
+}

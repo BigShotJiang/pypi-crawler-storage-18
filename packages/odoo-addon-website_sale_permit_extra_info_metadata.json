@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website_sale_permit_extra_info",
+  "version": "18.0.1.0.0",
+  "summary": "Module summary.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_website_sale_permit_extra_info-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-22T13:11:32.432855",
+  "package_url": "https://pypi.org/project/odoo-addon-website_sale_permit_extra_info/"
+}

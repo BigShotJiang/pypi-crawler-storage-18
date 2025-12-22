@@ -1,11 +1,11 @@
 {
   "name": "claude-code-wrapped",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "summary": "Your year with Claude Code - Spotify Wrapped style terminal experience",
   "author": "Mert Deveci",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_wrapped-0.1.5.tar.gz",
-  "download_time": "2025-12-21T22:14:17.066155",
+  "download_filename": "claude_code_wrapped-0.1.10.tar.gz",
+  "download_time": "2025-12-22T13:11:20.555694",
   "package_url": "https://pypi.org/project/claude-code-wrapped/"
 }

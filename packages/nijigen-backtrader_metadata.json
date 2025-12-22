@@ -1,0 +1,11 @@
+{
+  "name": "nijigen-backtrader",
+  "version": "1.9.78.125",
+  "summary": "BackTesting Engine - A feature-rich Python framework for backtesting and trading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nijigen_backtrader-1.9.78.125.tar.gz",
+  "download_time": "2025-12-22T13:11:44.350898",
+  "package_url": "https://pypi.org/project/nijigen-backtrader/"
+}

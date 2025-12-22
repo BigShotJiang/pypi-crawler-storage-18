@@ -1,0 +1,11 @@
+{
+  "name": "vantage6-hq",
+  "version": "5.0.0b2",
+  "summary": "Vantage6 HQ",
+  "author": "Vantage6 Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vantage6_hq-5.0.0b2.tar.gz",
+  "download_time": "2025-12-22T13:11:45.426146",
+  "package_url": "https://pypi.org/project/vantage6-hq/"
+}

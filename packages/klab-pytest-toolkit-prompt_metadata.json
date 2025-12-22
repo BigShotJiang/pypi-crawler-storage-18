@@ -1,0 +1,11 @@
+{
+  "name": "klab-pytest-toolkit-prompt",
+  "version": "0.0.0",
+  "summary": "Pytest prompt fixtures for the Klab Pytest Toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klab_pytest_toolkit_prompt-0.0.0.tar.gz",
+  "download_time": "2025-12-22T13:11:37.846668",
+  "package_url": "https://pypi.org/project/klab-pytest-toolkit-prompt/"
+}

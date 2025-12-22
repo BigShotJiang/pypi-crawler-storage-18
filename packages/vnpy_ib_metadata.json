@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_ib",
+  "version": "10.40.1.2",
+  "summary": "IB gateway for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_ib-10.40.1.2.tar.gz",
+  "download_time": "2025-12-22T13:11:50.348433",
+  "package_url": "https://pypi.org/project/vnpy_ib/"
+}
