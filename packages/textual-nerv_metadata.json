@@ -1,0 +1,11 @@
+{
+  "name": "textual-nerv",
+  "version": "0.1.2",
+  "summary": "NERV theme for Textual applications - Evangelion-inspired aesthetic",
+  "author": "Willem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_nerv-0.1.2.tar.gz",
+  "download_time": "2025-12-22T10:17:17.852846",
+  "package_url": "https://pypi.org/project/textual-nerv/"
+}

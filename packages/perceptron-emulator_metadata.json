@@ -1,11 +1,11 @@
 {
   "name": "perceptron-emulator",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "A GUI-based physical perceptron emulator with custom hardware-style widgets",
   "author": "Rex Ackermann",
   "license": "MIT",
   "home_page": "https://github.com/rexackermann/perceptron-emulator",
-  "download_filename": "perceptron_emulator-1.1.1.tar.gz",
-  "download_time": "2025-12-22T08:22:57.428959",
+  "download_filename": "perceptron_emulator-1.2.1.tar.gz",
+  "download_time": "2025-12-22T10:17:20.467950",
   "package_url": "https://pypi.org/project/perceptron-emulator/"
 }

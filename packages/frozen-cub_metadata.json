@@ -1,11 +1,11 @@
 {
   "name": "frozen-cub",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A set of C and Python implementations of immutable, hashable, and performant frozen objects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "frozen_cub-0.1.5.tar.gz",
-  "download_time": "2025-12-22T05:21:27.640288",
+  "download_filename": "frozen_cub-0.1.6.tar.gz",
+  "download_time": "2025-12-22T10:17:11.474952",
   "package_url": "https://pypi.org/project/frozen-cub/"
 }
