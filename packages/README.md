@@ -1,52 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T19:40:45.835152
-- **Total Packages**: 88
-- **Total Size**: 17.76 MB
+- **Download Time**: 2025-12-22T19:49:28.760126
+- **Total Packages**: 83
+- **Total Size**: 1.46 MB
 
 ## Packages List
-- tenuo
-- fmtr.tools
-- topolib
-- hillclimber
-- wemake-python-styleguide
-- risk-network
-- mil-kit
-- cursor-rag-tools
-- modal
-- cmdfixer-gemini
-- infrahub-server
-- infrahub-testcontainers
-- wisent
-- plurals
-- vital
-- macroni
-- recko-ai-sdk
-- griptape-nodes
-- py4eos
-- opvious
-- pandas-plots
-- gammarers.aws-waf-ip-rate-limit-rule
-- MinecraftDockerCLI
-- pulumi-datadog
-- boneio
-- fsai-proto-specs
-- vibegate
-- movoid-robotframework
-- gammarers.aws-waf-geo-restrict-rule
-- gammarers.aws-waf-ip-restrict-rule
-- xpander-sdk
-- webtoolkitex
-- remdb
-- contex-python
-- arize-phoenix
-- foundationallm-agent-plugins-langchain
-- foundationallm-agent-plugins-azure-ai
-- foundationallm-agent-plugins-experimental
-- foundationallm-agent-plugins
-- foundationallm
-- auroraview
 - movoid-log
 - kopi-docka
 - prompt-siren
@@ -57,6 +16,7 @@
 - indexify
 - zpp_config
 - nextmv
+- recko-ai-sdk
 - fintrack-cli
 - gate-io-api
 - kucoin-api
@@ -74,6 +34,7 @@
 - bitget
 - woofipro-api
 - okx-exchange
+- wisent
 - fountain-life-service-clients
 - openapi-core
 - sqlit-tui
@@ -81,6 +42,8 @@
 - rofl
 - agentrank
 - agenta
+- infrahub-server
+- infrahub-testcontainers
 - movoid-debug
 - pycarlo
 - ragstack-mcp
@@ -94,3 +57,35 @@
 - oarepo-oai-pmh-harvester
 - weightedpca
 - IncludeCPP
+- enfrosp-enmapboxapp
+- arthur-client
+- PraisonAI
+- bengal
+- agentry-community
+- cpumarkets
+- odoo-addon-sale-resource-booking
+- pulumi-gitlab
+- cisco-ai-mcp-scanner
+- python-lucide
+- mapc_suitability
+- opvious
+- bittensor
+- mat3ra-utils
+- robotpy-pykit
+- movoid-function
+- dvt-core
+- gf2-lin-algebra
+- datedict
+- cocoindex
+- pulumi-digitalocean
+- CNNreg
+- anvil-tui
+- pandera
+- cybrid-api-bank-python
+- gcp-mcp-fastmcp
+- polydup
+- cybrid-api-organization-python
+- cybrid-api-id-python
+- cachememo
+- macroni
+- hydroserverpy
