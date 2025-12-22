@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-quickreply",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "nonebot-plugin-quickreply",
   "author": "FlanChanXwO",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_quickreply-0.1.11.tar.gz",
-  "download_time": "2025-12-22T09:49:09.742785",
+  "download_filename": "nonebot_plugin_quickreply-0.1.13.tar.gz",
+  "download_time": "2025-12-22T10:56:04.013976",
   "package_url": "https://pypi.org/project/nonebot-plugin-quickreply/"
 }

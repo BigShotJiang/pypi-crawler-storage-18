@@ -1,11 +1,11 @@
 {
   "name": "trainy-mlop-nightly",
-  "version": "0.0.2.dev20251221104553",
+  "version": "0.0.2.dev20251222104902",
   "summary": "Trainy MLOp",
   "author": "jqssun",
   "license": null,
   "home_page": null,
-  "download_filename": "trainy_mlop_nightly-0.0.2.dev20251221104553.tar.gz",
-  "download_time": "2025-12-21T10:50:55.523751",
+  "download_filename": "trainy_mlop_nightly-0.0.2.dev20251222104902.tar.gz",
+  "download_time": "2025-12-22T10:56:17.445672",
   "package_url": "https://pypi.org/project/trainy-mlop-nightly/"
 }
