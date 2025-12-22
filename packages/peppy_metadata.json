@@ -1,0 +1,11 @@
+{
+  "name": "peppy",
+  "version": "0.40.8",
+  "summary": "A python-based project metadata manager for portable encapsulated projects",
+  "author": "Michal Stolarczyk, Nathan Sheffield, Vince Reuter, Andre Rendeiro, Oleksandr Khoroshevskyi",
+  "license": "BSD2",
+  "home_page": "https://github.com/pepkit/peppy/",
+  "download_filename": "peppy-0.40.8.tar.gz",
+  "download_time": "2025-12-22T20:42:58.984214",
+  "package_url": "https://pypi.org/project/peppy/"
+}

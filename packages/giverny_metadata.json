@@ -1,0 +1,11 @@
+{
+  "name": "giverny",
+  "version": "3.5.1",
+  "summary": "library to query the Johns Hopkins Turbulence Database (JHTDB)",
+  "author": "Johns Hopkins Turbulence Database Group",
+  "license": null,
+  "home_page": "https://github.com/sciserver/giverny",
+  "download_filename": "giverny-3.5.1.tar.gz",
+  "download_time": "2025-12-22T20:42:55.318531",
+  "package_url": "https://pypi.org/project/giverny/"
+}

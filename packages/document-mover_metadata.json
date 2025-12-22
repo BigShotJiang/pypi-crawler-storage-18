@@ -1,11 +1,11 @@
 {
   "name": "document-mover",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "document mover, for moving scans stable and merge pdfs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "document_mover-0.3.5.tar.gz",
-  "download_time": "2025-12-21T20:35:36.080758",
+  "download_filename": "document_mover-0.3.6.tar.gz",
+  "download_time": "2025-12-22T20:43:36.416510",
   "package_url": "https://pypi.org/project/document-mover/"
 }

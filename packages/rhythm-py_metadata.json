@@ -1,0 +1,11 @@
+{
+  "name": "rhythm-py",
+  "version": "0.1.0",
+  "summary": "A lightweight durable execution framework using only Postgres",
+  "author": "Rhythm Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rhythm_py-0.1.0.tar.gz",
+  "download_time": "2025-12-22T20:43:35.297736",
+  "package_url": "https://pypi.org/project/rhythm-py/"
+}

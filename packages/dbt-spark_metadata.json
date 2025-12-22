@@ -1,0 +1,11 @@
+{
+  "name": "dbt-spark",
+  "version": "1.10.0",
+  "summary": "The Apache Spark adapter plugin for dbt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_spark-1.10.0.tar.gz",
+  "download_time": "2025-12-22T20:43:22.220168",
+  "package_url": "https://pypi.org/project/dbt-spark/"
+}
