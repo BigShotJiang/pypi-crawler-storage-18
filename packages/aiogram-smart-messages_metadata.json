@@ -1,11 +1,11 @@
 {
   "name": "aiogram-smart-messages",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "Smart message renderer for Aiogram with keyboard builder and JSON loader",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiogram_smart_messages-0.1.2.tar.gz",
-  "download_time": "2025-12-22T21:49:47.808950",
+  "download_filename": "aiogram_smart_messages-0.1.6.tar.gz",
+  "download_time": "2025-12-22T22:15:17.273158",
   "package_url": "https://pypi.org/project/aiogram-smart-messages/"
 }

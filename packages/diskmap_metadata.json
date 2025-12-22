@@ -1,0 +1,11 @@
+{
+  "name": "diskmap",
+  "version": "0.3.1",
+  "summary": "Scattered light mapping of protoplanetary disks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diskmap-0.3.1.tar.gz",
+  "download_time": "2025-12-22T22:15:37.732110",
+  "package_url": "https://pypi.org/project/diskmap/"
+}

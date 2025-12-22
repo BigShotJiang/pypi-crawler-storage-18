@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-22T21:50:16.124718
-- **Total Packages**: 89
-- **Total Size**: 24.73 MB
+- **Download Time**: 2025-12-22T22:15:58.235968
+- **Total Packages**: 79
+- **Total Size**: 11.41 MB
 
 ## Packages List
+- mtanvil
+- ntscli-client
+- aiogram-smart-messages
+- gsheetstables
+- IncludeCPP
+- spotoptim
+- wizard-codegen
+- acton-agent
+- cognite-neat-cfihos-handler
+- multi-mcp
+- dexcontrol
+- regula-documentreader-webclient
+- gsql
+- plane-compose
+- google-ad-manager-mcp
+- multiCMD
+- rgb-to-segmentation
+- symclatron
+- rappel
+- depchk
+- agnt5
+- lens-grove-cli
+- claude-mpm
+- telekinesis-datatypes
+- calistar
+- opensearch-mcp-server-py
+- mutts
+- poiidx
+- stash-graphql-client
+- typed-linq-collections
+- mcp-context-server
+- ScriptCollection
+- pulumi-xyz
+- ry
+- pulse-broker
+- messagebus
+- pulumi-provider-boilerplate
+- dbt-bigquery
+- CPILake-Utils
+- django-dbtasks
+- diskmap
+- jettex
+- true-lies-validator
+- kconfigstyle
+- brplot
+- lennoxs30api
 - cas-toolbox
 - ezpi
 - paytechuz
@@ -13,15 +59,8 @@
 - stouputils
 - localstack-core
 - django-formset
-- pulumi-provider-boilerplate
-- IncludeCPP
 - azure-functions-test
-- brplot
-- google-ad-manager-mcp
 - neutrosophic-pls
-- jettex
-- pulumi-xyz
-- ScriptCollection
 - simboba
 - pycrires
 - code-puppy
@@ -31,7 +70,6 @@
 - leanvec
 - pymvr
 - marpledata
-- django-dbtasks
 - macroni
 - queuerPy
 - chbe444umd
@@ -41,57 +79,9 @@
 - species
 - solvOR
 - pulumi-ns1
-- aiogram-smart-messages
 - sparkless-testing
 - enthusiast-model-azureopenai
 - judgeval
-- poiidx
 - whatdidyoudo
 - hindsight-litellm
 - sentience-python
-- hindsight-all
-- hindsight-api
-- hindsight-client
-- fal-mcp-server
-- acton-agent
-- playa-pdf
-- telemetrix-rpi-pico-2w
-- flights
-- snowglobe
-- deephaven-coreplus-client
-- botocore-stubs
-- symclatron
-- workbench
-- pyfuse3
-- GEOS5FP
-- flyteidl2
-- senzing
-- khaos-cli
-- dbt-fusion-package-tools
-- dbt-autofix
-- choppa
-- numerai-tools
-- vibemem
-- atspm-report
-- FastDeduplicator
-- ai-blame
-- typed-linq-collections
-- polydup
-- tencentcloud-sdk-python-wedata
-- tencentcloud-sdk-python-vod
-- tencentcloud-sdk-python-vclm
-- gherkin-official
-- tencentcloud-sdk-python-tsf
-- tencentcloud-sdk-python-thpc
-- tencentcloud-sdk-python-intl-en
-- tencentcloud-sdk-python-teo
-- tencentcloud-sdk-python-tdai
-- tencentcloud-sdk-python-tcbr
-- baseten-performance-client
-- tencentcloud-sdk-python-tcb
-- tencentcloud-sdk-python-tcaplusdb
-- squarelet-auth
-- PathiumAPI
-- tencentcloud-sdk-python-rce
-- tencentcloud-sdk-python-mps
-- tencentcloud-sdk-python-lke

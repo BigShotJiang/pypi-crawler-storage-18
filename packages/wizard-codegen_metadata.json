@@ -1,0 +1,11 @@
+{
+  "name": "wizard-codegen",
+  "version": "0.1.5",
+  "summary": "A powerful, template-driven code generation tool for Protocol Buffers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wizard_codegen-0.1.5.tar.gz",
+  "download_time": "2025-12-22T22:15:19.372064",
+  "package_url": "https://pypi.org/project/wizard-codegen/"
+}

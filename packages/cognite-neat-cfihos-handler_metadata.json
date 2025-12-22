@@ -1,0 +1,11 @@
+{
+  "name": "cognite-neat-cfihos-handler",
+  "version": "0.2.1",
+  "summary": "CFIHOS standard processor for NEAT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognite_neat_cfihos_handler-0.2.1.tar.gz",
+  "download_time": "2025-12-22T22:15:20.412188",
+  "package_url": "https://pypi.org/project/cognite-neat-cfihos-handler/"
+}

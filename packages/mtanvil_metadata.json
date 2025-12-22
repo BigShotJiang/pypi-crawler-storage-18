@@ -1,11 +1,11 @@
 {
   "name": "mtanvil",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Parser and editor for Luanti worlds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mtanvil-0.1.0.tar.gz",
-  "download_time": "2025-12-21T21:13:00.142757",
+  "download_filename": "mtanvil-0.2.1.tar.gz",
+  "download_time": "2025-12-22T22:15:15.718992",
   "package_url": "https://pypi.org/project/mtanvil/"
 }
