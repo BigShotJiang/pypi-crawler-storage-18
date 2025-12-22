@@ -1,0 +1,11 @@
+{
+  "name": "django-gmailapi-json-backend",
+  "version": "1.11",
+  "summary": "Email backend for Django which sends email via the Gmail API through a JSON credential",
+  "author": "Innove",
+  "license": null,
+  "home_page": "https://github.com/innoveit/django-gmailapi-json-backend",
+  "download_filename": "django_gmailapi_json_backend-1.11-py3-none-any.whl",
+  "download_time": "2025-12-22T18:23:36.238507",
+  "package_url": "https://pypi.org/project/django-gmailapi-json-backend/"
+}

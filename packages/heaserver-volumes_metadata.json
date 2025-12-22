@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-volumes",
+  "version": "1.8.0",
+  "summary": "The HEA volumes service",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_volumes-1.8.0.tar.gz",
+  "download_time": "2025-12-22T18:23:25.367580",
+  "package_url": "https://pypi.org/project/heaserver-volumes/"
+}

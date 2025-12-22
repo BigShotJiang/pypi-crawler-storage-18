@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-techdocs-core",
+  "version": "1.6.1",
+  "summary": "The core MkDocs plugin used by Backstage's TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown extensions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_techdocs_core-1.6.1.tar.gz",
+  "download_time": "2025-12-22T18:23:33.655056",
+  "package_url": "https://pypi.org/project/mkdocs-techdocs-core/"
+}

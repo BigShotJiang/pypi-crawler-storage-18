@@ -1,0 +1,11 @@
+{
+  "name": "artanis-ai",
+  "version": "0.15.0",
+  "summary": "Artanis SDK for AI application observability",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "artanis_ai-0.15.0.tar.gz",
+  "download_time": "2025-12-22T18:23:07.761537",
+  "package_url": "https://pypi.org/project/artanis-ai/"
+}

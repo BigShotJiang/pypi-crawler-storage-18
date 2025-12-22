@@ -1,0 +1,11 @@
+{
+  "name": "heaserver-organizations",
+  "version": "1.12.0",
+  "summary": "a service for managing organization information for research laboratories and other research groups",
+  "author": "Research Informatics Shared Resource, Huntsman Cancer Institute, Salt Lake City, UT",
+  "license": "Apache License 2.0",
+  "home_page": "https://risr.hci.utah.edu",
+  "download_filename": "heaserver_organizations-1.12.0.tar.gz",
+  "download_time": "2025-12-22T18:23:20.247499",
+  "package_url": "https://pypi.org/project/heaserver-organizations/"
+}

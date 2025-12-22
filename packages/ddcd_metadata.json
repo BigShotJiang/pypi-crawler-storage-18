@@ -1,0 +1,11 @@
+{
+  "name": "ddcd",
+  "version": "0.0.1",
+  "summary": "Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddcd-0.0.1.tar.gz",
+  "download_time": "2025-12-22T18:23:26.904968",
+  "package_url": "https://pypi.org/project/ddcd/"
+}

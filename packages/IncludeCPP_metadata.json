@@ -1,11 +1,11 @@
 {
   "name": "IncludeCPP",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Professional C++ Python bindings with type-generic templates and native threading",
   "author": "IncludeCPP Team",
   "license": "MIT",
   "home_page": "https://github.com/includecpp/includecpp",
-  "download_filename": "includecpp-2.0.1.tar.gz",
-  "download_time": "2025-12-22T17:15:05.823206",
+  "download_filename": "includecpp-2.0.2-py3-none-any.whl",
+  "download_time": "2025-12-22T18:23:32.552485",
   "package_url": "https://pypi.org/project/IncludeCPP/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eeveon",
+  "version": "0.3.0",
+  "summary": "Lightweight bash-based CI/CD pipeline for automatic deployment from GitHub",
+  "author": "Adarsh",
+  "license": "MIT",
+  "home_page": "https://github.com/adarsh-crypto/eeveon",
+  "download_filename": "eeveon-0.3.0.tar.gz",
+  "download_time": "2025-12-22T18:23:31.022378",
+  "package_url": "https://pypi.org/project/eeveon/"
+}
