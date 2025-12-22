@@ -1,11 +1,11 @@
 {
   "name": "rupdf",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A fast, minimal PDF page renderer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rupdf-0.1.1.tar.gz",
-  "download_time": "2025-12-22T12:34:02.313328",
+  "download_filename": "rupdf-0.1.2.tar.gz",
+  "download_time": "2025-12-22T16:18:55.749446",
   "package_url": "https://pypi.org/project/rupdf/"
 }

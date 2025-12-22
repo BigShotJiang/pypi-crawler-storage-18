@@ -1,0 +1,11 @@
+{
+  "name": "lutron-leap-cli",
+  "version": "0.1.11",
+  "summary": "CLI tool for controlling Lutron lighting systems via LEAP protocol (Caseta, RA2 Select, RadioRA3, HomeWorks QSX)",
+  "author": "Peter Engelbrecht",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lutron_leap_cli-0.1.11.tar.gz",
+  "download_time": "2025-12-22T16:18:48.549704",
+  "package_url": "https://pypi.org/project/lutron-leap-cli/"
+}

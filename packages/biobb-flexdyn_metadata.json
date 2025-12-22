@@ -1,0 +1,11 @@
+{
+  "name": "biobb-flexdyn",
+  "version": "5.2.0",
+  "summary": "biobb_flexdyn is a BioBB category for studies on the conformational landscape of native proteins.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_flexdyn",
+  "download_filename": "biobb_flexdyn-5.2.0.tar.gz",
+  "download_time": "2025-12-22T16:18:55.237324",
+  "package_url": "https://pypi.org/project/biobb-flexdyn/"
+}

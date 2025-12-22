@@ -1,11 +1,11 @@
 {
   "name": "pkgbox",
-  "version": "0.9.11",
+  "version": "0.9.12",
   "summary": "Frequently Used Packages for Analytics",
   "author": "alex",
   "license": null,
   "home_page": null,
-  "download_filename": "pkgbox-0.9.11-py3-none-any.whl",
-  "download_time": "2025-12-22T15:16:27.728010",
+  "download_filename": "pkgbox-0.9.12-py3-none-any.whl",
+  "download_time": "2025-12-22T16:19:19.574303",
   "package_url": "https://pypi.org/project/pkgbox/"
 }

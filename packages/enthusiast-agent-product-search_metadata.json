@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-agent-product-search",
+  "version": "1.2.0",
+  "summary": "Product Search Agent for Enthusiast",
+  "author": "Damian Sowiński",
+  "license": null,
+  "home_page": "https://upsidelab.io/tools/enthusiast",
+  "download_filename": "enthusiast_agent_product_search-1.2.0.tar.gz",
+  "download_time": "2025-12-22T16:18:53.692610",
+  "package_url": "https://pypi.org/project/enthusiast-agent-product-search/"
+}

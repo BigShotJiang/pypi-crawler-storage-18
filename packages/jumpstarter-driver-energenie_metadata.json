@@ -1,0 +1,11 @@
+{
+  "name": "jumpstarter-driver-energenie",
+  "version": "0.7.4",
+  "summary": "Energenie is an advanced surge protector with power management features",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jumpstarter_driver_energenie-0.7.4.tar.gz",
+  "download_time": "2025-12-22T16:19:25.228987",
+  "package_url": "https://pypi.org/project/jumpstarter-driver-energenie/"
+}

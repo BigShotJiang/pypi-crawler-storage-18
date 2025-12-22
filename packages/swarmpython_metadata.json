@@ -1,11 +1,11 @@
 {
   "name": "swarmpython",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A lightweight swarm intelligence framework for Python models",
   "author": "Sai Vignesh Raj M, Gokulramanan V",
   "license": null,
   "home_page": null,
-  "download_filename": "swarmpython-1.0.1.tar.gz",
-  "download_time": "2025-12-22T09:49:13.897670",
+  "download_filename": "swarmpython-1.0.2.tar.gz",
+  "download_time": "2025-12-22T16:19:34.529003",
   "package_url": "https://pypi.org/project/swarmpython/"
 }
