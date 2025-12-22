@@ -1,0 +1,11 @@
+{
+  "name": "maketables",
+  "version": "0.1.7",
+  "summary": "A Python package for creating publication-ready tables from regression results (statsmodels, pyfixest, linearmodels), descriptive statistics, and balance tables with output to LaTeX, Word, and HTML/Great Tables",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maketables-0.1.7.tar.gz",
+  "download_time": "2025-12-22T09:48:57.164218",
+  "package_url": "https://pypi.org/project/maketables/"
+}

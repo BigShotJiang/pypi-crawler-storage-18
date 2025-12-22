@@ -1,0 +1,11 @@
+{
+  "name": "frogml-inference",
+  "version": "0.2.0",
+  "summary": "FrogML Inference is a Python library for running predictions again Frogml Models.",
+  "author": "JFrog Ltd.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "frogml_inference-0.2.0.tar.gz",
+  "download_time": "2025-12-22T09:49:20.153565",
+  "package_url": "https://pypi.org/project/frogml-inference/"
+}

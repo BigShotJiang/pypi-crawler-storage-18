@@ -1,0 +1,11 @@
+{
+  "name": "industrial-readers-client",
+  "version": "1.0.0",
+  "summary": "High-performance Python client for Industrial Readers Server",
+  "author": "Industrial Readers Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/soberonlineemail/profilereaders",
+  "download_filename": "industrial_readers_client-1.0.0.tar.gz",
+  "download_time": "2025-12-22T09:49:03.506062",
+  "package_url": "https://pypi.org/project/industrial-readers-client/"
+}

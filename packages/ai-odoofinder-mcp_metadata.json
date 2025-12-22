@@ -1,0 +1,11 @@
+{
+  "name": "ai-odoofinder-mcp",
+  "version": "1.0.0",
+  "summary": "MCP Server for AI-OdooFinder - Semantic search for Odoo modules in the OCA ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_odoofinder_mcp-1.0.0.tar.gz",
+  "download_time": "2025-12-22T09:49:10.262297",
+  "package_url": "https://pypi.org/project/ai-odoofinder-mcp/"
+}

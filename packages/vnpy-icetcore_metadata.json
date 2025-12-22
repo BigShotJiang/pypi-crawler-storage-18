@@ -1,0 +1,11 @@
+{
+  "name": "vnpy-icetcore",
+  "version": "1.0.12",
+  "summary": "vnpy icetcore gateway",
+  "author": "zxlee",
+  "license": null,
+  "home_page": "https://www.multicharts.cn/",
+  "download_filename": "vnpy_icetcore-1.0.12-py3-none-any.whl",
+  "download_time": "2025-12-22T09:49:17.010836",
+  "package_url": "https://pypi.org/project/vnpy-icetcore/"
+}
