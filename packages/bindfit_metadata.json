@@ -1,0 +1,11 @@
+{
+  "name": "bindfit",
+  "version": "0.1.2",
+  "summary": "A binding constant fitter library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bindfit-0.1.2.tar.gz",
+  "download_time": "2025-12-22T03:10:20.144267",
+  "package_url": "https://pypi.org/project/bindfit/"
+}

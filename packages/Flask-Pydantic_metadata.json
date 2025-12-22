@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Pydantic",
+  "version": "0.14.0",
+  "summary": "Flask extension for integration with Pydantic library.",
+  "author": "Jiri Bauer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_pydantic-0.14.0.tar.gz",
+  "download_time": "2025-12-22T03:10:23.497921",
+  "package_url": "https://pypi.org/project/Flask-Pydantic/"
+}

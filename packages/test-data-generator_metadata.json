@@ -1,0 +1,11 @@
+{
+  "name": "test-data-generator",
+  "version": "0.1.1",
+  "summary": "Deterministic test data generator from JSON schemas for consistent, repeatable testing",
+  "author": "Achanta Venkata",
+  "license": "MIT",
+  "home_page": "https://github.com/satyaachanta/test-data-generator",
+  "download_filename": "test_data_generator-0.1.1.tar.gz",
+  "download_time": "2025-12-22T03:10:28.713233",
+  "package_url": "https://pypi.org/project/test-data-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "acenav-api",
+  "version": "1.0.12",
+  "summary": "Aceinna Navigation System API",
+  "author": "Aceinna, Inc",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Aceinna",
+  "download_filename": "acenav_api-1.0.12.tar.gz",
+  "download_time": "2025-12-22T03:10:36.458751",
+  "package_url": "https://pypi.org/project/acenav-api/"
+}
