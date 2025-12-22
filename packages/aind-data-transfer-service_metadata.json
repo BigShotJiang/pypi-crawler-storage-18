@@ -1,0 +1,11 @@
+{
+  "name": "aind-data-transfer-service",
+  "version": "1.23.1",
+  "summary": "Service that handles requests to upload data to the cloud",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_data_transfer_service-1.23.1.tar.gz",
+  "download_time": "2025-12-22T23:14:45.872801",
+  "package_url": "https://pypi.org/project/aind-data-transfer-service/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "epub-pipeline",
+  "version": "0.1.0a1",
+  "summary": "Automated pipeline for Ebook metadata enrichment, conversion, and cloud upload.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "epub_pipeline-0.1.0a1.tar.gz",
+  "download_time": "2025-12-22T23:14:48.447198",
+  "package_url": "https://pypi.org/project/epub-pipeline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "my_test_tuxpkg_project",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "my-test-tuxpkg-project is ...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "my_test_tuxpkg_project-0.4.0.tar.gz",
-  "download_time": "2025-12-22T14:16:05.411995",
+  "download_filename": "my_test_tuxpkg_project-0.5.0.tar.gz",
+  "download_time": "2025-12-22T23:15:07.592141",
   "package_url": "https://pypi.org/project/my_test_tuxpkg_project/"
 }

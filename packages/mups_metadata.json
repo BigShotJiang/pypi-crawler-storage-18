@@ -1,11 +1,11 @@
 {
   "name": "mups",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Multi Use PipelineS: reproducible job templates for Python projects",
   "author": "Alex Mihnev",
   "license": null,
   "home_page": null,
-  "download_filename": "mups-0.1.1.tar.gz",
-  "download_time": "2025-12-22T22:52:45.047958",
+  "download_filename": "mups-0.1.3.tar.gz",
+  "download_time": "2025-12-22T23:14:42.650469",
   "package_url": "https://pypi.org/project/mups/"
 }

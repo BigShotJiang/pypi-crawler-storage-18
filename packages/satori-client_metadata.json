@@ -1,0 +1,11 @@
+{
+  "name": "satori-client",
+  "version": "0.1.8",
+  "summary": "Python client for Satori database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "satori_client-0.1.8.tar.gz",
+  "download_time": "2025-12-22T23:14:54.177313",
+  "package_url": "https://pypi.org/project/satori-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "thothctl",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "summary": "A CLI for Developer Control Plane. Accelerate your cloud IaC deployments.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "thothctl-0.8.7.tar.gz",
-  "download_time": "2025-12-22T22:53:00.830053",
+  "download_filename": "thothctl-0.8.8.tar.gz",
+  "download_time": "2025-12-22T23:15:06.568379",
   "package_url": "https://pypi.org/project/thothctl/"
 }
