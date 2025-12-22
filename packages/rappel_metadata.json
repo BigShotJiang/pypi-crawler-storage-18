@@ -1,11 +1,11 @@
 {
   "name": "rappel",
-  "version": "0.5.4",
+  "version": "0.5.6",
   "summary": "Distributed & durable background events in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rappel-0.5.4.tar.gz",
-  "download_time": "2025-12-21T18:48:12.863438",
+  "download_filename": "rappel-0.5.6.tar.gz",
+  "download_time": "2025-12-22T07:20:41.292330",
   "package_url": "https://pypi.org/project/rappel/"
 }

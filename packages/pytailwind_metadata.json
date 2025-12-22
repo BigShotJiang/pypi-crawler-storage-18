@@ -1,0 +1,11 @@
+{
+  "name": "pytailwind",
+  "version": "0.0.7",
+  "summary": "A tailwind parser written completely in python without js dependency (unofficial)",
+  "author": "shashstormer",
+  "license": "MIT License",
+  "home_page": "https://github.com/shashstormer/pytailwindcss",
+  "download_filename": "pytailwind-0.0.7.tar.gz",
+  "download_time": "2025-12-22T07:20:46.148612",
+  "package_url": "https://pypi.org/project/pytailwind/"
+}

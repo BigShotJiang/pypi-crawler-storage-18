@@ -1,0 +1,11 @@
+{
+  "name": "wtfutil",
+  "version": "1.2.8",
+  "summary": "A Python utility.",
+  "author": "vicrack",
+  "license": null,
+  "home_page": "https://github.com/vicrack",
+  "download_filename": "wtfutil-1.2.8-py2.py3-none-any.whl",
+  "download_time": "2025-12-22T07:20:53.413307",
+  "package_url": "https://pypi.org/project/wtfutil/"
+}
