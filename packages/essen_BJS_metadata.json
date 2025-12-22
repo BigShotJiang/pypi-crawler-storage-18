@@ -1,11 +1,11 @@
 {
   "name": "essen_BJS",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "NOTHING FOR NOW..",
   "author": "BJS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "essen_bjs-0.1.3.tar.gz",
-  "download_time": "2025-12-22T13:11:16.770706",
+  "download_filename": "essen_bjs-0.2.0.tar.gz",
+  "download_time": "2025-12-22T13:51:38.552398",
   "package_url": "https://pypi.org/project/essen_BJS/"
 }

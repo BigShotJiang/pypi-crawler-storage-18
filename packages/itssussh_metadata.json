@@ -1,11 +1,11 @@
 {
   "name": "itssussh",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "connect SVPS WebSocket Client",
   "author": "Eternals",
   "license": null,
   "home_page": null,
-  "download_filename": "itssussh-3.2.0.tar.gz",
-  "download_time": "2025-12-22T13:11:12.607269",
+  "download_filename": "itssussh-3.2.1.tar.gz",
+  "download_time": "2025-12-22T13:51:17.561547",
   "package_url": "https://pypi.org/project/itssussh/"
 }

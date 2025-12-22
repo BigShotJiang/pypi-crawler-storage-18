@@ -1,0 +1,11 @@
+{
+  "name": "zombie-imp",
+  "version": "0.0.4",
+  "summary": "A copy of the `imp` module that was removed in Python 3.12",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zombie_imp-0.0.4.tar.gz",
+  "download_time": "2025-12-22T13:51:16.442275",
+  "package_url": "https://pypi.org/project/zombie-imp/"
+}
