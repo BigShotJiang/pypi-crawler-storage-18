@@ -1,0 +1,11 @@
+{
+  "name": "arcquerymodel",
+  "version": "3.0.0a2",
+  "summary": "Library for graph-based querying of Annotated Research Contexts (ARCs).",
+  "author": "Heinrich Lukas Weil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcquerymodel-3.0.0a2.tar.gz",
+  "download_time": "2025-12-23T17:43:28.240102",
+  "package_url": "https://pypi.org/project/arcquerymodel/"
+}
