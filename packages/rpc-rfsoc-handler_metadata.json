@@ -1,0 +1,11 @@
+{
+  "name": "rpc-rfsoc-handler",
+  "version": "1.1.0",
+  "summary": "a pip-installable handler",
+  "author": "Pascal Stoever",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpc_rfsoc_handler-1.1.0.tar.gz",
+  "download_time": "2025-12-23T10:20:16.924949",
+  "package_url": "https://pypi.org/project/rpc-rfsoc-handler/"
+}

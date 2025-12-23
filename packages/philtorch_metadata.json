@@ -1,0 +1,11 @@
+{
+  "name": "philtorch",
+  "version": "0.2",
+  "summary": "A PyTorch library for time-varying IIR filters.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "philtorch-0.2.tar.gz",
+  "download_time": "2025-12-23T10:20:16.284618",
+  "package_url": "https://pypi.org/project/philtorch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "log-to-loki",
+  "version": "0.1.1",
+  "summary": "Python library for sending logs to Grafana Loki with batching support",
+  "author": "Yunoshev Yaroslav",
+  "license": "MIT",
+  "home_page": "https://github.com/yyunoshev/log-to-loki",
+  "download_filename": "log_to_loki-0.1.1.tar.gz",
+  "download_time": "2025-12-23T10:20:06.609901",
+  "package_url": "https://pypi.org/project/log-to-loki/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nacos-mcp-wrapper-python",
+  "version": "1.1.0",
+  "summary": "Python sdk support mcp server auto register to nacos",
+  "author": "nacos",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/nacos-group/nacos-mcp-wrapper-python",
+  "download_filename": "nacos_mcp_wrapper_python-1.1.0.tar.gz",
+  "download_time": "2025-12-23T10:20:08.629310",
+  "package_url": "https://pypi.org/project/nacos-mcp-wrapper-python/"
+}

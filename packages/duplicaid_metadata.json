@@ -1,0 +1,11 @@
+{
+  "name": "duplicaid",
+  "version": "4.2.0",
+  "summary": "CLI tool for managing PostgreSQL backups via WAL-G and logical dumps with configurable database connections",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duplicaid-4.2.0.tar.gz",
+  "download_time": "2025-12-23T10:20:05.954945",
+  "package_url": "https://pypi.org/project/duplicaid/"
+}

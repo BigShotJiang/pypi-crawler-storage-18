@@ -1,11 +1,11 @@
 {
   "name": "pip-setuptools",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "setuptools-extensions for pip and wheel packages",
   "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
   "license": "MIT",
   "home_page": "https://github.com/MagIlyasDOMA/pip-setuptools",
-  "download_filename": "pip_setuptools-1.0.1.tar.gz",
-  "download_time": "2025-12-23T09:57:18.984767",
+  "download_filename": "pip_setuptools-1.0.3.tar.gz",
+  "download_time": "2025-12-23T10:20:22.840934",
   "package_url": "https://pypi.org/project/pip-setuptools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mini-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP server for HXQ (盒小圈) login API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mini_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-12-23T10:20:13.029211",
+  "package_url": "https://pypi.org/project/mini-mcp-server/"
+}

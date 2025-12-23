@@ -1,11 +1,11 @@
 {
   "name": "textformatter-plus",
-  "version": "1.0.2",
-  "summary": "Professional text formatting and validation utilities for Python",
+  "version": "1.0.4",
+  "summary": "A powerful Python package for text formatting and validation. Includes utilities for text transformation (title case, snake case, reverse, etc.) and data validation (email, phone, password strength). Perfect for data processing, form validation, and text manipulation tasks.",
   "author": "Your Company Name",
   "license": null,
   "home_page": "https://github.com/yourusername/textformatter-plus",
-  "download_filename": "textformatter_plus-1.0.2.tar.gz",
-  "download_time": "2025-12-23T09:57:17.835383",
+  "download_filename": "textformatter_plus-1.0.4.tar.gz",
+  "download_time": "2025-12-23T10:20:21.631251",
   "package_url": "https://pypi.org/project/textformatter-plus/"
 }
