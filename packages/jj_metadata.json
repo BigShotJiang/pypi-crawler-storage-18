@@ -1,0 +1,11 @@
+{
+  "name": "jj",
+  "version": "2.14.0",
+  "summary": "Remote HTTP Mock",
+  "author": "Nikita Tsvetkov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/jj-mock/jj",
+  "download_filename": "jj-2.14.0.tar.gz",
+  "download_time": "2025-12-23T17:53:19.761880",
+  "package_url": "https://pypi.org/project/jj/"
+}

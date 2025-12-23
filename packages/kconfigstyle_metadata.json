@@ -1,11 +1,11 @@
 {
   "name": "kconfigstyle",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Simple formatter for Kconfig files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kconfigstyle-0.5.0.tar.gz",
-  "download_time": "2025-12-23T01:09:45.813838",
+  "download_filename": "kconfigstyle-0.6.0.tar.gz",
+  "download_time": "2025-12-23T17:53:18.621186",
   "package_url": "https://pypi.org/project/kconfigstyle/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aerri-ai",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "The most advanced AI coding assistant for your terminal - intelligent file operations, code execution, and AI-powered development workflow automation, NEW RELEASE AVAILABLE W.E.F. 23 December 2025",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aerri_ai-0.1.11.tar.gz",
-  "download_time": "2025-12-23T17:16:34.189400",
+  "download_filename": "aerri_ai-0.1.13.tar.gz",
+  "download_time": "2025-12-23T17:53:08.465044",
   "package_url": "https://pypi.org/project/aerri-ai/"
 }
