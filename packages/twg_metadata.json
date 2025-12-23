@@ -1,0 +1,11 @@
+{
+  "name": "twg",
+  "version": "2.1.1",
+  "summary": "Terminal-based JSON & YAML viewer (TUI) for exploring and searching large files — fast, interactive, and privacy-first.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twg-2.1.1.tar.gz",
+  "download_time": "2025-12-23T12:31:33.889313",
+  "package_url": "https://pypi.org/project/twg/"
+}

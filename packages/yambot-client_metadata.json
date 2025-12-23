@@ -1,0 +1,11 @@
+{
+  "name": "yambot-client",
+  "version": "0.0.9",
+  "summary": "Unofficial Client for Yandex Messenger Bot API",
+  "author": "Anton Bugrin",
+  "license": "MIT",
+  "home_page": "https://github.com/abugrin/yambot",
+  "download_filename": "yambot_client-0.0.9.tar.gz",
+  "download_time": "2025-12-23T12:31:33.292721",
+  "package_url": "https://pypi.org/project/yambot-client/"
+}

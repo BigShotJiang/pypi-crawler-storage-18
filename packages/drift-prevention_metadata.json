@@ -1,11 +1,11 @@
 {
   "name": "drift-prevention",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "SDK for reduction hallucination and follow prompts in LLM based app",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "drift_prevention-0.3.0.tar.gz",
-  "download_time": "2025-12-23T11:50:28.021214",
+  "download_filename": "drift_prevention-0.4.0.tar.gz",
+  "download_time": "2025-12-23T12:32:14.605873",
   "package_url": "https://pypi.org/project/drift-prevention/"
 }

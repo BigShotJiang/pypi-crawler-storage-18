@@ -1,0 +1,11 @@
+{
+  "name": "cortexa-sdk",
+  "version": "0.2.0",
+  "summary": "User-side Python SDK for downloading datasets and assets from Cortexa. Supports project_id, label_list, and filter_by_labels parameters for YOLO and JSON export types. Use 'annotation_type' parameter (rect, polygon) for YOLO.",
+  "author": "Cortexa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortexa_sdk-0.2.0.tar.gz",
+  "download_time": "2025-12-23T12:32:19.766459",
+  "package_url": "https://pypi.org/project/cortexa-sdk/"
+}

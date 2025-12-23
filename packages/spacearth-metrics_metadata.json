@@ -1,0 +1,11 @@
+{
+  "name": "spacearth-metrics",
+  "version": "1.0.1",
+  "summary": "Gather metrics from Python services using either AWS CloudWatch or Prometheus.",
+  "author": "Michelle Laurenti",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spacearth_metrics-1.0.1.tar.gz",
+  "download_time": "2025-12-23T12:32:09.999982",
+  "package_url": "https://pypi.org/project/spacearth-metrics/"
+}

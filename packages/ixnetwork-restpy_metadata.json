@@ -1,0 +1,11 @@
+{
+  "name": "ixnetwork-restpy",
+  "version": "1.9.0",
+  "summary": "The IxNetwork Python Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ixnetwork_restpy-1.9.0.tar.gz",
+  "download_time": "2025-12-23T12:32:03.000237",
+  "package_url": "https://pypi.org/project/ixnetwork-restpy/"
+}

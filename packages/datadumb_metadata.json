@@ -1,0 +1,11 @@
+{
+  "name": "datadumb",
+  "version": "0.1.0",
+  "summary": "Smart data loader with automatic format detection and parameter inference for pandas and polars",
+  "author": "Joscha Bisping",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datadumb-0.1.0.tar.gz",
+  "download_time": "2025-12-23T12:31:58.325494",
+  "package_url": "https://pypi.org/project/datadumb/"
+}
