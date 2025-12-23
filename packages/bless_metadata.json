@@ -1,0 +1,11 @@
+{
+  "name": "bless",
+  "version": "0.3.0",
+  "summary": "A Bluetooth Low Energy Server supplement to Bleak",
+  "author": "Kevin Davis",
+  "license": null,
+  "home_page": "https://github.com/kevincar/bless",
+  "download_filename": "bless-0.3.0.tar.gz",
+  "download_time": "2025-12-23T01:10:00.093051",
+  "package_url": "https://pypi.org/project/bless/"
+}

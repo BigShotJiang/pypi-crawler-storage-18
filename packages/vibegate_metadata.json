@@ -1,11 +1,11 @@
 {
   "name": "vibegate",
-  "version": "0.1.0a1",
+  "version": "0.1.0a2",
   "summary": "Deterministic production readiness gate for vibe-coded FastAPI repos.",
   "author": "VibeGate",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibegate-0.1.0a1.tar.gz",
-  "download_time": "2025-12-22T19:40:13.544146",
+  "download_filename": "vibegate-0.1.0a2.tar.gz",
+  "download_time": "2025-12-23T01:09:57.962869",
   "package_url": "https://pypi.org/project/vibegate/"
 }

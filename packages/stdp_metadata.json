@@ -1,11 +1,11 @@
 {
   "name": "stdp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Hotel Management System - PyQt6-based hotel management application",
   "author": "willalone",
   "license": "MIT",
   "home_page": "https://github.com/willalone/std",
-  "download_filename": "stdp-0.2.0.tar.gz",
-  "download_time": "2025-12-22T14:43:50.144204",
+  "download_filename": "stdp-0.3.0-py3-none-any.whl",
+  "download_time": "2025-12-23T01:10:09.652582",
   "package_url": "https://pypi.org/project/stdp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "macroni",
-  "version": "0.1.6",
+  "version": "0.1.10",
   "summary": "Macroni interpreter",
   "author": "Sam Schreiber",
   "license": null,
   "home_page": null,
-  "download_filename": "macroni-0.1.6.tar.gz",
-  "download_time": "2025-12-22T23:32:44.154914",
+  "download_filename": "macroni-0.1.10.tar.gz",
+  "download_time": "2025-12-23T01:09:47.373863",
   "package_url": "https://pypi.org/project/macroni/"
 }

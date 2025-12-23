@@ -1,0 +1,11 @@
+{
+  "name": "bible-xml-parser",
+  "version": "0.2.1",
+  "summary": "A Python package for parsing Bible texts in various XML formats (USFX, OSIS, ZEFANIA) with Bible reference parsing",
+  "author": "Omar Zintan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bible_xml_parser-0.2.1.tar.gz",
+  "download_time": "2025-12-23T01:09:44.203772",
+  "package_url": "https://pypi.org/project/bible-xml-parser/"
+}

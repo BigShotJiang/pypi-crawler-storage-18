@@ -1,11 +1,11 @@
 {
   "name": "easy-start-wecom",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "一个用于企业微信(WeCom)集成的Python包，提供简洁易用的API接口，支持同步和异步操作，帮助开发者快速实现企业微信相关功能。",
   "author": "guolei",
   "license": null,
   "home_page": "https://gitee.com/guolei19850528/easy_start_wecom",
-  "download_filename": "easy_start_wecom-0.1.3-py3-none-any.whl",
-  "download_time": "2025-12-22T08:22:59.320542",
+  "download_filename": "easy_start_wecom-0.1.4-py3-none-any.whl",
+  "download_time": "2025-12-23T01:10:28.764786",
   "package_url": "https://pypi.org/project/easy-start-wecom/"
 }

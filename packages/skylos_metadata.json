@@ -1,11 +1,11 @@
 {
   "name": "skylos",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "summary": "An analysis tool for Python codebases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skylos-2.7.0.tar.gz",
-  "download_time": "2025-12-22T04:52:00.768155",
+  "download_filename": "skylos-2.7.1.tar.gz",
+  "download_time": "2025-12-23T01:10:01.134534",
   "package_url": "https://pypi.org/project/skylos/"
 }
