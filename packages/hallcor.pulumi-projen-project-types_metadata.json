@@ -1,0 +1,11 @@
+{
+  "name": "hallcor.pulumi-projen-project-types",
+  "version": "0.0.64",
+  "summary": "@hallcor/pulumi-projen-project-types",
+  "author": "corymhall<43035978+corymhall@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/corymhall/pulumi-projen-project-types.git",
+  "download_filename": "hallcor_pulumi_projen_project_types-0.0.64.tar.gz",
+  "download_time": "2025-12-23T13:24:45.832563",
+  "package_url": "https://pypi.org/project/hallcor.pulumi-projen-project-types/"
+}

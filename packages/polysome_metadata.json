@@ -1,0 +1,11 @@
+{
+  "name": "polysome",
+  "version": "0.1.1",
+  "summary": "A domain-agnostic framework for orchestrating LLM-based data generation workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polysome-0.1.1.tar.gz",
+  "download_time": "2025-12-23T13:24:25.648123",
+  "package_url": "https://pypi.org/project/polysome/"
+}

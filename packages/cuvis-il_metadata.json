@@ -1,0 +1,11 @@
+{
+  "name": "cuvis-il",
+  "version": "3.5.0",
+  "summary": "Compiled Python Bindings for the CUVIS SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cuvis_il-3.5.0-py310-none-win_amd64.whl",
+  "download_time": "2025-12-23T13:24:16.140222",
+  "package_url": "https://pypi.org/project/cuvis-il/"
+}

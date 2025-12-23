@@ -1,0 +1,11 @@
+{
+  "name": "markdown-to-files",
+  "version": "1.0.0",
+  "summary": "Generate project structures from markdown files",
+  "author": "Jahanzeb Ahmed",
+  "license": "MIT",
+  "home_page": "https://github.com/JahanzebAhmed12/project_maker",
+  "download_filename": "markdown_to_files-1.0.0.tar.gz",
+  "download_time": "2025-12-23T13:24:37.009774",
+  "package_url": "https://pypi.org/project/markdown-to-files/"
+}

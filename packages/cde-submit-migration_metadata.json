@@ -1,0 +1,11 @@
+{
+  "name": "cde-submit-migration",
+  "version": "0.13.0",
+  "summary": "Lightweight spark-based migration runner for executing SQL migrations on Spark catalog tables in Cloudera Data Engineering (CDE).",
+  "author": "Domovic, Matija (PPN)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cde_submit_migration-0.13.0.tar.gz",
+  "download_time": "2025-12-23T13:24:14.084105",
+  "package_url": "https://pypi.org/project/cde-submit-migration/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cosmos-auth-package",
+  "version": "1.0.0",
+  "summary": "Azure Cosmos DB authentication and user verification package with Flask and FastAPI support. Provides easy-to-use decorators and dependencies for header-based authentication, user verification, role-based access control, and automatic user creation.",
+  "author": "Your Company Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/cosmos-auth-package",
+  "download_filename": "cosmos_auth_package-1.0.0.tar.gz",
+  "download_time": "2025-12-23T13:24:49.465941",
+  "package_url": "https://pypi.org/project/cosmos-auth-package/"
+}

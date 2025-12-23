@@ -1,11 +1,11 @@
 {
   "name": "hindsight-all",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "Hindsight: Agent Memory That Works Like Human Memory - All-in-One Bundle",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hindsight_all-0.1.14.tar.gz",
-  "download_time": "2025-12-23T09:45:54.832955",
+  "download_filename": "hindsight_all-0.1.16.tar.gz",
+  "download_time": "2025-12-23T13:24:38.543124",
   "package_url": "https://pypi.org/project/hindsight-all/"
 }
