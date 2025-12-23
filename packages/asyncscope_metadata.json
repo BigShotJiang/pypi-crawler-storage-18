@@ -1,0 +1,11 @@
+{
+  "name": "asyncscope",
+  "version": "0.12.0",
+  "summary": "Task scopes for AnyIO",
+  "author": "Matthias Urlichs",
+  "license": "GPLv3 or later",
+  "home_page": "http://github.com/M-o-a-T/asyncscope",
+  "download_filename": "asyncscope-0.12.0.tar.gz",
+  "download_time": "2025-12-23T18:22:48.591811",
+  "package_url": "https://pypi.org/project/asyncscope/"
+}

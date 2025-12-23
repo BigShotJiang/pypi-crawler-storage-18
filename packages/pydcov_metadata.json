@@ -1,0 +1,11 @@
+{
+  "name": "pydcov",
+  "version": "1.0.5",
+  "summary": "Incremental C/C++ code coverage tools for CMake projects",
+  "author": "Ethan Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydcov-1.0.5-py3-none-any.whl",
+  "download_time": "2025-12-23T18:23:27.130400",
+  "package_url": "https://pypi.org/project/pydcov/"
+}

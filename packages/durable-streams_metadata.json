@@ -1,0 +1,11 @@
+{
+  "name": "durable-streams",
+  "version": "0.1.0",
+  "summary": "Python client for the Durable Streams protocol",
+  "author": "ElectricSQL",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "durable_streams-0.1.0.tar.gz",
+  "download_time": "2025-12-23T18:22:57.539861",
+  "package_url": "https://pypi.org/project/durable-streams/"
+}

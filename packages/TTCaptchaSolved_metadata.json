@@ -1,0 +1,11 @@
+{
+  "name": "TTCaptchaSolved",
+  "version": "1.0.0",
+  "summary": "Solve TikTok CAPTCHAs locally using OpenCV - supports slide, rotate, and 3D shapes captchas",
+  "author": "TikTok CAPTCHA Solver",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttcaptchasolved-1.0.0.tar.gz",
+  "download_time": "2025-12-23T18:22:52.697974",
+  "package_url": "https://pypi.org/project/TTCaptchaSolved/"
+}

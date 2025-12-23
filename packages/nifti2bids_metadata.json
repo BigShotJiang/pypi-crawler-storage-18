@@ -1,11 +1,11 @@
 {
   "name": "nifti2bids",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Post-hoc BIDS conversion for NIfTI datasets and neurobehavioral logs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nifti2bids-0.8.3.tar.gz",
-  "download_time": "2025-12-23T04:07:33.760684",
+  "download_filename": "nifti2bids-0.8.4.tar.gz",
+  "download_time": "2025-12-23T18:23:30.566235",
   "package_url": "https://pypi.org/project/nifti2bids/"
 }

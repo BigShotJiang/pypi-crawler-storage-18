@@ -1,0 +1,11 @@
+{
+  "name": "vsdebug",
+  "version": "0.1.5",
+  "summary": "Lightweight helper for managing VS Code C++ launch.json debug configurations.",
+  "author": "Ben O'Neill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vsdebug-0.1.5.tar.gz",
+  "download_time": "2025-12-23T18:23:14.010808",
+  "package_url": "https://pypi.org/project/vsdebug/"
+}
