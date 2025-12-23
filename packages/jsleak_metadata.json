@@ -1,11 +1,11 @@
 {
   "name": "jsleak",
-  "version": "0.5.1",
+  "version": "0.5.4",
   "summary": "A production-quality tool to scan JavaScript files for exposed secrets and endpoints.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsleak-0.5.1.tar.gz",
-  "download_time": "2025-12-23T14:45:12.322731",
+  "download_filename": "jsleak-0.5.4.tar.gz",
+  "download_time": "2025-12-23T15:43:55.520368",
   "package_url": "https://pypi.org/project/jsleak/"
 }

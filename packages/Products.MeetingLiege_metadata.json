@@ -1,11 +1,11 @@
 {
   "name": "Products.MeetingLiege",
-  "version": "4.2.16.2",
+  "version": "4.2.16.3",
   "summary": "PloneMeeting profile for city of Liege",
   "author": "Gauthier Bastien",
   "license": "GPL",
   "home_page": "http://www.imio.be/produits/gestion-des-deliberations",
-  "download_filename": "products_meetingliege-4.2.16.2.tar.gz",
-  "download_time": "2025-12-22T15:43:08.142709",
+  "download_filename": "products_meetingliege-4.2.16.3.tar.gz",
+  "download_time": "2025-12-23T15:43:50.767937",
   "package_url": "https://pypi.org/project/Products.MeetingLiege/"
 }

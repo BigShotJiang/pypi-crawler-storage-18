@@ -1,0 +1,11 @@
+{
+  "name": "neuraldlp",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for NeuralDLP - Neural Data Loss Prevention for AI",
+  "author": "NeuralDLP Team",
+  "license": null,
+  "home_page": "https://github.com/neuraldlp/python-sdk",
+  "download_filename": "neuraldlp-1.0.0.tar.gz",
+  "download_time": "2025-12-23T15:43:51.293423",
+  "package_url": "https://pypi.org/project/neuraldlp/"
+}

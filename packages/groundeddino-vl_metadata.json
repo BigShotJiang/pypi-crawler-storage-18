@@ -1,0 +1,11 @@
+{
+  "name": "groundeddino-vl",
+  "version": "1.1.1",
+  "summary": "GroundedDINO-VL vision-language backend",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "groundeddino_vl-1.1.1.tar.gz",
+  "download_time": "2025-12-23T15:43:40.745719",
+  "package_url": "https://pypi.org/project/groundeddino-vl/"
+}

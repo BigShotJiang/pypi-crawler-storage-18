@@ -1,0 +1,11 @@
+{
+  "name": "ml3-platform-sdk",
+  "version": "0.0.35",
+  "summary": "ML Platform SDK",
+  "author": "MLcube",
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "ml3_platform_sdk-0.0.35.tar.gz",
+  "download_time": "2025-12-23T15:43:24.106507",
+  "package_url": "https://pypi.org/project/ml3-platform-sdk/"
+}

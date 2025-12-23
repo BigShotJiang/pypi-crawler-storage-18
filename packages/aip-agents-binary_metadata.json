@@ -1,11 +1,11 @@
 {
   "name": "aip-agents-binary",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "A library for managing agents in Gen AI applications.",
   "author": "Raymond Christopher",
   "license": null,
   "home_page": null,
-  "download_filename": "aip_agents_binary-0.5.7-py3-none-macosx_13_0_arm64.whl",
-  "download_time": "2025-12-23T14:45:48.405592",
+  "download_filename": "aip_agents_binary-0.5.8-py3-none-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-23T15:43:49.692526",
   "package_url": "https://pypi.org/project/aip-agents-binary/"
 }
