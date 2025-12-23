@@ -1,0 +1,11 @@
+{
+  "name": "gutenberg2kindle",
+  "version": "0.8.0",
+  "summary": "A small Python tool to download and send ebooks from Project Gutenberg to a Kindle email address via SMTP",
+  "author": "Andrés Ignacio Torres",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "gutenberg2kindle-0.8.0.tar.gz",
+  "download_time": "2025-12-23T19:29:48.835942",
+  "package_url": "https://pypi.org/project/gutenberg2kindle/"
+}

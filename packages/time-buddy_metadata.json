@@ -1,11 +1,11 @@
 {
   "name": "time-buddy",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "A simple to use time tracking CLI for macOS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "time_buddy-1.0.3.tar.gz",
-  "download_time": "2025-12-23T18:53:35.035953",
+  "download_filename": "time_buddy-1.0.5.tar.gz",
+  "download_time": "2025-12-23T19:29:54.995584",
   "package_url": "https://pypi.org/project/time-buddy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stpsf",
+  "version": "2.2.0",
+  "summary": "Creates simulated point spread functions for Space Telescopes (James Webb, Roman)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stpsf-2.2.0-py3-none-any.whl",
+  "download_time": "2025-12-23T19:30:02.809180",
+  "package_url": "https://pypi.org/project/stpsf/"
+}
