@@ -1,11 +1,11 @@
 {
   "name": "king-tool",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A collection of useful tools for data processing and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "king_tool-0.1.1.tar.gz",
-  "download_time": "2025-12-22T10:56:12.834229",
+  "download_filename": "king_tool-0.1.2.tar.gz",
+  "download_time": "2025-12-23T08:22:41.821855",
   "package_url": "https://pypi.org/project/king-tool/"
 }

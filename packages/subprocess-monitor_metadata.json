@@ -1,0 +1,11 @@
+{
+  "name": "subprocess-monitor",
+  "version": "0.4.0",
+  "summary": "A service to manage monitor and spawn subprocess",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "subprocess_monitor-0.4.0.tar.gz",
+  "download_time": "2025-12-23T08:22:43.930792",
+  "package_url": "https://pypi.org/project/subprocess-monitor/"
+}

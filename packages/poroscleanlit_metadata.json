@@ -1,0 +1,11 @@
+{
+  "name": "poroscleanlit",
+  "version": "0.2.0",
+  "summary": "支持 Markdown 代码块与 LaTeX 公式保护、参考文献自动规范、中英排版优化的专业清洗工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poroscleanlit-0.2.0-py3-none-any.whl",
+  "download_time": "2025-12-23T08:22:11.575820",
+  "package_url": "https://pypi.org/project/poroscleanlit/"
+}

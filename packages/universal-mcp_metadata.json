@@ -1,0 +1,11 @@
+{
+  "name": "universal-mcp",
+  "version": "0.1.24",
+  "summary": "Universal MCP acts as a middle ware for your API applications. It can store your credentials, authorize, enable disable apps on the fly and much more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_mcp-0.1.24.tar.gz",
+  "download_time": "2025-12-23T08:22:11.063176",
+  "package_url": "https://pypi.org/project/universal-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slidecompress",
+  "version": "0.1.4",
+  "summary": "Compress PowerPoint presentations by optimizing embedded images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slidecompress-0.1.4.tar.gz",
+  "download_time": "2025-12-23T08:22:38.710038",
+  "package_url": "https://pypi.org/project/slidecompress/"
+}

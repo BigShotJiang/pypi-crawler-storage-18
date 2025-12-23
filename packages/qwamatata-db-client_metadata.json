@@ -1,0 +1,11 @@
+{
+  "name": "qwamatata-db-client",
+  "version": "0.1.1",
+  "summary": "Database socket client using IlyasMessageProtocol",
+  "author": "Ilyas Malyutin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qwamatata_db_client-0.1.1.tar.gz",
+  "download_time": "2025-12-23T08:22:21.050149",
+  "package_url": "https://pypi.org/project/qwamatata-db-client/"
+}

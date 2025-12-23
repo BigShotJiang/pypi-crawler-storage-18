@@ -1,0 +1,11 @@
+{
+  "name": "fasttests",
+  "version": "0.1.1",
+  "summary": "library for generating automated test templates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fasttests-0.1.1.tar.gz",
+  "download_time": "2025-12-23T08:22:30.364854",
+  "package_url": "https://pypi.org/project/fasttests/"
+}

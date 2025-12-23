@@ -1,11 +1,11 @@
 {
   "name": "gcpath",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A CLI utility to manage Google Cloud Platform resource hierarchy paths.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcpath-0.2.2.tar.gz",
-  "download_time": "2025-12-22T07:20:40.753601",
+  "download_filename": "gcpath-0.2.3.tar.gz",
+  "download_time": "2025-12-23T08:22:44.998163",
   "package_url": "https://pypi.org/project/gcpath/"
 }

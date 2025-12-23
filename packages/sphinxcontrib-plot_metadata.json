@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-plot",
+  "version": "1.1.11",
+  "summary": "A sphinx extension to plot graph such as ditaa, gnuplot, pyplot, etc in you sphinx document.",
+  "author": "Yongping Guo",
+  "license": "MIT License",
+  "home_page": "https://github.com/stathissideris/sphinxcontrib-plot",
+  "download_filename": "sphinxcontrib_plot-1.1.11.tar.gz",
+  "download_time": "2025-12-23T08:22:52.326033",
+  "package_url": "https://pypi.org/project/sphinxcontrib-plot/"
+}

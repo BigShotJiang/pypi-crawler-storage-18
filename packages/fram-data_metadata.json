@@ -1,0 +1,11 @@
+{
+  "name": "fram-data",
+  "version": "0.1.1",
+  "summary": null,
+  "author": "The Norwegian Water Resources and Energy Directorate",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "fram_data-0.1.1.tar.gz",
+  "download_time": "2025-12-23T08:22:48.141493",
+  "package_url": "https://pypi.org/project/fram-data/"
+}

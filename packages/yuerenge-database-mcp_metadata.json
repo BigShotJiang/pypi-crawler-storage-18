@@ -1,11 +1,11 @@
 {
   "name": "yuerenge-database-mcp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A database management tool based on the MCP protocol",
   "author": "yuerenge",
   "license": null,
   "home_page": null,
-  "download_filename": "yuerenge_database_mcp-0.1.5.tar.gz",
-  "download_time": "2025-12-23T07:54:05.673578",
+  "download_filename": "yuerenge_database_mcp-0.1.6.tar.gz",
+  "download_time": "2025-12-23T08:22:41.311314",
   "package_url": "https://pypi.org/project/yuerenge-database-mcp/"
 }
