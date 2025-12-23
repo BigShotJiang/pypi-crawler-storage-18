@@ -1,11 +1,11 @@
 {
   "name": "gamepad-video-controller",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Control video players and browsers using a gamepad",
   "author": "Samriddha Chattopadhyay",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gamepad_video_controller-0.2.0.tar.gz",
-  "download_time": "2025-12-23T13:52:52.633714",
+  "download_filename": "gamepad_video_controller-0.2.2.tar.gz",
+  "download_time": "2025-12-23T19:15:12.342212",
   "package_url": "https://pypi.org/project/gamepad-video-controller/"
 }
