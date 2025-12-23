@@ -1,13 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-23T09:46:35.135028
-- **Total Packages**: 93
-- **Total Size**: 23.43 MB
+- **Download Time**: 2025-12-23T09:58:00.657951
+- **Total Packages**: 84
+- **Total Size**: 33.51 MB
 
 ## Packages List
-- mlrun
+- hatch-bump-version
+- wedata-pre-code
+- textformatter-plus
+- nvfuser-cu130
+- pip-setuptools
+- tamar-community-sdk
+- nvfuser-cu128
+- kimino
+- memlink
+- communication-db
+- contextdigger
+- pun-nlp
+- gitree
+- port-ocean
+- pknsetools
+- qrate
+- agent-cli-tool
+- django-multi-level-alerts
+- postgres-wire
+- amsdal_server
+- tfp-nightly
+- entari-plugin-hyw
+- datedict
+- actvalue.view-arc
+- utils_devops
+- anyforce
+- mimical
+- wxswutilsapi
+- gdsfactoryplus
+- bohr-agent-sdk
+- writer
+- usefly
+- apkit
+- fractal-analysis
 - pydatamodel
+- kiana
+- nutri-matic
+- arcolabutils
+- puda-drivers
+- scrapy-item-ingest
+- mlrun
 - langchain-oceanbase
 - dl-d2l
 - cribl-control-plane
@@ -18,7 +57,6 @@
 - sigenergy2mqtt
 - podkit
 - PraisonAI
-- utils_devops
 - PV-Circuit-Model
 - saltpeter
 - hestia-earth-models
@@ -33,14 +71,12 @@
 - seetrain-ml
 - django-formset
 - frago-cli
-- textformatter-plus
 - gmi-ieops
 - iops-benchmark
 - bluecellulab
 - tradion_api_client
 - fastapi-test-pkg
 - ymdantic
-- PKNSETools
 - amniotic
 - nebius
 - bluer-agent
@@ -48,54 +84,9 @@
 - cua-agent
 - odoo-apps-Odoo-Apps-Partner-Contact
 - odoo-addon-partner_ref_sequence
-- contextdigger
 - langchain-timbr
 - scruby
-- mimical
 - roboka
 - loom-agent
 - wait-ci
 - cua-computer
-- django-core-micha
-- datedict
-- liblaf-peach
-- scrapy-item-ingest
-- mper
-- entari-plugin-hyw
-- asynctasq
-- paraclient
-- apkit
-- xc-api-py
-- zeekr-ev-api
-- lib_eic
-- flake8-tensors
-- physics-x-optics-cbse
-- kreuzberg
-- Itomori
-- arcane-tiktok
-- jder-fastapi
-- pkbrokers
-- omio-microscopy
-- acton-agent
-- email-archiver
-- treqs-ng
-- spinq
-- portaudio-py
-- behaviortreepy
-- mcp-memory-service
-- mobile-mcp-ai1
-- firecrest-streamer
-- pkdevtools
-- cfripper
-- ai4s-jobq
-- silars
-- praisonaiwp
-- aiinbx
-- aiauto-client
-- odoo-apps-Odoo-Apps-Website
-- odoo-addon-website_sale_extra_infos
-- devopsmind
-- klaude-code
-- netbox-tenant-group-permissions-synchronization
-- raksha69
-- pygwalk

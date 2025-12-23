@@ -1,0 +1,11 @@
+{
+  "name": "actvalue.view-arc",
+  "version": "0.1.1",
+  "summary": "Track viewer attention on Areas of Interest (AOIs) over time by analyzing where viewers are looking during acquisition sessions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actvalue_view_arc-0.1.1.tar.gz",
+  "download_time": "2025-12-23T09:57:28.986983",
+  "package_url": "https://pypi.org/project/actvalue.view-arc/"
+}

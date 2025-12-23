@@ -1,11 +1,11 @@
 {
   "name": "scrapy-item-ingest",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Scrapy extension for database ingestion with job/spider tracking",
   "author": "Fawad Ali",
   "license": null,
   "home_page": "https://github.com/fawadss1/scrapy_item_ingest",
-  "download_filename": "scrapy_item_ingest-0.2.5.tar.gz",
-  "download_time": "2025-12-23T09:46:13.084794",
+  "download_filename": "scrapy_item_ingest-0.2.6.tar.gz",
+  "download_time": "2025-12-23T09:57:37.849676",
   "package_url": "https://pypi.org/project/scrapy-item-ingest/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hatch-bump-version",
+  "version": "1.0.0",
+  "summary": "Hatch build hooks plugin for version bumping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_bump_version-1.0.0.tar.gz",
+  "download_time": "2025-12-23T09:57:16.749686",
+  "package_url": "https://pypi.org/project/hatch-bump-version/"
+}

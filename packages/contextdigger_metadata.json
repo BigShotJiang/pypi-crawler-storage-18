@@ -1,11 +1,11 @@
 {
   "name": "contextdigger",
-  "version": "2.2.1",
+  "version": "2.3.1",
   "summary": "AI-powered context governance for codebases. Intelligent sub-area creation, multi-strategy splitting, interactive refusal, and AI-readable context export.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextdigger-2.2.1-py3-none-any.whl",
-  "download_time": "2025-12-23T09:46:07.057501",
+  "download_filename": "contextdigger-2.3.1-py3-none-any.whl",
+  "download_time": "2025-12-23T09:57:22.183229",
   "package_url": "https://pypi.org/project/contextdigger/"
 }
