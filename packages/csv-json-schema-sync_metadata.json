@@ -1,11 +1,11 @@
 {
   "name": "csv-json-schema-sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A tool for data engineers to manage continuously evolving CSV/JSON schemas.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csv_json_schema_sync-0.1.0.tar.gz",
-  "download_time": "2025-12-23T05:19:51.163890",
+  "download_filename": "csv_json_schema_sync-0.1.1.tar.gz",
+  "download_time": "2025-12-23T05:47:14.072289",
   "package_url": "https://pypi.org/project/csv-json-schema-sync/"
 }

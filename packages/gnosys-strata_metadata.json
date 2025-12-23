@@ -1,11 +1,11 @@
 {
   "name": "gnosys-strata",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "GNOSYS Fork of Strata MCP - Enhanced MCP Router and Orchestrator",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gnosys_strata-1.1.1.tar.gz",
-  "download_time": "2025-12-22T11:31:21.854742",
+  "download_filename": "gnosys_strata-1.1.2.tar.gz",
+  "download_time": "2025-12-23T05:47:04.061512",
   "package_url": "https://pypi.org/project/gnosys-strata/"
 }

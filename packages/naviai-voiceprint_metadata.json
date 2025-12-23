@@ -1,0 +1,11 @@
+{
+  "name": "naviai-voiceprint",
+  "version": "0.1.1",
+  "summary": "Unified voiceprint recognition SDK (Xunfei / Tencent/ ...)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "naviai_voiceprint-0.1.1.tar.gz",
+  "download_time": "2025-12-23T05:47:10.181163",
+  "package_url": "https://pypi.org/project/naviai-voiceprint/"
+}

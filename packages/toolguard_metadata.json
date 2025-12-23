@@ -1,11 +1,11 @@
 {
   "name": "toolguard",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Policy adherence code generation for guarding AI agent tools",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "toolguard-0.1.8.tar.gz",
-  "download_time": "2025-12-22T11:14:56.541230",
+  "download_filename": "toolguard-0.1.10.tar.gz",
+  "download_time": "2025-12-23T05:46:50.009828",
   "package_url": "https://pypi.org/project/toolguard/"
 }

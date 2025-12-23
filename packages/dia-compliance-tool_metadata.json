@@ -1,0 +1,11 @@
+{
+  "name": "dia-compliance-tool",
+  "version": "0.1.1",
+  "summary": "Digital India Act compliance checker with rule-based and LLM-based analysis",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dia_compliance_tool-0.1.1.tar.gz",
+  "download_time": "2025-12-23T05:47:12.980456",
+  "package_url": "https://pypi.org/project/dia-compliance-tool/"
+}
