@@ -1,0 +1,11 @@
+{
+  "name": "mdod",
+  "version": "3.0.5",
+  "summary": "Multi-Dimensional Outlier Detection (MDOD) using vector cosine similarity with added virtual dimension",
+  "author": "Z Shen",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/mddod/mdod",
+  "download_filename": "mdod-3.0.5.tar.gz",
+  "download_time": "2025-12-23T04:07:27.509964",
+  "package_url": "https://pypi.org/project/mdod/"
+}

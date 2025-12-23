@@ -1,11 +1,11 @@
 {
   "name": "utdg-env",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Gymnasium environment for Untitled Tower Defense Game",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "utdg_env-0.2.4.tar.gz",
-  "download_time": "2025-12-22T23:32:50.113886",
+  "download_filename": "utdg_env-0.2.6.tar.gz",
+  "download_time": "2025-12-23T04:07:22.826174",
   "package_url": "https://pypi.org/project/utdg-env/"
 }

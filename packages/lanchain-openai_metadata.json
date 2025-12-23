@@ -1,0 +1,11 @@
+{
+  "name": "lanchain-openai",
+  "version": "1.1.1",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lanchain_openai-1.1.1.tar.gz",
+  "download_time": "2025-12-23T04:07:37.974272",
+  "package_url": "https://pypi.org/project/lanchain-openai/"
+}

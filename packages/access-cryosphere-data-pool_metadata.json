@@ -1,11 +1,11 @@
 {
   "name": "access-cryosphere-data-pool",
-  "version": "0.0.1.dev4",
+  "version": "0.0.1.dev5",
   "summary": "Cryosphere Community Datapool (CCD) and associated tools, managed by ACCESS-NRI",
   "author": "ACCESS-NRI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "access_cryosphere_data_pool-0.0.1.dev4.tar.gz",
-  "download_time": "2025-12-22T05:46:17.195684",
+  "download_filename": "access_cryosphere_data_pool-0.0.1.dev5.tar.gz",
+  "download_time": "2025-12-23T04:07:24.906143",
   "package_url": "https://pypi.org/project/access-cryosphere-data-pool/"
 }

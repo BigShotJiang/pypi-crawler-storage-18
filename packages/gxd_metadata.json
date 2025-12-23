@@ -1,0 +1,11 @@
+{
+  "name": "gxd",
+  "version": "0.0.0a2",
+  "summary": "GXD – Block-based compression, algorithm analysis, and integrity tooling",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "gxd-0.0.0a2.tar.gz",
+  "download_time": "2025-12-23T04:07:37.456305",
+  "package_url": "https://pypi.org/project/gxd/"
+}
