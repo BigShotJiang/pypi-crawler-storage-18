@@ -1,11 +1,11 @@
 {
   "name": "canoe-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An asynchronous MCP server for controlling Vector CANoe through natural language",
   "author": "MohamedHamed19m",
   "license": null,
   "home_page": null,
-  "download_filename": "canoe_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-23T20:53:50.139051",
+  "download_filename": "canoe_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-23T21:50:12.707890",
   "package_url": "https://pypi.org/project/canoe-mcp/"
 }

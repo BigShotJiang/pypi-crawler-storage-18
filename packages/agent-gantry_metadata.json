@@ -1,0 +1,11 @@
+{
+  "name": "agent-gantry",
+  "version": "0.1.0",
+  "summary": "Universal Tool Orchestration Platform - Intelligent, secure tool orchestration for LLM-based agent systems",
+  "author": "Agent-Gantry Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_gantry-0.1.0.tar.gz",
+  "download_time": "2025-12-23T21:50:11.681869",
+  "package_url": "https://pypi.org/project/agent-gantry/"
+}

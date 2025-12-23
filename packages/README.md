@@ -1,12 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-23T21:33:20.021179
-- **Total Packages**: 91
-- **Total Size**: 35.39 MB
+- **Download Time**: 2025-12-23T21:50:45.370901
+- **Total Packages**: 90
+- **Total Size**: 23.55 MB
 
 ## Packages List
+- paper-qa-pypdf
+- paper-qa-pymupdf
+- paper-qa-nemotron
+- paper-qa-docling
+- paper-qa
+- home-assistant-streamdeck-yaml
+- ypricemagic
+- goedels-poetry
+- subconscious-sdk
+- sequins-inventory-tool
+- purefn
+- spotoptim
+- email-archiver
+- tree-sitter-rust-orchard
+- zipstrain
+- django-dsgovbr
+- xtracto
+- cryodrgn
+- voltcraft
+- turbopdf
+- iops-benchmark
+- littlehorse-client
+- scc-cli
+- oxutils
+- graphistry
+- cherry-shared
+- agent-gantry
+- pyrgg
+- canoe-mcp
+- lukhed-stocks
+- momepy
+- usb-remote
+- holado
+- code-scalpel
 - discovermidi
+- omni-comment
+- airbyte-internal-ops
+- coolpy
+- qlit
+- claude-mpm
+- stinger-ipc
+- xenfra
+- litestar-asyncapi
+- chronos-security
 - deepecohab
 - mft
 - openarm-can
@@ -43,7 +86,6 @@
 - codeocean-mcp-server
 - pypnm-docsis
 - karaoke-gen
-- coolpy
 - aniworld
 - sendly
 - specify-extend
@@ -54,46 +96,3 @@
 - koko-keywords
 - tencentcloud-sdk-python-trocket
 - tencentcloud-sdk-python-teo
-- tencentcloud-sdk-python-tdmq
-- tencentcloud-sdk-python-tdai
-- requestcord
-- tencentcloud-sdk-python-tcbr
-- agentic-python-coder
-- tencentcloud-sdk-python-tcb
-- tencentcloud-sdk-python-ocr
-- tencentcloud-sdk-python-monitor
-- AWSTransactionalApps
-- tencentcloud-sdk-python-gs
-- claude-mpm
-- lennoxs30api
-- tencentcloud-sdk-python-dlc
-- tencentcloud-sdk-python-common
-- dycw-actions
-- tencentcloud-sdk-python-billing
-- tencentcloud-sdk-python-intl-en
-- tencentcloud-sdk-python-autoscaling
-- tencentcloud-sdk-python-apm
-- breezy
-- tencentcloud-sdk-python-antiddos
-- clarity-api-sdk-python
-- tencentcloud-sdk-python-aiart
-- zipstrain
-- loveclose1
-- sl-behavior
-- matomo-bootstrap
-- burla
-- getdc
-- myfy
-- myfy-frontend
-- myfy-data
-- wmill-pg
-- myfy-cli
-- wmill
-- windmill-api
-- myfy-web
-- e2efast
-- myfy-core
-- home-assistant-streamdeck-yaml
-- rumdl
-- stringent
-- dvt-core

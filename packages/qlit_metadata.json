@@ -1,0 +1,11 @@
+{
+  "name": "qlit",
+  "version": "0.1.0",
+  "summary": "Strong exact simulation of Clifford+T quantum circuits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qlit-0.1.0.tar.gz",
+  "download_time": "2025-12-23T21:50:17.858623",
+  "package_url": "https://pypi.org/project/qlit/"
+}

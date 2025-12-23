@@ -1,0 +1,11 @@
+{
+  "name": "litestar-asyncapi",
+  "version": "0.1.0",
+  "summary": "AsyncAPI plugin for Litestar",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litestar_asyncapi-0.1.0.tar.gz",
+  "download_time": "2025-12-23T21:50:19.930052",
+  "package_url": "https://pypi.org/project/litestar-asyncapi/"
+}

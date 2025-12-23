@@ -1,11 +1,11 @@
 {
   "name": "discovermidi",
-  "version": "25.12.30",
+  "version": "25.12.31",
   "summary": "Ultimate MIDI dataset for MIDI music discovery and symbolic music AI purposes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "discovermidi-25.12.30-py3-none-any.whl",
-  "download_time": "2025-12-23T21:32:30.975284",
+  "download_filename": "discovermidi-25.12.31.tar.gz",
+  "download_time": "2025-12-23T21:50:15.810821",
   "package_url": "https://pypi.org/project/discovermidi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oxutils",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Production-ready utilities for Django applications in the Oxiliere ecosystem",
   "author": "Edimedia Mutoke",
   "license": null,
   "home_page": null,
-  "download_filename": "oxutils-0.1.7.tar.gz",
-  "download_time": "2025-12-23T13:52:55.929919",
+  "download_filename": "oxutils-0.1.8.tar.gz",
+  "download_time": "2025-12-23T21:50:10.142166",
   "package_url": "https://pypi.org/project/oxutils/"
 }
