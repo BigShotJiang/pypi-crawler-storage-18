@@ -1,0 +1,11 @@
+{
+  "name": "optimum-intel",
+  "version": "1.27.0",
+  "summary": "Optimum Library is an extension of the Hugging Face Transformers library, providing a framework to integrate third-party libraries from Hardware Partners and interface with their specific functionality.",
+  "author": "HuggingFace Inc. Special Ops Team",
+  "license": "Apache",
+  "home_page": "https://www.intel.com",
+  "download_filename": "optimum_intel-1.27.0.tar.gz",
+  "download_time": "2025-12-23T16:50:42.967394",
+  "package_url": "https://pypi.org/project/optimum-intel/"
+}

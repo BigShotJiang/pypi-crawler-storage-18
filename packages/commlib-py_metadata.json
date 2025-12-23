@@ -1,11 +1,11 @@
 {
   "name": "commlib-py",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "Communication Library for Python implementing the most common communication patterns for CyberPhysical Systems.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "commlib_py-0.13.0.tar.gz",
-  "download_time": "2025-12-20T18:45:18.426522",
+  "download_filename": "commlib_py-0.13.1.tar.gz",
+  "download_time": "2025-12-23T16:50:39.364861",
   "package_url": "https://pypi.org/project/commlib-py/"
 }

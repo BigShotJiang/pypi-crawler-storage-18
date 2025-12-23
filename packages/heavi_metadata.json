@@ -1,11 +1,11 @@
 {
   "name": "heavi",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "summary": "An RF circuit simulator",
   "author": "Robert Fennis",
   "license": "MIT Lisence",
   "home_page": null,
-  "download_filename": "heavi-0.7.8.tar.gz",
-  "download_time": "2025-12-23T15:43:33.532597",
+  "download_filename": "heavi-0.7.9.tar.gz",
+  "download_time": "2025-12-23T16:51:15.466397",
   "package_url": "https://pypi.org/project/heavi/"
 }

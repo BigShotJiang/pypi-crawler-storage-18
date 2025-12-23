@@ -1,0 +1,11 @@
+{
+  "name": "brainmaze-eeg",
+  "version": "0.1.7",
+  "summary": "BrainMaze: Brain Electrophysiology, Behavior and Dynamics Analysis Toolbox",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "brainmaze_eeg-0.1.7.tar.gz",
+  "download_time": "2025-12-23T16:50:52.265858",
+  "package_url": "https://pypi.org/project/brainmaze-eeg/"
+}

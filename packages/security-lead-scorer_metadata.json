@@ -1,0 +1,11 @@
+{
+  "name": "security-lead-scorer",
+  "version": "1.0.0",
+  "summary": "Analyze prospect domains for security vulnerabilities and generate lead scores for sales outreach",
+  "author": "rangapin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "security_lead_scorer-1.0.0.tar.gz",
+  "download_time": "2025-12-23T16:50:54.317472",
+  "package_url": "https://pypi.org/project/security-lead-scorer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "peepfilt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Filter images without people using YOLOv8 (ultralytics).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peepfilt-0.1.1.tar.gz",
-  "download_time": "2025-12-23T16:21:25.618170",
+  "download_filename": "peepfilt-0.1.2.tar.gz",
+  "download_time": "2025-12-23T16:51:07.686708",
   "package_url": "https://pypi.org/project/peepfilt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "boask",
+  "version": "1.0.2",
+  "summary": "Pure Python website engine. Zero dependencies. Real JSX templates.",
+  "author": "OXOP",
+  "license": "MIT",
+  "home_page": "https://github.com/OXOPSoftware/boask",
+  "download_filename": "boask-1.0.2.tar.gz",
+  "download_time": "2025-12-23T16:51:06.142274",
+  "package_url": "https://pypi.org/project/boask/"
+}

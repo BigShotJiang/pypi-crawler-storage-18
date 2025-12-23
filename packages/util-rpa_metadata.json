@@ -1,11 +1,11 @@
 {
   "name": "util-rpa",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Utilidades corporativas para automatización RPA en Python",
-  "author": "Jonathan Bolo",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "util_rpa-2.0.2.tar.gz",
-  "download_time": "2025-12-23T14:57:04.742936",
+  "download_filename": "util_rpa-2.0.3.tar.gz",
+  "download_time": "2025-12-23T16:51:13.387011",
   "package_url": "https://pypi.org/project/util-rpa/"
 }

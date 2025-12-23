@@ -1,0 +1,11 @@
+{
+  "name": "stacie",
+  "version": "1.2.0",
+  "summary": "STable AutoCorrelation Integral Estimator (STACIE)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stacie-1.2.0.tar.gz",
+  "download_time": "2025-12-23T16:51:16.493021",
+  "package_url": "https://pypi.org/project/stacie/"
+}

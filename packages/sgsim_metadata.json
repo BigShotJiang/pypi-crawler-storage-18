@@ -1,0 +1,11 @@
+{
+  "name": "sgsim",
+  "version": "1.2.0",
+  "summary": "Python Package for Simulation and Analysis of Ground Motions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgsim-1.2.0.tar.gz",
+  "download_time": "2025-12-23T16:50:56.888248",
+  "package_url": "https://pypi.org/project/sgsim/"
+}

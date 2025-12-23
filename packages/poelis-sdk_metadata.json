@@ -1,0 +1,11 @@
+{
+  "name": "poelis-sdk",
+  "version": "0.6.4",
+  "summary": "Official Python SDK for Poelis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poelis_sdk-0.6.4.tar.gz",
+  "download_time": "2025-12-23T16:51:05.625637",
+  "package_url": "https://pypi.org/project/poelis-sdk/"
+}

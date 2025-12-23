@@ -1,0 +1,11 @@
+{
+  "name": "eldar-math-trainer",
+  "version": "1.0.0",
+  "summary": "CLI based math training game",
+  "author": "Eldar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eldar_math_trainer-1.0.0.tar.gz",
+  "download_time": "2025-12-23T16:50:33.692639",
+  "package_url": "https://pypi.org/project/eldar-math-trainer/"
+}
