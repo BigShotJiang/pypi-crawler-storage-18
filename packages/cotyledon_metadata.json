@@ -1,0 +1,11 @@
+{
+  "name": "cotyledon",
+  "version": "2.2.0",
+  "summary": "Cotyledon provides a framework for defining long-running services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cotyledon-2.2.0.tar.gz",
+  "download_time": "2025-12-23T14:57:16.581224",
+  "package_url": "https://pypi.org/project/cotyledon/"
+}

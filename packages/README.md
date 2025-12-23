@@ -1,16 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-23T14:45:59.988707
-- **Total Packages**: 90
-- **Total Size**: 36.17 MB
+- **Download Time**: 2025-12-23T14:57:51.125944
+- **Total Packages**: 84
+- **Total Size**: 11.23 MB
 
 ## Packages List
+- util-rpa
+- dap4mkb
+- astrosky
+- dokman
+- trendkit
+- interaxions
+- praisonaiagents
+- nextrpg
+- mle-runtime
+- FhotoShop
+- ignition-linter
+- semistaticsim
+- llnl-hatchet
+- pywiim
+- rotools
+- sling
+- linkmerce
+- htmlgraph
+- hotglue-tap-sdk
+- kopi-docka
+- VIStk
+- cotyledon
+- bittu-erripuk-name
+- rabies
+- django-activity-audit
+- semantic-complexity
+- torch-crps
+- claude-mpm
+- serialtalk
+- robocrew
+- xpander-sdk
+- blpapipd
+- chronos-security
+- cleek
+- bitfount
+- odoo-addon-product-form-pricelist
+- virusrecom
+- fastapi-async-sqlalchemy
+- files-com
+- wsiradiomics
+- fw-meta
+- invar-tools
+- rxctl
+- undine
+- mathematica_mcp
 - sphinx-metadata-figure
 - tspkg-base
-- dap4mkb
 - jsleak
-- ignition-lint
 - codemie-mcp-datasources
 - codemie-mcp-assistants
 - rplc
@@ -32,7 +75,6 @@
 - echoes-mcp-server
 - policyengine-us
 - glupredkit
-- semistaticsim
 - photomapai
 - StonerPlots
 - illico
@@ -48,51 +90,3 @@
 - followthemoney
 - viztools
 - rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- hvcc
-- sapiopycommons
-- GenETL
-- setVCD
-- cortex-memory
-- ga4gh.va-spec
-- ML-data-profile
-- PyRubik
-- the-llm-council
-- odoo-addon-l10n-br-fiscal
-- goedels-poetry
-- odoo-addon-l10n-br-account
-- frogml
-- dvt-core
-- ocrrouter
-- codemie-sdk-python
-- posnoise
-- censo
-- tarski
-- datawrapper
-- privalyse-cli
-- upgini
-- gupy-framework
-- anyenv
-- smartXML
-- aip-agents-binary
-- fintrack-cli
-- imio.smartweb.core
-- rotools
-- pheval
-- jupyterlab-chat-toy
-- quran-detector
-- seeq-spy
-- daytona_sdk
-- daytona
-- facebook-page-info-scraper
-- reverse-api-engineer
-- wsiradiomics
-- gennaker-tools
-- daytona_toolbox_api_client_async
-- daytona_toolbox_api_client
-- daytona_api_client_async
-- smallcat
-- devopsmind
-- daytona_api_client
-- mne-bids
-- amep

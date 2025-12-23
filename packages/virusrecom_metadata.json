@@ -1,0 +1,11 @@
+{
+  "name": "virusrecom",
+  "version": "1.4.0",
+  "summary": "An information-theory-based method for recombination detection of viral lineages.",
+  "author": "Zhi-Jian Zhou",
+  "license": null,
+  "home_page": "https://github.com/ZhijianZhou01/virusrecom",
+  "download_filename": "virusrecom-1.4.0.tar.gz",
+  "download_time": "2025-12-23T14:57:25.077909",
+  "package_url": "https://pypi.org/project/virusrecom/"
+}
