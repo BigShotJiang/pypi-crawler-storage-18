@@ -1,11 +1,11 @@
 {
   "name": "thefuck-leeguoo",
-  "version": "3.43",
-  "summary": "Magnificent app which corrects your previous console command",
-  "author": "Vladimir Iakovlev",
-  "license": null,
-  "home_page": "https://github.com/nvbn/thefuck",
-  "download_filename": "thefuck_leeguoo-3.43.tar.gz",
-  "download_time": "2025-12-23T07:53:53.473225",
+  "version": "3.44",
+  "summary": "AI-first command fixer for shell/terminal CLI with streamed explanations and Markdown rendering",
+  "author": "leeguoo",
+  "license": "MIT",
+  "home_page": "https://github.com/leeguooooo/thefuck",
+  "download_filename": "thefuck_leeguoo-3.44.tar.gz",
+  "download_time": "2025-12-23T08:52:57.991330",
   "package_url": "https://pypi.org/project/thefuck-leeguoo/"
 }

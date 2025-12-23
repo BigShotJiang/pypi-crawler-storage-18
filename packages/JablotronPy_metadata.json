@@ -1,0 +1,11 @@
+{
+  "name": "JablotronPy",
+  "version": "0.7.3",
+  "summary": "Client to interact with Jablotron Cloud API to control Jablotron alarm systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jablotronpy-0.7.3.tar.gz",
+  "download_time": "2025-12-23T08:52:24.028909",
+  "package_url": "https://pypi.org/project/JablotronPy/"
+}

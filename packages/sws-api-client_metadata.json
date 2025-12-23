@@ -1,11 +1,11 @@
 {
   "name": "sws-api-client",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "summary": null,
   "author": "Matteo",
   "license": null,
   "home_page": null,
-  "download_filename": "sws_api_client-2.7.2.tar.gz",
-  "download_time": "2025-12-23T07:54:00.503008",
+  "download_filename": "sws_api_client-2.7.3.tar.gz",
+  "download_time": "2025-12-23T08:52:32.280817",
   "package_url": "https://pypi.org/project/sws-api-client/"
 }

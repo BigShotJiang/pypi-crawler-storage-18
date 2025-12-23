@@ -1,11 +1,11 @@
 {
   "name": "nbdataapi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": null,
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "nbdataapi-0.0.2.tar.gz",
-  "download_time": "2025-12-23T03:02:41.316676",
+  "download_filename": "nbdataapi-0.0.3.tar.gz",
+  "download_time": "2025-12-23T08:52:17.169350",
   "package_url": "https://pypi.org/project/nbdataapi/"
 }

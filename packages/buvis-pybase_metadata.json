@@ -1,11 +1,11 @@
 {
   "name": "buvis-pybase",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "summary": "Foundation of BUVIS python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buvis_pybase-0.5.0.tar.gz",
-  "download_time": "2025-12-23T07:53:54.621133",
+  "download_filename": "buvis_pybase-0.5.3.tar.gz",
+  "download_time": "2025-12-23T08:52:31.770003",
   "package_url": "https://pypi.org/project/buvis-pybase/"
 }

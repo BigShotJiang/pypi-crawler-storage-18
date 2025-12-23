@@ -1,0 +1,11 @@
+{
+  "name": "agent-cli-tool",
+  "version": "0.1.1",
+  "summary": "Ask openai on your terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_cli_tool-0.1.1.tar.gz",
+  "download_time": "2025-12-23T08:52:49.704385",
+  "package_url": "https://pypi.org/project/agent-cli-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plone.formwidget.hcaptcha",
+  "version": "2.0.0",
+  "summary": "Hcaptcha widget for Plone.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plone_formwidget_hcaptcha-2.0.0.tar.gz",
+  "download_time": "2025-12-23T08:52:47.661416",
+  "package_url": "https://pypi.org/project/plone.formwidget.hcaptcha/"
+}

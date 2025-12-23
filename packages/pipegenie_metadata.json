@@ -1,0 +1,11 @@
+{
+  "name": "pipegenie",
+  "version": "0.8.0",
+  "summary": "A Python package for generation and optimization of machine learning pipelines using an evolutionary algorithm",
+  "author": null,
+  "license": "MIT License – HUMAINS Research Group Attribution Variant",
+  "home_page": null,
+  "download_filename": "pipegenie-0.8.0.tar.gz",
+  "download_time": "2025-12-23T08:52:48.683770",
+  "package_url": "https://pypi.org/project/pipegenie/"
+}

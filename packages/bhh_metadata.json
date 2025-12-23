@@ -1,11 +1,11 @@
 {
   "name": "bhh",
-  "version": "0.2.0",
-  "summary": "BHH - A Library for You",
+  "version": "0.3.4",
+  "summary": "---BHH---",
   "author": "Aria",
-  "license": null,
+  "license": "BHAP",
   "home_page": null,
-  "download_filename": "bhh-0.2.0.tar.gz",
-  "download_time": "2025-12-22T17:15:11.152414",
+  "download_filename": "bhh-0.3.4.tar.gz",
+  "download_time": "2025-12-23T08:52:39.947688",
   "package_url": "https://pypi.org/project/bhh/"
 }

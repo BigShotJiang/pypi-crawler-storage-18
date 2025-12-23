@@ -1,11 +1,11 @@
 {
   "name": "ferrmion",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ferrmion-0.5.0-cp312-cp312-musllinux_1_2_i686.whl",
-  "download_time": "2025-12-23T05:46:46.878795",
+  "download_filename": "ferrmion-0.5.2.tar.gz",
+  "download_time": "2025-12-23T08:52:54.835502",
   "package_url": "https://pypi.org/project/ferrmion/"
 }

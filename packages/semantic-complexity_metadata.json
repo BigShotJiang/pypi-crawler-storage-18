@@ -1,0 +1,11 @@
+{
+  "name": "semantic-complexity",
+  "version": "0.0.3",
+  "summary": "Multi-dimensional code complexity analyzer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_complexity-0.0.3.tar.gz",
+  "download_time": "2025-12-23T08:52:27.615079",
+  "package_url": "https://pypi.org/project/semantic-complexity/"
+}
