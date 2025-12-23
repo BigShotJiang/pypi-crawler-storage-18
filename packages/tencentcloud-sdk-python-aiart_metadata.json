@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-aiart",
-  "version": "3.1.16",
+  "version": "3.1.18",
   "summary": "Tencent Cloud Aiart SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_aiart-3.1.16.tar.gz",
-  "download_time": "2025-12-21T21:12:53.905533",
+  "download_filename": "tencentcloud_sdk_python_aiart-3.1.18.tar.gz",
+  "download_time": "2025-12-23T21:15:09.334524",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-aiart/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-teo",
-  "version": "3.1.17",
+  "version": "3.1.18",
   "summary": "Tencent Cloud Teo SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_teo-3.1.17.tar.gz",
-  "download_time": "2025-12-22T21:31:53.686018",
+  "download_filename": "tencentcloud_sdk_python_teo-3.1.18.tar.gz",
+  "download_time": "2025-12-23T21:14:56.202858",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-teo/"
 }

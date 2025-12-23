@@ -1,0 +1,11 @@
+{
+  "name": "breezy",
+  "version": "3.3.20",
+  "summary": "Friendly distributed version control system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "breezy-3.3.20-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-12-23T21:15:07.778170",
+  "package_url": "https://pypi.org/project/breezy/"
+}

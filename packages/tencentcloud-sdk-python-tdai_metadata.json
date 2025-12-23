@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-tdai",
-  "version": "3.1.17",
+  "version": "3.1.18",
   "summary": "Tencent Cloud Tdai SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_tdai-3.1.17.tar.gz",
-  "download_time": "2025-12-22T21:13:47.802410",
+  "download_filename": "tencentcloud_sdk_python_tdai-3.1.18.tar.gz",
+  "download_time": "2025-12-23T21:14:57.766640",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-tdai/"
 }

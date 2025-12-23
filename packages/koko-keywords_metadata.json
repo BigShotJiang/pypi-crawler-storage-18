@@ -1,0 +1,11 @@
+{
+  "name": "koko-keywords",
+  "version": "0.3.3",
+  "summary": "A python client  for the Koko Keywords API. The client handles caching to ensure very low latency.",
+  "author": "Kareem Kouddous",
+  "license": "MIT",
+  "home_page": "https://github.com/kokocares/keywords-client/python/client",
+  "download_filename": "koko_keywords-0.3.3.tar.gz",
+  "download_time": "2025-12-23T21:14:55.157433",
+  "package_url": "https://pypi.org/project/koko-keywords/"
+}

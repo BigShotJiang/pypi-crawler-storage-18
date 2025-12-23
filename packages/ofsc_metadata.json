@@ -1,0 +1,11 @@
+{
+  "name": "ofsc",
+  "version": "2.19.0",
+  "summary": "Python wrapper for Oracle Field Service API",
+  "author": "Borja Toron",
+  "license": null,
+  "home_page": "https://github.com/btoron/pyOFSC",
+  "download_filename": "ofsc-2.19.0.tar.gz",
+  "download_time": "2025-12-23T21:15:28.615302",
+  "package_url": "https://pypi.org/project/ofsc/"
+}

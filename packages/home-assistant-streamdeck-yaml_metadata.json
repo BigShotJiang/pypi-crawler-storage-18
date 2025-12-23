@@ -1,11 +1,11 @@
 {
   "name": "home-assistant-streamdeck-yaml",
-  "version": "2025.12.10",
+  "version": "2025.12.11",
   "summary": "Home Assistant on Stream Deck: configured via YAML (with templates) and running on Linux, MacOS, and Windows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "home_assistant_streamdeck_yaml-2025.12.10.tar.gz",
-  "download_time": "2025-12-23T20:16:37.221876",
+  "download_filename": "home_assistant_streamdeck_yaml-2025.12.11.tar.gz",
+  "download_time": "2025-12-23T21:15:18.630673",
   "package_url": "https://pypi.org/project/home-assistant-streamdeck-yaml/"
 }

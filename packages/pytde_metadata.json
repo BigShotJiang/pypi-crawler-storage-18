@@ -1,11 +1,11 @@
 {
   "name": "pytde",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python parser for legacy Tableau Data Extract (TDE) files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytde-0.1.1.tar.gz",
-  "download_time": "2025-12-23T17:53:23.680299",
+  "download_filename": "pytde-0.1.2.tar.gz",
+  "download_time": "2025-12-23T21:15:30.688423",
   "package_url": "https://pypi.org/project/pytde/"
 }
