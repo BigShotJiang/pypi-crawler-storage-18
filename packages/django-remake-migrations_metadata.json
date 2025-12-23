@@ -1,0 +1,11 @@
+{
+  "name": "django-remake-migrations",
+  "version": "2.10.0",
+  "summary": "A Django admin command to recreate all migrations in a project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_remake_migrations-2.10.0.tar.gz",
+  "download_time": "2025-12-23T23:15:00.163122",
+  "package_url": "https://pypi.org/project/django-remake-migrations/"
+}

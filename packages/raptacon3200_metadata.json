@@ -1,11 +1,11 @@
 {
   "name": "raptacon3200",
-  "version": "2025.2.5",
+  "version": "2025.2.8",
   "summary": "A FRC Raptacon 3200 Robot Common Library",
   "author": "Nathan Beasley",
   "license": null,
   "home_page": "https://github.com/raptacon/raptacon3200",
-  "download_filename": "raptacon3200-2025.2.5.tar.gz",
-  "download_time": "2025-12-23T19:15:21.196043",
+  "download_filename": "raptacon3200-2025.2.8.tar.gz",
+  "download_time": "2025-12-23T23:14:45.466638",
   "package_url": "https://pypi.org/project/raptacon3200/"
 }

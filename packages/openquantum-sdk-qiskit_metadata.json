@@ -1,0 +1,11 @@
+{
+  "name": "openquantum-sdk-qiskit",
+  "version": "0.2.3",
+  "summary": "Qiskit Python SDK for Open Quantum",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openquantum_sdk_qiskit-0.2.3-py3-none-any.whl",
+  "download_time": "2025-12-23T23:14:53.614649",
+  "package_url": "https://pypi.org/project/openquantum-sdk-qiskit/"
+}
