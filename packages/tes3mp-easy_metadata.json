@@ -1,11 +1,11 @@
 {
   "name": "tes3mp-easy",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "The one-click setup tool for Morrowind Multiplayer on Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tes3mp_easy-1.2.1.tar.gz",
-  "download_time": "2025-12-23T05:46:58.957030",
+  "download_filename": "tes3mp_easy-1.2.2.tar.gz",
+  "download_time": "2025-12-23T06:25:30.880486",
   "package_url": "https://pypi.org/project/tes3mp-easy/"
 }

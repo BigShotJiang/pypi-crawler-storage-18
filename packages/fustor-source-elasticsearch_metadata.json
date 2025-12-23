@@ -1,0 +1,11 @@
+{
+  "name": "fustor-source-elasticsearch",
+  "version": "0.1.10",
+  "summary": "An Elasticsearch source for Fustor Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fustor_source_elasticsearch-0.1.10.tar.gz",
+  "download_time": "2025-12-23T06:24:51.688309",
+  "package_url": "https://pypi.org/project/fustor-source-elasticsearch/"
+}
