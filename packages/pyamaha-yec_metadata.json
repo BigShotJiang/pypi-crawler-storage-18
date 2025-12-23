@@ -1,0 +1,11 @@
+{
+  "name": "pyamaha-yec",
+  "version": "0.6.4",
+  "summary": "Python implementation of Yamaha Extended Control API Specification",
+  "author": "Jack Powell",
+  "license": null,
+  "home_page": "https://github.com/jackjpowell/pyamaha",
+  "download_filename": "pyamaha_yec-0.6.4.tar.gz",
+  "download_time": "2025-12-23T23:32:37.786885",
+  "package_url": "https://pypi.org/project/pyamaha-yec/"
+}
