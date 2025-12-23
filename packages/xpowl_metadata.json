@@ -1,11 +1,11 @@
 {
   "name": "xpowl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "https://github.com/ownermorax/xpowl",
   "author": "Morax",
   "license": null,
   "home_page": "https://xpowl.ru",
-  "download_filename": "xpowl-1.0.3.tar.gz",
-  "download_time": "2025-12-23T19:15:14.985228",
+  "download_filename": "xpowl-1.0.4.tar.gz",
+  "download_time": "2025-12-23T20:54:04.694269",
   "package_url": "https://pypi.org/project/xpowl/"
 }

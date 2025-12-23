@@ -1,0 +1,11 @@
+{
+  "name": "django-iyzico",
+  "version": "0.2.2",
+  "summary": "Django-native integration for Iyzico payment gateway - Turkey's leading payment solution with PCI DSS compliance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_iyzico-0.2.2.tar.gz",
+  "download_time": "2025-12-23T20:53:42.930821",
+  "package_url": "https://pypi.org/project/django-iyzico/"
+}

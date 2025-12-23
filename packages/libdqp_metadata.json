@@ -1,0 +1,11 @@
+{
+  "name": "libdqp",
+  "version": "0.1.2",
+  "summary": "Differentiation Through Black-Box Quadratic Programming Solvers",
+  "author": "Connor W. Magoon, Fengyu Yang, Noam Aigerman, Shahar Z. Kovalsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libdqp-0.1.2.tar.gz",
+  "download_time": "2025-12-23T20:54:03.660150",
+  "package_url": "https://pypi.org/project/libdqp/"
+}

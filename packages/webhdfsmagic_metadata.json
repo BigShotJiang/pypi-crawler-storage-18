@@ -1,11 +1,11 @@
 {
   "name": "webhdfsmagic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "IPython magic commands to interact with HDFS via WebHDFS/Knox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webhdfsmagic-0.0.3.tar.gz",
-  "download_time": "2025-12-21T13:04:43.130645",
+  "download_filename": "webhdfsmagic-0.0.4.tar.gz",
+  "download_time": "2025-12-23T20:53:50.652903",
   "package_url": "https://pypi.org/project/webhdfsmagic/"
 }

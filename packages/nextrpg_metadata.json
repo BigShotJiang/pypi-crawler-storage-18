@@ -1,11 +1,11 @@
 {
   "name": "nextrpg",
-  "version": "0.1.28",
+  "version": "0.1.30",
   "summary": "Build your next RPG (Role Playing Game).",
   "author": "yx-z",
   "license": null,
   "home_page": "https://github.com/yx-z/nextrpg",
-  "download_filename": "nextrpg-0.1.28.tar.gz",
-  "download_time": "2025-12-23T14:57:09.163614",
+  "download_filename": "nextrpg-0.1.30.tar.gz",
+  "download_time": "2025-12-23T20:54:10.938568",
   "package_url": "https://pypi.org/project/nextrpg/"
 }

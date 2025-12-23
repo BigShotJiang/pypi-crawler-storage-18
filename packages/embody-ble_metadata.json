@@ -1,0 +1,11 @@
+{
+  "name": "embody-ble",
+  "version": "1.1.27",
+  "summary": "Communicate with the EmBody device over BLE (bluetooth)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embody_ble-1.1.27.tar.gz",
+  "download_time": "2025-12-23T20:53:41.907431",
+  "package_url": "https://pypi.org/project/embody-ble/"
+}
