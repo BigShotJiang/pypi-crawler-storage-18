@@ -1,0 +1,11 @@
+{
+  "name": "haggle",
+  "version": "0.1.17",
+  "summary": "A facade to Kaggle data",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/thorwhalen/haggle",
+  "download_filename": "haggle-0.1.17.tar.gz",
+  "download_time": "2025-12-23T15:54:52.946342",
+  "package_url": "https://pypi.org/project/haggle/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "together",
+  "version": "1.5.34",
+  "summary": "Python client for Together's Cloud Platform! Note: SDK 2.0 is now available at https://github.com/togethercomputer/together-py",
+  "author": "Together AI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "together-1.5.34.tar.gz",
+  "download_time": "2025-12-23T15:54:35.289316",
+  "package_url": "https://pypi.org/project/together/"
+}
