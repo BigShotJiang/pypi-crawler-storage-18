@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-stock-reference-by-line",
+  "version": "19.0.1.0.0.2",
+  "summary": "Base module for definition of stock references creation rules for Sale order",
+  "author": "Camptocamp,ForgeFlow,Serpent Consulting Services Pvt. Ltd.,Odoo Community Association (OCA), SprintIT Ltd.",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_stock_reference_by_line-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-23T20:16:56.872233",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-stock-reference-by-line/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "menuentry",
+  "version": "0.1.0",
+  "summary": "A lightweight TUI menu entry manager for Linux desktop files",
+  "author": "beantownbytes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "menuentry-0.1.0.tar.gz",
+  "download_time": "2025-12-23T20:17:01.677677",
+  "package_url": "https://pypi.org/project/menuentry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grapes-ecs",
+  "version": "0.1.0",
+  "summary": "Single pane TUI for monitoring AWS ECS cluster health",
+  "author": "Christopher Groskopf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grapes_ecs-0.1.0.tar.gz",
+  "download_time": "2025-12-23T20:17:03.952319",
+  "package_url": "https://pypi.org/project/grapes-ecs/"
+}

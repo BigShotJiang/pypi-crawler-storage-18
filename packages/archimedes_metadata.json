@@ -1,0 +1,11 @@
+{
+  "name": "archimedes",
+  "version": "0.4.3",
+  "summary": "Python framework for modeling, simulation, and controls development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "archimedes-0.4.3.tar.gz",
+  "download_time": "2025-12-23T20:17:02.228928",
+  "package_url": "https://pypi.org/project/archimedes/"
+}

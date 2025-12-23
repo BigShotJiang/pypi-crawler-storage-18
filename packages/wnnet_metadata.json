@@ -1,0 +1,11 @@
+{
+  "name": "wnnet",
+  "version": "2.7.2",
+  "summary": "Package for handling webnucleo reaction networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wnnet-2.7.2.tar.gz",
+  "download_time": "2025-12-23T20:17:04.478720",
+  "package_url": "https://pypi.org/project/wnnet/"
+}

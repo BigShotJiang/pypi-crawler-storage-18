@@ -1,0 +1,11 @@
+{
+  "name": "purefn",
+  "version": "0.0.0.dev0",
+  "summary": "Pure, stateless game operations: deterministic, replay-able game state management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "purefn-0.0.0.dev0.tar.gz",
+  "download_time": "2025-12-23T20:17:02.757232",
+  "package_url": "https://pypi.org/project/purefn/"
+}

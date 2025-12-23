@@ -1,11 +1,11 @@
 {
   "name": "aeg",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "AEGIS encryption easy to use Python binding. Wheels for major platforms.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aeg-0.4.0.tar.gz",
-  "download_time": "2025-12-23T19:30:07.444808",
+  "download_filename": "aeg-0.4.1.tar.gz",
+  "download_time": "2025-12-23T20:17:05.006650",
   "package_url": "https://pypi.org/project/aeg/"
 }

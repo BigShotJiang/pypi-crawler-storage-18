@@ -1,11 +1,11 @@
 {
   "name": "nestbox-ai-functions",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Python equivalent of Nestbox agent module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nestbox_ai_functions-2.0.4.tar.gz",
-  "download_time": "2025-12-23T19:40:58.788670",
+  "download_filename": "nestbox_ai_functions-2.0.5.tar.gz",
+  "download_time": "2025-12-23T20:17:06.104414",
   "package_url": "https://pypi.org/project/nestbox-ai-functions/"
 }
