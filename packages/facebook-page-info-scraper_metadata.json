@@ -1,0 +1,11 @@
+{
+  "name": "facebook-page-info-scraper",
+  "version": "1.1.9",
+  "summary": "A Python package capable of crawling Facebook page information.",
+  "author": "Wael Hkiri",
+  "license": "MIT",
+  "home_page": "https://github.com/wael-sudo2/facebook-page-info-scraper",
+  "download_filename": "facebook_page_info_scraper-1.1.9.tar.gz",
+  "download_time": "2025-12-23T14:45:53.757436",
+  "package_url": "https://pypi.org/project/facebook-page-info-scraper/"
+}

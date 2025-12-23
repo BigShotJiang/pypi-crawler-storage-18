@@ -1,0 +1,11 @@
+{
+  "name": "photomapai",
+  "version": "1.0.0",
+  "summary": "AI-based image clustering and exploration tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "photomapai-1.0.0.tar.gz",
+  "download_time": "2025-12-23T14:45:25.990080",
+  "package_url": "https://pypi.org/project/photomapai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "privalyse-cli",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Privacy scanner with GDPR compliance reports - Zero config, instant insights",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "privalyse_cli-0.2.1.tar.gz",
-  "download_time": "2025-12-22T16:49:42.678928",
+  "download_filename": "privalyse_cli-0.3.0.tar.gz",
+  "download_time": "2025-12-23T14:45:45.789067",
   "package_url": "https://pypi.org/project/privalyse-cli/"
 }

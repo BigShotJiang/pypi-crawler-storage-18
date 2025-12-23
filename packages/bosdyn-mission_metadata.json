@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-mission",
+  "version": "5.1.0",
+  "summary": "Boston Dynamics mission code",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/",
+  "download_filename": "bosdyn_mission-5.1.0-py3-none-any.whl",
+  "download_time": "2025-12-23T14:45:18.595003",
+  "package_url": "https://pypi.org/project/bosdyn-mission/"
+}

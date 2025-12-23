@@ -1,0 +1,11 @@
+{
+  "name": "mne-bids",
+  "version": "0.18.0",
+  "summary": "MNE-BIDS: Organizing MEG, EEG, and iEEG data according to the BIDS specification and facilitating their analysis with MNE-Python",
+  "author": "The MNE-BIDS developers",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "mne_bids-0.18.0.tar.gz",
+  "download_time": "2025-12-23T14:45:58.967370",
+  "package_url": "https://pypi.org/project/mne-bids/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "solcadre",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Solcadre System",
   "author": "David Coates",
   "license": null,
   "home_page": null,
-  "download_filename": "solcadre-0.1.4.tar.gz",
-  "download_time": "2025-12-23T10:47:03.280761",
+  "download_filename": "solcadre-0.1.6.tar.gz",
+  "download_time": "2025-12-23T14:45:21.200760",
   "package_url": "https://pypi.org/project/solcadre/"
 }

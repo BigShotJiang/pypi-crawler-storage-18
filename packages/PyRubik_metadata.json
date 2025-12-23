@@ -1,0 +1,11 @@
+{
+  "name": "PyRubik",
+  "version": "0.1.0.1",
+  "summary": "A Python module to make speedcubing projects a piece of cake.",
+  "author": "Samuel de Oliveira",
+  "license": "MIT",
+  "home_page": "https://github.com/Samuel-de-Oliveira/PyCubing/",
+  "download_filename": "pyrubik-0.1.0.1.tar.gz",
+  "download_time": "2025-12-23T14:45:38.504720",
+  "package_url": "https://pypi.org/project/PyRubik/"
+}

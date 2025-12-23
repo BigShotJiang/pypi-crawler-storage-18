@@ -1,0 +1,11 @@
+{
+  "name": "hvcc",
+  "version": "0.15.0",
+  "summary": "`hvcc` is a python-based dataflow audio programming language compiler that generates C/C++ code and a variety of specific framework wrappers.",
+  "author": "Enzien Audio, Wasted Audio",
+  "license": "GPLv3",
+  "home_page": "https://github.com/Wasted-Audio/hvcc",
+  "download_filename": "hvcc-0.15.0.tar.gz",
+  "download_time": "2025-12-23T14:45:34.348286",
+  "package_url": "https://pypi.org/project/hvcc/"
+}

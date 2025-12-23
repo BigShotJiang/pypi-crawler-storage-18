@@ -1,0 +1,11 @@
+{
+  "name": "posnoise",
+  "version": "0.0.2",
+  "summary": "POSNoise: An Effective Countermeasure Against Topic Biases in Authorship Analysis",
+  "author": "Oren Halvani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "posnoise-0.0.2.tar.gz",
+  "download_time": "2025-12-23T14:45:43.704859",
+  "package_url": "https://pypi.org/project/posnoise/"
+}

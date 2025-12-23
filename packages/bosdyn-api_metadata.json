@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-api",
+  "version": "5.1.0",
+  "summary": "Boston Dynamics API definition of protobuf messages",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/",
+  "download_filename": "bosdyn_api-5.1.0-py3-none-any.whl",
+  "download_time": "2025-12-23T14:45:20.680259",
+  "package_url": "https://pypi.org/project/bosdyn-api/"
+}

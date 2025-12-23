@@ -1,0 +1,11 @@
+{
+  "name": "bosdyn-scout",
+  "version": "5.1.0",
+  "summary": "Boston Dynamics API Scout Client",
+  "author": "Boston Dynamics",
+  "license": null,
+  "home_page": "https://dev.bostondynamics.com/docs/scout/",
+  "download_filename": "bosdyn_scout-5.1.0-py3-none-any.whl",
+  "download_time": "2025-12-23T14:45:17.556161",
+  "package_url": "https://pypi.org/project/bosdyn-scout/"
+}

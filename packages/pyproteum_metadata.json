@@ -1,0 +1,11 @@
+{
+  "name": "pyproteum",
+  "version": "0.2.2",
+  "summary": "A tool for mutation testing in Python. Implemented as a Python module.",
+  "author": "Delamaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproteum-0.2.2.tar.gz",
+  "download_time": "2025-12-23T14:45:21.726035",
+  "package_url": "https://pypi.org/project/pyproteum/"
+}
