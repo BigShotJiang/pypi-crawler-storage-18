@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-ssi-account-currency-revaluation",
-  "version": "14.0.1.5.0",
+  "version": "14.0.1.6.0",
   "summary": "Currency Revaluation",
   "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
   "license": "AGPL-3",
   "home_page": "https://simetri-sinergi.id",
-  "download_filename": "odoo14_addon_ssi_account_currency_revaluation-14.0.1.5.0-py3-none-any.whl",
-  "download_time": "2025-12-23T15:43:39.139720",
+  "download_filename": "odoo14_addon_ssi_account_currency_revaluation-14.0.1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-23T23:50:06.465741",
   "package_url": "https://pypi.org/project/odoo14-addon-ssi-account-currency-revaluation/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lingo-api",
+  "version": "22.0.0",
+  "summary": "Python interface to LINGO API",
+  "author": "Lindo Systems, Inc.",
+  "license": null,
+  "home_page": "http://www.lindo.com",
+  "download_filename": "lingo_api-22.0.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-23T23:50:11.154825",
+  "package_url": "https://pypi.org/project/lingo-api/"
+}

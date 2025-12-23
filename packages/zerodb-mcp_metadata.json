@@ -1,0 +1,11 @@
+{
+  "name": "zerodb-mcp",
+  "version": "1.1.0",
+  "summary": "Production-ready Python client for ZeroDB MCP Bridge API",
+  "author": "AINative Studio",
+  "license": "MIT",
+  "home_page": "https://github.com/ainative/zerodb-mcp-python",
+  "download_filename": "zerodb_mcp-1.1.0.tar.gz",
+  "download_time": "2025-12-23T23:50:16.352571",
+  "package_url": "https://pypi.org/project/zerodb-mcp/"
+}

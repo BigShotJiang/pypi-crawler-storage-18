@@ -1,0 +1,11 @@
+{
+  "name": "vbl-aquarium",
+  "version": "1.2.0",
+  "summary": "Collection of Pydantic models describing data objects passed between Virtual Brain Lab projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vbl_aquarium-1.2.0.tar.gz",
+  "download_time": "2025-12-23T23:50:09.072971",
+  "package_url": "https://pypi.org/project/vbl-aquarium/"
+}
