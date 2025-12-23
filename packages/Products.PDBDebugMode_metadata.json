@@ -1,0 +1,11 @@
+{
+  "name": "Products.PDBDebugMode",
+  "version": "3.0.0",
+  "summary": "Post-mortem debugging on Zope exceptions",
+  "author": "Ross Patterson",
+  "license": "GPL",
+  "home_page": "https://github.com/collective/Products.PDBDebugMode",
+  "download_filename": "products_pdbdebugmode-3.0.0.tar.gz",
+  "download_time": "2025-12-23T07:44:02.270885",
+  "package_url": "https://pypi.org/project/Products.PDBDebugMode/"
+}

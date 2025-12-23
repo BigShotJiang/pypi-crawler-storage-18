@@ -1,0 +1,11 @@
+{
+  "name": "shh-cli",
+  "version": "0.1.0",
+  "summary": "Voice transcription CLI powered by OpenAI Whisper",
+  "author": "Marius Pruvot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shh_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-23T07:43:49.034866",
+  "package_url": "https://pypi.org/project/shh-cli/"
+}

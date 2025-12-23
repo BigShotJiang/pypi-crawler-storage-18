@@ -1,0 +1,11 @@
+{
+  "name": "ww-time-mcp",
+  "version": "0.1.0",
+  "summary": "The MCP server to get local time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ww_time_mcp-0.1.0.tar.gz",
+  "download_time": "2025-12-23T07:43:46.907581",
+  "package_url": "https://pypi.org/project/ww-time-mcp/"
+}

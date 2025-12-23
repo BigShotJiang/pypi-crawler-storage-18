@@ -1,11 +1,11 @@
 {
   "name": "ifc-graph",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Convert IFC BIM models to Neo4j graph database for querying building information",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ifc_graph-0.1.1.tar.gz",
-  "download_time": "2025-12-22T06:25:55.036272",
+  "download_filename": "ifc_graph-0.1.2.tar.gz",
+  "download_time": "2025-12-23T07:44:19.071506",
   "package_url": "https://pypi.org/project/ifc-graph/"
 }

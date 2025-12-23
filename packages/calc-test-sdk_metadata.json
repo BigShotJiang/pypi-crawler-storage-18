@@ -1,0 +1,11 @@
+{
+  "name": "calc-test-sdk",
+  "version": "1.0.0",
+  "summary": "一个简单的加法运算SDK，用于测试PyPI发布",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/calc-test-sdk",
+  "download_filename": "calc_test_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-23T07:44:00.092070",
+  "package_url": "https://pypi.org/project/calc-test-sdk/"
+}

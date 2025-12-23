@@ -1,11 +1,11 @@
 {
   "name": "pushikoo",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "A message synchronization framework.",
   "author": "Pushikoo",
   "license": null,
   "home_page": null,
-  "download_filename": "pushikoo-0.7.0.tar.gz",
-  "download_time": "2025-12-22T16:19:33.490770",
+  "download_filename": "pushikoo-0.7.1.tar.gz",
+  "download_time": "2025-12-23T07:44:12.994628",
   "package_url": "https://pypi.org/project/pushikoo/"
 }

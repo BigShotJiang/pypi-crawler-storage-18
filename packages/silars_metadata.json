@@ -1,11 +1,11 @@
 {
   "name": "silars",
-  "version": "1.0.38",
+  "version": "1.0.40",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "silars-1.0.38.tar.gz",
-  "download_time": "2025-12-23T05:47:09.636142",
+  "download_filename": "silars-1.0.40.tar.gz",
+  "download_time": "2025-12-23T07:44:01.759678",
   "package_url": "https://pypi.org/project/silars/"
 }

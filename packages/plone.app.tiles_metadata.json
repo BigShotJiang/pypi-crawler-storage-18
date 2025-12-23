@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.tiles",
+  "version": "5.0.0",
+  "summary": "Plone UI integration for plone.tiles",
+  "author": "Martin Aspeli",
+  "license": null,
+  "home_page": "https://github.com/plone/plone.app.tiles",
+  "download_filename": "plone_app_tiles-5.0.0.tar.gz",
+  "download_time": "2025-12-23T07:44:11.886221",
+  "package_url": "https://pypi.org/project/plone.app.tiles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepagent-runner",
+  "version": "0.1.2",
+  "summary": "A terminal application for running DeepAgent in a workspace directory",
+  "author": "DeepAgent Runner Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepagent_runner-0.1.2.tar.gz",
+  "download_time": "2025-12-23T07:44:18.049741",
+  "package_url": "https://pypi.org/project/deepagent-runner/"
+}
