@@ -1,11 +1,11 @@
 {
   "name": "sensorflex",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Modern real-time sensor compute and data management.",
   "author": "Yiqin Zhao",
   "license": null,
   "home_page": null,
-  "download_filename": "sensorflex-0.1.2.tar.gz",
-  "download_time": "2025-12-23T18:23:02.734703",
+  "download_filename": "sensorflex-0.1.3.tar.gz",
+  "download_time": "2025-12-23T18:53:24.669250",
   "package_url": "https://pypi.org/project/sensorflex/"
 }

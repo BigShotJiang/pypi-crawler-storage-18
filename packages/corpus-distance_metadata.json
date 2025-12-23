@@ -1,0 +1,11 @@
+{
+  "name": "corpus-distance",
+  "version": "0.7.1",
+  "summary": "Python package for measuring distance between the lects represented by small raw corpora",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corpus_distance-0.7.1.tar.gz",
+  "download_time": "2025-12-23T18:53:01.937534",
+  "package_url": "https://pypi.org/project/corpus-distance/"
+}

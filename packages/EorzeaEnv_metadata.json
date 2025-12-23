@@ -1,0 +1,11 @@
+{
+  "name": "EorzeaEnv",
+  "version": "2.2.13",
+  "summary": "Final Fantasy XIV weather & time tools.",
+  "author": "Elton Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/EltonChou/EorzeaEnv",
+  "download_filename": "eorzeaenv-2.2.13.tar.gz",
+  "download_time": "2025-12-23T18:53:13.740668",
+  "package_url": "https://pypi.org/project/EorzeaEnv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pynidm",
+  "version": "4.2.4",
+  "summary": "PYNIDM: a Python NIDM library and tools",
+  "author": "INCF-NIDASH developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/incf-nidash/PyNIDM",
+  "download_filename": "pynidm-4.2.4.tar.gz",
+  "download_time": "2025-12-23T18:53:07.078874",
+  "package_url": "https://pypi.org/project/pynidm/"
+}

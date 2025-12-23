@@ -1,0 +1,11 @@
+{
+  "name": "rx-tool",
+  "version": "2.1.1",
+  "summary": "High-performance file search and analysis tool powered by ripgrep",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rx_tool-2.1.1.tar.gz",
+  "download_time": "2025-12-23T18:53:12.712974",
+  "package_url": "https://pypi.org/project/rx-tool/"
+}

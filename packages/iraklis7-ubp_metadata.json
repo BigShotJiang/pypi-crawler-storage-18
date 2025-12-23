@@ -1,11 +1,11 @@
 {
   "name": "iraklis7-ubp",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "summary": "Utility Bill Processor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iraklis7_ubp-1.1.18-py3-none-any.whl",
-  "download_time": "2025-12-23T18:22:49.769228",
+  "download_filename": "iraklis7_ubp-1.1.19-py3-none-any.whl",
+  "download_time": "2025-12-23T18:53:25.718356",
   "package_url": "https://pypi.org/project/iraklis7-ubp/"
 }

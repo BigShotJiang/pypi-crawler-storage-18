@@ -1,0 +1,11 @@
+{
+  "name": "esxport",
+  "version": "9.2.1",
+  "summary": "An adept Python CLI utility designed for querying Elasticsearch and exporting result as a CSV file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esxport-9.2.1.tar.gz",
+  "download_time": "2025-12-23T18:53:32.473722",
+  "package_url": "https://pypi.org/project/esxport/"
+}

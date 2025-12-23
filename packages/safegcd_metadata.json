@@ -1,0 +1,11 @@
+{
+  "name": "safegcd",
+  "version": "0.1.1",
+  "summary": "Minimal divstep primitive for safegcd/Bernstein–Yang style experiments",
+  "author": "Cesare Huang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "safegcd-0.1.1.tar.gz",
+  "download_time": "2025-12-23T18:53:28.293830",
+  "package_url": "https://pypi.org/project/safegcd/"
+}

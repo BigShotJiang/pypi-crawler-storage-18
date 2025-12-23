@@ -1,0 +1,11 @@
+{
+  "name": "stringent",
+  "version": "0.2.0",
+  "summary": "Parse strings into Pydantic models using pattern matching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stringent-0.2.0.tar.gz",
+  "download_time": "2025-12-23T18:52:58.344053",
+  "package_url": "https://pypi.org/project/stringent/"
+}

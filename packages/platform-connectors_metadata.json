@@ -1,0 +1,11 @@
+{
+  "name": "platform-connectors",
+  "version": "0.1.0",
+  "summary": "Reusable API connectors for Jira, GitLab, and Confluence",
+  "author": "Christophe Le Douarec",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cledouarec/platform-connectors",
+  "download_filename": "platform_connectors-0.1.0.tar.gz",
+  "download_time": "2025-12-23T18:53:23.647245",
+  "package_url": "https://pypi.org/project/platform-connectors/"
+}
