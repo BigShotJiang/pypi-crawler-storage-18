@@ -1,0 +1,11 @@
+{
+  "name": "xgt-connector",
+  "version": "2.6.5.post1",
+  "summary": "Connecting the Rocketgraph xGT graph analytics engine to other applications.",
+  "author": "Rocketgraph",
+  "license": "apache2",
+  "home_page": "http://www.rocketgraph.com/",
+  "download_filename": "xgt_connector-2.6.5.post1.tar.gz",
+  "download_time": "2025-12-23T21:32:33.090848",
+  "package_url": "https://pypi.org/project/xgt-connector/"
+}

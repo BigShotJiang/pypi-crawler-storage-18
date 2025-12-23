@@ -1,11 +1,11 @@
 {
   "name": "graphlib-student",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Учебная библиотека для работы с графами",
   "author": "Polina",
   "license": null,
   "home_page": null,
-  "download_filename": "graphlib_student-0.1.0.tar.gz",
-  "download_time": "2025-12-23T21:15:32.223585",
+  "download_filename": "graphlib_student-0.1.2.tar.gz",
+  "download_time": "2025-12-23T21:32:34.150923",
   "package_url": "https://pypi.org/project/graphlib-student/"
 }

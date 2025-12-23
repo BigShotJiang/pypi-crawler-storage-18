@@ -1,11 +1,11 @@
 {
   "name": "aria-cli",
-  "version": "0.3.3",
+  "version": "1.0.2",
   "summary": "ARIA CLI - Natural Language Quantum AI Command Line Interface with Q0-Q38 System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aria_cli-0.3.3.tar.gz",
-  "download_time": "2025-12-23T13:53:02.084357",
+  "download_filename": "aria_cli-1.0.2.tar.gz",
+  "download_time": "2025-12-23T21:32:38.355098",
   "package_url": "https://pypi.org/project/aria-cli/"
 }

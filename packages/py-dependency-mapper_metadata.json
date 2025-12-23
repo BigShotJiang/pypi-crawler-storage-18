@@ -1,0 +1,11 @@
+{
+  "name": "py-dependency-mapper",
+  "version": "0.1.6",
+  "summary": "A high-performance Python dependency mapping tool written in Rust, powered by the Ruff parser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_dependency_mapper-0.1.6.tar.gz",
+  "download_time": "2025-12-23T21:32:42.613731",
+  "package_url": "https://pypi.org/project/py-dependency-mapper/"
+}
