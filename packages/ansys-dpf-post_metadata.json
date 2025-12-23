@@ -1,0 +1,11 @@
+{
+  "name": "ansys-dpf-post",
+  "version": "0.11.0",
+  "summary": "PyDPF-Post Python library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_dpf_post-0.11.0-py3-none-any.whl",
+  "download_time": "2025-12-23T16:21:22.995648",
+  "package_url": "https://pypi.org/project/ansys-dpf-post/"
+}

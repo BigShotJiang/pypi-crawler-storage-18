@@ -1,0 +1,11 @@
+{
+  "name": "Yuki",
+  "version": "0.0.4",
+  "summary": "A data analysis management toolkit for high energy physics",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "yuki-0.0.4.tar.gz",
+  "download_time": "2025-12-23T16:21:10.085170",
+  "package_url": "https://pypi.org/project/Yuki/"
+}

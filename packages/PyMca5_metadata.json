@@ -1,0 +1,11 @@
+{
+  "name": "PyMca5",
+  "version": "5.9.5",
+  "summary": "Mapping and X-Ray Fluorescence Analysis",
+  "author": "V. Armando Sole",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymca5-5.9.5-cp310-cp310-macosx_10_13_universal2.whl",
+  "download_time": "2025-12-23T16:21:13.210115",
+  "package_url": "https://pypi.org/project/PyMca5/"
+}
