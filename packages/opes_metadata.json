@@ -1,11 +1,11 @@
 {
   "name": "opes",
-  "version": "0.1.0",
-  "summary": "Open-source Python module for portfolio management with a plethora of portfolio schemes, stochastic backtesting and metrics",
+  "version": "0.1.1",
+  "summary": "Open-source Python module for portfolio management with a plethora of portfolio schemes, stochastic backtesting and comprehensive metrics",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opes-0.1.0.tar.gz",
-  "download_time": "2025-12-23T05:46:52.796246",
+  "download_filename": "opes-0.1.1.tar.gz",
+  "download_time": "2025-12-23T07:53:58.196602",
   "package_url": "https://pypi.org/project/opes/"
 }
