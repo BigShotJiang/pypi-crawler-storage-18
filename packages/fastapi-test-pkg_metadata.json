@@ -1,11 +1,11 @@
 {
   "name": "fastapi-test-pkg",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_test_pkg-0.1.1.tar.gz",
-  "download_time": "2025-12-23T08:52:38.404822",
+  "download_filename": "fastapi_test_pkg-0.1.4.tar.gz",
+  "download_time": "2025-12-23T09:46:01.461438",
   "package_url": "https://pypi.org/project/fastapi-test-pkg/"
 }

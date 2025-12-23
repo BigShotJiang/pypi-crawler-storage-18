@@ -1,0 +1,11 @@
+{
+  "name": "ecos-reader",
+  "version": "0.1.0",
+  "summary": "한국은행 ECOS Open API Python 클라이언트",
+  "author": "yeonguk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecos_reader-0.1.0.tar.gz",
+  "download_time": "2025-12-23T09:45:48.248997",
+  "package_url": "https://pypi.org/project/ecos-reader/"
+}

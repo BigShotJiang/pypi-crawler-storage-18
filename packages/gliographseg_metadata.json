@@ -1,0 +1,11 @@
+{
+  "name": "gliographseg",
+  "version": "0.1.0",
+  "summary": "Graph-based brain tumor segmentation using superpixels and GNNs",
+  "author": "Salvatore Calderaro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gliographseg-0.1.0.tar.gz",
+  "download_time": "2025-12-23T09:45:46.550315",
+  "package_url": "https://pypi.org/project/gliographseg/"
+}

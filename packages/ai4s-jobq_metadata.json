@@ -1,0 +1,11 @@
+{
+  "name": "ai4s-jobq",
+  "version": "2.15.0",
+  "summary": "AI for Science Job Queue - A distributed job queue system for large scale embarassingly parallel workloads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai4s_jobq-2.15.0.tar.gz",
+  "download_time": "2025-12-23T09:46:28.549825",
+  "package_url": "https://pypi.org/project/ai4s-jobq/"
+}

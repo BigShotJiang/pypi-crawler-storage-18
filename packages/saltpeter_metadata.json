@@ -1,0 +1,11 @@
+{
+  "name": "saltpeter",
+  "version": "0.9.30",
+  "summary": "Distributed cron based on salt",
+  "author": "Marin Vintila",
+  "license": "MIT",
+  "home_page": "http://github.com/syscollective/saltpeter",
+  "download_filename": "saltpeter-0.9.30.tar.gz",
+  "download_time": "2025-12-23T09:45:51.544950",
+  "package_url": "https://pypi.org/project/saltpeter/"
+}

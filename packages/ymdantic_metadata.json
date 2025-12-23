@@ -1,0 +1,11 @@
+{
+  "name": "ymdantic",
+  "version": "0.2.0",
+  "summary": "Фреймворк предоставляющий доступ к API Яндекс Музыки (с Pydantic валидацией)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ymdantic-0.2.0.tar.gz",
+  "download_time": "2025-12-23T09:46:02.040808",
+  "package_url": "https://pypi.org/project/ymdantic/"
+}

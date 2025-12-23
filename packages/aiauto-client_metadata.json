@@ -1,11 +1,11 @@
 {
   "name": "aiauto-client",
-  "version": "0.1.47",
+  "version": "0.1.48",
   "summary": "AI Auto HPO (Hyperparameter Optimization) Client Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiauto_client-0.1.47.tar.gz",
-  "download_time": "2025-12-22T06:56:13.924845",
+  "download_filename": "aiauto_client-0.1.48.tar.gz",
+  "download_time": "2025-12-23T09:46:30.764389",
   "package_url": "https://pypi.org/project/aiauto-client/"
 }

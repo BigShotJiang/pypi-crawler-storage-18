@@ -1,0 +1,11 @@
+{
+  "name": "mobile-mcp-ai1",
+  "version": "1.1.0",
+  "summary": "移动端自动化 MCP Server - 支持 Android/iOS，AI 功能可选（基础工具不需要 AI）",
+  "author": "douzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mobile_mcp_ai1-1.1.0.tar.gz",
+  "download_time": "2025-12-23T09:46:26.316198",
+  "package_url": "https://pypi.org/project/mobile-mcp-ai1/"
+}

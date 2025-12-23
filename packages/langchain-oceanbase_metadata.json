@@ -1,0 +1,11 @@
+{
+  "name": "langchain-oceanbase",
+  "version": "0.3.1",
+  "summary": "An integration package connecting OceanBase and LangChain",
+  "author": "shanhaikang.shk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_oceanbase-0.3.1.tar.gz",
+  "download_time": "2025-12-23T09:45:44.911903",
+  "package_url": "https://pypi.org/project/langchain-oceanbase/"
+}
