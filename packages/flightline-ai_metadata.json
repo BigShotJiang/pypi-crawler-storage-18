@@ -1,11 +1,11 @@
 {
   "name": "flightline-ai",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "Flightline - Synthetic data generation from sample files",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "flightline_ai-0.1.8.tar.gz",
-  "download_time": "2025-12-22T10:45:41.914311",
+  "download_filename": "flightline_ai-0.1.11.tar.gz",
+  "download_time": "2025-12-23T03:02:40.287420",
   "package_url": "https://pypi.org/project/flightline-ai/"
 }

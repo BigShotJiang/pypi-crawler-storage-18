@@ -1,0 +1,11 @@
+{
+  "name": "lium-4.96",
+  "version": "0.0.3",
+  "summary": "A custom CLI tool for Lium. Lium CLI provides tools for interacting with the Lium ecosystem from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lium_4_96-0.0.3-py3-none-any.whl",
+  "download_time": "2025-12-23T03:03:00.760611",
+  "package_url": "https://pypi.org/project/lium-4.96/"
+}

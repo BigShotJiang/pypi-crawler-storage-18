@@ -1,11 +1,11 @@
 {
   "name": "pycdo",
-  "version": "0.1.4",
-  "summary": null,
+  "version": "0.2.1",
+  "summary": "Python wrapper of the Climate Data Operators",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycdo-0.1.4.tar.gz",
-  "download_time": "2025-12-23T01:10:10.172847",
+  "download_filename": "pycdo-0.2.1.tar.gz",
+  "download_time": "2025-12-23T03:03:03.903322",
   "package_url": "https://pypi.org/project/pycdo/"
 }

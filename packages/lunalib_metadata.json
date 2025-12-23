@@ -1,11 +1,11 @@
 {
   "name": "lunalib",
-  "version": "1.4.4",
+  "version": "1.4.6",
   "summary": "A Complete Cryptocurrency Wallet and Mining System",
   "author": "Ling Lin",
   "license": "MIT",
   "home_page": "https://github.com/taellinglin/LunaLib",
-  "download_filename": "lunalib-1.4.4.tar.gz",
-  "download_time": "2025-12-21T06:21:39.855196",
+  "download_filename": "lunalib-1.4.6.tar.gz",
+  "download_time": "2025-12-23T03:03:07.572540",
   "package_url": "https://pypi.org/project/lunalib/"
 }

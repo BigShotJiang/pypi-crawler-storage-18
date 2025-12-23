@@ -1,0 +1,11 @@
+{
+  "name": "libzapi",
+  "version": "0.2.1",
+  "summary": "Python client for the Zendesk API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libzapi-0.2.1.tar.gz",
+  "download_time": "2025-12-23T03:02:54.990343",
+  "package_url": "https://pypi.org/project/libzapi/"
+}

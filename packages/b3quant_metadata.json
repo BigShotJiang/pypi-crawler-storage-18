@@ -1,11 +1,11 @@
 {
   "name": "b3quant",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Python library for downloading and parsing B3 (Brazilian Stock Exchange) market data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "b3quant-0.1.9.tar.gz",
-  "download_time": "2025-12-21T15:14:13.455863",
+  "download_filename": "b3quant-0.1.12.tar.gz",
+  "download_time": "2025-12-23T03:03:12.416778",
   "package_url": "https://pypi.org/project/b3quant/"
 }

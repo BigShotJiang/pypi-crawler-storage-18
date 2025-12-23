@@ -1,11 +1,11 @@
 {
   "name": "topdogalerts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Shared runtime utilities for Top Dog Alerts listeners (DB triggers + SQS events)",
   "author": "Top Dog",
   "license": null,
   "home_page": null,
-  "download_filename": "topdogalerts-1.0.4.tar.gz",
-  "download_time": "2025-12-23T01:09:46.333984",
+  "download_filename": "topdogalerts-1.0.5.tar.gz",
+  "download_time": "2025-12-23T03:02:46.036793",
   "package_url": "https://pypi.org/project/topdogalerts/"
 }

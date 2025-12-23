@@ -1,0 +1,11 @@
+{
+  "name": "fast-thumbhash",
+  "version": "1.0.0",
+  "summary": "Fast ThumbHash bindings for Python using Rust (PyO3)",
+  "author": "Sita Berete",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_thumbhash-1.0.0.tar.gz",
+  "download_time": "2025-12-23T03:03:13.973169",
+  "package_url": "https://pypi.org/project/fast-thumbhash/"
+}

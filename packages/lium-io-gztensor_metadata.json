@@ -1,0 +1,11 @@
+{
+  "name": "lium-io-gztensor",
+  "version": "0.0.3",
+  "summary": "A custom CLI tool for Lium. Lium CLI provides tools for interacting with the Lium ecosystem from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lium_io_gztensor-0.0.3.tar.gz",
+  "download_time": "2025-12-23T03:02:59.153246",
+  "package_url": "https://pypi.org/project/lium-io-gztensor/"
+}
