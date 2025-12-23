@@ -1,11 +1,11 @@
 {
   "name": "fixtures",
-  "version": "4.2.7",
+  "version": "4.2.8",
   "summary": "Fixtures, reusable state for writing clean tests and more.",
   "author": null,
   "license": "Apache-2.0 or BSD",
   "home_page": null,
-  "download_filename": "fixtures-4.2.7.tar.gz",
-  "download_time": "2025-12-22T13:11:57.127892",
+  "download_filename": "fixtures-4.2.8.tar.gz",
+  "download_time": "2025-12-23T22:15:50.111312",
   "package_url": "https://pypi.org/project/fixtures/"
 }

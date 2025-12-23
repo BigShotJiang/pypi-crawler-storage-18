@@ -1,0 +1,11 @@
+{
+  "name": "xlsxgrep",
+  "version": "0.0.31",
+  "summary": "CLI tool to search text in XLSX, XLS, XLSM, CSV, TSV and ODS files. It works similarly to Unix\\GNU Linux grep.",
+  "author": "Ivan Cvitic",
+  "license": "MIT",
+  "home_page": "https://github.com/zazuum/xlsxgrep",
+  "download_filename": "xlsxgrep-0.0.31.tar.gz",
+  "download_time": "2025-12-23T22:15:48.052654",
+  "package_url": "https://pypi.org/project/xlsxgrep/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "voicerun_completions",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "VoiceRun Completions",
   "author": "VoiceRun",
   "license": null,
   "home_page": null,
-  "download_filename": "voicerun_completions-0.1.7.tar.gz",
-  "download_time": "2025-12-23T16:51:01.513208",
+  "download_filename": "voicerun_completions-0.1.8.tar.gz",
+  "download_time": "2025-12-23T22:15:44.451998",
   "package_url": "https://pypi.org/project/voicerun_completions/"
 }

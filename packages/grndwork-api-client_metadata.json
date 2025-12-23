@@ -1,0 +1,11 @@
+{
+  "name": "grndwork-api-client",
+  "version": "1.0.0b5",
+  "summary": "Groundwork API Client",
+  "author": "GroundWork Renewables",
+  "license": null,
+  "home_page": "https://github.com/GroundWorkRenewables/grndwork-api-client",
+  "download_filename": "grndwork_api_client-1.0.0b5.tar.gz",
+  "download_time": "2025-12-23T22:15:41.343078",
+  "package_url": "https://pypi.org/project/grndwork-api-client/"
+}

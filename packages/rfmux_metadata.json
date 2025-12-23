@@ -1,0 +1,11 @@
+{
+  "name": "rfmux",
+  "version": "0.0.0",
+  "summary": "Python library for t0.technology CRS board running rfmux firmware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rfmux-0.0.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-23T22:15:50.627793",
+  "package_url": "https://pypi.org/project/rfmux/"
+}
