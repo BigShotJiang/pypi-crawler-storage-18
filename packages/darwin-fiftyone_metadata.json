@@ -1,0 +1,11 @@
+{
+  "name": "darwin-fiftyone",
+  "version": "2.1.1",
+  "summary": "Integration between V7 Darwin and Voxel51",
+  "author": "Simon Edwardsson & Mark Cox-Smith",
+  "license": null,
+  "home_page": "https://github.com/v7labs/darwin_fiftyone",
+  "download_filename": "darwin_fiftyone-2.1.1.tar.gz",
+  "download_time": "2025-12-23T15:25:25.310318",
+  "package_url": "https://pypi.org/project/darwin-fiftyone/"
+}

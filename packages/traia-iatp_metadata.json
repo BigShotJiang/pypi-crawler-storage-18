@@ -1,11 +1,11 @@
 {
   "name": "traia-iatp",
-  "version": "0.1.65",
+  "version": "0.1.66",
   "summary": "Inter-Agent Transfer Protocol (IATP) - Enable AI Agents to utilize other AI Agents as tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "traia_iatp-0.1.65.tar.gz",
-  "download_time": "2025-12-23T13:24:59.721339",
+  "download_filename": "traia_iatp-0.1.66.tar.gz",
+  "download_time": "2025-12-23T15:25:55.016332",
   "package_url": "https://pypi.org/project/traia-iatp/"
 }

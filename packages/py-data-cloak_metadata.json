@@ -1,0 +1,11 @@
+{
+  "name": "py-data-cloak",
+  "version": "0.1.1",
+  "summary": "A robust data anonymization and sanitization tool for CLI and Django.",
+  "author": "s4gor",
+  "license": null,
+  "home_page": "https://github.com/exeebit/py-data-cloak",
+  "download_filename": "py_data_cloak-0.1.1.tar.gz",
+  "download_time": "2025-12-23T15:25:22.170967",
+  "package_url": "https://pypi.org/project/py-data-cloak/"
+}

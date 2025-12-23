@@ -1,11 +1,11 @@
 {
   "name": "envkit",
-  "version": "0.5.0.post4",
-  "summary": "A lightweight package for parsing environment variables",
+  "version": "0.5.0.post5",
+  "summary": "A lightweight, strongly-typed environment variable parser focused on explicit configuration and predictable behavior, inspired by environs.",
   "author": "Théo Guérin",
   "license": null,
   "home_page": null,
-  "download_filename": "envkit-0.5.0.post4.tar.gz",
-  "download_time": "2025-12-21T19:49:08.312894",
+  "download_filename": "envkit-0.5.0.post5.tar.gz",
+  "download_time": "2025-12-23T15:25:23.196063",
   "package_url": "https://pypi.org/project/envkit/"
 }

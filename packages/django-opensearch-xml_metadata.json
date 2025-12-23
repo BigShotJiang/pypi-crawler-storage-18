@@ -1,11 +1,11 @@
 {
   "name": "django-opensearch-xml",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Handle opensearch.xml for search engine registratin in browsers.",
   "author": "François GUÉRIN",
   "license": null,
   "home_page": null,
-  "download_filename": "django_opensearch_xml-0.4.0.tar.gz",
-  "download_time": "2025-12-23T14:16:32.621723",
+  "download_filename": "django_opensearch_xml-0.4.2.tar.gz",
+  "download_time": "2025-12-23T15:25:37.709612",
   "package_url": "https://pypi.org/project/django-opensearch-xml/"
 }
