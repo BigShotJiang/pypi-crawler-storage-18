@@ -1,11 +1,11 @@
 {
   "name": "grucli",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "summary": "A command-line interface for interacting with local and remote LLMs.",
   "author": "grufr",
   "license": null,
   "home_page": "https://github.com/grufr/grucli",
-  "download_filename": "grucli-3.3.0.tar.gz",
-  "download_time": "2025-12-23T13:53:10.796808",
+  "download_filename": "grucli-3.3.1.tar.gz",
+  "download_time": "2025-12-23T22:52:02.496567",
   "package_url": "https://pypi.org/project/grucli/"
 }
