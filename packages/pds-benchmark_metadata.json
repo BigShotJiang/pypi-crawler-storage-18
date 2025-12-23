@@ -1,0 +1,11 @@
+{
+  "name": "pds-benchmark",
+  "version": "0.1.0",
+  "summary": "A minimal, Polars-focused data processing benchmark suite",
+  "author": "PDS Benchmark Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pds_benchmark-0.1.0.tar.gz",
+  "download_time": "2025-12-23T14:16:23.345974",
+  "package_url": "https://pypi.org/project/pds-benchmark/"
+}

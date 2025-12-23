@@ -1,0 +1,11 @@
+{
+  "name": "pyfreeproxy",
+  "version": "0.3.2",
+  "summary": "FreeProxy: Collecting free proxies from internet.",
+  "author": "Zhenchao Jin",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/CharlesPikachu/freeproxy",
+  "download_filename": "pyfreeproxy-0.3.2.tar.gz",
+  "download_time": "2025-12-23T14:16:51.329339",
+  "package_url": "https://pypi.org/project/pyfreeproxy/"
+}

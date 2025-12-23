@@ -1,11 +1,11 @@
 {
   "name": "mapraster",
-  "version": "2025.12.18",
+  "version": "2025.12.23",
   "summary": "mapraster is a Python lib to interpolate xarray raster field on image geometry (e.g. line/sample)",
   "author": "umr-lops",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mapraster-2025.12.18.tar.gz",
-  "download_time": "2025-12-23T13:24:13.062249",
+  "download_filename": "mapraster-2025.12.23.tar.gz",
+  "download_time": "2025-12-23T14:16:24.374954",
   "package_url": "https://pypi.org/project/mapraster/"
 }

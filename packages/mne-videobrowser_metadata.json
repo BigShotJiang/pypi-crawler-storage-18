@@ -1,0 +1,11 @@
+{
+  "name": "mne-videobrowser",
+  "version": "0.1.8",
+  "summary": "Python package for browsing video and audio time-synchronized to MEG/EEG data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mne_videobrowser-0.1.8.tar.gz",
+  "download_time": "2025-12-23T14:16:29.521060",
+  "package_url": "https://pypi.org/project/mne-videobrowser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glm4free",
+  "version": "0.1.1",
+  "summary": "A Python API Wrapper for Z.AI (GLM).",
+  "author": "SertraFurr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glm4free-0.1.1.tar.gz",
+  "download_time": "2025-12-23T14:16:52.869816",
+  "package_url": "https://pypi.org/project/glm4free/"
+}

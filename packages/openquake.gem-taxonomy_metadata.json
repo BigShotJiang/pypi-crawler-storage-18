@@ -1,0 +1,11 @@
+{
+  "name": "openquake.gem-taxonomy",
+  "version": "1.11.3",
+  "summary": "Openquake Gem Taxonomy - Package to manage GEM Building Taxonomy strings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openquake_gem_taxonomy-1.11.3.tar.gz",
+  "download_time": "2025-12-23T14:16:49.288508",
+  "package_url": "https://pypi.org/project/openquake.gem-taxonomy/"
+}

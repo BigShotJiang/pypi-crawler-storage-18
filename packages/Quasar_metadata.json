@@ -1,0 +1,11 @@
+{
+  "name": "Quasar",
+  "version": "1.13.0",
+  "summary": "Quasar is a collection of data analysis toolboxes extending the Orange suite.",
+  "author": "Canadian Light Source, Biolab UL, Soleil, Elettra",
+  "license": "GPLv3+",
+  "home_page": "https://quasar.codes",
+  "download_filename": "quasar-1.13.0.tar.gz",
+  "download_time": "2025-12-23T14:16:33.645775",
+  "package_url": "https://pypi.org/project/Quasar/"
+}

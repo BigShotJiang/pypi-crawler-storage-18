@@ -1,0 +1,11 @@
+{
+  "name": "nx-parallel",
+  "version": "0.4",
+  "summary": "A parallel backend for NetworkX. It uses joblib to run NetworkX algorithms on multiple CPU cores.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "nx_parallel-0.4.tar.gz",
+  "download_time": "2025-12-23T14:16:58.134798",
+  "package_url": "https://pypi.org/project/nx-parallel/"
+}
