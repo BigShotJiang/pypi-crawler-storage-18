@@ -1,11 +1,11 @@
 {
   "name": "geogee",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A python package for geogee",
   "author": "Ly Mot",
   "license": "MIT license",
   "home_page": "https://github.com/LyMot/geogee",
-  "download_filename": "geogee-0.0.1.tar.gz",
-  "download_time": "2025-12-22T16:19:35.552800",
+  "download_filename": "geogee-0.0.2.tar.gz",
+  "download_time": "2025-12-23T11:32:24.224907",
   "package_url": "https://pypi.org/project/geogee/"
 }

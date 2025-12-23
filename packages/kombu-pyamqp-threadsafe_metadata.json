@@ -1,0 +1,11 @@
+{
+  "name": "kombu-pyamqp-threadsafe",
+  "version": "0.6.2",
+  "summary": "Threadsafe implementation of pyamqp transport for kombu",
+  "author": "spumer",
+  "license": null,
+  "home_page": "https://github.com/spumer/kombu-pyamqp-threadsafe",
+  "download_filename": "kombu_pyamqp_threadsafe-0.6.2.tar.gz",
+  "download_time": "2025-12-23T11:32:18.885101",
+  "package_url": "https://pypi.org/project/kombu-pyamqp-threadsafe/"
+}

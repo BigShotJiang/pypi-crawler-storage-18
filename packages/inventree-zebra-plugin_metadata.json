@@ -1,0 +1,11 @@
+{
+  "name": "inventree-zebra-plugin",
+  "version": "0.9.0",
+  "summary": "Zebra label printer plugin for InvenTree",
+  "author": "Michael Buchmann",
+  "license": "MIT",
+  "home_page": "https://github.com/SergeoLacruz/inventree-zebra-plugin",
+  "download_filename": "inventree_zebra_plugin-0.9.0.tar.gz",
+  "download_time": "2025-12-23T11:32:35.905639",
+  "package_url": "https://pypi.org/project/inventree-zebra-plugin/"
+}

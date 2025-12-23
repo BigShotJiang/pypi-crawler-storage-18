@@ -1,13 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-23T11:15:48.360752
-- **Total Packages**: 88
-- **Total Size**: 27.23 MB
+- **Download Time**: 2025-12-23T11:33:00.216868
+- **Total Packages**: 84
+- **Total Size**: 20.07 MB
 
 ## Packages List
-- tlg-canon
+- suricata-language-server
+- torchx-nightly
+- everycell
+- vellum-ai
+- dbt-airflow-factory
+- pypomes-core
+- laida-cli
+- kombu-pyamqp-threadsafe
+- pyb-assistent
+- imgforge
+- energy-base
+- redisbench-admin
+- torchft-nightly
+- feedback-mcp
+- syneto_api
+- geogee
+- tlg-indices
+- nougat-ocr-cli
+- sunbay-nexus-sdk
+- promptius-gui-schema
+- bayescoin
+- numchuck
+- datamarket
+- bitquery-pb2-kafka-package
+- vitoxreduce
+- xpander-sdk
+- checkpoint-engine
+- pyads-ipc-diag
+- CIFFile
+- stouputils
+- prometheus-distributed-client
+- chutes
+- pg-airman-mcp
+- acto-pytoolkit
+- fmtr.tools
 - wisent
+- airbornehrs
+- inventree-zebra-plugin
+- aiinbx
+- libtvdb
+- keplerio
+- viiv
+- develia-cytools
+- django-cfg
+- sql-infer
+- tf-keras-nightly
+- domoskanonos-python-starter
 - datahub_binary
 - rich-soup
 - ankiazvox
@@ -17,7 +62,6 @@
 - amsdal_cli
 - echoes-mcp-server
 - neuracore-types
-- feedback-mcp
 - openquake.gem-taxonomy-data
 - funfedi_runner
 - a2a-llm-tracker
@@ -28,7 +72,6 @@
 - esrf-statusgui
 - iwpc
 - django-formset
-- promptius-gui-schema
 - oarepo
 - genestore
 - klondike-spec-cli
@@ -47,50 +90,3 @@
 - mobiu-q
 - hfortix
 - pyhausbus
-- logged-example
-- mfusepy
-- smartXML
-- mas-cli
-- docker-image-exporter
-- locaria-integrated-testing
-- gemseo-http
-- rajdeepdf
-- localstack-core
-- nidx-binding
-- traia-iatp
-- nats-fasterapi
-- duplicaid
-- telelog-python
-- aqua-core
-- alibabacloud-eiam20211201
-- haralick-torch
-- smallcat
-- jdcat
-- weex-sdk
-- bubble-data-api-client
-- nvidia-nat-redis
-- contextmemory
-- nvidia-nat-data-flywheel
-- pose-estimation-recognition-utils-rtmlib
-- pysmarlaapi
-- nvidia-nat-semantic-kernel
-- emcfsys
-- evomotif
-- nvidia-nat-opentelemetry
-- preparse
-- nvidia-nat-openpipe-art
-- konduktor-nightly
-- gllm-core-binary
-- nvidia-nat-llama-index
-- mp4-py
-- nvidia-nat-mem0ai
-- matrice-compute
-- nvidia-nat-langchain
-- pyapu
-- nvidia-nat-phoenix
-- lightpdf-aipdf-backend
-- lightpdf-aipdf-mcp
-- tui-audioplayer
-- nvidia-nat-crewai
-- qrate
-- nvidia-nat-all

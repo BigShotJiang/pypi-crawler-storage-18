@@ -1,0 +1,11 @@
+{
+  "name": "laida-cli",
+  "version": "0.1.0b1",
+  "summary": "LAIDA v3 - Agent-executable software architecture methodology CLI",
+  "author": "LAIDA Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "laida_cli-0.1.0b1.tar.gz",
+  "download_time": "2025-12-23T11:32:18.307147",
+  "package_url": "https://pypi.org/project/laida-cli/"
+}
