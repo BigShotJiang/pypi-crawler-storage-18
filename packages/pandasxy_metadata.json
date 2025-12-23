@@ -1,0 +1,11 @@
+{
+  "name": "pandasxy",
+  "version": "1.0.0",
+  "summary": "A dynamic library for competitive programming with tree and graph algorithms",
+  "author": "pandasxy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandasxy-1.0.0.tar.gz",
+  "download_time": "2025-12-23T17:16:30.017414",
+  "package_url": "https://pypi.org/project/pandasxy/"
+}

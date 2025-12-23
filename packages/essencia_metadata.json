@@ -1,0 +1,11 @@
+{
+  "name": "essencia",
+  "version": "1.13.0",
+  "summary": "A comprehensive Python framework for building secure medical and business applications with advanced security features and Flet integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "essencia-1.13.0.tar.gz",
+  "download_time": "2025-12-23T17:16:26.937932",
+  "package_url": "https://pypi.org/project/essencia/"
+}

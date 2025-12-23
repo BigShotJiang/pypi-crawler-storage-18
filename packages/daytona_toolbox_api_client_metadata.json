@@ -1,11 +1,11 @@
 {
   "name": "daytona_toolbox_api_client",
-  "version": "0.128.0",
+  "version": "0.128.1",
   "summary": "Daytona Daemon API",
   "author": "OpenAPI Generator Community",
   "license": "Apache-2.0",
   "home_page": "https://github.com/daytonaio/daytona",
-  "download_filename": "daytona_toolbox_api_client-0.128.0.tar.gz",
-  "download_time": "2025-12-23T14:45:56.361576",
+  "download_filename": "daytona_toolbox_api_client-0.128.1.tar.gz",
+  "download_time": "2025-12-23T17:16:49.129113",
   "package_url": "https://pypi.org/project/daytona_toolbox_api_client/"
 }
