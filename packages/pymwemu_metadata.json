@@ -1,11 +1,11 @@
 {
   "name": "pymwemu",
-  "version": "0.10.1",
+  "version": "0.10.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymwemu-0.10.1.tar.gz",
-  "download_time": "2025-12-21T19:49:05.750085",
+  "download_filename": "pymwemu-0.10.4.tar.gz",
+  "download_time": "2025-12-23T10:47:03.933277",
   "package_url": "https://pypi.org/project/pymwemu/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-rsm",
+  "version": "0.2.3",
+  "summary": "RSM grammar for tree-sitter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_rsm-0.2.3.tar.gz",
+  "download_time": "2025-12-23T10:47:00.951921",
+  "package_url": "https://pypi.org/project/tree-sitter-rsm/"
+}

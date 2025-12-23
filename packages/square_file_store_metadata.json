@@ -1,0 +1,11 @@
+{
+  "name": "square_file_store",
+  "version": "2.4.0",
+  "summary": "file storage layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_file_store-2.4.0.tar.gz",
+  "download_time": "2025-12-23T10:47:50.694488",
+  "package_url": "https://pypi.org/project/square_file_store/"
+}

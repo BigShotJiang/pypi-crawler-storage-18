@@ -1,0 +1,11 @@
+{
+  "name": "flask-chameleon",
+  "version": "0.0.2",
+  "summary": "Flask extension to use Chameleon templates.",
+  "author": "Jan Murre",
+  "license": "MIT",
+  "home_page": "http://github.com/jjmurre/flask-chameleon",
+  "download_filename": "flask_chameleon-0.0.2.tar.gz",
+  "download_time": "2025-12-23T10:47:48.877524",
+  "package_url": "https://pypi.org/project/flask-chameleon/"
+}

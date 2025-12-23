@@ -1,11 +1,11 @@
 {
   "name": "constcheck",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "summary": "Check Python files for repeat use of strings",
   "author": "jshwi",
   "license": "MIT",
   "home_page": "https://pypi.org/project/constcheck/",
-  "download_filename": "constcheck-0.12.0.tar.gz",
-  "download_time": "2025-12-21T04:48:30.046701",
+  "download_filename": "constcheck-0.13.0.tar.gz",
+  "download_time": "2025-12-23T10:47:07.123006",
   "package_url": "https://pypi.org/project/constcheck/"
 }
