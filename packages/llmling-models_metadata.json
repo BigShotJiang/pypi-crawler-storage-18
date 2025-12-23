@@ -1,0 +1,11 @@
+{
+  "name": "llmling-models",
+  "version": "1.4.1",
+  "summary": "Pydantic-AI models for AgentPool",
+  "author": "Philipp Temminghoff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmling_models-1.4.1.tar.gz",
+  "download_time": "2025-12-23T19:41:02.434502",
+  "package_url": "https://pypi.org/project/llmling-models/"
+}
