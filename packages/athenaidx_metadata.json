@@ -1,11 +1,11 @@
 {
   "name": "athenaidx",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "This package provides an interface to interact with AthenaIDX interface via Selenium",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "athenaidx-0.1.0.tar.gz",
-  "download_time": "2025-12-23T20:16:39.334882",
+  "download_filename": "athenaidx-0.1.2.tar.gz",
+  "download_time": "2025-12-23T20:43:24.520528",
   "package_url": "https://pypi.org/project/athenaidx/"
 }

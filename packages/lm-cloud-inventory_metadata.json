@@ -1,0 +1,11 @@
+{
+  "name": "lm-cloud-inventory",
+  "version": "2.0.0",
+  "summary": "Cloud resource inventory collection for LogicMonitor licensing",
+  "author": "LogicMonitor",
+  "license": "MIT",
+  "home_page": "https://github.com/logicmonitor/lm-cloud-resource-inventory",
+  "download_filename": "lm_cloud_inventory-2.0.0.tar.gz",
+  "download_time": "2025-12-23T20:43:17.694043",
+  "package_url": "https://pypi.org/project/lm-cloud-inventory/"
+}

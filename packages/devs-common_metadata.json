@@ -1,11 +1,11 @@
 {
   "name": "devs-common",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Shared utilities for devs package ecosystem",
   "author": "Dan Lester",
   "license": null,
   "home_page": null,
-  "download_filename": "devs_common-0.1.6.tar.gz",
-  "download_time": "2025-12-23T12:32:09.425553",
+  "download_filename": "devs_common-0.1.7.tar.gz",
+  "download_time": "2025-12-23T20:43:14.752515",
   "package_url": "https://pypi.org/project/devs-common/"
 }

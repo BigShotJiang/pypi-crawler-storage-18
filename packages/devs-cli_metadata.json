@@ -1,11 +1,11 @@
 {
   "name": "devs-cli",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "DevContainer Management Tool - Manage multiple named devcontainers for any project",
   "author": "Dan Lester",
   "license": null,
   "home_page": null,
-  "download_filename": "devs_cli-0.1.6.tar.gz",
-  "download_time": "2025-12-23T12:32:08.847782",
+  "download_filename": "devs_cli-0.1.7.tar.gz",
+  "download_time": "2025-12-23T20:43:14.167467",
   "package_url": "https://pypi.org/project/devs-cli/"
 }

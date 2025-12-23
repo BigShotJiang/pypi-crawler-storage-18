@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-23T20:17:23.463982
-- **Total Packages**: 86
-- **Total Size**: 32.28 MB
+- **Download Time**: 2025-12-23T20:43:55.160486
+- **Total Packages**: 81
+- **Total Size**: 18.97 MB
 
 ## Packages List
+- nifti2bids
+- turbopdf
+- vital
+- ouster-sdk
+- cumulus-library
+- rotools
+- stinger-python-utils
+- digitalarzengine
+- pyadb-client
+- streamlit-fhir-questionnaire
+- padmy
+- devs-webhook
+- devs-cli
+- devs-common
+- dns-benchmark-tool
+- wnnet
+- getdc
+- lm-cloud-inventory
+- js-api
+- delete-me-discord
+- pyqttier
+- rtflite
 - grouped-mm-bf16
 - js-python-starter
 - home-assistant-streamdeck-yaml
@@ -45,7 +67,6 @@
 - vellum-workflow-server
 - odoo-addon-sale-stock-reference-by-line
 - jupyter-Pandas-GUI
-- js-api
 - cellmap-data
 - ridescanapi
 - pyfasthttp
@@ -56,7 +77,6 @@
 - purefn
 - g4f
 - grapes-ecs
-- wnnet
 - aeg
 - aip-agents-binary
 - nestbox-ai-functions
@@ -67,28 +87,3 @@
 - aiohomematic-test-support
 - aiohomematic
 - pytrivialsql
-- turbopdf
-- exxec
-- musicdl
-- kconfigstyle
-- collectionss
-- dorc-client
-- orq-ai-sdk
-- blues-lib
-- aria2tui
-- umlextensions
-- livekit-plugins-xai
-- livekit-plugins-upliftai
-- livekit-plugins-ultravox
-- tt-tools-common
-- livekit-plugins-turn-detector
-- livekit-plugins-tavus
-- livekit-plugins-spitch
-- livekit-plugins-speechmatics
-- livekit-plugins-speechify
-- livekit-plugins-soniox
-- livekit-plugins-smallestai
-- livekit-plugins-simli
-- pypeline-cli
-- livekit-plugins-silero
-- livekit-plugins-sarvam
