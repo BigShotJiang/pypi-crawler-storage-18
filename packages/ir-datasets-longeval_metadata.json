@@ -1,0 +1,11 @@
+{
+  "name": "ir-datasets-longeval",
+  "version": "0.0.11",
+  "summary": "Extension for accessing the LongEval test collections via ir_datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ir_datasets_longeval-0.0.11.tar.gz",
+  "download_time": "2025-12-23T11:50:40.835528",
+  "package_url": "https://pypi.org/project/ir-datasets-longeval/"
+}

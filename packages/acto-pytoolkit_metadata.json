@@ -1,11 +1,11 @@
 {
   "name": "acto-pytoolkit",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A collection of helper utilities for Python projects.",
   "author": "pytoolkit contributors",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "acto_pytoolkit-0.3.1.tar.gz",
-  "download_time": "2025-12-23T11:32:33.720974",
+  "download_filename": "acto_pytoolkit-0.4.0.tar.gz",
+  "download_time": "2025-12-23T11:51:00.196072",
   "package_url": "https://pypi.org/project/acto-pytoolkit/"
 }

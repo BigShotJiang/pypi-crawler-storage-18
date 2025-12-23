@@ -1,0 +1,11 @@
+{
+  "name": "ribasim-api",
+  "version": "2025.6.0",
+  "summary": "Python bindings for libribasim",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ribasim_api-2025.6.0.tar.gz",
+  "download_time": "2025-12-23T11:50:20.406789",
+  "package_url": "https://pypi.org/project/ribasim-api/"
+}

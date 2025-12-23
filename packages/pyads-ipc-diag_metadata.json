@@ -1,11 +1,11 @@
 {
   "name": "pyads-ipc-diag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Read Beckhoff IPC Diagnostics via ADS using pyads",
   "author": "Teemu Vartiainen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyads_ipc_diag-0.1.0.tar.gz",
-  "download_time": "2025-12-23T11:32:30.653428",
+  "download_filename": "pyads_ipc_diag-0.1.1.tar.gz",
+  "download_time": "2025-12-23T11:51:05.572861",
   "package_url": "https://pypi.org/project/pyads-ipc-diag/"
 }

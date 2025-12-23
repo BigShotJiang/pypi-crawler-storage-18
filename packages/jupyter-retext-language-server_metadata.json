@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-retext-language-server",
+  "version": "1.0.0.post2",
+  "summary": "A language server for Markdown documents that supports retext plugins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyter_retext_language_server-1.0.0.post2.tar.gz",
+  "download_time": "2025-12-23T11:50:48.942609",
+  "package_url": "https://pypi.org/project/jupyter-retext-language-server/"
+}
