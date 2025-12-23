@@ -1,0 +1,11 @@
+{
+  "name": "pkbrokers",
+  "version": "0.1.20251223.36",
+  "summary": "A Python-based stock broker module",
+  "author": "pkjmesra",
+  "license": "OSI Approved (MIT)",
+  "home_page": "https://github.com/pkjmesra/pkbrokers",
+  "download_filename": "pkbrokers-0.1.20251223.36-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-12-23T09:35:28.994542",
+  "package_url": "https://pypi.org/project/pkbrokers/"
+}
