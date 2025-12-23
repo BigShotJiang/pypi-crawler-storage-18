@@ -1,0 +1,11 @@
+{
+  "name": "eip712",
+  "version": "0.3.1",
+  "summary": "eip712: Message classes for typed structured data hashing and signing in Ethereum",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eip712-0.3.1.tar.gz",
+  "download_time": "2025-12-23T04:50:29.543195",
+  "package_url": "https://pypi.org/project/eip712/"
+}

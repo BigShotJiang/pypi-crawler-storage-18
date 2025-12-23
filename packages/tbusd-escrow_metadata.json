@@ -1,0 +1,11 @@
+{
+  "name": "tbusd-escrow",
+  "version": "0.1.0",
+  "summary": "Trustless escrow API for crypto payments - programmatic smart contract escrow on Base",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tbusd_escrow-0.1.0.tar.gz",
+  "download_time": "2025-12-23T04:50:19.423422",
+  "package_url": "https://pypi.org/project/tbusd-escrow/"
+}

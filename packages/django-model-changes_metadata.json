@@ -1,0 +1,11 @@
+{
+  "name": "django-model-changes",
+  "version": "1.0.3",
+  "summary": "Track model instance changes in Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_model_changes-1.0.3.tar.gz",
+  "download_time": "2025-12-23T04:50:05.836109",
+  "package_url": "https://pypi.org/project/django-model-changes/"
+}

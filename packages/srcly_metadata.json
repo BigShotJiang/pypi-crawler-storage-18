@@ -1,11 +1,11 @@
 {
   "name": "srcly",
-  "version": "0.1.27",
+  "version": "0.1.29",
   "summary": "Interactive codebase treemap and metrics viewer.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "srcly-0.1.27.tar.gz",
-  "download_time": "2025-12-21T05:15:47.398259",
+  "download_filename": "srcly-0.1.29.tar.gz",
+  "download_time": "2025-12-23T04:50:12.113681",
   "package_url": "https://pypi.org/project/srcly/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "machineid-io",
+  "version": "0.1.5",
+  "summary": "Official Python SDK for the MachineID.io API",
+  "author": "MachineID.io",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "machineid_io-0.1.5.tar.gz",
+  "download_time": "2025-12-23T04:50:25.804082",
+  "package_url": "https://pypi.org/project/machineid-io/"
+}

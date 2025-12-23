@@ -1,0 +1,11 @@
+{
+  "name": "pvxslibs",
+  "version": "1.4.1",
+  "summary": "PVXS libraries packaged for python",
+  "author": "Michael Davidsaver",
+  "license": "BSD",
+  "home_page": "https://epics-base.github.io/pvxs",
+  "download_filename": "pvxslibs-1.4.1.tar.gz",
+  "download_time": "2025-12-23T04:50:09.275677",
+  "package_url": "https://pypi.org/project/pvxslibs/"
+}

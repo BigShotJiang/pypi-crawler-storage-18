@@ -1,11 +1,11 @@
 {
   "name": "BoschRpaMagicBox",
-  "version": "0.2.110",
+  "version": "0.2.111",
   "summary": "This package is used for building automation functions for rpa within Bosch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boschrpamagicbox-0.2.110.tar.gz",
-  "download_time": "2025-12-23T04:07:46.906925",
+  "download_filename": "boschrpamagicbox-0.2.111.tar.gz",
+  "download_time": "2025-12-23T04:50:30.575336",
   "package_url": "https://pypi.org/project/BoschRpaMagicBox/"
 }

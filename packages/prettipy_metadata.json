@@ -1,0 +1,11 @@
+{
+  "name": "prettipy",
+  "version": "0.1.5",
+  "summary": "Convert Python code to beautifully formatted, syntax-highlighted PDFs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prettipy-0.1.5.tar.gz",
+  "download_time": "2025-12-23T04:50:34.760027",
+  "package_url": "https://pypi.org/project/prettipy/"
+}
