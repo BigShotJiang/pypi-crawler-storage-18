@@ -1,11 +1,11 @@
 {
   "name": "chronos-security",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "CHRONOS: Comprehensive Security Scanning and Vulnerability Management Platform",
   "author": "CHRONOS Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/CHRONOS",
-  "download_filename": "chronos_security-1.0.7.tar.gz",
-  "download_time": "2025-12-23T21:50:20.491465",
+  "download_filename": "chronos_security-1.0.8.tar.gz",
+  "download_time": "2025-12-23T22:36:29.702778",
   "package_url": "https://pypi.org/project/chronos-security/"
 }
