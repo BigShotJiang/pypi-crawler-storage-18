@@ -1,11 +1,11 @@
 {
   "name": "bhh",
-  "version": "0.3.4",
-  "summary": "---BHH---",
+  "version": "0.3.9",
+  "summary": "BHH - BHH - A Python toolbox for hashing, web search, games, and simple HTTP server",
   "author": "Aria",
   "license": "BHAP",
   "home_page": null,
-  "download_filename": "bhh-0.3.4.tar.gz",
-  "download_time": "2025-12-23T08:52:39.947688",
+  "download_filename": "bhh-0.3.9.tar.gz",
+  "download_time": "2025-12-23T13:52:52.085440",
   "package_url": "https://pypi.org/project/bhh/"
 }

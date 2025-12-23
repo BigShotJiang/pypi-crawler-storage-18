@@ -1,0 +1,11 @@
+{
+  "name": "jfrog-curation-malicious-dummy-hash",
+  "version": "2.0.1",
+  "summary": "Jfrog Curation dummy malicious package",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "jfrog_curation_malicious_dummy_hash-2.0.1.tar.gz",
+  "download_time": "2025-12-23T13:53:09.189717",
+  "package_url": "https://pypi.org/project/jfrog-curation-malicious-dummy-hash/"
+}
