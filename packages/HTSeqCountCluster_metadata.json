@@ -1,0 +1,11 @@
+{
+  "name": "HTSeqCountCluster",
+  "version": "1.5",
+  "summary": "A cli for running multiple pbs/qsub jobs with HTSeq's htseq-count script on a cluster.",
+  "author": "Shaurita Hutchins & Robert Gilmore",
+  "license": "MIT",
+  "home_page": "https://github.com/datasnakes/htseq-count-cluster",
+  "download_filename": "htseqcountcluster-1.5.tar.gz",
+  "download_time": "2025-12-23T05:20:04.802109",
+  "package_url": "https://pypi.org/project/HTSeqCountCluster/"
+}

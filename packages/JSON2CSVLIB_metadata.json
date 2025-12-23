@@ -1,0 +1,11 @@
+{
+  "name": "JSON2CSVLIB",
+  "version": "1.0.0",
+  "summary": "A professional JSON to CSV conversion library",
+  "author": "Manu c",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/json2csv-pro",
+  "download_filename": "json2csvlib-1.0.0.tar.gz",
+  "download_time": "2025-12-23T05:19:56.409690",
+  "package_url": "https://pypi.org/project/JSON2CSVLIB/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inventree-kicad-plugin",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "KiCad HTTP library plugin for InvenTree",
   "author": "Andre Iwers",
   "license": "MIT",
   "home_page": "https://github.com/afkiwers/inventree_kicad",
-  "download_filename": "inventree_kicad_plugin-2.0.2.tar.gz",
-  "download_time": "2025-12-23T04:50:23.646461",
+  "download_filename": "inventree_kicad_plugin-2.0.3.tar.gz",
+  "download_time": "2025-12-23T05:20:02.174548",
   "package_url": "https://pypi.org/project/inventree-kicad-plugin/"
 }
