@@ -1,0 +1,11 @@
+{
+  "name": "genestore",
+  "version": "0.11.0",
+  "summary": "Python bindings for genegraph-storage. Store your numpy data in Lance format",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/tuned-org-uk/pygenestore",
+  "download_filename": "genestore-0.11.0.tar.gz",
+  "download_time": "2025-12-23T11:15:14.198586",
+  "package_url": "https://pypi.org/project/genestore/"
+}

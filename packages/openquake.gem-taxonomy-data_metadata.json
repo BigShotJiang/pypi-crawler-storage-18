@@ -1,0 +1,11 @@
+{
+  "name": "openquake.gem-taxonomy-data",
+  "version": "1.4.3",
+  "summary": "Openquake Gem Taxonomy Data - taxonomy data and python classes to access it.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openquake_gem_taxonomy_data-1.4.3.tar.gz",
+  "download_time": "2025-12-23T11:15:07.422493",
+  "package_url": "https://pypi.org/project/openquake.gem-taxonomy-data/"
+}

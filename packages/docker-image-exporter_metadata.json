@@ -1,0 +1,11 @@
+{
+  "name": "docker-image-exporter",
+  "version": "1.0.0",
+  "summary": "Export and import Docker images between machines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_image_exporter-1.0.0.tar.gz",
+  "download_time": "2025-12-23T11:15:25.229282",
+  "package_url": "https://pypi.org/project/docker-image-exporter/"
+}
