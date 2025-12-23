@@ -1,0 +1,11 @@
+{
+  "name": "cortexa-sdk-duan",
+  "version": "0.1.0",
+  "summary": "User-side Python SDK for downloading datasets and assets from Cortexa. Now use 'annotation_type' parameter (rect, polygon) for YOLO.",
+  "author": "Cortexa",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortexa_sdk_duan-0.1.0.tar.gz",
+  "download_time": "2025-12-23T06:56:07.654560",
+  "package_url": "https://pypi.org/project/cortexa-sdk-duan/"
+}

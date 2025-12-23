@@ -1,0 +1,11 @@
+{
+  "name": "csm-dashboard",
+  "version": "0.3.2",
+  "summary": "Lido CSM Operator Dashboard for tracking validator earnings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csm_dashboard-0.3.2.tar.gz",
+  "download_time": "2025-12-23T06:56:08.179379",
+  "package_url": "https://pypi.org/project/csm-dashboard/"
+}

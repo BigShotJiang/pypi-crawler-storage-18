@@ -1,0 +1,11 @@
+{
+  "name": "linker-atom",
+  "version": "0.0.43",
+  "summary": "linker fastapi atom",
+  "author": "hanyu",
+  "license": "MIT",
+  "home_page": "https://git.linker.cc/research/common/linker_atom",
+  "download_filename": "linker_atom-0.0.43.tar.gz",
+  "download_time": "2025-12-23T06:56:03.966387",
+  "package_url": "https://pypi.org/project/linker-atom/"
+}

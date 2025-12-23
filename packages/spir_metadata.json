@@ -1,11 +1,11 @@
 {
   "name": "spir",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Intermediate representation and converters for protein folding model inputs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spir-0.2.0.tar.gz",
-  "download_time": "2025-12-23T05:47:01.289587",
+  "download_filename": "spir-0.3.0.tar.gz",
+  "download_time": "2025-12-23T06:56:34.773107",
   "package_url": "https://pypi.org/project/spir/"
 }

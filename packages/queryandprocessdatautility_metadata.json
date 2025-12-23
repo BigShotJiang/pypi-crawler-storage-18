@@ -1,0 +1,11 @@
+{
+  "name": "queryandprocessdatautility",
+  "version": "0.0.81",
+  "summary": "Resolved the issue where proper exceptions were not being returned from Python and were not displayed correctly in the frontend.",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "queryandprocessdatautility-0.0.81-py3-none-any.whl",
+  "download_time": "2025-12-23T06:56:32.145168",
+  "package_url": "https://pypi.org/project/queryandprocessdatautility/"
+}

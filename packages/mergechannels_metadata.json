@@ -1,0 +1,11 @@
+{
+  "name": "mergechannels",
+  "version": "0.5.2",
+  "summary": "Apply and merge colormaps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mergechannels-0.5.2.tar.gz",
+  "download_time": "2025-12-23T06:56:33.191684",
+  "package_url": "https://pypi.org/project/mergechannels/"
+}

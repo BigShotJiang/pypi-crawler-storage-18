@@ -1,11 +1,11 @@
 {
   "name": "pyridescence",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "3D visualization library for rapid prototyping of 3D algorithms",
   "author": "Kenji Koide",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyridescence-0.1.8.tar.gz",
-  "download_time": "2025-12-21T07:48:21.736243",
+  "download_filename": "pyridescence-0.1.9.tar.gz",
+  "download_time": "2025-12-23T06:56:39.965105",
   "package_url": "https://pypi.org/project/pyridescence/"
 }

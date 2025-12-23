@@ -1,0 +1,11 @@
+{
+  "name": "flotorch",
+  "version": "3.0.0",
+  "summary": "A modular Python framework for AI agents and LLM interactions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flotorch-3.0.0.tar.gz",
+  "download_time": "2025-12-23T06:56:14.467281",
+  "package_url": "https://pypi.org/project/flotorch/"
+}

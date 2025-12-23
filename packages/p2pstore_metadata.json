@@ -1,0 +1,11 @@
+{
+  "name": "p2pstore",
+  "version": "0.1.7.post1",
+  "summary": "P2P Store - 基于 RDMA 的高性能分布式数据传输系统, 增加 delete-prefix",
+  "author": "Paddle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p2pstore-0.1.7.post1.tar.gz",
+  "download_time": "2025-12-23T06:56:41.007140",
+  "package_url": "https://pypi.org/project/p2pstore/"
+}

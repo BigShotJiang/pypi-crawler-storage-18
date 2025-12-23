@@ -1,11 +1,11 @@
 {
   "name": "ethswarm-deployments",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python library for managing Ethswarm smart contract deployment data across all versions and networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ethswarm_deployments-0.1.0.tar.gz",
-  "download_time": "2025-12-23T06:25:23.625828",
+  "download_filename": "ethswarm_deployments-0.1.2.tar.gz",
+  "download_time": "2025-12-23T06:56:14.986762",
   "package_url": "https://pypi.org/project/ethswarm-deployments/"
 }
