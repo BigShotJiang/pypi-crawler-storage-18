@@ -1,11 +1,11 @@
 {
   "name": "getdc",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Library of tools for fetching and parsing x509 certificate from DNS and LDAP",
   "author": "Alan Viars",
   "license": null,
-  "home_page": "https://gitbub.com/transparenthealth/getdc",
-  "download_filename": "getdc-0.2.0.tar.gz",
-  "download_time": "2025-12-23T16:21:11.102471",
+  "home_page": "https://github.com/transparenthealth/getdc",
+  "download_filename": "getdc-0.2.2.tar.gz",
+  "download_time": "2025-12-23T19:50:16.451018",
   "package_url": "https://pypi.org/project/getdc/"
 }

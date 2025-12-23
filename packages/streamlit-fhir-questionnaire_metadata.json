@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-fhir-questionnaire",
+  "version": "0.1.0",
+  "summary": "Streamlit component for rendering FHIR Questionnaires and capturing user responses as FHIR QuestionnaireResponses.",
+  "author": "Axel Vanraes",
+  "license": "MIT",
+  "home_page": "https://github.com/Tiro-health/streamlit-atticus-filler",
+  "download_filename": "streamlit_fhir_questionnaire-0.1.0.tar.gz",
+  "download_time": "2025-12-23T19:50:34.256345",
+  "package_url": "https://pypi.org/project/streamlit-fhir-questionnaire/"
+}
