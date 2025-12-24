@@ -1,0 +1,11 @@
+{
+  "name": "pythen",
+  "version": "0.1.0",
+  "summary": "A flexible framework for legal reasoning in Python",
+  "author": "PYTHEN Contributors",
+  "license": null,
+  "home_page": "https://github.com/nguyenthanhasia/pythen",
+  "download_filename": "pythen-0.1.0.tar.gz",
+  "download_time": "2025-12-24T07:54:54.374073",
+  "package_url": "https://pypi.org/project/pythen/"
+}

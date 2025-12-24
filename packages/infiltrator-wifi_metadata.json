@@ -1,0 +1,11 @@
+{
+  "name": "infiltrator-wifi",
+  "version": "1.1.2",
+  "summary": "WiFi Red Team Auditing Suite - Professional penetration testing framework",
+  "author": "LAKSHMIKANTHAN K",
+  "license": "MIT",
+  "home_page": "https://github.com/letchupkt/infiltrator",
+  "download_filename": "infiltrator_wifi-1.1.2.tar.gz",
+  "download_time": "2025-12-24T07:54:47.517403",
+  "package_url": "https://pypi.org/project/infiltrator-wifi/"
+}

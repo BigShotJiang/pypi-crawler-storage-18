@@ -1,11 +1,11 @@
 {
   "name": "adaptivegraph",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Learnable conditional edges for agentic workflows using contextual bandits",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adaptivegraph-0.1.1.tar.gz",
-  "download_time": "2025-12-24T07:43:36.185757",
+  "download_filename": "adaptivegraph-0.1.2.tar.gz",
+  "download_time": "2025-12-24T07:55:26.904908",
   "package_url": "https://pypi.org/project/adaptivegraph/"
 }

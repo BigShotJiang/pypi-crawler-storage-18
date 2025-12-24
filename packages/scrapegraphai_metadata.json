@@ -1,11 +1,11 @@
 {
   "name": "scrapegraphai",
-  "version": "1.68.0",
+  "version": "1.69.0",
   "summary": "A web scraping library based on LangChain which uses LLM and direct graph logic to create scraping pipelines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrapegraphai-1.68.0.tar.gz",
-  "download_time": "2025-12-23T07:44:12.446466",
+  "download_filename": "scrapegraphai-1.69.0.tar.gz",
+  "download_time": "2025-12-24T07:55:19.609379",
   "package_url": "https://pypi.org/project/scrapegraphai/"
 }

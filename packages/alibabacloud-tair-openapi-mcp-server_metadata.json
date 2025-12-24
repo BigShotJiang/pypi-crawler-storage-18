@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-tair-openapi-mcp-server",
+  "version": "0.0.1",
+  "summary": "MCP server for managing Alibaba Cloud R-KVStore (Tair/Redis) via OpenAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alibabacloud_tair_openapi_mcp_server-0.0.1.tar.gz",
+  "download_time": "2025-12-24T07:54:56.436982",
+  "package_url": "https://pypi.org/project/alibabacloud-tair-openapi-mcp-server/"
+}
