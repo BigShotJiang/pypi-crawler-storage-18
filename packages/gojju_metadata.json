@@ -1,11 +1,11 @@
 {
   "name": "gojju",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A programming language combining the best of Python, Ruby, Haskell, Perl, and JavaScript",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gojju-0.1.1.tar.gz",
-  "download_time": "2025-12-24T08:22:15.590101",
+  "download_filename": "gojju-0.1.3.tar.gz",
+  "download_time": "2025-12-24T08:51:52.205445",
   "package_url": "https://pypi.org/project/gojju/"
 }

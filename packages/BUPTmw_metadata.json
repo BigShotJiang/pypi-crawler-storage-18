@@ -1,11 +1,11 @@
 {
   "name": "BUPTmw",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Help BUPT students access school system with python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buptmw-0.2.1.tar.gz",
-  "download_time": "2025-12-21T10:51:16.475280",
+  "download_filename": "buptmw-0.2.2.tar.gz",
+  "download_time": "2025-12-24T08:52:17.302831",
   "package_url": "https://pypi.org/project/BUPTmw/"
 }

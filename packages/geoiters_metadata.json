@@ -1,11 +1,11 @@
 {
   "name": "geoiters",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python package for geospatial iteration utilities",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "geoiters-0.3.0.tar.gz",
-  "download_time": "2025-12-24T08:22:17.886602",
+  "download_filename": "geoiters-0.3.1.tar.gz",
+  "download_time": "2025-12-24T08:52:15.642776",
   "package_url": "https://pypi.org/project/geoiters/"
 }

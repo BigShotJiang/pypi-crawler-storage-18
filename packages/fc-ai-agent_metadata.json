@@ -1,0 +1,11 @@
+{
+  "name": "fc-ai-agent",
+  "version": "0.8.7",
+  "summary": null,
+  "author": "Larry Shen",
+  "license": "MIT",
+  "home_page": "https://fc.readthedocs.io/",
+  "download_filename": "fc_ai_agent-0.8.7.tar.gz",
+  "download_time": "2025-12-24T08:52:27.696023",
+  "package_url": "https://pypi.org/project/fc-ai-agent/"
+}

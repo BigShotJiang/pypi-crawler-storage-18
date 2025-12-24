@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-eiam20211201",
-  "version": "2.7.1",
+  "version": "2.8.0",
   "summary": "Alibaba Cloud Eiam (20211201) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_eiam20211201-2.7.1.tar.gz",
-  "download_time": "2025-12-23T11:15:32.008598",
+  "download_filename": "alibabacloud_eiam20211201-2.8.0.tar.gz",
+  "download_time": "2025-12-24T08:51:58.550308",
   "package_url": "https://pypi.org/project/alibabacloud-eiam20211201/"
 }

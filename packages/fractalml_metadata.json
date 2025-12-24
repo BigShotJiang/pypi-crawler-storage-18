@@ -1,0 +1,11 @@
+{
+  "name": "fractalml",
+  "version": "1.0.0",
+  "summary": "FRACTAL: Framework for Representation-guided Atomic ConsTruction & ALignment - A protein structure prediction system",
+  "author": "Aayan Mishra",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractalml-1.0.0.tar.gz",
+  "download_time": "2025-12-24T08:52:06.299034",
+  "package_url": "https://pypi.org/project/fractalml/"
+}

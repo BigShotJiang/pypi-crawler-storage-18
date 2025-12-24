@@ -1,0 +1,11 @@
+{
+  "name": "pyseekdb",
+  "version": "1.0.0b6",
+  "summary": "A unified Python client for SeekDB that supports embedded, server, and OceanBase.",
+  "author": "OceanBase",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/oceanbase/pyseekdb/",
+  "download_filename": "pyseekdb-1.0.0b6-py3-none-any.whl",
+  "download_time": "2025-12-24T08:51:59.604154",
+  "package_url": "https://pypi.org/project/pyseekdb/"
+}

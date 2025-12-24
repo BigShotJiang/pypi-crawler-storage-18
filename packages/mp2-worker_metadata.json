@@ -1,0 +1,11 @@
+{
+  "name": "mp2-worker",
+  "version": "0.1.1",
+  "summary": "Distributed worker for HuggingFace Space scheduling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mp2_worker-0.1.1.tar.gz",
+  "download_time": "2025-12-24T08:52:00.175926",
+  "package_url": "https://pypi.org/project/mp2-worker/"
+}

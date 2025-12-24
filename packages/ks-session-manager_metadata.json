@@ -1,0 +1,11 @@
+{
+  "name": "ks-session-manager",
+  "version": "0.12.0",
+  "summary": "KS session manager",
+  "author": "pylakey",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ks_session_manager-0.12.0.tar.gz",
+  "download_time": "2025-12-24T08:52:15.131875",
+  "package_url": "https://pypi.org/project/ks-session-manager/"
+}
