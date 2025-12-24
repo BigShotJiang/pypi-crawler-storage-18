@@ -1,11 +1,11 @@
 {
   "name": "pulumi-rancher2",
-  "version": "10.3.0",
+  "version": "11.0.0",
   "summary": "A Pulumi package for creating and managing rancher2 resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_rancher2-10.3.0.tar.gz",
-  "download_time": "2025-12-21T07:14:28.046426",
+  "download_filename": "pulumi_rancher2-11.0.0.tar.gz",
+  "download_time": "2025-12-24T17:51:09.040004",
   "package_url": "https://pypi.org/project/pulumi-rancher2/"
 }

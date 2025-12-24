@@ -1,0 +1,11 @@
+{
+  "name": "markus-exam-matcher",
+  "version": "0.3.0",
+  "summary": "A package for matching students to test papers in MarkUs",
+  "author": "Hannah Li, Anis Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markus_exam_matcher-0.3.0.tar.gz",
+  "download_time": "2025-12-24T17:51:15.733201",
+  "package_url": "https://pypi.org/project/markus-exam-matcher/"
+}

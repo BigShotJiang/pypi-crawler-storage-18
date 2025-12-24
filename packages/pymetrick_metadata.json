@@ -1,11 +1,11 @@
 {
   "name": "pymetrick",
-  "version": "0.80.8",
+  "version": "0.80.10",
   "summary": "Lightweight web framework",
   "author": "Fco. Javier Tamarit V",
   "license": "GNU/GPLv3",
   "home_page": "https://pythonhosted.org/pymetrick/",
-  "download_filename": "pymetrick-0.80.8.tar.gz",
-  "download_time": "2025-12-24T17:14:33.432123",
+  "download_filename": "pymetrick-0.80.10.tar.gz",
+  "download_time": "2025-12-24T17:51:02.270834",
   "package_url": "https://pypi.org/project/pymetrick/"
 }

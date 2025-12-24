@@ -1,0 +1,11 @@
+{
+  "name": "hatch-dotenv",
+  "version": "0.1.2",
+  "summary": "Hatch plugin that enables dotenv support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_dotenv-0.1.2.tar.gz",
+  "download_time": "2025-12-24T17:51:00.666897",
+  "package_url": "https://pypi.org/project/hatch-dotenv/"
+}
