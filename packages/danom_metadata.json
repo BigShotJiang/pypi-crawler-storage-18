@@ -1,11 +1,11 @@
 {
   "name": "danom",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Functional streams and monads",
   "author": "ed cuss",
   "license": null,
   "home_page": null,
-  "download_filename": "danom-0.7.0.tar.gz",
-  "download_time": "2025-12-21T16:16:58.658187",
+  "download_filename": "danom-0.8.0.tar.gz",
+  "download_time": "2025-12-24T18:23:12.882373",
   "package_url": "https://pypi.org/project/danom/"
 }

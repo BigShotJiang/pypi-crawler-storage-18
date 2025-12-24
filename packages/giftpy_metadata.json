@@ -1,11 +1,11 @@
 {
   "name": "giftpy",
-  "version": "3.1.8",
+  "version": "3.1.9",
   "summary": "GIFT mathematical core - Formally verified constants (Lean 4 + Coq)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "giftpy-3.1.8.tar.gz",
-  "download_time": "2025-12-22T17:14:32.258299",
+  "download_filename": "giftpy-3.1.9.tar.gz",
+  "download_time": "2025-12-24T18:22:45.040222",
   "package_url": "https://pypi.org/project/giftpy/"
 }

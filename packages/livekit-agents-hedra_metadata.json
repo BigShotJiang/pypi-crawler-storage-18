@@ -1,11 +1,11 @@
 {
   "name": "livekit-agents-hedra",
-  "version": "0.0.0",
-  "summary": "Dummy livekit-agents-hedra package for PyPI",
-  "author": null,
+  "version": "1.1.1",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_agents_hedra-0.0.0.tar.gz",
-  "download_time": "2025-12-24T17:50:47.523889",
+  "download_filename": "livekit_agents_hedra-1.1.1.tar.gz",
+  "download_time": "2025-12-24T18:23:14.432087",
   "package_url": "https://pypi.org/project/livekit-agents-hedra/"
 }

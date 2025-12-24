@@ -1,0 +1,11 @@
+{
+  "name": "pyascec",
+  "version": "3.0.0",
+  "summary": "This code explores the potential energy surface of atomic and molecular clusters using a modified Metropolis criterion and Markov chain. This Python implementation makes the workflow easier and more efficient.",
+  "author": "AndyDanian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyascec-3.0.0.tar.gz",
+  "download_time": "2025-12-24T18:23:10.793180",
+  "package_url": "https://pypi.org/project/pyascec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "powerball-quantum",
+  "version": "1.0.2",
+  "summary": "Powerball number predictor using quantum-inspired algorithm with momentum, mean reversion, and statistical filters",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "powerball_quantum-1.0.2.tar.gz",
+  "download_time": "2025-12-24T18:22:57.737065",
+  "package_url": "https://pypi.org/project/powerball-quantum/"
+}
