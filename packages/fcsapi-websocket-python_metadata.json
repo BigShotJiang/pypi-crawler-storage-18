@@ -1,11 +1,11 @@
 {
   "name": "fcsapi-websocket-python",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "summary": "Real-time WebSocket client for Python library for Forex, Cryptocurrency, and Stock market data from FCS API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fcsapi_websocket_python-4.0.0.tar.gz",
-  "download_time": "2025-12-24T12:31:19.612945",
+  "download_filename": "fcsapi_websocket_python-4.0.1.tar.gz",
+  "download_time": "2025-12-24T16:47:55.654515",
   "package_url": "https://pypi.org/project/fcsapi-websocket-python/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "texjam",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A scaffold for LaTeX templates.",
   "author": "Quaerent",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "texjam-0.3.0.tar.gz",
-  "download_time": "2025-12-23T18:53:15.790316",
+  "download_filename": "texjam-0.3.1.tar.gz",
+  "download_time": "2025-12-24T16:48:24.163709",
   "package_url": "https://pypi.org/project/texjam/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "homechart",
+  "version": "2025.12.24",
+  "summary": "Python library for interacting with the Homechart API",
+  "author": "Candid Development",
+  "license": null,
+  "home_page": "https://github.com/candiddev/homechart-python",
+  "download_filename": "homechart-2025.12.24.tar.gz",
+  "download_time": "2025-12-24T16:47:54.093440",
+  "package_url": "https://pypi.org/project/homechart/"
+}

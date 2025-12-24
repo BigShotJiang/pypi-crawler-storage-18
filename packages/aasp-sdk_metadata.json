@@ -1,0 +1,11 @@
+{
+  "name": "aasp-sdk",
+  "version": "0.1.0",
+  "summary": "AI Agent Security Platform SDK - Secure your LangChain agents with policy enforcement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aasp_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-24T16:48:04.531305",
+  "package_url": "https://pypi.org/project/aasp-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "marketforge",
+  "version": "1.0.0",
+  "summary": "A professional-grade synthetic OHLCV data generator",
+  "author": "REICHHART Damien",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/DamienReichhart/MarketForge",
+  "download_filename": "marketforge-1.0.0.tar.gz",
+  "download_time": "2025-12-24T16:48:25.730710",
+  "package_url": "https://pypi.org/project/marketforge/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "manimera",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "manimera-0.1.9.tar.gz",
-  "download_time": "2025-12-24T16:20:25.704239",
+  "download_filename": "manimera-0.1.10.tar.gz",
+  "download_time": "2025-12-24T16:48:01.394321",
   "package_url": "https://pypi.org/project/manimera/"
 }

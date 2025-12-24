@@ -1,0 +1,11 @@
+{
+  "name": "qfinlib",
+  "version": "2025.1224.1130",
+  "summary": "A comprehensive quantitative finance library",
+  "author": "qfinlib contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qfinlib-2025.1224.1130.tar.gz",
+  "download_time": "2025-12-24T16:47:53.573643",
+  "package_url": "https://pypi.org/project/qfinlib/"
+}

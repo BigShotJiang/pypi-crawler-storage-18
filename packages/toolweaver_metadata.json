@@ -1,11 +1,11 @@
 {
   "name": "toolweaver",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "Production-ready AI tool orchestration with dynamic discovery, semantic search, and workflow composition",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "toolweaver-0.5.0-py3-none-any.whl",
-  "download_time": "2025-12-24T16:19:44.003026",
+  "download_filename": "toolweaver-0.7.0.tar.gz",
+  "download_time": "2025-12-24T16:47:52.535926",
   "package_url": "https://pypi.org/project/toolweaver/"
 }

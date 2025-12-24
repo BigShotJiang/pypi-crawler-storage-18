@@ -1,0 +1,11 @@
+{
+  "name": "pitchlense-mcp-fastmcp",
+  "version": "1.1.17",
+  "summary": "Professional startup risk analysis using MCP and Google Gemini AI",
+  "author": "Aman Ulla",
+  "license": "MIT",
+  "home_page": "https://github.com/pitchlense/pitchlense-mcp",
+  "download_filename": "pitchlense_mcp_fastmcp-1.1.17.tar.gz",
+  "download_time": "2025-12-24T16:47:46.780714",
+  "package_url": "https://pypi.org/project/pitchlense-mcp-fastmcp/"
+}

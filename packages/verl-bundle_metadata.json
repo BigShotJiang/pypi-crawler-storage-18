@@ -1,0 +1,11 @@
+{
+  "name": "verl-bundle",
+  "version": "0.5.0.post1",
+  "summary": "verl: Volcano Engine Reinforcement Learning for LLM",
+  "author": "Bytedance - Seed - MLSys",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/volcengine/verl",
+  "download_filename": "verl_bundle-0.5.0.post1.tar.gz",
+  "download_time": "2025-12-24T16:47:52.013242",
+  "package_url": "https://pypi.org/project/verl-bundle/"
+}
