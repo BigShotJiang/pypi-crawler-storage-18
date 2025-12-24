@@ -1,8 +1,17 @@
 {
-  "download_time": "2025-12-24T19:29:04.656514",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 10.73,
+  "download_time": "2025-12-24T19:39:02.624540",
+  "total_packages_downloaded": 80,
+  "total_size_mb": 5.79,
   "packages": [
+    "util-rpa",
+    "qolsys-controller",
+    "mlleak",
+    "cycls",
+    "Flowfile",
+    "pygeai",
+    "cloudglue",
+    "range-merge",
+    "yamlscript",
     "hpc-mcp",
     "slip-plate",
     "spritepro",
@@ -73,11 +82,6 @@
     "ml-metadata-czgdp1807",
     "socolors",
     "kreuzberg",
-    "python-titans-miras",
-    "aitocoder",
-    "roboto",
-    "pyExpireBackups",
-    "pipelinescript",
-    "queuedir"
+    "python-titans-miras"
   ]
 }
