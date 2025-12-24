@@ -1,0 +1,11 @@
+{
+  "name": "anfis-toolbox",
+  "version": "0.2.0",
+  "summary": "ANFIS Toolbox is a comprehensive Python library for creating, training, and deploying Adaptive Neuro-Fuzzy Inference Systems (ANFIS). It provides an intuitive API that makes fuzzy neural networks accessible to both beginners and experts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anfis_toolbox-0.2.0.tar.gz",
+  "download_time": "2025-12-24T01:09:02.292419",
+  "package_url": "https://pypi.org/project/anfis-toolbox/"
+}

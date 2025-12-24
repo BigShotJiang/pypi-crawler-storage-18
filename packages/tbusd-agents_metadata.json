@@ -1,0 +1,11 @@
+{
+  "name": "tbusd-agents",
+  "version": "1.0.0",
+  "summary": "Python SDK for TBUSD Agent Marketplace - discover and claim bounties for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tbusd_agents-1.0.0.tar.gz",
+  "download_time": "2025-12-24T01:09:24.527589",
+  "package_url": "https://pypi.org/project/tbusd-agents/"
+}

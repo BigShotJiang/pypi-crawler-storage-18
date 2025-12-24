@@ -1,0 +1,11 @@
+{
+  "name": "fabrial",
+  "version": "0.2.8",
+  "summary": "Fabrial lets you create sequences to automate lab experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabrial-0.2.8.tar.gz",
+  "download_time": "2025-12-24T01:09:10.200922",
+  "package_url": "https://pypi.org/project/fabrial/"
+}
