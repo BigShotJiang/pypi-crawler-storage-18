@@ -1,0 +1,11 @@
+{
+  "name": "ezcord",
+  "version": "0.7.3",
+  "summary": "An easy-to-use extension for Discord.py and Pycord",
+  "author": "tibue99",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezcord-0.7.3.tar.gz",
+  "download_time": "2025-12-24T19:12:53.975991",
+  "package_url": "https://pypi.org/project/ezcord/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-core",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Deploy MCP servers in seconds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_core-0.2.3.tar.gz",
-  "download_time": "2025-12-24T18:51:42.343139",
+  "download_filename": "mcp_core-0.2.4.tar.gz",
+  "download_time": "2025-12-24T19:12:52.320466",
   "package_url": "https://pypi.org/project/mcp-core/"
 }

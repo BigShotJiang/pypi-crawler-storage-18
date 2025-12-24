@@ -1,0 +1,11 @@
+{
+  "name": "lm-notehub",
+  "version": "0.1.0",
+  "summary": "A note-taking tool integrated with GitHub issues",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lm_notehub-0.1.0.tar.gz",
+  "download_time": "2025-12-24T19:12:55.013508",
+  "package_url": "https://pypi.org/project/lm-notehub/"
+}
