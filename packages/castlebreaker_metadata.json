@@ -1,0 +1,11 @@
+{
+  "name": "castlebreaker",
+  "version": "1.0.0",
+  "summary": "Castle Breaker - Captcha solving service for Twitter/X account generation. Castle.io solver, ReCAPTCHA v3 bypass, TLS fingerprint bypass.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "castlebreaker-1.0.0.tar.gz",
+  "download_time": "2025-12-24T19:49:15.720990",
+  "package_url": "https://pypi.org/project/castlebreaker/"
+}
