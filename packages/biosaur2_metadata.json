@@ -1,0 +1,11 @@
+{
+  "name": "biosaur2",
+  "version": "0.2.34",
+  "summary": "A feature detection LC-MS1 spectra.",
+  "author": "Mark Ivanov",
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": null,
+  "download_filename": "biosaur2-0.2.34.tar.gz",
+  "download_time": "2025-12-24T14:16:28.886404",
+  "package_url": "https://pypi.org/project/biosaur2/"
+}

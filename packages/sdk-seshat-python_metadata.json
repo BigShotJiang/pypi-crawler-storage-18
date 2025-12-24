@@ -1,11 +1,11 @@
 {
   "name": "sdk-seshat-python",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "Seshat python SDK is a library to help create ML data pipelines.",
   "author": "SeshatLabs",
   "license": "Commercial - see LICENSE.txt",
   "home_page": null,
-  "download_filename": "sdk_seshat_python-0.5.4.tar.gz",
-  "download_time": "2025-12-24T13:10:59.743829",
+  "download_filename": "sdk_seshat_python-0.5.5.tar.gz",
+  "download_time": "2025-12-24T14:16:14.192427",
   "package_url": "https://pypi.org/project/sdk-seshat-python/"
 }

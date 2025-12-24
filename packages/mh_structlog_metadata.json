@@ -1,11 +1,11 @@
 {
   "name": "mh_structlog",
-  "version": "0.0.45",
+  "version": "0.0.46",
   "summary": "Some Structlog configuration and wrappers to easily use structlog.",
   "author": "Mathieu Hinderyckx",
   "license": null,
   "home_page": null,
-  "download_filename": "mh_structlog-0.0.45.tar.gz",
-  "download_time": "2025-12-21T13:51:15.229974",
+  "download_filename": "mh_structlog-0.0.46.tar.gz",
+  "download_time": "2025-12-24T14:16:12.629391",
   "package_url": "https://pypi.org/project/mh_structlog/"
 }

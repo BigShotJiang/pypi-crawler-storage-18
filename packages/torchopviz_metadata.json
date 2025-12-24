@@ -1,0 +1,11 @@
+{
+  "name": "torchopviz",
+  "version": "0.1.0",
+  "summary": "A small package to create visualizations of PyTorch operation execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchopviz-0.1.0.tar.gz",
+  "download_time": "2025-12-24T14:16:21.783676",
+  "package_url": "https://pypi.org/project/torchopviz/"
+}

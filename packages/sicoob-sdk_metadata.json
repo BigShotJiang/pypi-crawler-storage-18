@@ -1,11 +1,11 @@
 {
   "name": "sicoob-sdk",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": "A Python SDK for Sicoob API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sicoob_sdk-0.2.11.tar.gz",
-  "download_time": "2025-12-22T14:44:13.134869",
+  "download_filename": "sicoob_sdk-0.2.13.tar.gz",
+  "download_time": "2025-12-24T14:16:22.296765",
   "package_url": "https://pypi.org/project/sicoob-sdk/"
 }
