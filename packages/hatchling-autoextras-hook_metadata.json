@@ -1,0 +1,11 @@
+{
+  "name": "hatchling-autoextras-hook",
+  "version": "0.1.2",
+  "summary": "Hatchling metadata hook to generate all extras",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatchling_autoextras_hook-0.1.2.tar.gz",
+  "download_time": "2025-12-24T08:22:47.611723",
+  "package_url": "https://pypi.org/project/hatchling-autoextras-hook/"
+}

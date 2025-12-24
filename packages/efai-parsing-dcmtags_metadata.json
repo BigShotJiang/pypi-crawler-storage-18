@@ -1,0 +1,11 @@
+{
+  "name": "efai-parsing-dcmtags",
+  "version": "1.0.0",
+  "summary": "A package for handling DICOM tag extraction and batch merging",
+  "author": "Jocelyn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "efai_parsing_dcmtags-1.0.0.tar.gz",
+  "download_time": "2025-12-24T08:22:49.236559",
+  "package_url": "https://pypi.org/project/efai-parsing-dcmtags/"
+}

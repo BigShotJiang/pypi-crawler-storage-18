@@ -1,0 +1,11 @@
+{
+  "name": "arp-conformance",
+  "version": "0.2.6",
+  "summary": "Conformance testing CLI for the ARP Standard (v1).",
+  "author": "Agent Runtime Protocol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arp_conformance-0.2.6.tar.gz",
+  "download_time": "2025-12-24T08:22:33.063357",
+  "package_url": "https://pypi.org/project/arp-conformance/"
+}

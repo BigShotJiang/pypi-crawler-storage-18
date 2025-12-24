@@ -1,0 +1,11 @@
+{
+  "name": "wilco",
+  "version": "0.1.3",
+  "summary": "Serve React components from Python backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wilco-0.1.3.tar.gz",
+  "download_time": "2025-12-24T08:22:48.155741",
+  "package_url": "https://pypi.org/project/wilco/"
+}

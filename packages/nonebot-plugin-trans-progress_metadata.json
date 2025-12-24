@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-trans-progress",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "记录和管理漫画汉化组的工作进度",
   "author": "padoru233",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_trans_progress-0.3.1.tar.gz",
-  "download_time": "2025-12-24T07:55:13.401243",
+  "download_filename": "nonebot_plugin_trans_progress-0.3.2.tar.gz",
+  "download_time": "2025-12-24T08:22:24.457145",
   "package_url": "https://pypi.org/project/nonebot-plugin-trans-progress/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "structure-viewer",
+  "version": "1.0.0",
+  "summary": "A powerful CLI tool to visualize project directory structure with smart exclusions and multiple output formats",
+  "author": "Structure Viewer Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structure_viewer-1.0.0.tar.gz",
+  "download_time": "2025-12-24T08:22:56.369469",
+  "package_url": "https://pypi.org/project/structure-viewer/"
+}

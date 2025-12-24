@@ -1,0 +1,11 @@
+{
+  "name": "wittrans",
+  "version": "0.7.0",
+  "summary": "Search for translation strings in Linux distributions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wittrans-0.7.0.tar.gz",
+  "download_time": "2025-12-24T08:22:50.880786",
+  "package_url": "https://pypi.org/project/wittrans/"
+}

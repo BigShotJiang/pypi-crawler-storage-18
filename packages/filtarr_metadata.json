@@ -1,11 +1,11 @@
 {
   "name": "filtarr",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "A Python library to check release availability via Radarr/Sonarr search results",
   "author": "dabigc",
   "license": null,
   "home_page": null,
-  "download_filename": "filtarr-1.1.3.tar.gz",
-  "download_time": "2025-12-24T07:55:06.684049",
+  "download_filename": "filtarr-1.1.4.tar.gz",
+  "download_time": "2025-12-24T08:22:21.172290",
   "package_url": "https://pypi.org/project/filtarr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-demo-supine",
+  "version": "0.1.0",
+  "summary": "A demo MCP server for weather and basic tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_demo_supine-0.1.0.tar.gz",
+  "download_time": "2025-12-24T08:22:12.222659",
+  "package_url": "https://pypi.org/project/mcp-server-demo-supine/"
+}
