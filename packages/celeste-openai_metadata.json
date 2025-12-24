@@ -1,11 +1,11 @@
 {
   "name": "celeste-openai",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "OpenAI provider package for Celeste AI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "celeste_openai-0.3.3.tar.gz",
-  "download_time": "2025-12-22T17:50:54.395505",
+  "download_filename": "celeste_openai-0.3.6.tar.gz",
+  "download_time": "2025-12-24T13:44:38.348342",
   "package_url": "https://pypi.org/project/celeste-openai/"
 }

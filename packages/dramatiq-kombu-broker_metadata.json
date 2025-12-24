@@ -1,0 +1,11 @@
+{
+  "name": "dramatiq-kombu-broker",
+  "version": "0.3.0",
+  "summary": "Dramatiq Kombu-based broker",
+  "author": "spumer",
+  "license": null,
+  "home_page": "https://github.com/spumer/dramatiq-kombu-broker",
+  "download_filename": "dramatiq_kombu_broker-0.3.0.tar.gz",
+  "download_time": "2025-12-24T13:44:49.435855",
+  "package_url": "https://pypi.org/project/dramatiq-kombu-broker/"
+}

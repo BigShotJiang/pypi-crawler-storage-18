@@ -1,0 +1,11 @@
+{
+  "name": "greener-reporter",
+  "version": "0.12.1",
+  "summary": "Python binding for Greener Reporter",
+  "author": "cephei8",
+  "license": null,
+  "home_page": "https://greener.cephei8.dev",
+  "download_filename": "greener_reporter-0.12.1-py3-none-macosx_13_0_x86_64.whl",
+  "download_time": "2025-12-24T13:44:34.646043",
+  "package_url": "https://pypi.org/project/greener-reporter/"
+}

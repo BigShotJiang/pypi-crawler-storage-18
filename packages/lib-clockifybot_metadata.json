@@ -1,11 +1,11 @@
 {
   "name": "lib-clockifybot",
-  "version": "2.9.6",
+  "version": "2.9.7",
   "summary": null,
   "author": "retr0err0r - veininvein",
   "license": null,
   "home_page": null,
-  "download_filename": "lib_clockifybot-2.9.6.tar.gz",
-  "download_time": "2025-12-23T12:31:46.705952",
+  "download_filename": "lib_clockifybot-2.9.7.tar.gz",
+  "download_time": "2025-12-24T13:44:16.159677",
   "package_url": "https://pypi.org/project/lib-clockifybot/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ylapp-flutter-devkit",
+  "version": "0.0.2",
+  "summary": "Enterprise Flutter Code Generator complying with GetX, Dio, and MDC standards.",
+  "author": "APP Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ylapp_flutter_devkit-0.0.2.tar.gz",
+  "download_time": "2025-12-24T13:44:18.285476",
+  "package_url": "https://pypi.org/project/ylapp-flutter-devkit/"
+}

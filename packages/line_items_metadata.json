@@ -1,0 +1,11 @@
+{
+  "name": "line_items",
+  "version": "0.1.1",
+  "summary": "A set of line item calculation utilities for Artconomy.com.",
+  "author": "Fox Danger Piacenti <fox@artconomy.com>",
+  "license": "AGPL-3",
+  "home_page": null,
+  "download_filename": "line_items-0.1.1.tar.gz",
+  "download_time": "2025-12-24T13:44:16.677488",
+  "package_url": "https://pypi.org/project/line_items/"
+}
