@@ -1,0 +1,11 @@
+{
+  "name": "cvat-cli",
+  "version": "2.54.0",
+  "summary": "Command-line client for CVAT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvat_cli-2.54.0.tar.gz",
+  "download_time": "2025-12-24T21:14:39.436606",
+  "package_url": "https://pypi.org/project/cvat-cli/"
+}

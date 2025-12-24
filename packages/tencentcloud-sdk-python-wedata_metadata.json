@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-wedata",
-  "version": "3.1.17",
+  "version": "3.1.19",
   "summary": "Tencent Cloud Wedata SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_wedata-3.1.17.tar.gz",
-  "download_time": "2025-12-22T21:31:49.930377",
+  "download_filename": "tencentcloud_sdk_python_wedata-3.1.19.tar.gz",
+  "download_time": "2025-12-24T21:14:16.706754",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-wedata/"
 }

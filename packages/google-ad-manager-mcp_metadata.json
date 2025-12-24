@@ -1,11 +1,11 @@
 {
   "name": "google-ad-manager-mcp",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Google Ad Manager MCP Server - An MCP server for managing ad campaigns, line items, creatives, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "google_ad_manager_mcp-0.1.6.tar.gz",
-  "download_time": "2025-12-23T01:10:04.252594",
+  "download_filename": "google_ad_manager_mcp-0.1.8.tar.gz",
+  "download_time": "2025-12-24T21:14:21.075130",
   "package_url": "https://pypi.org/project/google-ad-manager-mcp/"
 }
