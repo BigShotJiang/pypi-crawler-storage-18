@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-core",
+  "version": "1.0.0b251223",
+  "summary": "Microsoft Agent Framework for building AI Agents with Python. This is the core package that has all the core abstractions and implementations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_core-1.0.0b251223.tar.gz",
+  "download_time": "2025-12-24T05:54:44.662726",
+  "package_url": "https://pypi.org/project/agent-framework-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ADWEBDO",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "USST-SOECE-Song Teams",
   "author": "USST-821",
   "license": null,
   "home_page": null,
-  "download_filename": "adwebdo-0.1.4.tar.gz",
-  "download_time": "2025-12-24T05:39:44.830033",
+  "download_filename": "adwebdo-0.1.5.tar.gz",
+  "download_time": "2025-12-24T05:54:33.895135",
   "package_url": "https://pypi.org/project/ADWEBDO/"
 }

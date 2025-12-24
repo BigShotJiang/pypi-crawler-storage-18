@@ -1,22 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T05:40:27.726135
-- **Total Packages**: 83
-- **Total Size**: 15.15 MB
+- **Download Time**: 2025-12-24T05:55:11.170902
+- **Total Packages**: 88
+- **Total Size**: 15.57 MB
 
 ## Packages List
+- Multi-information-FCM
+- hyperbrowser
+- hhg
+- valar
+- pulumi-fastly
+- diet-pandas
+- gatling
+- FCLSTM-vSVR
+- lambdawaker.draw.tools
+- pkbrokers
+- pulumi-f5bigip
+- ccdt
+- pulumi-datadog
+- npmai
+- pulumi-external
+- envkit
+- fastapi-all-helper
+- agno-dinesh
+- ADWEBDO
+- psqlmodel
+- pulumi-dnsimple
+- universal-mcp-applications
+- repo-smith
+- pulumi-databricks
+- truss
+- pulumi-dbtcloud
+- alibabacloud-websitebuild20250429
+- funcnodes-numpy
+- pulumi-consul
+- agent-framework-azure-ai
+- agent-framework-bedrock
+- agent-framework-azure-ai-search
+- torchdistill
+- agent-framework-anthropic
+- agent-framework-chatkit
+- agent-framework-a2a
+- agent-framework-ag-ui
+- agent-framework-declarative
+- agent-framework-devui
+- agent-framework-core
+- agent-framework-ollama
+- agent-framework-redis
+- agent-framework-azurefunctions
+- agent-framework
+- agent-framework-purview
+- agent-framework-mem0
+- agent-framework-foundry-local
+- agent-framework-copilotstudio
+- frago-cli
+- talos-protocol
 - pulumi-aws-apigateway
 - cellmap-data
 - tmutils
-- ADWEBDO
 - pulumi-confluentcloud
 - siglab-py
 - brom-drake
 - pulumi-alicloud
 - mustafatik
 - compiletools
-- pkbrokers
 - pulumi-cloudngfwaws
 - pulumi-cloudinit
 - pulumi-azuread
@@ -30,12 +78,10 @@
 - artificer-agents
 - ragbio
 - copernicus-downloader
-- gatling
 - textual-filelink
 - toolslm
 - wind_ae
 - pkdevtools
-- talos-protocol
 - pulumi-auth0
 - mthreads-ml-py
 - pulumi-artifactory
@@ -48,44 +94,3 @@
 - powerchord
 - pulumi-akamai
 - pulumi-archive
-- hedit
-- plato-sdk-v2
-- kleur
-- universal-mcp-applications
-- htmlgraph
-- easy-start-wecom
-- pulumi-aiven
-- regression-inference
-- python-qlv-helper
-- wecom-bot-mcp-server
-- brokle
-- viper-dev-kit
-- based-utils
-- opvious
-- aquiles-image
-- koruspy
-- not1mm
-- owega
-- oco
-- ffseval
-- simt-emlite
-- ato
-- liminal-orm
-- hanary-mcp
-- nonebot-plugin-trans-progress
-- fastcore
-- aenet-gpr
-- cozeloop
-- tlg-indices
-- tpu-inference
-- resgen-python
-- pyweworkfinance
-- iamdata
-- nuxbt
-- empathy-framework
-- rezen
-- stark-qa
-- mobiu-q
-- fuck-cli
-- puda-drivers
-- postgresdb3
