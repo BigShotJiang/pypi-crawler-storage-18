@@ -1,11 +1,11 @@
 {
   "name": "dycw-actions",
-  "version": "0.3.21",
+  "version": "0.3.22",
   "summary": "GitHub actions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_actions-0.3.21-py3-none-any.whl",
-  "download_time": "2025-12-24T22:37:31.186161",
+  "download_filename": "dycw_actions-0.3.22-py3-none-any.whl",
+  "download_time": "2025-12-24T23:50:47.721957",
   "package_url": "https://pypi.org/project/dycw-actions/"
 }

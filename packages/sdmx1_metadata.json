@@ -1,0 +1,11 @@
+{
+  "name": "sdmx1",
+  "version": "2.25.0",
+  "summary": "Statistical Data and Metadata eXchange (SDMX)",
+  "author": "SDMX Python developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdmx1-2.25.0.tar.gz",
+  "download_time": "2025-12-24T23:50:45.156159",
+  "package_url": "https://pypi.org/project/sdmx1/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "prism-engines",
+  "version": "0.1.0",
+  "summary": "Geometric analysis engines for time series data",
+  "author": "PRISM Research",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prism_engines-0.1.0.tar.gz",
+  "download_time": "2025-12-24T23:50:49.813345",
+  "package_url": "https://pypi.org/project/prism-engines/"
+}

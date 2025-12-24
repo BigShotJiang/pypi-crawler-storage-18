@@ -1,20 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T23:33:54.071687
-- **Total Packages**: 76
-- **Total Size**: 5.02 MB
+- **Download Time**: 2025-12-24T23:51:20.118018
+- **Total Packages**: 74
+- **Total Size**: 4.68 MB
 
 ## Packages List
+- co-eco
+- chunkops
+- securitycore
+- jekescore
+- openenv-dipg-safety
+- dyngle
+- claude-code-publish
+- IncludeCPP
+- pyhyperminhash
+- sdmx1
+- redeliver
+- py-ds-academy
+- foundry-mcp
+- KekikStream
+- dycw-actions
+- replimap
+- mil-kit
+- lokryn-merkle-tree
+- prism-engines
+- pgcli
+- aiosqlite-strict
+- mas-cli
+- autonomous-claude
+- open-flash
+- pymr-genetics
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- yt-dlp
+- pythehagueparking
+- htmlgraph
+- clevercx-security-master-types
+- hanzo-mcp
+- acordes
+- charmarr-lib-testing
+- charmarr-lib-vpn
+- charmarr-lib-core
+- n8n-deploy
+- aps-automation-sdk
+- pyCityParkingPermit
+- strutex
+- ai-debugger-inc
+- ai-bench-suite
+- mcp-everything-search
 - pgcopy
 - yield-module-names-and-python-file-paths
 - cjm-plugin-system
 - adif-mcp
 - sukta
-- mil-kit
 - omnis-py
 - biblemategui
-- pythehagueparking
 - youtube-to-docs
 - aiinbx
 - resolve-module-import
@@ -23,20 +65,13 @@
 - trayscope
 - db-bridge
 - jsonschema-rs
-- clevercx-security-master-types
-- chunkops
 - mlserve-sdk
-- replimap
-- pyCityParkingPermit
 - opik-optimizer
 - graphqlite
 - datalab-server
 - stats-can
 - ingestkit
-- htmlgraph
-- open-flash
 - warn-transformer
-- strutex
 - telekit
 - hangeul-jamo
 - adv-optm
@@ -45,40 +80,3 @@
 - gtm-wizard
 - combigraphs
 - dycw-setup-cronjob
-- django-cravensworth
-- dycw-restic
-- IncludeCPP
-- backboard-sdk
-- torchio
-- contrastive-ft
-- grapes-ecs
-- boask
-- aden-py
-- iris-devtester
-- quantconnect-stubs
-- secure-run
-- python-engineio
-- dev-health-ops
-- mcp-everything-search
-- ternimator
-- markus-ai-server
-- octobase
-- fontsearch
-- mergechannels
-- pyisyox
-- wikiteam3
-- cryptolith
-- pytest-mqtt
-- mcp-server-google-vision
-- based-utils
-- dycw-actions
-- errorwatch
-- nowplaypadgen
-- pybotchi
-- acrclient
-- bluetti-bt-lib
-- octobot-trading
-- nonebot-plugin-updater
-- microeval
-- async-universalis
-- endurance-screen
