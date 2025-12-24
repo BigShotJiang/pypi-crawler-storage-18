@@ -1,11 +1,11 @@
 {
   "name": "softfloatpy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python binding of Berkeley SoftFloat",
   "author": "Arihiro Yoshida",
   "license": null,
   "home_page": "https://github.com/arithy/softfloatpy",
-  "download_filename": "softfloatpy-1.0.0-cp311-cp311-macosx_10_9_universal2.whl",
-  "download_time": "2025-12-24T06:57:05.322469",
+  "download_filename": "softfloatpy-1.0.1.tar.gz",
+  "download_time": "2025-12-24T17:14:32.816621",
   "package_url": "https://pypi.org/project/softfloatpy/"
 }

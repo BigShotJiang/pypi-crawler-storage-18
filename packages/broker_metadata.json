@@ -1,0 +1,11 @@
+{
+  "name": "broker",
+  "version": "0.8.0",
+  "summary": "The infrastructure middleman.",
+  "author": "Jacob J Callahan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "broker-0.8.0.tar.gz",
+  "download_time": "2025-12-24T17:14:35.209221",
+  "package_url": "https://pypi.org/project/broker/"
+}
