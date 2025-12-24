@@ -1,11 +1,11 @@
 {
   "name": "ip2geoapi",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Official Python SDK for the Ip2Geo API",
   "author": "Vijay Prajapati",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ip2geoapi-0.1.2.tar.gz",
-  "download_time": "2025-12-23T05:20:08.959349",
+  "download_filename": "ip2geoapi-0.1.4.tar.gz",
+  "download_time": "2025-12-24T10:45:27.099272",
   "package_url": "https://pypi.org/project/ip2geoapi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bakefile",
-  "version": "0.0.2rc1.post5",
+  "version": "0.0.3",
   "summary": "Add your description here",
   "author": "Wisaroot Lertthaweedech",
   "license": null,
   "home_page": null,
-  "download_filename": "bakefile-0.0.2rc1.post5.tar.gz",
-  "download_time": "2025-12-21T11:12:12.275186",
+  "download_filename": "bakefile-0.0.3.tar.gz",
+  "download_time": "2025-12-24T10:45:54.023847",
   "package_url": "https://pypi.org/project/bakefile/"
 }

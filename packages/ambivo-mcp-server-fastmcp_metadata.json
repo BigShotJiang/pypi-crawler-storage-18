@@ -1,0 +1,11 @@
+{
+  "name": "ambivo-mcp-server-fastmcp",
+  "version": "1.0.7",
+  "summary": "MCP Server for Ambivo API endpoints - Natural language queries and direct entity data access",
+  "author": "Ambivo Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ambivo-corp/ambivo-mcp-server",
+  "download_filename": "ambivo_mcp_server_fastmcp-1.0.7.tar.gz",
+  "download_time": "2025-12-24T10:45:30.684816",
+  "package_url": "https://pypi.org/project/ambivo-mcp-server-fastmcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentic-ai-sdk",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "SDK for building AI agent 2.0.",
   "author": "Frank Lin",
   "license": null,
   "home_page": null,
-  "download_filename": "agentic_ai_sdk-0.1.2.tar.gz",
-  "download_time": "2025-12-24T08:52:16.726388",
+  "download_filename": "agentic_ai_sdk-0.1.3.tar.gz",
+  "download_time": "2025-12-24T10:45:48.244488",
   "package_url": "https://pypi.org/project/agentic-ai-sdk/"
 }
