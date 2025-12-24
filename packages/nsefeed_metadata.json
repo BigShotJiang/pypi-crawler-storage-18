@@ -1,0 +1,11 @@
+{
+  "name": "nsefeed",
+  "version": "1.0.0",
+  "summary": "Minimal, production-ready Python library for ingesting historical NSE India data - Indices, Equity, and Derivatives with yfinance-style API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nsefeed-1.0.0.tar.gz",
+  "download_time": "2025-12-24T09:54:13.815723",
+  "package_url": "https://pypi.org/project/nsefeed/"
+}

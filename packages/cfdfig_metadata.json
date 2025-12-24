@@ -1,0 +1,11 @@
+{
+  "name": "cfdfig",
+  "version": "0.1.1",
+  "summary": "CLI tool for publication-ready CFD plots and case tracking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cfdfig-0.1.1.tar.gz",
+  "download_time": "2025-12-24T09:54:22.145168",
+  "package_url": "https://pypi.org/project/cfdfig/"
+}

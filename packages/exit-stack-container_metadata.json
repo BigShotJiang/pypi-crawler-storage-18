@@ -1,11 +1,11 @@
 {
   "name": "exit-stack-container",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Async lifecycle management with declarative dependency injection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "exit_stack_container-0.1.1.tar.gz",
-  "download_time": "2025-12-24T07:55:05.664997",
+  "download_filename": "exit_stack_container-0.1.2.tar.gz",
+  "download_time": "2025-12-24T09:54:26.806212",
   "package_url": "https://pypi.org/project/exit-stack-container/"
 }

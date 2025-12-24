@@ -1,11 +1,11 @@
 {
   "name": "pyptp",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Open-source Python SDK for electrical grid calculations and modelling",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyptp-0.0.14.tar.gz",
-  "download_time": "2025-12-22T13:11:27.969173",
+  "download_filename": "pyptp-0.0.16.tar.gz",
+  "download_time": "2025-12-24T09:54:16.455569",
   "package_url": "https://pypi.org/project/pyptp/"
 }
