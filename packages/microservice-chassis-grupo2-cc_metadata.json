@@ -1,0 +1,11 @@
+{
+  "name": "microservice-chassis-grupo2-cc",
+  "version": "0.1.0",
+  "summary": "A reusable library for microservices",
+  "author": "Grupo 2",
+  "license": null,
+  "home_page": "https://github.com/Grupo-MACC/Chassis",
+  "download_filename": "microservice_chassis_grupo2_cc-0.1.0.tar.gz",
+  "download_time": "2025-12-24T11:31:46.029670",
+  "package_url": "https://pypi.org/project/microservice-chassis-grupo2-cc/"
+}

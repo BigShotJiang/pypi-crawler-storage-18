@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T11:15:44.388270
-- **Total Packages**: 82
-- **Total Size**: 21.22 MB
+- **Download Time**: 2025-12-24T11:32:23.690170
+- **Total Packages**: 91
+- **Total Size**: 36.09 MB
 
 ## Packages List
+- regula-documentreader-webclient
+- jinjanator
+- rumdl
+- olivos-cli
+- alita-sdk
+- torchx-nightly
+- p115client
+- cwl2click
+- gesso
+- pymovements
+- gse-gsatmicro-mgr
+- fiber_uploader
+- cupyram
+- spins2
+- torchft-nightly
+- cjm-transcription-plugin-voxtral-vllm
+- vital
+- uipath
+- microservice-chassis-grupo2-cc
+- rxiv-maker
+- frago-cli
+- anthriq-registry-stack
+- tasktree
+- xsuite
+- tenro
+- surface-scenarios
+- django-8e9e15-v1
+- dap4mkb
+- django-email-learning
+- psqlmodel
+- datavitals
+- ghsa-client
+- nhs_aws_helpers
+- simplemathlib-shahaneoyaj
+- django-cfg
+- llmskit
+- kt-kernel
+- echoes-mcp-server
+- utg-base
+- pulumi-awsx
+- composio
+- pygame-videogame-maker
+- chemsynthcalc
+- vuegraf
+- zensical
 - uniovi-simur-wearablepermed-utils
 - tf-keras-nightly
 - iraklis7-ubp
@@ -13,7 +58,6 @@
 - coverage-pyver-pragma
 - frogml
 - arthur-client
-- django-8e9e15-v1
 - disklib
 - intuned-runtime
 - pyiron-base
@@ -53,38 +97,3 @@
 - cjm-transcription-plugin-voxtral-hf
 - dbsamizdapper
 - kpu-dev
-- elemem-vector-sdk
-- teledetection
-- dicom-fuzzer
-- halib
-- avulto
-- discrete-fourier
-- p3dpy
-- runcell
-- aimodelshare
-- fireprompt
-- datasay
-- sendpost-python-sdk
-- inspect-scout
-- vectors-likeablejuniper
-- netbox-ip-permissions-synchronization
-- dvt-core
-- fc-coder
-- nvidia-nat-redis
-- goedels-poetry
-- cv-matcher
-- nvidia-nat-data-flywheel
-- konduktor-nightly
-- nvidia-nat-semantic-kernel
-- nvidia-nat-opentelemetry
-- nvidia-nat-openpipe-art
-- torappu-excel
-- nvidia-nat-llama-index
-- nvidia-nat-mem0ai
-- nvidia-nat-langchain
-- nvidia-nat-phoenix
-- trainy-mlop-nightly
-- trainy-policy-nightly
-- docling
-- nvidia-nat-crewai
-- django-jwt-allauth

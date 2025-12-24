@@ -1,0 +1,11 @@
+{
+  "name": "surface-scenarios",
+  "version": "0.3.1",
+  "summary": "Standalone synthetic elevation and SDF scenario library extracted from Survi",
+  "author": "Survi Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "surface_scenarios-0.3.1.tar.gz",
+  "download_time": "2025-12-24T11:31:49.715497",
+  "package_url": "https://pypi.org/project/surface-scenarios/"
+}

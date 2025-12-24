@@ -1,0 +1,11 @@
+{
+  "name": "gesso",
+  "version": "0.2.0",
+  "summary": "Automate creation of Obsidian markdown files for art collection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gesso-0.2.0.tar.gz",
+  "download_time": "2025-12-24T11:31:40.788747",
+  "package_url": "https://pypi.org/project/gesso/"
+}

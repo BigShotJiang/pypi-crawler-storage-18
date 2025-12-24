@@ -1,0 +1,11 @@
+{
+  "name": "spins2",
+  "version": "0.0.3.5",
+  "summary": "A Monte Carlo Simulation Code for the Phase Transition in 2D/3D Magnetic Materials.",
+  "author": "kan",
+  "license": "MIT",
+  "home_page": "https://github.com/lkccrr/spins2",
+  "download_filename": "spins2-0.0.3.5-py3-none-any.whl",
+  "download_time": "2025-12-24T11:31:43.384245",
+  "package_url": "https://pypi.org/project/spins2/"
+}
