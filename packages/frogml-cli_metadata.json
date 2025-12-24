@@ -1,0 +1,11 @@
+{
+  "name": "frogml-cli",
+  "version": "0.1.0",
+  "summary": "Frogml CLI for frogml models",
+  "author": "JFrog Ltd.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "frogml_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-24T10:17:38.354960",
+  "package_url": "https://pypi.org/project/frogml-cli/"
+}

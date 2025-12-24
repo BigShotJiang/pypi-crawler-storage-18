@@ -1,11 +1,11 @@
 {
   "name": "ucloud-sandbox",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "UCloud Sandbox SDK - Cloud sandbox environments for AI agents",
   "author": "UCloud",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ucloud_sandbox-1.0.7.tar.gz",
-  "download_time": "2025-12-24T07:43:39.778941",
+  "download_filename": "ucloud_sandbox-1.0.8.tar.gz",
+  "download_time": "2025-12-24T10:17:35.785570",
   "package_url": "https://pypi.org/project/ucloud-sandbox/"
 }

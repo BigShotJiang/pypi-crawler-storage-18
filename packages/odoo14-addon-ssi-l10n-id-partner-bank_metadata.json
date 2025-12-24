@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-l10n-id-partner-bank",
+  "version": "14.0.1.0.0",
+  "summary": "Partner Identification - Bank",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_l10n_id_partner_bank-14.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-12-24T10:17:51.997038",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-l10n-id-partner-bank/"
+}

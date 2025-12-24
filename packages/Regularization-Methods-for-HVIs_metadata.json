@@ -1,0 +1,11 @@
+{
+  "name": "Regularization-Methods-for-HVIs",
+  "version": "1.1",
+  "summary": "Package aimed at solving variational inequalities over the solution set of a monotone inclusion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regularization_methods_for_hvis-1.1.tar.gz",
+  "download_time": "2025-12-24T10:17:30.582853",
+  "package_url": "https://pypi.org/project/Regularization-Methods-for-HVIs/"
+}

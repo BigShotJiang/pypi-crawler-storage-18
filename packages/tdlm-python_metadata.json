@@ -1,0 +1,11 @@
+{
+  "name": "tdlm-python",
+  "version": "0.4.2",
+  "summary": "TDLM implementation for Python",
+  "author": "skjerns",
+  "license": "GPLv4",
+  "home_page": "http://github.com/skjerns/TDLM-Python",
+  "download_filename": "tdlm_python-0.4.2.tar.gz",
+  "download_time": "2025-12-24T10:17:42.527017",
+  "package_url": "https://pypi.org/project/tdlm-python/"
+}

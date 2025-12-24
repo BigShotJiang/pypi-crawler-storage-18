@@ -1,11 +1,11 @@
 {
   "name": "upower-python-wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Upower wrapper using dbus-next modern async aio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upower_python_wrapper-0.1.1.tar.gz",
-  "download_time": "2025-12-21T18:47:56.286585",
+  "download_filename": "upower_python_wrapper-0.1.2.tar.gz",
+  "download_time": "2025-12-24T10:17:37.319391",
   "package_url": "https://pypi.org/project/upower-python-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gllm-memory-binary",
+  "version": "0.1.7",
+  "summary": "A flexible memory system for Gen AI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gllm_memory_binary-0.1.7-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2025-12-24T10:17:49.444708",
+  "package_url": "https://pypi.org/project/gllm-memory-binary/"
+}
