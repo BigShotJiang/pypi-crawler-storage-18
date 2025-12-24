@@ -1,11 +1,11 @@
 {
   "name": "ingestkit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "High-performance event ingestion platform with type-safe SDKs",
   "author": "IngestKit Team",
   "license": null,
   "home_page": "https://github.com/feat7/ingestkit",
-  "download_filename": "ingestkit-0.1.5.tar.gz",
-  "download_time": "2025-12-24T22:52:51.566024",
+  "download_filename": "ingestkit-0.1.6.tar.gz",
+  "download_time": "2025-12-24T23:15:29.853134",
   "package_url": "https://pypi.org/project/ingestkit/"
 }

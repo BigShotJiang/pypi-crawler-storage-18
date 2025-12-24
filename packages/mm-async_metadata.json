@@ -1,11 +1,11 @@
 {
   "name": "mm-async",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Async HTTP client for Mattermost API",
-  "author": "AVB Invest",
+  "author": "Aleksei Anashkin",
   "license": null,
   "home_page": null,
-  "download_filename": "mm_async-0.3.1.tar.gz",
-  "download_time": "2025-12-24T22:52:52.605234",
+  "download_filename": "mm_async-0.3.2.tar.gz",
+  "download_time": "2025-12-24T23:15:34.996239",
   "package_url": "https://pypi.org/project/mm-async/"
 }
