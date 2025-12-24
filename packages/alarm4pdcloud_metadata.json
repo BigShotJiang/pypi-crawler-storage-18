@@ -1,11 +1,11 @@
 {
   "name": "alarm4pdcloud",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "4pd cloud alarm tools",
   "author": "4pd-cloud",
   "license": null,
   "home_page": "https://pypi.org/project/alarm4pdcloud/",
-  "download_filename": "alarm4pdcloud-1.0.1.tar.gz",
-  "download_time": "2025-12-24T07:55:24.735019",
+  "download_filename": "alarm4pdcloud-1.0.2.tar.gz",
+  "download_time": "2025-12-24T09:20:36.954057",
   "package_url": "https://pypi.org/project/alarm4pdcloud/"
 }
