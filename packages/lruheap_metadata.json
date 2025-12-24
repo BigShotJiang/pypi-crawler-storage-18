@@ -1,0 +1,11 @@
+{
+  "name": "lruheap",
+  "version": "1.1.0",
+  "summary": "Python decorators for in-memory LRU caching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lruheap-1.1.0.tar.gz",
+  "download_time": "2025-12-24T03:01:03.931627",
+  "package_url": "https://pypi.org/project/lruheap/"
+}

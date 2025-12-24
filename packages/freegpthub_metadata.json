@@ -1,11 +1,11 @@
 {
   "name": "freegpthub",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "FreeGPTHub: A truly free, unified GPT API gateway—unlike “fake-free” alternatives that hide paywalls behind quotas, trials, or mandatory top-ups.",
   "author": "Zhenchao Jin",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/CharlesPikachu/FreeGPTHub",
-  "download_filename": "freegpthub-0.0.1.tar.gz",
-  "download_time": "2025-12-21T14:33:28.838275",
+  "download_filename": "freegpthub-0.1.0.tar.gz",
+  "download_time": "2025-12-24T03:01:04.452641",
   "package_url": "https://pypi.org/project/freegpthub/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcp-mail",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Coordinated multi-agent messaging and coordination MCP server.",
   "author": "mcp-agent-mail maintainers",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_mail-0.1.14.tar.gz",
-  "download_time": "2025-12-23T21:32:40.016651",
+  "download_filename": "mcp_mail-0.1.15.tar.gz",
+  "download_time": "2025-12-24T03:00:57.157795",
   "package_url": "https://pypi.org/project/mcp-mail/"
 }

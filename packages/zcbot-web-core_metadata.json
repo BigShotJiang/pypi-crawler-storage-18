@@ -1,0 +1,11 @@
+{
+  "name": "zcbot-web-core",
+  "version": "2.0.15",
+  "summary": "zcbot web core for zsodata",
+  "author": "zsodata",
+  "license": "BSD License",
+  "home_page": "http://www.zsodata.com",
+  "download_filename": "zcbot_web_core-2.0.15.tar.gz",
+  "download_time": "2025-12-24T03:00:43.945007",
+  "package_url": "https://pypi.org/project/zcbot-web-core/"
+}

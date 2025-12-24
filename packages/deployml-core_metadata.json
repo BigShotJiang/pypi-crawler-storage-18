@@ -1,0 +1,11 @@
+{
+  "name": "deployml-core",
+  "version": "0.0.28",
+  "summary": "Infra for academia",
+  "author": "Drew Hoang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deployml_core-0.0.28.tar.gz",
+  "download_time": "2025-12-24T03:00:34.410769",
+  "package_url": "https://pypi.org/project/deployml-core/"
+}

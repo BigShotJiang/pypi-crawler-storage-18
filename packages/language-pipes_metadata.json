@@ -1,11 +1,11 @@
 {
   "name": "language-pipes",
-  "version": "0.12.4",
+  "version": "0.13.0",
   "summary": "Easily distribute language models across multiple systems",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "language_pipes-0.12.4.tar.gz",
-  "download_time": "2025-12-21T21:30:17.244929",
+  "download_filename": "language_pipes-0.13.0.tar.gz",
+  "download_time": "2025-12-24T03:01:04.972463",
   "package_url": "https://pypi.org/project/language-pipes/"
 }

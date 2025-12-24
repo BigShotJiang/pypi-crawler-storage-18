@@ -1,0 +1,11 @@
+{
+  "name": "pyreactlab-core",
+  "version": "0.1.0",
+  "summary": "pyreactlab-core is the core foundation of the PyReactLab ecosystem, offering shared data structures and algorithms for chemical reaction representation, stoichiometry, and reaction analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyreactlab_core-0.1.0.tar.gz",
+  "download_time": "2025-12-24T03:01:03.408849",
+  "package_url": "https://pypi.org/project/pyreactlab-core/"
+}

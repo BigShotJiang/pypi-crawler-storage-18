@@ -1,0 +1,11 @@
+{
+  "name": "gemascore",
+  "version": "0.1.1",
+  "summary": "GEMA-Score: structured evaluation of candidate vs reference radiology reports.",
+  "author": "GEMA-Score Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemascore-0.1.1.tar.gz",
+  "download_time": "2025-12-24T03:00:55.510235",
+  "package_url": "https://pypi.org/project/gemascore/"
+}

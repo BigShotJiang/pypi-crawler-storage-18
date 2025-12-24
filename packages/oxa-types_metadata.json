@@ -1,0 +1,11 @@
+{
+  "name": "oxa-types",
+  "version": "0.1.0",
+  "summary": "Pydantic models generated from the OXA schema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxa_types-0.1.0.tar.gz",
+  "download_time": "2025-12-24T03:01:13.837763",
+  "package_url": "https://pypi.org/project/oxa-types/"
+}
