@@ -1,11 +1,11 @@
 {
   "name": "pytest-mqtt",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "pytest-mqtt supports testing systems based on MQTT",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "pytest_mqtt-0.6.1.tar.gz",
-  "download_time": "2025-12-24T22:15:52.869756",
+  "download_filename": "pytest_mqtt-0.6.2.tar.gz",
+  "download_time": "2025-12-24T22:37:27.989762",
   "package_url": "https://pypi.org/project/pytest-mqtt/"
 }

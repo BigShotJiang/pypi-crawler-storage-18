@@ -1,11 +1,11 @@
 {
   "name": "ternimator",
-  "version": "0.0.25",
+  "version": "0.0.28",
   "summary": "Utitlities for terminal animations",
   "author": "Huib Piguillet",
   "license": null,
   "home_page": null,
-  "download_filename": "ternimator-0.0.25.tar.gz",
-  "download_time": "2025-12-24T19:49:19.890710",
+  "download_filename": "ternimator-0.0.28.tar.gz",
+  "download_time": "2025-12-24T22:37:22.938361",
   "package_url": "https://pypi.org/project/ternimator/"
 }

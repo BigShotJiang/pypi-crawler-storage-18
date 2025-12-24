@@ -1,0 +1,11 @@
+{
+  "name": "pyisyox",
+  "version": "1.0.0b0",
+  "summary": "Python module for asynchronous communication with Universal Devices, Inc.'s ISY & IoX controllers.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/shbatm/pyisyox",
+  "download_filename": "pyisyox-1.0.0b0.tar.gz",
+  "download_time": "2025-12-24T22:37:26.038287",
+  "package_url": "https://pypi.org/project/pyisyox/"
+}

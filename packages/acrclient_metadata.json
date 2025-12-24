@@ -1,0 +1,11 @@
+{
+  "name": "acrclient",
+  "version": "0.5.2",
+  "summary": "API wrapper for the v2 ACRCloud API",
+  "author": "RaBe IT-Reaktion",
+  "license": "AGPL-v3",
+  "home_page": null,
+  "download_filename": "acrclient-0.5.2.tar.gz",
+  "download_time": "2025-12-24T22:37:33.789260",
+  "package_url": "https://pypi.org/project/acrclient/"
+}
