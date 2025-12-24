@@ -1,0 +1,11 @@
+{
+  "name": "owocr",
+  "version": "1.21.6",
+  "summary": "Japanese OCR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owocr-1.21.6.tar.gz",
+  "download_time": "2025-12-24T21:50:10.076329",
+  "package_url": "https://pypi.org/project/owocr/"
+}

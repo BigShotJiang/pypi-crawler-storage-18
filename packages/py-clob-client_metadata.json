@@ -1,11 +1,11 @@
 {
   "name": "py-clob-client",
-  "version": "0.34.0",
+  "version": "0.34.1",
   "summary": "Python client for the Polymarket CLOB",
   "author": "Polymarket Engineering",
   "license": null,
   "home_page": "https://github.com/Polymarket/py-clob-client",
-  "download_filename": "py_clob_client-0.34.0.tar.gz",
-  "download_time": "2025-12-21T20:50:44.441908",
+  "download_filename": "py_clob_client-0.34.1.tar.gz",
+  "download_time": "2025-12-24T21:49:52.566580",
   "package_url": "https://pypi.org/project/py-clob-client/"
 }

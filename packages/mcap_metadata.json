@@ -1,0 +1,11 @@
+{
+  "name": "mcap",
+  "version": "1.3.1",
+  "summary": "MCAP libraries for Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/foxglove/mcap",
+  "download_filename": "mcap-1.3.1.tar.gz",
+  "download_time": "2025-12-24T21:50:03.245248",
+  "package_url": "https://pypi.org/project/mcap/"
+}
