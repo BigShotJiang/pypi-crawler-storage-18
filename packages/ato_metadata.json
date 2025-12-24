@@ -1,0 +1,11 @@
+{
+  "name": "ato",
+  "version": "2.2.0",
+  "summary": "Configuration, experimentation, and hyperparameter optimization for Python. No runtime magic. No launcher. Just Python modules you compose.",
+  "author": "ato contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ato-2.2.0.tar.gz",
+  "download_time": "2025-12-24T05:40:17.437560",
+  "package_url": "https://pypi.org/project/ato/"
+}

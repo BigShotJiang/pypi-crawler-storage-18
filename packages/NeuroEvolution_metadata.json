@@ -1,0 +1,11 @@
+{
+  "name": "NeuroEvolution",
+  "version": "0.1.0",
+  "summary": "Neuro-evolution and model optimization toolkit",
+  "author": "Romain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neuroevolution-0.1.0.tar.gz",
+  "download_time": "2025-12-24T05:40:03.649861",
+  "package_url": "https://pypi.org/project/NeuroEvolution/"
+}

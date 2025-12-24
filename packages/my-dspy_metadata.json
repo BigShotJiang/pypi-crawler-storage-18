@@ -1,0 +1,11 @@
+{
+  "name": "my-dspy",
+  "version": "0.1.0",
+  "summary": "Mypy plugin and stubs for DSPy",
+  "author": "Tyrin Todd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_dspy-0.1.0.tar.gz",
+  "download_time": "2025-12-24T05:39:54.260860",
+  "package_url": "https://pypi.org/project/my-dspy/"
+}

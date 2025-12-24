@@ -1,11 +1,11 @@
 {
   "name": "not1mm",
-  "version": "25.12.21",
+  "version": "25.12.23",
   "summary": "NOT1MM Logger",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "not1mm-25.12.21.tar.gz",
-  "download_time": "2025-12-21T21:41:03.082640",
+  "download_filename": "not1mm-25.12.23.tar.gz",
+  "download_time": "2025-12-24T05:40:14.827183",
   "package_url": "https://pypi.org/project/not1mm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "egauge-python",
+  "version": "0.9.12",
+  "summary": "Support code for communicating with eGauge hardware.",
+  "author": "David Mosberger-Tang",
+  "license": "MIT License",
+  "home_page": "https://bitbucket.org/egauge/python/",
+  "download_filename": "egauge_python-0.9.12-py3-none-any.whl",
+  "download_time": "2025-12-24T05:39:52.189341",
+  "package_url": "https://pypi.org/project/egauge-python/"
+}
