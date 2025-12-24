@@ -1,11 +1,11 @@
 {
   "name": "robhan-cdk-lib.aws-grafana",
-  "version": "0.0.204",
+  "version": "0.0.206",
   "summary": "AWS CDK Construct Library for Amazon Managed Grafana",
   "author": "Robert Hanuschke<robhan-cdk-lib@hanuschke.eu>",
   "license": "MIT",
   "home_page": "https://github.com/robert-hanuschke/cdk-aws_grafana",
-  "download_filename": "robhan_cdk_lib_aws_grafana-0.0.204.tar.gz",
-  "download_time": "2025-12-22T04:52:02.449001",
+  "download_filename": "robhan_cdk_lib_aws_grafana-0.0.206.tar.gz",
+  "download_time": "2025-12-24T06:57:24.690097",
   "package_url": "https://pypi.org/project/robhan-cdk-lib.aws-grafana/"
 }

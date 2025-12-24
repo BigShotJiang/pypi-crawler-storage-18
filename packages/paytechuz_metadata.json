@@ -1,11 +1,11 @@
 {
   "name": "paytechuz",
-  "version": "0.3.33",
+  "version": "0.3.34",
   "summary": "Unified Python package for Uzbekistan payment gateways (Payme, Click, Atmos)",
   "author": "Muhammadali Akbarov",
   "license": "MIT",
   "home_page": "https://github.com/Muhammadali-Akbarov/paytechuz",
-  "download_filename": "paytechuz-0.3.33.tar.gz",
-  "download_time": "2025-12-23T07:43:43.750560",
+  "download_filename": "paytechuz-0.3.34.tar.gz",
+  "download_time": "2025-12-24T06:56:53.261467",
   "package_url": "https://pypi.org/project/paytechuz/"
 }

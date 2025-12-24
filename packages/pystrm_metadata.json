@@ -1,11 +1,11 @@
 {
   "name": "pystrm",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Python Stream module for api to kafka topic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pystrm-0.1.2.tar.gz",
-  "download_time": "2025-12-23T22:36:35.850275",
+  "download_filename": "pystrm-0.1.5.tar.gz",
+  "download_time": "2025-12-24T06:57:13.830618",
   "package_url": "https://pypi.org/project/pystrm/"
 }

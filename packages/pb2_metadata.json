@@ -1,11 +1,11 @@
 {
   "name": "pb2",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "summary": "PB2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pb2-0.6.7-py3-none-win_amd64.whl",
-  "download_time": "2025-12-21T20:35:24.310590",
+  "download_filename": "pb2-0.6.8-py3-none-win_amd64.whl",
+  "download_time": "2025-12-24T06:56:38.651731",
   "package_url": "https://pypi.org/project/pb2/"
 }

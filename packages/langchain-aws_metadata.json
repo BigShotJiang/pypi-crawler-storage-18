@@ -1,0 +1,11 @@
+{
+  "name": "langchain-aws",
+  "version": "1.1.1",
+  "summary": "An integration package connecting AWS and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_aws-1.1.1.tar.gz",
+  "download_time": "2025-12-24T06:56:35.739470",
+  "package_url": "https://pypi.org/project/langchain-aws/"
+}

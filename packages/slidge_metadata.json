@@ -1,0 +1,11 @@
+{
+  "name": "slidge",
+  "version": "0.3.4",
+  "summary": "XMPP bridging framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slidge-0.3.4.tar.gz",
+  "download_time": "2025-12-24T06:56:37.472070",
+  "package_url": "https://pypi.org/project/slidge/"
+}

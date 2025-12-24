@@ -1,0 +1,11 @@
+{
+  "name": "sc2bench",
+  "version": "0.1.1",
+  "summary": "SC2 Benchmark: Supervised Compression for Split Computing.",
+  "author": "Yoshitomo Matsubara",
+  "license": "MIT",
+  "home_page": "https://github.com/yoshitomo-matsubara/sc2-benchmark",
+  "download_filename": "sc2bench-0.1.1.tar.gz",
+  "download_time": "2025-12-24T06:56:36.318146",
+  "package_url": "https://pypi.org/project/sc2bench/"
+}
