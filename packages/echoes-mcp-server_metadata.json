@@ -1,11 +1,11 @@
 {
   "name": "echoes-mcp-server",
-  "version": "5.4.0",
+  "version": "5.5.0",
   "summary": "MCP server for Echoes storytelling platform with Narrative Knowledge Graph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "echoes_mcp_server-5.4.0.tar.gz",
-  "download_time": "2025-12-24T11:31:55.998865",
+  "download_filename": "echoes_mcp_server-5.5.0.tar.gz",
+  "download_time": "2025-12-24T15:43:06.634629",
   "package_url": "https://pypi.org/project/echoes-mcp-server/"
 }

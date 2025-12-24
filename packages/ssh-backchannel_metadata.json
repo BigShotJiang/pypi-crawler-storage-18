@@ -1,11 +1,11 @@
 {
   "name": "ssh-backchannel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A Python-based SSH forced-command gatekeeper for remote callbacks.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ssh_backchannel-1.0.0.tar.gz",
-  "download_time": "2025-12-24T15:16:47.352437",
+  "download_filename": "ssh_backchannel-1.1.0.tar.gz",
+  "download_time": "2025-12-24T15:42:47.359203",
   "package_url": "https://pypi.org/project/ssh-backchannel/"
 }

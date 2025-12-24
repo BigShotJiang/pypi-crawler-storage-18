@@ -1,0 +1,11 @@
+{
+  "name": "vscanx",
+  "version": "2.1.0",
+  "summary": "Ethical Vulnerability Scanner - Modular Security Testing Framework",
+  "author": "VScanX Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/vscanx",
+  "download_filename": "vscanx-2.1.0.tar.gz",
+  "download_time": "2025-12-24T15:42:55.483820",
+  "package_url": "https://pypi.org/project/vscanx/"
+}

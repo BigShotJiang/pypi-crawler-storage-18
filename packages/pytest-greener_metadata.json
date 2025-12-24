@@ -1,0 +1,11 @@
+{
+  "name": "pytest-greener",
+  "version": "0.13.0",
+  "summary": "Pytest plugin for Greener",
+  "author": "cephei8",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_greener-0.13.0.tar.gz",
+  "download_time": "2025-12-24T15:42:45.170669",
+  "package_url": "https://pypi.org/project/pytest-greener/"
+}

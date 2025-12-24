@@ -1,11 +1,11 @@
 {
   "name": "simpletuner",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "summary": "Stable Diffusion 2.x and XL tuner.",
   "author": "bghira",
   "license": null,
   "home_page": "https://github.com/bghira/SimpleTuner",
-  "download_filename": "simpletuner-3.3.2.tar.gz",
-  "download_time": "2025-12-23T03:02:47.609250",
+  "download_filename": "simpletuner-3.3.3.tar.gz",
+  "download_time": "2025-12-24T15:43:04.524101",
   "package_url": "https://pypi.org/project/simpletuner/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyenv-doctor",
+  "version": "0.1.0",
+  "summary": "Diagnose Python environment issues and suggest fixes",
+  "author": "Ameer Roshan H",
+  "license": null,
+  "home_page": "https://github.com/AMEER-ROSHAN/pyenv-doctor",
+  "download_filename": "pyenv_doctor-0.1.0.tar.gz",
+  "download_time": "2025-12-24T15:42:31.276686",
+  "package_url": "https://pypi.org/project/pyenv-doctor/"
+}

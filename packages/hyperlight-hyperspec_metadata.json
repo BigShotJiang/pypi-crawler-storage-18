@@ -1,0 +1,11 @@
+{
+  "name": "hyperlight-hyperspec",
+  "version": "0.1.13",
+  "summary": "A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperlight_hyperspec-0.1.13.tar.gz",
+  "download_time": "2025-12-24T15:43:13.503300",
+  "package_url": "https://pypi.org/project/hyperlight-hyperspec/"
+}

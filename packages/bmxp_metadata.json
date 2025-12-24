@@ -1,11 +1,11 @@
 {
   "name": "bmxp",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "LCMS Processing tools used by the Metabolomics Platform at the Broad Institute.",
   "author": "Daniel S. Hitchcock, Jesse Krejci, Jayanth Mani, Chloe Sturgeon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bmxp-0.4.7.tar.gz",
-  "download_time": "2025-12-24T14:38:18.224671",
+  "download_filename": "bmxp-0.4.8.tar.gz",
+  "download_time": "2025-12-24T15:42:48.989567",
   "package_url": "https://pypi.org/project/bmxp/"
 }

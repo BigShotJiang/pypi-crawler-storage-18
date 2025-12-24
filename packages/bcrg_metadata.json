@@ -1,0 +1,11 @@
+{
+  "name": "bcrg",
+  "version": "1.2.0",
+  "summary": "Ballistics reticle generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bcrg-1.2.0.tar.gz",
+  "download_time": "2025-12-24T15:43:00.247154",
+  "package_url": "https://pypi.org/project/bcrg/"
+}

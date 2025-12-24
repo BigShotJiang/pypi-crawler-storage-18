@@ -1,11 +1,11 @@
 {
   "name": "vtissue",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Self-Supervised Graph Transformer for Virtual Tissue Perturbation Modeling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vtissue-0.1.7.tar.gz",
-  "download_time": "2025-12-24T14:38:34.435682",
+  "download_filename": "vtissue-0.1.8.tar.gz",
+  "download_time": "2025-12-24T15:42:58.135748",
   "package_url": "https://pypi.org/project/vtissue/"
 }
