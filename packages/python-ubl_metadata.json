@@ -1,11 +1,11 @@
 {
   "name": "python-ubl",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Custom Python UBL 2.1 library with PEPPOL BIS Billing 3.0 support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_ubl-0.1.4.tar.gz",
-  "download_time": "2025-12-20T20:48:41.047832",
+  "download_filename": "python_ubl-0.1.5.tar.gz",
+  "download_time": "2025-12-24T13:11:15.166965",
   "package_url": "https://pypi.org/project/python-ubl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ldn",
+  "version": "0.0.12",
+  "summary": "Python package for local wireless communication with a Nintendo Switch.",
+  "author": "Yannik Marchand",
+  "license": "GPLv3",
+  "home_page": "https://github.com/kinnay/LDN",
+  "download_filename": "ldn-0.0.12.tar.gz",
+  "download_time": "2025-12-24T13:11:00.785655",
+  "package_url": "https://pypi.org/project/ldn/"
+}

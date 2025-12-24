@@ -1,0 +1,11 @@
+{
+  "name": "octa",
+  "version": "1.0.2",
+  "summary": "A tool for researchers to create stimuli varying in order and complexity on different dimensions",
+  "author": "Eline Van Geert, Christophe Bossens, and Johan Wagemans",
+  "license": null,
+  "home_page": "https://github.com/gestaltrevision/OCTA_toolbox",
+  "download_filename": "octa-1.0.2.tar.gz",
+  "download_time": "2025-12-24T13:11:29.938236",
+  "package_url": "https://pypi.org/project/octa/"
+}

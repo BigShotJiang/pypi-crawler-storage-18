@@ -1,11 +1,11 @@
 {
   "name": "starco-dj-utils",
-  "version": "1.2.8",
+  "version": "1.3.0",
   "summary": "A Django pluggable app for utilities and database management",
   "author": "Mojtaba",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "starco_dj_utils-1.2.8.tar.gz",
-  "download_time": "2025-12-24T09:44:30.543081",
+  "download_filename": "starco_dj_utils-1.3.0.tar.gz",
+  "download_time": "2025-12-24T13:11:20.921228",
   "package_url": "https://pypi.org/project/starco-dj-utils/"
 }

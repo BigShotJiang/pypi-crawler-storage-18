@@ -1,0 +1,11 @@
+{
+  "name": "pyrealsense2-beta",
+  "version": "2.57.5.10031",
+  "summary": "Python Wrapper for Intel Realsense SDK 2.0.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "pyrealsense2_beta-2.57.5.10031-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-24T13:11:27.246543",
+  "package_url": "https://pypi.org/project/pyrealsense2-beta/"
+}

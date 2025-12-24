@@ -1,0 +1,11 @@
+{
+  "name": "rormula",
+  "version": "0.1.12",
+  "summary": "Formula parser and evaluator for Wilkinson notation",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rormula-0.1.12.tar.gz",
+  "download_time": "2025-12-24T13:11:35.129151",
+  "package_url": "https://pypi.org/project/rormula/"
+}

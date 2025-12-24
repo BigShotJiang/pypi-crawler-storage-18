@@ -1,0 +1,11 @@
+{
+  "name": "rainfall-cli",
+  "version": "0.1.0",
+  "summary": "Call functions that don't exist. Let AI figure it out.",
+  "author": "system1970",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rainfall_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-24T13:11:25.590594",
+  "package_url": "https://pypi.org/project/rainfall-cli/"
+}

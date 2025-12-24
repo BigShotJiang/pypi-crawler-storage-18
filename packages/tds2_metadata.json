@@ -1,0 +1,11 @@
+{
+  "name": "tds2",
+  "version": "0.2.0",
+  "summary": "lib for file management with telegram api",
+  "author": "ZatOFF",
+  "license": null,
+  "home_page": "https://github.com/ZatON318/TDS2",
+  "download_filename": "tds2-0.2.0.tar.gz",
+  "download_time": "2025-12-24T13:11:10.444393",
+  "package_url": "https://pypi.org/project/tds2/"
+}

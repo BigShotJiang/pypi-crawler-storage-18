@@ -1,11 +1,11 @@
 {
   "name": "PathiumAPI",
-  "version": "0.1.13",
+  "version": "0.2.0",
   "summary": "A minimal ASGI-style API framework",
   "author": "aetechlabs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pathiumapi-0.1.13.tar.gz",
-  "download_time": "2025-12-23T22:36:36.376323",
+  "download_filename": "pathiumapi-0.2.0.tar.gz",
+  "download_time": "2025-12-24T13:11:34.088984",
   "package_url": "https://pypi.org/project/PathiumAPI/"
 }
