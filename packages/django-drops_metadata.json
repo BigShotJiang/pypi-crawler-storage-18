@@ -1,11 +1,11 @@
 {
   "name": "django-drops",
-  "version": "1.0.0b1",
+  "version": "1.0.0b3",
   "summary": "Various helpers for django-based projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_drops-1.0.0b1.tar.gz",
-  "download_time": "2025-12-24T14:38:40.299781",
+  "download_filename": "django_drops-1.0.0b3.tar.gz",
+  "download_time": "2025-12-24T14:53:26.161484",
   "package_url": "https://pypi.org/project/django-drops/"
 }

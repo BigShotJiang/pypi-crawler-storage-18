@@ -1,43 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T14:38:58.546110
-- **Total Packages**: 76
-- **Total Size**: 20.56 MB
+- **Download Time**: 2025-12-24T14:54:06.151323
+- **Total Packages**: 82
+- **Total Size**: 2.23 MB
 
 ## Packages List
-- abstract-utilities
-- modson
-- nucleation
-- bmxp
-- geomatica
-- talos-mcp-server
-- fair-history-manager
-- paytechuz
-- jacksung-dev
-- disklib
-- smartXML
-- ScriptCollection
-- scloop
-- discovermidi
-- pyseto
-- logsignal
-- android-use
-- pulumi-azuread
-- hfortix
-- goodbye-bro
-- aicage
-- sista
-- mathematica_mcp
-- tsmasterapi
-- manimera
-- birds-bi
-- tuvi-mcp
-- scriptbook
-- voice-mode-install
-- voice-mode
 - fiber-uploader
 - csvpeek
+- android-use
 - vtissue
 - yeref
 - TISControlProtocol
@@ -50,12 +21,15 @@
 - django-drops
 - ididi
 - mcp-server-for-splunk
+- jacksung-dev
 - snyk-mcp-server
 - franken
 - agenthelm
 - limen-ai
 - glaip-sdk
+- disklib
 - triton-runner
+- talos-mcp-server
 - the-llm-council
 - honest-anchor
 - riskit
@@ -65,8 +39,10 @@
 - pyldo
 - investing-algorithm-framework
 - datsluo_sj_mcp
+- tuvi-mcp
 - toqan
 - embar
+- manimera
 - mh_structlog
 - IncludeCPP
 - frogml
@@ -82,3 +58,33 @@
 - omnipkg
 - fast-trading-simulator
 - service_packages
+- torchopviz
+- sicoob-sdk
+- astro-p3
+- service-forge
+- pyfrontkit
+- pyzenith
+- liangent
+- cursor-rag-tools
+- dossier-tools
+- hex-device
+- AstrBot
+- pulumi-nomad
+- hfortix
+- biosaur2
+- agentpool
+- TransferQueue
+- tadashi
+- metasdk
+- hdr-conversion
+- langchain-memvid
+- atlisp
+- cezzis-kafka
+- tensordict-nightly
+- cezzis-otel
+- ywsd
+- bit-parser
+- agentbill-py-crewai
+- agentbill-py-langchain
+- agentbill-py-sdk
+- pypomes-s3
