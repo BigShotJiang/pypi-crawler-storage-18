@@ -1,11 +1,11 @@
 {
   "name": "research-arcade",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A graph interface for academic tasks",
   "author": "Jingjun XU",
   "license": "Apache 2.0 License",
   "home_page": null,
-  "download_filename": "research_arcade-0.1.5.tar.gz",
-  "download_time": "2025-12-23T06:25:10.741298",
+  "download_filename": "research_arcade-0.1.6.tar.gz",
+  "download_time": "2025-12-24T10:55:54.431109",
   "package_url": "https://pypi.org/project/research-arcade/"
 }

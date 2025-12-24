@@ -1,0 +1,11 @@
+{
+  "name": "nmk-github",
+  "version": "1.1.0",
+  "summary": "Github plugin for nmk build system",
+  "author": "The dynod project",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "nmk_github-1.1.0-py3-none-any.whl",
+  "download_time": "2025-12-24T10:56:03.088513",
+  "package_url": "https://pypi.org/project/nmk-github/"
+}

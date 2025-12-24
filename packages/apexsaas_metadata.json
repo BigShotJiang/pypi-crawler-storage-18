@@ -1,11 +1,11 @@
 {
   "name": "apexsaas",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "ApexSaaS - Complete authentication, payments, and email solution for Python. Database-agnostic, framework-agnostic, and production-ready. Features include user signup/login, password reset, JWT tokens, PayPal payments, subscriptions, and SendGrid email integration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apexsaas-1.1.0.tar.gz",
-  "download_time": "2025-12-24T10:45:44.127190",
+  "download_filename": "apexsaas-1.2.0.tar.gz",
+  "download_time": "2025-12-24T10:56:12.158974",
   "package_url": "https://pypi.org/project/apexsaas/"
 }
