@@ -1,11 +1,11 @@
 {
   "name": "leanrl",
-  "version": "0.1.1",
-  "summary": "Easy (non-XML) approach to process XBRL",
+  "version": "0.1.5",
+  "summary": "Lean (non-XML) approach to process XBRL",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "leanrl-0.1.1.tar.gz",
-  "download_time": "2025-12-24T13:11:09.405502",
+  "download_filename": "leanrl-0.1.5.tar.gz",
+  "download_time": "2025-12-24T20:42:47.686753",
   "package_url": "https://pypi.org/project/leanrl/"
 }

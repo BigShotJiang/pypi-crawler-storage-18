@@ -1,0 +1,11 @@
+{
+  "name": "ipycalc",
+  "version": "0.0.73",
+  "summary": "Clean looking engineering calculations for IPython",
+  "author": "D. Craig Brinck, PE, SE",
+  "license": null,
+  "home_page": "https://github.com/JWock82/ipycalc.git",
+  "download_filename": "ipycalc-0.0.73.tar.gz",
+  "download_time": "2025-12-24T20:42:47.158993",
+  "package_url": "https://pypi.org/project/ipycalc/"
+}
