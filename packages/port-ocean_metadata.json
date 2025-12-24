@@ -1,11 +1,11 @@
 {
   "name": "port-ocean",
-  "version": "0.32.8",
+  "version": "0.32.9",
   "summary": "Port Ocean is a CLI tool for managing your Port projects.",
   "author": "Daniel Sinai",
   "license": null,
   "home_page": "https://app.getport.io",
-  "download_filename": "port_ocean-0.32.8.tar.gz",
-  "download_time": "2025-12-23T09:57:23.722897",
+  "download_filename": "port_ocean-0.32.9.tar.gz",
+  "download_time": "2025-12-24T14:38:39.721426",
   "package_url": "https://pypi.org/project/port-ocean/"
 }

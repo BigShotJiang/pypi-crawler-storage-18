@@ -1,11 +1,11 @@
 {
   "name": "smartXML",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "smartXML package enables you to read, search, manipulate, and write XML files with ease",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smartxml-1.0.5.tar.gz",
-  "download_time": "2025-12-23T14:45:47.884821",
+  "download_filename": "smartxml-1.0.6.tar.gz",
+  "download_time": "2025-12-24T14:38:21.889501",
   "package_url": "https://pypi.org/project/smartXML/"
 }

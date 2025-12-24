@@ -1,0 +1,11 @@
+{
+  "name": "modson",
+  "version": "1.0.0",
+  "summary": "Meson wrapper to load custom modules for complex build systems",
+  "author": "alex-bouget",
+  "license": null,
+  "home_page": "https://github.com/alex-bouget/modson",
+  "download_filename": "modson-1.0.0.tar.gz",
+  "download_time": "2025-12-24T14:38:16.966729",
+  "package_url": "https://pypi.org/project/modson/"
+}

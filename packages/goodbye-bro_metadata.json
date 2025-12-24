@@ -1,0 +1,11 @@
+{
+  "name": "goodbye-bro",
+  "version": "0.1.0",
+  "summary": "A tiny Python library that says Goodbye, World!",
+  "author": "bro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "goodbye_bro-0.1.0.tar.gz",
+  "download_time": "2025-12-24T14:38:27.111163",
+  "package_url": "https://pypi.org/project/goodbye-bro/"
+}

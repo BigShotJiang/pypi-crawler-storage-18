@@ -1,0 +1,11 @@
+{
+  "name": "fair-history-manager",
+  "version": "1.0.1",
+  "summary": "A Redis-based fair allocation algorithm for LLM chat history management",
+  "author": "wxhelper-async Team",
+  "license": null,
+  "home_page": "https://github.com/your-username/fair-history-manager",
+  "download_filename": "fair_history_manager-1.0.1.tar.gz",
+  "download_time": "2025-12-24T14:38:19.845373",
+  "package_url": "https://pypi.org/project/fair-history-manager/"
+}
