@@ -1,11 +1,11 @@
 {
   "name": "tsmasterapi",
-  "version": "2025.12.22.1777",
+  "version": "2025.12.24.1781",
   "summary": "Use TSMaster hardware",
   "author": "seven",
   "license": "Apache License",
   "home_page": null,
-  "download_filename": "tsmasterapi-2025.12.22.1777.tar.gz",
-  "download_time": "2025-12-22T03:10:26.654251",
+  "download_filename": "tsmasterapi-2025.12.24.1781.tar.gz",
+  "download_time": "2025-12-24T04:39:01.149875",
   "package_url": "https://pypi.org/project/tsmasterapi/"
 }

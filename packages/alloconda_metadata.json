@@ -1,11 +1,11 @@
 {
   "name": "alloconda",
-  "version": "0.0.1a6",
+  "version": "0.0.1a7",
   "summary": "Zig-first Python extensions with cross-compiled wheels",
   "author": "Matt Robenolt",
   "license": null,
   "home_page": null,
-  "download_filename": "alloconda-0.0.1a6.tar.gz",
-  "download_time": "2025-12-24T04:00:10.795341",
+  "download_filename": "alloconda-0.0.1a7.tar.gz",
+  "download_time": "2025-12-24T04:39:06.376456",
   "package_url": "https://pypi.org/project/alloconda/"
 }

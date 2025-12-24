@@ -1,0 +1,11 @@
+{
+  "name": "symrank",
+  "version": "0.2.0",
+  "summary": "High-performance cosine similarity ranking for Retrieval-Augmented Generation (RAG) pipelines, vector search, and information retrieval, with a Python interface powered by a Rust backend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symrank-0.2.0.tar.gz",
+  "download_time": "2025-12-24T04:39:02.188830",
+  "package_url": "https://pypi.org/project/symrank/"
+}

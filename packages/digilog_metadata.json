@@ -1,0 +1,11 @@
+{
+  "name": "digilog",
+  "version": "0.0.11",
+  "summary": "Add your description here",
+  "author": "Digilog Team",
+  "license": null,
+  "home_page": "https://github.com/digilog/digilog-python",
+  "download_filename": "digilog-0.0.11.tar.gz",
+  "download_time": "2025-12-24T04:39:26.363872",
+  "package_url": "https://pypi.org/project/digilog/"
+}
