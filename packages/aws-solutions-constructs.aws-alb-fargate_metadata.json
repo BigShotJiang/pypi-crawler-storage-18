@@ -1,0 +1,11 @@
+{
+  "name": "aws-solutions-constructs.aws-alb-fargate",
+  "version": "2.97.0",
+  "summary": "CDK Constructs for Application Load Balancer to AWS Fargate integration",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
+  "download_filename": "aws_solutions_constructs_aws_alb_fargate-2.97.0.tar.gz",
+  "download_time": "2025-12-24T16:20:34.028177",
+  "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-alb-fargate/"
+}

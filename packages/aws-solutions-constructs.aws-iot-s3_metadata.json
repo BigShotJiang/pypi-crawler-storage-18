@@ -1,0 +1,11 @@
+{
+  "name": "aws-solutions-constructs.aws-iot-s3",
+  "version": "2.97.0",
+  "summary": "CDK Constructs for AWS IoT to AWS S3 integration",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-solutions-constructs.git",
+  "download_filename": "aws_solutions_constructs_aws_iot_s3-2.97.0.tar.gz",
+  "download_time": "2025-12-24T16:20:10.370918",
+  "package_url": "https://pypi.org/project/aws-solutions-constructs.aws-iot-s3/"
+}
