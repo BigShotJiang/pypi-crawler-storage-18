@@ -1,11 +1,11 @@
 {
   "name": "elemem-vector-sdk",
-  "version": "2.1.0.9",
+  "version": "2.1.0.10",
   "summary": "A Python SDK for elem",
   "author": "elemem.tech",
   "license": null,
   "home_page": null,
-  "download_filename": "elemem_vector_sdk-2.1.0.9.tar.gz",
-  "download_time": "2025-12-24T10:56:03.639521",
+  "download_filename": "elemem_vector_sdk-2.1.0.10.tar.gz",
+  "download_time": "2025-12-24T11:15:25.706099",
   "package_url": "https://pypi.org/project/elemem-vector-sdk/"
 }

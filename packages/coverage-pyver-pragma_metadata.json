@@ -1,0 +1,11 @@
+{
+  "name": "coverage-pyver-pragma",
+  "version": "0.4.0",
+  "summary": "Plugin for Coverage.py to selectively ignore branches depending on the Python version.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/python-coincidence/coverage_pyver_pragma",
+  "download_filename": "coverage_pyver_pragma-0.4.0.tar.gz",
+  "download_time": "2025-12-24T11:15:02.044538",
+  "package_url": "https://pypi.org/project/coverage-pyver-pragma/"
+}

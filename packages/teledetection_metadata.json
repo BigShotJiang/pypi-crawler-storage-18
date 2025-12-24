@@ -1,0 +1,11 @@
+{
+  "name": "teledetection",
+  "version": "1.10.1",
+  "summary": "Software development kit for the Geospatial Data Center of 'la Maison de la Teledetection'",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "teledetection-1.10.1.tar.gz",
+  "download_time": "2025-12-24T11:15:26.256098",
+  "package_url": "https://pypi.org/project/teledetection/"
+}

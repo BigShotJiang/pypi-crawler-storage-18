@@ -1,11 +1,11 @@
 {
   "name": "cyvest",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "summary": "Cybersecurity investigation model",
   "author": "PakitoSec",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cyvest-4.0.0.tar.gz",
-  "download_time": "2025-12-21T20:15:39.883668",
+  "download_filename": "cyvest-4.1.0.tar.gz",
+  "download_time": "2025-12-24T11:15:19.839031",
   "package_url": "https://pypi.org/project/cyvest/"
 }

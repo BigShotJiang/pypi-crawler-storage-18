@@ -1,26 +1,73 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T10:56:36.930881
-- **Total Packages**: 91
-- **Total Size**: 33.44 MB
+- **Download Time**: 2025-12-24T11:15:44.388270
+- **Total Packages**: 82
+- **Total Size**: 21.22 MB
 
 ## Packages List
+- uniovi-simur-wearablepermed-utils
+- tf-keras-nightly
+- iraklis7-ubp
+- pyquery-polars
+- coverage-pyver-pragma
+- frogml
+- arthur-client
+- django-8e9e15-v1
+- disklib
+- intuned-runtime
+- pyiron-base
+- guardcoreapi
+- research-arcade
+- tla
+- tencoin-core
+- git-notes-memory
+- invoke-toolkit
+- mas-devops
+- frontmatter-mcp
+- gllm-docproc-binary
+- reaktiv
+- viper-dev-kit
+- apexsaas
+- qtcompose
+- trenchfoot
+- x-mas-cli
+- hive-nectar
+- lazzaro
+- oslo.serialization
+- skouza
+- seven-cloudapp-frame
+- nmk-github
+- xtrack
+- pkdevtools
+- python-qlv-helper
+- pkbrokers
+- cyvest
+- mftsccs
+- graph-algo-nd
+- coinsignal
+- sciv
+- python-ceair-helper
+- bluer-agent
+- FSDFCM
+- cjm-transcription-plugin-voxtral-hf
+- dbsamizdapper
+- kpu-dev
+- elemem-vector-sdk
+- teledetection
+- dicom-fuzzer
 - halib
 - avulto
 - discrete-fourier
 - p3dpy
-- x-mas-cli
 - runcell
 - aimodelshare
 - fireprompt
 - datasay
 - sendpost-python-sdk
 - inspect-scout
-- research-arcade
 - vectors-likeablejuniper
 - netbox-ip-permissions-synchronization
-- django-8e9e15-v1
 - dvt-core
 - fc-coder
 - nvidia-nat-redis
@@ -33,8 +80,6 @@
 - nvidia-nat-openpipe-art
 - torappu-excel
 - nvidia-nat-llama-index
-- nmk-github
-- elemem-vector-sdk
 - nvidia-nat-mem0ai
 - nvidia-nat-langchain
 - nvidia-nat-phoenix
@@ -43,57 +88,3 @@
 - docling
 - nvidia-nat-crewai
 - django-jwt-allauth
-- nvidia-nat-all
-- pyequa
-- xenfra
-- nvidia-nat-test
-- pyopenrivercam
-- nvidia-nat
-- discovermidi
-- apexsaas
-- nvidia-nat-a2a
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- rietpy
-- nvidia-nat-strands
-- nvidia-nat-ingestion
-- nvidia-nat-mysql
-- crexperium
-- bluetti-bt-lib
-- nvidia-nat-vanna
-- fastapi-payments
-- nvidia-nat-mcp
-- nvidia-nat-ragaai
-- sciv
-- nvidia-nat-profiling
-- dots-infrastructure
-- AdapMa-Imbal
-- nvidia-nat-adk
-- nvidia-nat-nemo-customizer
-- letta-nightly
-- nvidia-nat-s3
-- gsheetstables
-- nvidia-nat-weave
-- parstools
-- lazzaro
-- aiqtoolkit-crewai
-- aiqtoolkit-weave
-- aiqtoolkit-test
-- aiqtoolkit-semantic-kernel
-- sparp
-- aiqtoolkit-agno
-- aiqtoolkit-langchain
-- trenchfoot
-- nucliadb-admin-assets
-- aiqtoolkit-zep-cloud
-- ip2geoapi
-- failcore
-- aiqtoolkit-llama-index
-- mcp-outline-fastmcp
-- aiqtoolkit-mem0ai
-- mcp-server-obsidian-omnisearch-fastmcp
-- vandamme-proxy
-- ambivo-mcp-server-fastmcp
-- aiqtoolkit
-- aikido-zen
-- service-forge

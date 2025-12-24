@@ -1,0 +1,11 @@
+{
+  "name": "tla",
+  "version": "0.0.4",
+  "summary": "Parser and syntax tree for TLA+, the temporal logic of actions.",
+  "author": "Ioannis Filippidis",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/johnyf/tla",
+  "download_filename": "tla-0.0.4.tar.gz",
+  "download_time": "2025-12-24T11:15:06.935656",
+  "package_url": "https://pypi.org/project/tla/"
+}

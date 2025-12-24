@@ -1,0 +1,11 @@
+{
+  "name": "kpu-dev",
+  "version": "0.1.0.dev0",
+  "summary": "Kubernetes Processing Unit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kpu_dev-0.1.0.dev0.tar.gz",
+  "download_time": "2025-12-24T11:15:25.183800",
+  "package_url": "https://pypi.org/project/kpu-dev/"
+}
