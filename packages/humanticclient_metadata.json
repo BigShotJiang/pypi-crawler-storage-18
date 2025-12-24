@@ -1,11 +1,11 @@
 {
   "name": "humanticclient",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python client for Humantic AI API - Analyze LinkedIn profiles for sales and hiring insights",
-  "author": null,
+  "author": "Tanmoy Sadhukhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "humanticclient-0.1.0.tar.gz",
-  "download_time": "2025-12-24T08:22:29.380248",
+  "download_filename": "humanticclient-0.1.2.tar.gz",
+  "download_time": "2025-12-24T09:45:11.257230",
   "package_url": "https://pypi.org/project/humanticclient/"
 }

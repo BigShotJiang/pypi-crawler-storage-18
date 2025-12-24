@@ -1,0 +1,11 @@
+{
+  "name": "everai",
+  "version": "0.2.40",
+  "summary": "Client library to manage everai infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "everai-0.2.40-py3-none-any.whl",
+  "download_time": "2025-12-24T09:44:31.795453",
+  "package_url": "https://pypi.org/project/everai/"
+}

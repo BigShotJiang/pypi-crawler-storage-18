@@ -1,0 +1,11 @@
+{
+  "name": "eml2pdf",
+  "version": "1.1",
+  "summary": "Convert .eml (email) files to PDF using Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eml2pdf-1.1.tar.gz",
+  "download_time": "2025-12-24T09:45:12.427407",
+  "package_url": "https://pypi.org/project/eml2pdf/"
+}

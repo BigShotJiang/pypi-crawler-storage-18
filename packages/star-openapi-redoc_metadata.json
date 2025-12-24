@@ -1,0 +1,11 @@
+{
+  "name": "star-openapi-redoc",
+  "version": "2.5.2",
+  "summary": "Provide Redoc UI for star-openapi.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "star_openapi_redoc-2.5.2.tar.gz",
+  "download_time": "2025-12-24T09:45:14.243226",
+  "package_url": "https://pypi.org/project/star-openapi-redoc/"
+}
