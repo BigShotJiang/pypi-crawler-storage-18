@@ -1,0 +1,11 @@
+{
+  "name": "slm-graph",
+  "version": "0.1.0",
+  "summary": "Self-contained natural language to Mermaid graph generator using SLMs.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slm_graph-0.1.0.tar.gz",
+  "download_time": "2025-12-24T18:51:54.754238",
+  "package_url": "https://pypi.org/project/slm-graph/"
+}

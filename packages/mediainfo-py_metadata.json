@@ -1,0 +1,11 @@
+{
+  "name": "mediainfo-py",
+  "version": "0.1.0",
+  "summary": "Lightweight FFmpeg-based video metadata extractor",
+  "author": "Aditya Katyal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mediainfo_py-0.1.0.tar.gz",
+  "download_time": "2025-12-24T18:51:30.613237",
+  "package_url": "https://pypi.org/project/mediainfo-py/"
+}

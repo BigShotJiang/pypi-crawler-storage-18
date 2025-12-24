@@ -1,0 +1,11 @@
+{
+  "name": "queuedir",
+  "version": "1.1.0",
+  "summary": "A lightweight folder-based job queue system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "queuedir-1.1.0.tar.gz",
+  "download_time": "2025-12-24T18:51:46.497276",
+  "package_url": "https://pypi.org/project/queuedir/"
+}

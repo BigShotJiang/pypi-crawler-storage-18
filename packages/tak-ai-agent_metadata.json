@@ -1,0 +1,11 @@
+{
+  "name": "tak-ai-agent",
+  "version": "1.0.0",
+  "summary": "AI agent framework for TAK (Team Awareness Kit) networks",
+  "author": "OVERWATCH",
+  "license": "MIT",
+  "home_page": "https://github.com/overwatch-tak/tak-ai-agent",
+  "download_filename": "tak_ai_agent-1.0.0.tar.gz",
+  "download_time": "2025-12-24T18:51:33.862326",
+  "package_url": "https://pypi.org/project/tak-ai-agent/"
+}

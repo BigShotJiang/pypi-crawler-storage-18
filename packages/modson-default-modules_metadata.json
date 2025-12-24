@@ -1,0 +1,11 @@
+{
+  "name": "modson-default-modules",
+  "version": "0.1.0",
+  "summary": "Some usefull custom Meson modules compatible with modson.",
+  "author": "alex-bouget",
+  "license": null,
+  "home_page": "https://github.com/alex-bouget/modson-default-modules",
+  "download_filename": "modson_default_modules-0.1.0.tar.gz",
+  "download_time": "2025-12-24T18:51:51.129269",
+  "package_url": "https://pypi.org/project/modson-default-modules/"
+}

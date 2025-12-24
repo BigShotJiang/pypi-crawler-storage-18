@@ -1,11 +1,11 @@
 {
   "name": "rapid-pdf",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A fast PDF text extractor written in Rust. Aim for speed and low memory usage. And improve performance with Large Language Models when handling massive amount of Document.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rapid_pdf-0.1.3.tar.gz",
-  "download_time": "2025-12-22T15:59:10.471512",
+  "download_filename": "rapid_pdf-0.1.4.tar.gz",
+  "download_time": "2025-12-24T18:51:53.200153",
   "package_url": "https://pypi.org/project/rapid-pdf/"
 }
