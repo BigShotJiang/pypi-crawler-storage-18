@@ -1,0 +1,11 @@
+{
+  "name": "ssh-copy-id-via",
+  "version": "0.1.0",
+  "summary": "Copy SSH keys to passwordless users via another user",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssh_copy_id_via-0.1.0.tar.gz",
+  "download_time": "2025-12-24T13:55:26.571839",
+  "package_url": "https://pypi.org/project/ssh-copy-id-via/"
+}
