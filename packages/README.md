@@ -1,30 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T11:32:23.690170
-- **Total Packages**: 91
-- **Total Size**: 36.09 MB
+- **Download Time**: 2025-12-24T11:51:06.634672
+- **Total Packages**: 86
+- **Total Size**: 11.69 MB
 
 ## Packages List
-- regula-documentreader-webclient
-- jinjanator
-- rumdl
-- olivos-cli
-- alita-sdk
-- torchx-nightly
-- p115client
-- cwl2click
-- gesso
-- pymovements
-- gse-gsatmicro-mgr
-- fiber_uploader
-- cupyram
-- spins2
-- torchft-nightly
-- cjm-transcription-plugin-voxtral-vllm
-- vital
-- uipath
-- microservice-chassis-grupo2-cc
 - rxiv-maker
 - frago-cli
 - anthriq-registry-stack
@@ -97,3 +78,17 @@
 - cjm-transcription-plugin-voxtral-hf
 - dbsamizdapper
 - kpu-dev
+- elemem-vector-sdk
+- teledetection
+- dicom-fuzzer
+- halib
+- avulto
+- discrete-fourier
+- p3dpy
+- runcell
+- aimodelshare
+- fireprompt
+- datasay
+- sendpost-python-sdk
+- inspect-scout
+- vectors-likeablejuniper

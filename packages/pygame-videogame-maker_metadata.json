@@ -1,11 +1,11 @@
 {
   "name": "pygame-videogame-maker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Minimal Pygame scaffold (window + loop)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygame_videogame_maker-1.0.0.tar.gz",
-  "download_time": "2025-12-24T11:31:58.069669",
+  "download_filename": "pygame_videogame_maker-1.0.2-py3-none-any.whl",
+  "download_time": "2025-12-24T11:50:31.216657",
   "package_url": "https://pypi.org/project/pygame-videogame-maker/"
 }
