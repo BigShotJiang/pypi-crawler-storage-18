@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-dbt",
+  "version": "1.16.11",
+  "summary": "DBT Plugin for Flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-dbt",
+  "download_filename": "flytekitplugins_dbt-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:28.513137",
+  "package_url": "https://pypi.org/project/flytekitplugins-dbt/"
+}

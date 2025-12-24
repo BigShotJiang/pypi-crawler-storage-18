@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-memray",
+  "version": "1.16.11",
+  "summary": "This package enables memory profiling for tasks with memray",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_memray-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:19.126169",
+  "package_url": "https://pypi.org/project/flytekitplugins-memray/"
+}

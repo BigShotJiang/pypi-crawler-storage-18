@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-kfpytorch",
+  "version": "1.16.11",
+  "summary": "K8s based Pytorch plugin for Flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_kfpytorch-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:20.173927",
+  "package_url": "https://pypi.org/project/flytekitplugins-kfpytorch/"
+}

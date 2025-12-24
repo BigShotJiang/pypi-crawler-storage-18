@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-deck-standard",
+  "version": "1.16.11",
+  "summary": "This Plugin provides more renderers to improve task visibility",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-data-fsspec",
+  "download_filename": "flytekitplugins_deck_standard-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:27.991409",
+  "package_url": "https://pypi.org/project/flytekitplugins-deck-standard/"
+}

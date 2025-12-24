@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-whylogs",
+  "version": "1.16.11",
+  "summary": "Enable the use of whylogs profiles to be used in flyte tasks to get aggregate statistics about data.",
+  "author": "whylabs",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-whylogs",
+  "download_filename": "flytekitplugins_whylogs-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:07.653113",
+  "package_url": "https://pypi.org/project/flytekitplugins-whylogs/"
+}

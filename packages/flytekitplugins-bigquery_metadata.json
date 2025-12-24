@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-bigquery",
+  "version": "1.16.11",
+  "summary": "This package holds the Bigquery plugins for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_bigquery-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:30.598378",
+  "package_url": "https://pypi.org/project/flytekitplugins-bigquery/"
+}

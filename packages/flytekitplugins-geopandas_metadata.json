@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-geopandas",
+  "version": "1.16.11",
+  "summary": "Geopandas plugin for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_geopandas-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:24.866853",
+  "package_url": "https://pypi.org/project/flytekitplugins-geopandas/"
+}

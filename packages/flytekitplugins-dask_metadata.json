@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-dask",
+  "version": "1.16.11",
+  "summary": "Dask plugin for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-dask",
+  "download_filename": "flytekitplugins_dask-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:29.556898",
+  "package_url": "https://pypi.org/project/flytekitplugins-dask/"
+}

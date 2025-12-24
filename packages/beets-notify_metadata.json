@@ -1,0 +1,11 @@
+{
+  "name": "beets-notify",
+  "version": "0.2.1",
+  "summary": "A beets plugin to send notifications when albums are imported",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_notify-0.2.1.tar.gz",
+  "download_time": "2025-12-24T22:16:01.215971",
+  "package_url": "https://pypi.org/project/beets-notify/"
+}

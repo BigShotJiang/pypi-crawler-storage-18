@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-mlflow",
+  "version": "1.16.11",
+  "summary": "This package enables seamless use of MLFlow within Flyte",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_mlflow-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:18.605960",
+  "package_url": "https://pypi.org/project/flytekitplugins-mlflow/"
+}

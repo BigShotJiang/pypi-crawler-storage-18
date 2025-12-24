@@ -1,0 +1,11 @@
+{
+  "name": "discord-py-utilities",
+  "version": "0.0.9.7",
+  "summary": "A collection of tools for Discord bots to enhance functionality and ease of use.",
+  "author": "Rico Stryker",
+  "license": null,
+  "home_page": "https://github.com/wolfricoz/discord_tools",
+  "download_filename": "discord_py_utilities-0.0.9.7.tar.gz",
+  "download_time": "2025-12-24T22:15:55.478409",
+  "package_url": "https://pypi.org/project/discord-py-utilities/"
+}

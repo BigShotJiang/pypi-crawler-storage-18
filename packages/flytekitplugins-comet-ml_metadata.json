@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-comet-ml",
+  "version": "1.16.11",
+  "summary": "This package enables seamless use of Comet within Flyte",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_comet_ml-1.16.11.tar.gz",
+  "download_time": "2025-12-24T22:16:30.076398",
+  "package_url": "https://pypi.org/project/flytekitplugins-comet-ml/"
+}
