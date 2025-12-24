@@ -1,0 +1,11 @@
+{
+  "name": "paperfig",
+  "version": "0.2.0",
+  "summary": "JSON-driven orchestration for building and concatenating paper figures.",
+  "author": "Katsutoshi Seki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paperfig-0.2.0.tar.gz",
+  "download_time": "2025-12-24T17:33:52.035068",
+  "package_url": "https://pypi.org/project/paperfig/"
+}

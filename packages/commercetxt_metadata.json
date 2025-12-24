@@ -1,11 +1,11 @@
 {
   "name": "commercetxt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A robust, secure Python reference parser for the CommerceTXT protocol.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "commercetxt-1.0.1.tar.gz",
-  "download_time": "2025-12-23T17:16:50.154935",
+  "download_filename": "commercetxt-1.0.2.tar.gz",
+  "download_time": "2025-12-24T17:33:37.883872",
   "package_url": "https://pypi.org/project/commercetxt/"
 }

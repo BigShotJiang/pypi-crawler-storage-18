@@ -1,11 +1,11 @@
 {
   "name": "pulumi-newrelic",
-  "version": "5.57.3",
+  "version": "5.58.0",
   "summary": "A Pulumi package for creating and managing New Relic resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_newrelic-5.57.3.tar.gz",
-  "download_time": "2025-12-23T06:25:11.780768",
+  "download_filename": "pulumi_newrelic-5.58.0.tar.gz",
+  "download_time": "2025-12-24T17:33:29.308862",
   "package_url": "https://pypi.org/project/pulumi-newrelic/"
 }

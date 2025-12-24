@@ -1,0 +1,11 @@
+{
+  "name": "functor",
+  "version": "0.0.1b1.dev0",
+  "summary": "The `functor` package uses Python black magic to turn functions into objects (functors), letting them access their own instance via `functor.self`.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "functor-0.0.1b1.dev0.tar.gz",
+  "download_time": "2025-12-24T17:33:33.281854",
+  "package_url": "https://pypi.org/project/functor/"
+}

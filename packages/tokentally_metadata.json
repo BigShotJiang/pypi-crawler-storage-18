@@ -1,11 +1,11 @@
 {
   "name": "tokentally",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Track AI API usage with TokenTally",
   "author": "TokenTally",
   "license": null,
   "home_page": "https://github.com/tokentally/tokentally-python",
-  "download_filename": "tokentally-0.1.1.tar.gz",
-  "download_time": "2025-12-21T22:14:12.954604",
+  "download_filename": "tokentally-0.2.0.tar.gz",
+  "download_time": "2025-12-24T17:33:47.526775",
   "package_url": "https://pypi.org/project/tokentally/"
 }

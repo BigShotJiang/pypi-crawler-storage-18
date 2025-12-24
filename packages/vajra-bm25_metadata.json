@@ -1,0 +1,11 @@
+{
+  "name": "vajra-bm25",
+  "version": "0.3.0",
+  "summary": "Categorical BM25 search engine using pure category theory",
+  "author": "Rajesh Sampathkumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vajra_bm25-0.3.0.tar.gz",
+  "download_time": "2025-12-24T17:33:51.464215",
+  "package_url": "https://pypi.org/project/vajra-bm25/"
+}

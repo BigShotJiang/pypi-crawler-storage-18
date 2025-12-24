@@ -1,0 +1,11 @@
+{
+  "name": "fapshi",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Fapshi Payment API",
+  "author": "Fapshi",
+  "license": "MIT",
+  "home_page": "https://github.com/Fapshi/python-sdk",
+  "download_filename": "fapshi-1.0.0.tar.gz",
+  "download_time": "2025-12-24T17:33:50.897949",
+  "package_url": "https://pypi.org/project/fapshi/"
+}
