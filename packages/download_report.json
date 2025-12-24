@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-12-24T05:55:11.170902",
+  "download_time": "2025-12-24T06:26:22.731413",
   "total_packages_downloaded": 88,
-  "total_size_mb": 15.57,
+  "total_size_mb": 0.01,
   "packages": [
+    "telegram-reader-mcp",
     "Multi-information-FCM",
     "hyperbrowser",
     "hhg",
@@ -89,7 +90,6 @@
     "NeuroEvolution",
     "beneissue",
     "powerchord",
-    "pulumi-akamai",
-    "pulumi-archive"
+    "pulumi-akamai"
   ]
 }
