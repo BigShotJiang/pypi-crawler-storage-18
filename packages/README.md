@@ -1,17 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T21:15:01.791195
-- **Total Packages**: 83
-- **Total Size**: 11.47 MB
+- **Download Time**: 2025-12-24T21:33:24.610532
+- **Total Packages**: 89
+- **Total Size**: 6.9 MB
 
 ## Packages List
+- psqlmodel
+- mcap-ros1-support
+- category-embedding
+- basic-agent-chat-loop
+- pipbert
+- attp-client
+- mcap-protobuf-support
+- pyibis-ami
+- empathy-framework
+- sandlersteam
+- honest-chain
+- envtoolsx
+- inopyutils
+- quik-python
+- wmill-pg
+- wmill
+- windmill-api
+- openenv-dipg-safety
+- kiarina-utils-file
+- kiarina-utils-common
+- kiarina-llm
+- kiarina-lib-redisearch
+- IncludeCPP
+- kiarina-lib-redis
+- kiarina-lib-openai
+- kiarina-lib-google-cloud-storage
+- kiarina-lib-google-auth
+- kiarina-lib-falkordb
+- kiarina-lib-cloudflare-d1
+- kiarina-lib-cloudflare-auth
+- kiarina-lib-anthropic
+- kiarina-i18n
+- kiarina
 - tencentcloud-sdk-python-wedata
 - tencentcloud-sdk-python-waf
 - gatling
 - clevercx-security-master-types
 - tencentcloud-sdk-python-vod
-- IncludeCPP
 - tencentcloud-sdk-python-vm
 - tencentcloud-sdk-python-vcube
 - google-ad-manager-mcp
@@ -42,14 +74,12 @@
 - tencentcloud-sdk-python-ams
 - ingestkit
 - tccli-intl-en
-- honest-chain
 - dev-health-ops
 - gait-ai
 - gsheetstables
 - cvat-sdk
 - cvat-cli
 - secure-run
-- psqlmodel
 - bluetti-bt-lib
 - metagame
 - nntool
@@ -65,27 +95,3 @@
 - ezmsg-baseproc
 - masgent
 - maradoner
-- cocoagui
-- basic-agent-chat-loop
-- signalpilot-ai-internal
-- cribl-control-plane
-- bato-downloader
-- pypangolin
-- ipycalc
-- leanrl
-- word-search-app
-- vivarium-cluster-tools
-- easy-eo
-- libtvdb
-- gammarers.aws-rds-database-running-schedule-stack
-- ivolatility-backtesting
-- aveytense
-- eb-adapters
-- open-flash
-- progress1bar
-- flux-local
-- sandlersteam
-- argentic
-- airbrowser-client
-- panpath
-- sequel-ag

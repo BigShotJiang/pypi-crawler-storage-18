@@ -1,0 +1,11 @@
+{
+  "name": "mcap-ros1-support",
+  "version": "0.7.4",
+  "summary": "ROS1 support for the Python MCAP library",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/foxglove/mcap",
+  "download_filename": "mcap_ros1_support-0.7.4.tar.gz",
+  "download_time": "2025-12-24T21:32:32.099343",
+  "package_url": "https://pypi.org/project/mcap-ros1-support/"
+}

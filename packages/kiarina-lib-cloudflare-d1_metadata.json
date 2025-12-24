@@ -1,0 +1,11 @@
+{
+  "name": "kiarina-lib-cloudflare-d1",
+  "version": "1.20.1",
+  "summary": "Cloudflare D1 client library for kiarina namespace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kiarina_lib_cloudflare_d1-1.20.1.tar.gz",
+  "download_time": "2025-12-24T21:32:49.093872",
+  "package_url": "https://pypi.org/project/kiarina-lib-cloudflare-d1/"
+}

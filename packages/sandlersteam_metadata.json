@@ -1,11 +1,11 @@
 {
   "name": "sandlersteam",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Steam tables from Chemical, Biochemical, and Engineering Thermodynamics (5th edition) by Stan Sandler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sandlersteam-0.5.0.tar.gz",
-  "download_time": "2025-12-24T20:42:55.423475",
+  "download_filename": "sandlersteam-0.5.1.tar.gz",
+  "download_time": "2025-12-24T21:32:36.860196",
   "package_url": "https://pypi.org/project/sandlersteam/"
 }

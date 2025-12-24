@@ -1,11 +1,11 @@
 {
   "name": "psqlmodel",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "summary": "A modern, lightweight async PostgreSQL ORM with QueryBuilder, migrations, and trigger support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psqlmodel-0.6.4.tar.gz",
-  "download_time": "2025-12-24T21:14:40.506905",
+  "download_filename": "psqlmodel-0.6.5.tar.gz",
+  "download_time": "2025-12-24T21:32:31.501560",
   "package_url": "https://pypi.org/project/psqlmodel/"
 }
