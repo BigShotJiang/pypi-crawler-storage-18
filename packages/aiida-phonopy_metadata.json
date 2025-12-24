@@ -1,0 +1,11 @@
+{
+  "name": "aiida-phonopy",
+  "version": "1.4.0",
+  "summary": "The official AiiDA plugin for Phonopy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiida_phonopy-1.4.0.tar.gz",
+  "download_time": "2025-12-24T04:00:03.443978",
+  "package_url": "https://pypi.org/project/aiida-phonopy/"
+}

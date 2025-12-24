@@ -1,11 +1,11 @@
 {
   "name": "aionetiface",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "summary": "Asynchronous networking library ",
   "author": "Matthew Roberts",
   "license": "public domain",
   "home_page": "http://github.com/robertsdotpm/aionetiface",
-  "download_filename": "aionetiface-0.0.5.tar.gz",
-  "download_time": "2025-12-21T03:06:40.827521",
+  "download_filename": "aionetiface-0.0.9.tar.gz",
+  "download_time": "2025-12-24T03:59:51.912844",
   "package_url": "https://pypi.org/project/aionetiface/"
 }

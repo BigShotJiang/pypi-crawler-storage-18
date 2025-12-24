@@ -1,11 +1,11 @@
 {
   "name": "xll-kit",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "xll python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xll_kit-0.1.3.tar.gz",
-  "download_time": "2025-12-22T09:49:13.379329",
+  "download_filename": "xll_kit-0.1.4.tar.gz",
+  "download_time": "2025-12-24T04:00:30.739389",
   "package_url": "https://pypi.org/project/xll-kit/"
 }

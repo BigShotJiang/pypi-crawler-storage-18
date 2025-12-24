@@ -1,0 +1,11 @@
+{
+  "name": "ntnx-objects-py-client",
+  "version": "4.0.2",
+  "summary": "Nutanix Objects Storage Management APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntnx_objects_py_client-4.0.2.tar.gz",
+  "download_time": "2025-12-24T04:00:12.358334",
+  "package_url": "https://pypi.org/project/ntnx-objects-py-client/"
+}

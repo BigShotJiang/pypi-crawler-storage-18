@@ -1,0 +1,11 @@
+{
+  "name": "engine-matching-client",
+  "version": "0.1.1",
+  "summary": "HTTP client helpers for the engine matching Flask API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "engine_matching_client-0.1.1.tar.gz",
+  "download_time": "2025-12-24T04:00:29.178259",
+  "package_url": "https://pypi.org/project/engine-matching-client/"
+}

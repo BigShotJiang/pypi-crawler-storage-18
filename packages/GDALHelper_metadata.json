@@ -1,0 +1,11 @@
+{
+  "name": "GDALHelper",
+  "version": "1.1",
+  "summary": "A collection of helper utilities for GDAL",
+  "author": "corb",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "gdalhelper-1.1.tar.gz",
+  "download_time": "2025-12-24T03:59:57.669262",
+  "package_url": "https://pypi.org/project/GDALHelper/"
+}

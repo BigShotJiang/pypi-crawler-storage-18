@@ -1,11 +1,11 @@
 {
   "name": "email-archiver",
-  "version": "0.7.7",
+  "version": "0.8.0",
   "summary": "Email-to-EML Secure Archiver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "email_archiver-0.7.7.tar.gz",
-  "download_time": "2025-12-24T01:08:58.079872",
+  "download_filename": "email_archiver-0.8.0.tar.gz",
+  "download_time": "2025-12-24T03:59:53.472974",
   "package_url": "https://pypi.org/project/email-archiver/"
 }
