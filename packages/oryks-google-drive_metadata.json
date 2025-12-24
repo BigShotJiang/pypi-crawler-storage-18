@@ -1,0 +1,11 @@
+{
+  "name": "oryks-google-drive",
+  "version": "0.1.2",
+  "summary": "A python library for working with Google Drive.",
+  "author": "Lyle Okoth",
+  "license": "MIT",
+  "home_page": "https://youtube-wrapper.readthedocs.io/en/latest/index.html",
+  "download_filename": "oryks_google_drive-0.1.2.tar.gz",
+  "download_time": "2025-12-24T19:28:29.634216",
+  "package_url": "https://pypi.org/project/oryks-google-drive/"
+}

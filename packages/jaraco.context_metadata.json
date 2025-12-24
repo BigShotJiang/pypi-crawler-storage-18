@@ -1,0 +1,11 @@
+{
+  "name": "jaraco.context",
+  "version": "6.0.2",
+  "summary": "Useful decorators and context managers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaraco_context-6.0.2.tar.gz",
+  "download_time": "2025-12-24T19:28:30.152353",
+  "package_url": "https://pypi.org/project/jaraco.context/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-gcp",
-  "version": "9.6.0",
+  "version": "9.7.0",
   "summary": "A Pulumi package for creating and managing Google Cloud Platform resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_gcp-9.6.0.tar.gz",
-  "download_time": "2025-12-22T21:14:19.192963",
+  "download_filename": "pulumi_gcp-9.7.0.tar.gz",
+  "download_time": "2025-12-24T19:28:28.592986",
   "package_url": "https://pypi.org/project/pulumi-gcp/"
 }

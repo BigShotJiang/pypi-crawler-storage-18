@@ -1,0 +1,11 @@
+{
+  "name": "semgrep_rules_manager",
+  "version": "0.4.0",
+  "summary": "Manager of third-party Semgrep rules",
+  "author": "George-Andrei Iosif",
+  "license": "MIT",
+  "home_page": "https://github.com/iosifache/semgrep-rules-manager",
+  "download_filename": "semgrep_rules_manager-0.4.0.tar.gz",
+  "download_time": "2025-12-24T19:28:36.407671",
+  "package_url": "https://pypi.org/project/semgrep_rules_manager/"
+}
