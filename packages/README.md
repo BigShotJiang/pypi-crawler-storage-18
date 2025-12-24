@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T07:20:58.716567
-- **Total Packages**: 89
-- **Total Size**: 36.38 MB
+- **Download Time**: 2025-12-24T07:44:26.244017
+- **Total Packages**: 87
+- **Total Size**: 12.1 MB
 
 ## Packages List
+- opes
+- adaptivegraph
+- nanomd
+- htmlgraph
+- qolsys-controller
+- work-assistant-mcp
+- clipy-manager
+- ucloud-sandbox
+- halib
+- ai-edge-litert-nightly
+- smoosense
+- ngen-argoapi
+- truss
+- kbackup
 - acryl-datahub-actions
 - feedback-mcp
 - pulumi-azure
@@ -39,18 +53,15 @@
 - rococo
 - rqfactor
 - rulelift
-- truss
 - chad-ai
 - digital-employee-core
 - aabd
 - deltafq
 - streamlit-nightly
-- ngen-argoapi
 - agentbill-py-crewai
 - agentbill-py-langchain
 - agentbill-py-sdk
 - ddss
-- smoosense
 - alibabacloud-sophonsoar20220728
 - pulumi-cloudflare
 - fireprompt
@@ -82,16 +93,3 @@
 - pb2
 - pulumi-vsphere
 - pulumi-wavefront
-- rhiza
-- pulumi-tls
-- pulumi-venafi
-- soorma-core
-- pulumi-scm
-- mattress
-- pulumi-awsx
-- flatflow
-- soorma-common
-- pulumi-spotinst
-- pulumi-snowflake
-- bkflow-sdk
-- fastloom

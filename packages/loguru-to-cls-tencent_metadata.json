@@ -1,11 +1,11 @@
 {
   "name": "loguru-to-cls-tencent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A loguru handler to send logs to Tencent Cloud CLS via Kafka",
   "author": "linzeming",
   "license": null,
   "home_page": "https://gitee.com/linzeming/loguru-to-cls",
-  "download_filename": "loguru_to_cls_tencent-0.1.1-py3-none-any.whl",
-  "download_time": "2025-12-24T07:20:23.750622",
+  "download_filename": "loguru_to_cls_tencent-0.1.2.tar.gz",
+  "download_time": "2025-12-24T07:43:58.575038",
   "package_url": "https://pypi.org/project/loguru-to-cls-tencent/"
 }

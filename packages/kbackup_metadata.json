@@ -1,11 +1,11 @@
 {
   "name": "kbackup",
-  "version": "0.1",
+  "version": "0.1.3",
   "summary": "kubernetes manifest backup with well-structured folder",
   "author": "Ahmad Bayhaqi",
   "license": null,
   "home_page": null,
-  "download_filename": "kbackup-0.1.tar.gz",
-  "download_time": "2025-12-22T06:25:51.222723",
+  "download_filename": "kbackup-0.1.3.tar.gz",
+  "download_time": "2025-12-24T07:43:43.365543",
   "package_url": "https://pypi.org/project/kbackup/"
 }
