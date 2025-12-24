@@ -1,0 +1,11 @@
+{
+  "name": "python-engineio",
+  "version": "4.13.0",
+  "summary": "Engine.IO server and client for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_engineio-4.13.0.tar.gz",
+  "download_time": "2025-12-24T22:52:57.807754",
+  "package_url": "https://pypi.org/project/python-engineio/"
+}

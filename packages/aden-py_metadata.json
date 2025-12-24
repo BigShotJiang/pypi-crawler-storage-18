@@ -1,11 +1,11 @@
 {
   "name": "aden-py",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Multi-provider LLM SDK metering - OpenAI, Anthropic, Gemini - usage tracking, budget enforcement, and cost control",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aden_py-0.2.4.tar.gz",
-  "download_time": "2025-12-24T03:01:07.082816",
+  "download_filename": "aden_py-0.2.5.tar.gz",
+  "download_time": "2025-12-24T22:52:54.658018",
   "package_url": "https://pypi.org/project/aden-py/"
 }
