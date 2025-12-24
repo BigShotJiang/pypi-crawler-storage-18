@@ -1,0 +1,11 @@
+{
+  "name": "il-supermarket-parser",
+  "version": "0.2.2",
+  "summary": "python package that process the data dumped by the israeli supermarket",
+  "author": "Sefi Erlich",
+  "license": "MIT",
+  "home_page": "https://github.com/OpenIsraeliSupermarkets/israeli-supermarket-parsers",
+  "download_filename": "il_supermarket_parser-0.2.2.tar.gz",
+  "download_time": "2025-12-24T20:18:19.771371",
+  "package_url": "https://pypi.org/project/il-supermarket-parser/"
+}

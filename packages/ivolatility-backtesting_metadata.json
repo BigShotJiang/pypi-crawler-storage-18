@@ -1,11 +1,11 @@
 {
   "name": "ivolatility-backtesting",
-  "version": "1.37",
+  "version": "1.39",
   "summary": "A universal backtesting framework for financial strategies using the IVolatility API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ivolatility_backtesting-1.37.tar.gz",
-  "download_time": "2025-12-24T19:49:16.790598",
+  "download_filename": "ivolatility_backtesting-1.39.tar.gz",
+  "download_time": "2025-12-24T20:18:09.661171",
   "package_url": "https://pypi.org/project/ivolatility-backtesting/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ts-backend-check",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Check TypeScript types against their corresponding backend models to assure that all fields have been accounted for.",
   "author": "ts-backend-check developers",
   "license": ": OSI Approved :: GNU License",
   "home_page": "https://github.com/activist-org/ts-backend-check",
-  "download_filename": "ts_backend_check-1.2.0-py3-none-any.whl",
-  "download_time": "2025-12-24T19:13:05.609611",
+  "download_filename": "ts_backend_check-1.2.2-py3-none-any.whl",
+  "download_time": "2025-12-24T20:18:17.600619",
   "package_url": "https://pypi.org/project/ts-backend-check/"
 }

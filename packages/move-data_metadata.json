@@ -1,0 +1,11 @@
+{
+  "name": "move-data",
+  "version": "0.1.5",
+  "summary": "A Python package for moving data between Google Sheets, SharePoint, Google Cloud Storage, and Snowflake",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/move-data",
+  "download_filename": "move_data-0.1.5.tar.gz",
+  "download_time": "2025-12-24T20:18:24.431576",
+  "package_url": "https://pypi.org/project/move-data/"
+}

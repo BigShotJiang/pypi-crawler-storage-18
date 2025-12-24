@@ -1,0 +1,11 @@
+{
+  "name": "pytest-report-extras",
+  "version": "1.3.8",
+  "summary": "Pytest plugin to enhance pytest-html and allure reports by adding comments, screenshots, webpage sources and attachments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_report_extras-1.3.8.tar.gz",
+  "download_time": "2025-12-24T20:18:16.506323",
+  "package_url": "https://pypi.org/project/pytest-report-extras/"
+}

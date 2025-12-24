@@ -1,0 +1,11 @@
+{
+  "name": "chatenium-uniend",
+  "version": "0.1.2",
+  "summary": "Linux-only GPL-3 backend package for Chatenium",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatenium_uniend-0.1.2.tar.gz",
+  "download_time": "2025-12-24T20:18:32.766152",
+  "package_url": "https://pypi.org/project/chatenium-uniend/"
+}

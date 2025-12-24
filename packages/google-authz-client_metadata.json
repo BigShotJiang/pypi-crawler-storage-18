@@ -1,0 +1,11 @@
+{
+  "name": "google-authz-client",
+  "version": "0.6.0",
+  "summary": "Python helpers for talking to the google-authz service from popular web frameworks.",
+  "author": "google-authz team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "google_authz_client-0.6.0.tar.gz",
+  "download_time": "2025-12-24T20:18:22.354923",
+  "package_url": "https://pypi.org/project/google-authz-client/"
+}
