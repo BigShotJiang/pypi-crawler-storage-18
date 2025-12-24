@@ -1,11 +1,11 @@
 {
   "name": "omnis-py",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Python library for Ex Libris Primo (OMNIS) API",
   "author": "TheUndefined",
   "license": null,
   "home_page": null,
-  "download_filename": "omnis_py-0.1.2.tar.gz",
-  "download_time": "2025-12-22T22:37:49.432738",
+  "download_filename": "omnis_py-0.2.0.tar.gz",
+  "download_time": "2025-12-24T23:33:12.847701",
   "package_url": "https://pypi.org/project/omnis-py/"
 }

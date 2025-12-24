@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T23:16:03.040062
-- **Total Packages**: 75
-- **Total Size**: 7.86 MB
+- **Download Time**: 2025-12-24T23:33:54.071687
+- **Total Packages**: 76
+- **Total Size**: 5.02 MB
 
 ## Packages List
+- pgcopy
+- yield-module-names-and-python-file-paths
+- cjm-plugin-system
+- adif-mcp
+- sukta
+- mil-kit
+- omnis-py
+- biblemategui
+- pythehagueparking
+- youtube-to-docs
+- aiinbx
+- resolve-module-import
+- mkdocs-texsmith
+- texsmith
 - trayscope
 - db-bridge
 - jsonschema-rs
@@ -15,7 +29,6 @@
 - replimap
 - pyCityParkingPermit
 - opik-optimizer
-- mil-kit
 - graphqlite
 - datalab-server
 - stats-can
@@ -26,11 +39,8 @@
 - strutex
 - telekit
 - hangeul-jamo
-- youtube-to-docs
 - adv-optm
 - mm-async
-- sukta
-- adif-mcp
 - dycw-utilities
 - gtm-wizard
 - combigraphs
@@ -72,12 +82,3 @@
 - microeval
 - async-universalis
 - endurance-screen
-- aiinbx
-- bluer-plugin
-- lifx-async
-- jararaca
-- django-app-logs
-- satcat
-- django-core-micha
-- konic
-- basic-agent-chat-loop
