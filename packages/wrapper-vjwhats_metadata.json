@@ -1,0 +1,11 @@
+{
+  "name": "wrapper-vjwhats",
+  "version": "0.0.6",
+  "summary": "Wrapper for vjwhats library to send messages and sent messages",
+  "author": "Renan Rodrigues",
+  "license": "MIT",
+  "home_page": "https://github.com/Renan-RodriguesDEV/wrapper-vjwhats",
+  "download_filename": "wrapper_vjwhats-0.0.6.tar.gz",
+  "download_time": "2025-12-24T15:17:03.478877",
+  "package_url": "https://pypi.org/project/wrapper-vjwhats/"
+}

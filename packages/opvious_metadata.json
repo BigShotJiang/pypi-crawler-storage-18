@@ -1,11 +1,11 @@
 {
   "name": "opvious",
-  "version": "0.23.4",
+  "version": "0.24.0",
   "summary": "Opvious Python SDK",
   "author": "Opvious Engineering",
   "license": null,
   "home_page": "https://github.com/opvious/sdk.py",
-  "download_filename": "opvious-0.23.4.tar.gz",
-  "download_time": "2025-12-22T22:52:53.423770",
+  "download_filename": "opvious-0.24.0.tar.gz",
+  "download_time": "2025-12-24T15:17:06.271443",
   "package_url": "https://pypi.org/project/opvious/"
 }

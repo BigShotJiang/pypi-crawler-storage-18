@@ -1,11 +1,11 @@
 {
   "name": "plex-leon",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "summary": null,
   "author": "Felix Rizzolli",
   "license": null,
   "home_page": null,
-  "download_filename": "plex_leon-3.0.2.tar.gz",
-  "download_time": "2025-12-24T09:45:09.051993",
+  "download_filename": "plex_leon-3.1.0.tar.gz",
+  "download_time": "2025-12-24T15:16:53.880050",
   "package_url": "https://pypi.org/project/plex-leon/"
 }

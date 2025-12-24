@@ -1,0 +1,11 @@
+{
+  "name": "gceimgutils",
+  "version": "1.3.0",
+  "summary": "Command-line tools to manage images in GCE",
+  "author": "SUSE Public Cloud Team",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/SUSE-Enceladus/gceimgutils",
+  "download_filename": "gceimgutils-1.3.0.tar.gz",
+  "download_time": "2025-12-24T15:16:55.549944",
+  "package_url": "https://pypi.org/project/gceimgutils/"
+}

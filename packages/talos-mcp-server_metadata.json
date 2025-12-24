@@ -1,11 +1,11 @@
 {
   "name": "talos-mcp-server",
-  "version": "0.3.3",
+  "version": "0.3.8",
   "summary": "MCP server for Talos Linux API integration - manage clusters with AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "talos_mcp_server-0.3.3.tar.gz",
-  "download_time": "2025-12-24T14:38:19.334307",
+  "download_filename": "talos_mcp_server-0.3.8.tar.gz",
+  "download_time": "2025-12-24T15:16:54.450143",
   "package_url": "https://pypi.org/project/talos-mcp-server/"
 }

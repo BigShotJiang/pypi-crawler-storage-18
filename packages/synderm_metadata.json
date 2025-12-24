@@ -1,0 +1,11 @@
+{
+  "name": "synderm",
+  "version": "0.1.4",
+  "summary": "A package for generating synthetic data to augment image classifiers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synderm-0.1.4.tar.gz",
+  "download_time": "2025-12-24T15:16:40.939761",
+  "package_url": "https://pypi.org/project/synderm/"
+}

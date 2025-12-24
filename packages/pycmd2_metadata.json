@@ -1,0 +1,11 @@
+{
+  "name": "pycmd2",
+  "version": "0.7.6",
+  "summary": "Command tools build with python.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "pycmd2-0.7.6.tar.gz",
+  "download_time": "2025-12-24T15:16:37.885769",
+  "package_url": "https://pypi.org/project/pycmd2/"
+}

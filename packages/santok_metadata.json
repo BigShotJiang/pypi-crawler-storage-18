@@ -1,0 +1,11 @@
+{
+  "name": "santok",
+  "version": "2.0.0",
+  "summary": "Comprehensive Text Processing System: Tokenization, Embeddings, Training, Vector Stores, and More",
+  "author": "Santosh Chavala",
+  "license": "MIT",
+  "home_page": "https://github.com/chavalasantosh/SanTOK",
+  "download_filename": "santok-2.0.0.tar.gz",
+  "download_time": "2025-12-24T15:16:40.339845",
+  "package_url": "https://pypi.org/project/santok/"
+}
