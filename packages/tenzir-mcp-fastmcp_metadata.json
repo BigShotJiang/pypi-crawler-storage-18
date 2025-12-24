@@ -1,0 +1,11 @@
+{
+  "name": "tenzir-mcp-fastmcp",
+  "version": "0.4.6",
+  "summary": "MCP server for Tenzir",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tenzir_mcp_fastmcp-0.4.6.tar.gz",
+  "download_time": "2025-12-24T07:20:19.568101",
+  "package_url": "https://pypi.org/project/tenzir-mcp-fastmcp/"
+}

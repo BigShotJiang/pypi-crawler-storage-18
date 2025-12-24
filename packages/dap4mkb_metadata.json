@@ -1,11 +1,11 @@
 {
   "name": "dap4mkb",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "DataAudit Platform - аудит и аналитика данных для МКБ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dap4mkb-0.2.2.tar.gz",
-  "download_time": "2025-12-23T17:16:44.464228",
+  "download_filename": "dap4mkb-0.2.3.tar.gz",
+  "download_time": "2025-12-24T07:20:43.342443",
   "package_url": "https://pypi.org/project/dap4mkb/"
 }

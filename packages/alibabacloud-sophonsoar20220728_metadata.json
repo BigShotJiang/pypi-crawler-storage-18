@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-sophonsoar20220728",
+  "version": "4.0.0",
+  "summary": "Alibaba Cloud sophonsoar (20220728) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_sophonsoar20220728-4.0.0.tar.gz",
+  "download_time": "2025-12-24T07:20:35.510179",
+  "package_url": "https://pypi.org/project/alibabacloud-sophonsoar20220728/"
+}

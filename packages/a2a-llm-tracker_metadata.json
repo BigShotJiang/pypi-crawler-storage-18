@@ -1,11 +1,11 @@
 {
   "name": "a2a-llm-tracker",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "summary": "A short description of your package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a2a_llm_tracker-0.0.5.tar.gz",
-  "download_time": "2025-12-23T11:15:08.442266",
+  "download_filename": "a2a_llm_tracker-0.0.8.tar.gz",
+  "download_time": "2025-12-24T07:20:38.617948",
   "package_url": "https://pypi.org/project/a2a-llm-tracker/"
 }
