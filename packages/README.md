@@ -1,23 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T20:43:23.033030
-- **Total Packages**: 79
-- **Total Size**: 7.56 MB
+- **Download Time**: 2025-12-24T20:54:08.501078
+- **Total Packages**: 75
+- **Total Size**: 0.92 MB
 
 ## Packages List
+- hangeul-jamo-rs
+- deployml-core
+- dairx-lab
+- IncludeCPP
+- clevercx-security-master-types
+- ipyflow-core
+- pyhdl-if
+- ezmsg-baseproc
+- masgent
+- maradoner
+- cocoagui
 - basic-agent-chat-loop
 - signalpilot-ai-internal
-- clevercx-security-master-types
 - cribl-control-plane
-- clausi
 - bato-downloader
-- IncludeCPP
 - pypangolin
 - move-data
 - ipycalc
 - leanrl
-- cocoagui
 - psqlmodel
 - word-search-app
 - vivarium-cluster-tools
@@ -52,10 +59,8 @@
 - cybrid-api-bank-python
 - ts-backend-check
 - cybrid-api-id-python
-- masgent
 - cybrid-api-organization-python
 - il-supermarket-parser
-- maradoner
 - nsip-skills
 - nsip-mcp-server
 - nsip-client
@@ -76,12 +81,3 @@
 - keirolabs
 - chatenium-uniend
 - vyperdatum
-- mini-racer
-- langsmith
-- svc-infra
-- openenv-dipg-safety
-- prefect-client
-- prefect
-- x-ray
-- ai-infra
-- castlebreaker

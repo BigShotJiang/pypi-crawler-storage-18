@@ -1,0 +1,11 @@
+{
+  "name": "dairx-lab",
+  "version": "0.1.0",
+  "summary": "One-line experiment tracking for GPU compute",
+  "author": "DAIRX",
+  "license": null,
+  "home_page": "https://github.com/Project-DAIRX/dairx-lab",
+  "download_filename": "dairx_lab-0.1.0.tar.gz",
+  "download_time": "2025-12-24T20:53:30.606223",
+  "package_url": "https://pypi.org/project/dairx-lab/"
+}
