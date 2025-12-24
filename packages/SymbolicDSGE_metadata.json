@@ -1,0 +1,11 @@
+{
+  "name": "SymbolicDSGE",
+  "version": "0.1.0",
+  "summary": "A diagnostic symbolic adjustment layer for simple DSGE models. Has a built-in DSGE linearized engine and a symbolic discovery to align solved model equations to empirical data by adjusting the model equations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "symbolicdsge-0.1.0.tar.gz",
+  "download_time": "2025-12-24T05:02:04.828325",
+  "package_url": "https://pypi.org/project/SymbolicDSGE/"
+}

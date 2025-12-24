@@ -1,11 +1,11 @@
 {
   "name": "graphqlite",
-  "version": "0.0.0a1",
+  "version": "0.0.0a2",
   "summary": "SQLite extension for graph queries using Cypher",
   "author": "GraphQLite Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graphqlite-0.0.0a1.tar.gz",
-  "download_time": "2025-12-24T04:39:15.432415",
+  "download_filename": "graphqlite-0.0.0a2.tar.gz",
+  "download_time": "2025-12-24T05:01:56.679769",
   "package_url": "https://pypi.org/project/graphqlite/"
 }

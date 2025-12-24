@@ -1,0 +1,11 @@
+{
+  "name": "jaq-bin",
+  "version": "3.0.0b0",
+  "summary": "A jq clone focused on correctness, speed, and simplicity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaq_bin-3.0.0b0.tar.gz",
+  "download_time": "2025-12-24T05:01:59.385024",
+  "package_url": "https://pypi.org/project/jaq-bin/"
+}

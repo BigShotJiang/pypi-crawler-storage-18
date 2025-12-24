@@ -1,0 +1,11 @@
+{
+  "name": "resgen-python",
+  "version": "0.10.2",
+  "summary": "Python bindings for the resgen genomic data service",
+  "author": "Peter Kerpedjiev",
+  "license": null,
+  "home_page": "https://github.com/reservoirgenomics/resgen-python",
+  "download_filename": "resgen_python-0.10.2.tar.gz",
+  "download_time": "2025-12-24T05:01:44.894163",
+  "package_url": "https://pypi.org/project/resgen-python/"
+}
