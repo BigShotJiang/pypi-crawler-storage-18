@@ -1,11 +1,11 @@
 {
   "name": "htmlgraph",
-  "version": "0.13.1",
+  "version": "0.13.2",
   "summary": "HTML is All You Need - Graph database on web standards",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "htmlgraph-0.13.1.tar.gz",
-  "download_time": "2025-12-25T17:50:39.832306",
+  "download_filename": "htmlgraph-0.13.2.tar.gz",
+  "download_time": "2025-12-25T18:36:40.928481",
   "package_url": "https://pypi.org/project/htmlgraph/"
 }

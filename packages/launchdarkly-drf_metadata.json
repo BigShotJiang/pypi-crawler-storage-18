@@ -1,0 +1,11 @@
+{
+  "name": "launchdarkly-drf",
+  "version": "0.1.0",
+  "summary": "A Django + DRF integration for LaunchDarkly feature flags",
+  "author": "Fullchee Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "launchdarkly_drf-0.1.0.tar.gz",
+  "download_time": "2025-12-25T18:36:27.030408",
+  "package_url": "https://pypi.org/project/launchdarkly-drf/"
+}

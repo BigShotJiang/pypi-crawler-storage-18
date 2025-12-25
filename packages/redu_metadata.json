@@ -1,11 +1,11 @@
 {
   "name": "redu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Redu Cloud CLI",
   "author": "Miloš Živanović",
   "license": "MIT",
   "home_page": "https://redu.cloud",
-  "download_filename": "redu-1.0.1.tar.gz",
-  "download_time": "2025-12-25T16:48:38.769146",
+  "download_filename": "redu-1.0.2.tar.gz",
+  "download_time": "2025-12-25T18:36:26.001110",
   "package_url": "https://pypi.org/project/redu/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ezmsg-peripheraldevice",
+  "version": "0.1.0",
+  "summary": "Modules to stream data from peripheral devices into ezmsg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmsg_peripheraldevice-0.1.0.tar.gz",
+  "download_time": "2025-12-25T18:36:22.762776",
+  "package_url": "https://pypi.org/project/ezmsg-peripheraldevice/"
+}
