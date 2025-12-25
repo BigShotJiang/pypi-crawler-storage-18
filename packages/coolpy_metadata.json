@@ -1,11 +1,11 @@
 {
   "name": "coolpy",
-  "version": "0.0.79",
+  "version": "0.0.80",
   "summary": "CoolPy: accelerator physics utilities",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "coolpy-0.0.79.tar.gz",
-  "download_time": "2025-12-25T19:13:33.958699",
+  "download_filename": "coolpy-0.0.80.tar.gz",
+  "download_time": "2025-12-25T20:18:17.491781",
   "package_url": "https://pypi.org/project/coolpy/"
 }

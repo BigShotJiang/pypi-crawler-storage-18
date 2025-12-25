@@ -1,11 +1,11 @@
 {
   "name": "gsql",
-  "version": "3.1.2",
+  "version": "3.9.7",
   "summary": "Complete SQL Database System in Python with AI Integration",
   "author": "Gopu Inc.",
   "license": "MIT",
   "home_page": "https://github.com/gopu-inc/gsql",
-  "download_filename": "gsql-3.1.2.tar.gz",
-  "download_time": "2025-12-25T19:28:39.567190",
+  "download_filename": "gsql-3.9.7.tar.gz",
+  "download_time": "2025-12-25T20:18:10.585980",
   "package_url": "https://pypi.org/project/gsql/"
 }

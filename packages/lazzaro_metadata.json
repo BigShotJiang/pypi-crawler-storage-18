@@ -1,11 +1,11 @@
 {
   "name": "lazzaro",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A scalable memory system for AI agents using graph-based sharding and hierarchical clustering.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lazzaro-0.2.4.tar.gz",
-  "download_time": "2025-12-25T18:36:41.444603",
+  "download_filename": "lazzaro-0.2.5.tar.gz",
+  "download_time": "2025-12-25T20:18:24.419060",
   "package_url": "https://pypi.org/project/lazzaro/"
 }

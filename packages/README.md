@@ -1,13 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T19:51:06.599486
-- **Total Packages**: 85
-- **Total Size**: 0.51 MB
+- **Download Time**: 2025-12-25T20:18:43.902619
+- **Total Packages**: 83
+- **Total Size**: 23.56 MB
 
 ## Packages List
-- bunker-stats-rs
+- mcp-server-openai-bridge
+- mcp-eregistrations-bpa
+- aa-payout
+- mcp-server-gemini-bridge
+- cullinan
+- mcp-server-ollama-bridge
+- filelock-lts-py311
+- entropyguard
+- pySEQTarget
+- fastmcp-pdftools
+- naylence-runtime
+- coded-flows
+- vibegate
+- snail-core
+- parse-hcl
+- cmd2
+- mcp-search-server
+- giftpy
+- assisted-service-client
+- nercone-macpower
+- gsql
+- bdext
+- nonebot-plugin-maimaimonitor
+- catrxneng
+- spotoptim
+- wowsql
+- cve-report-aggregator
+- arbi
+- pex
+- ai-microcore
+- lambert-rs
+- windows-font-manager
+- roboka
+- coolpy
+- karaoke-gen
+- vresto
+- py-gemini-watermark-remover
+- fatfs-ng
+- gwtransport
+- batchalign
 - malware-sentinel
+- langswarm
+- hanzo-mcp
+- logzai-otlp
+- ticktools
+- asgi-monitor
+- lazzaro
+- light-health
+- claude-agent-framework
+- django-nis2-shield
+- tactus
+- ipyflow-core
+- bunker-stats-rs
 - Flask-SocketIO
 - sphinx-revealjs
 - pyccolo
@@ -15,7 +66,6 @@
 - safebrowse
 - mat3ra-api-client
 - ib-async-mcp
-- gsql
 - stegvault
 - ai-plays-jackbox
 - sys-scan-agent
@@ -27,10 +77,8 @@
 - taskiq-faststream
 - matrice-inference
 - prismatools
-- hanzo-mcp
 - pyreadable-id
 - runware
-- aa-payout
 - procrastimate
 - opdroid
 - filelock-lts-py310
@@ -41,53 +89,3 @@
 - cropengine
 - cloudsh
 - tenuo
-- zpp_menu
-- haphazard
-- bluetti-bt-lib
-- kintomo
-- zpp_config
-- pulumiverse-talos
-- ingestkit
-- privalyse-cli
-- panpath
-- kreuzberg
-- fuzzyrust
-- tkbanner
-- cellmech
-- coolpy
-- alibabacloud-milvus20231012
-- alibabacloud-rds20140815
-- max-div
-- vibegate
-- BuzzerboyAWSLightsail
-- mcp-edit-math
-- montreal-aqi-api
-- alibabacloud-dms-enterprise20181101
-- alibabacloud-esa20240910
-- snail-core
-- alibabacloud-live20161101
-- redgit
-- tetherpy
-- alibabacloud-ess20220222
-- alibabacloud-cms20240330
-- alibabacloud-foasconsole20190601
-- nercone-macpower
-- alibabacloud-schedulerx320240624
-- alibabacloud-clickhouse20230522
-- alibabacloud-waf-openapi20211001
-- alibabacloud-aimiaobi20230801
-- alibabacloud-foasconsole20211028
-- starlette-templates
-- medeval
-- noetl
-- gammarers.aws-resource-naming
-- echointel
-- matrice-streaming
-- rtlviz
-- openmarkets
-- karaoke-gen
-- secureaiml
-- xai-review
-- kerfed.protos
-- code-rag-me
-- sharepoint-to-text

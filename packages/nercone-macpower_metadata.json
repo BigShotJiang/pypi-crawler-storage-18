@@ -1,11 +1,11 @@
 {
   "name": "nercone-macpower",
-  "version": "0.1.0",
-  "summary": "pmset wrapper library/cli app for macOS (Darwin)",
+  "version": "0.2.0",
+  "summary": "pmset wrapper library/cli app for Python on macOS",
   "author": "Nercone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nercone_macpower-0.1.0.tar.gz",
-  "download_time": "2025-12-25T18:51:38.203888",
+  "download_filename": "nercone_macpower-0.2.0.tar.gz",
+  "download_time": "2025-12-25T20:18:10.073372",
   "package_url": "https://pypi.org/project/nercone-macpower/"
 }
