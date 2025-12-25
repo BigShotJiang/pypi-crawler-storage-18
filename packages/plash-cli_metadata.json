@@ -1,11 +1,11 @@
 {
   "name": "plash-cli",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "CLI for the Plash hosting service",
   "author": "Jeremy Howard",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/AnswerDotAI/plash_cli",
-  "download_filename": "plash_cli-0.3.5.tar.gz",
-  "download_time": "2025-12-25T05:20:57.141210",
+  "download_filename": "plash_cli-0.3.6.tar.gz",
+  "download_time": "2025-12-25T06:25:07.737950",
   "package_url": "https://pypi.org/project/plash-cli/"
 }

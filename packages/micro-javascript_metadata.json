@@ -1,11 +1,11 @@
 {
   "name": "micro-javascript",
-  "version": "0.1a1",
+  "version": "0.1a2",
   "summary": "A pure Python JavaScript sandbox engine based on MQuickJS",
   "author": "Simon Willison",
   "license": null,
   "home_page": null,
-  "download_filename": "micro_javascript-0.1a1.tar.gz",
-  "download_time": "2025-12-25T04:50:49.943665",
+  "download_filename": "micro_javascript-0.1a2.tar.gz",
+  "download_time": "2025-12-25T06:25:24.852947",
   "package_url": "https://pypi.org/project/micro-javascript/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qtpie",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Tasty way to build Qt apps",
   "author": null,
   "license": "0BSD",
   "home_page": null,
-  "download_filename": "qtpie-0.1.8.tar.gz",
-  "download_time": "2025-12-24T09:54:05.372647",
+  "download_filename": "qtpie-0.1.9.tar.gz",
+  "download_time": "2025-12-25T06:25:05.055496",
   "package_url": "https://pypi.org/project/qtpie/"
 }
