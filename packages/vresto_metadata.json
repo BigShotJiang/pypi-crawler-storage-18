@@ -1,11 +1,11 @@
 {
   "name": "vresto",
-  "version": "0.0.13",
+  "version": "0.0.16",
   "summary": "satellite product browser",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vresto-0.0.13.tar.gz",
-  "download_time": "2025-12-24T04:39:12.206973",
+  "download_filename": "vresto-0.0.16.tar.gz",
+  "download_time": "2025-12-25T12:30:52.510711",
   "package_url": "https://pypi.org/project/vresto/"
 }

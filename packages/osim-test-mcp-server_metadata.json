@@ -1,0 +1,11 @@
+{
+  "name": "osim-test-mcp-server",
+  "version": "1.0.3",
+  "summary": "OSIM MCP Server based on FastMCP",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "osim_test_mcp_server-1.0.3.tar.gz",
+  "download_time": "2025-12-25T12:30:51.429424",
+  "package_url": "https://pypi.org/project/osim-test-mcp-server/"
+}
