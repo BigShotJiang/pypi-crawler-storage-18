@@ -1,11 +1,11 @@
 {
   "name": "simplepy",
-  "version": "0.1.8",
+  "version": "0.2.1",
   "summary": "Simple Python utilities",
   "author": "Vibhor Kumar",
   "license": null,
   "home_page": "https://github.com/GeniusVoid/simplepy",
-  "download_filename": "simplepy-0.1.8.tar.gz",
-  "download_time": "2025-12-25T08:50:28.556603",
+  "download_filename": "simplepy-0.2.1.tar.gz",
+  "download_time": "2025-12-25T09:19:03.624727",
   "package_url": "https://pypi.org/project/simplepy/"
 }

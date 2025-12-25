@@ -1,11 +1,11 @@
 {
   "name": "wgctl",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "WireGuard CLI Wrapper Tool",
   "author": "amertens",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "wgctl-0.6.0.tar.gz",
-  "download_time": "2025-12-25T08:22:01.974751",
+  "download_filename": "wgctl-0.6.1.tar.gz",
+  "download_time": "2025-12-25T09:19:05.706737",
   "package_url": "https://pypi.org/project/wgctl/"
 }

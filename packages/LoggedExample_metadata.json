@@ -1,11 +1,11 @@
 {
   "name": "LoggedExample",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "A logging example application with sudo detection and log rotation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "loggedexample-1.2.3.tar.gz",
-  "download_time": "2025-12-25T05:21:03.455849",
+  "download_filename": "loggedexample-1.2.4.tar.gz",
+  "download_time": "2025-12-25T09:18:48.869894",
   "package_url": "https://pypi.org/project/LoggedExample/"
 }

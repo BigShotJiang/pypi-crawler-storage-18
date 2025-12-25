@@ -1,0 +1,11 @@
+{
+  "name": "pipecat-awaazai",
+  "version": "0.1.0",
+  "summary": "AwaazAI WebSocket frame serializer for Pipecat for hosting agents on telephony",
+  "author": "AwaazAI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipecat_awaazai-0.1.0.tar.gz",
+  "download_time": "2025-12-25T09:19:10.396481",
+  "package_url": "https://pypi.org/project/pipecat-awaazai/"
+}
