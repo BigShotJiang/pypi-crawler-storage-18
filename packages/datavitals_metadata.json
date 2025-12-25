@@ -1,11 +1,11 @@
 {
   "name": "datavitals",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A reusable Python library for data cleaning, ETL pipelines, and SQL query building",
   "author": "Kamaleshkumar.K",
   "license": "MIT",
   "home_page": "https://github.com/kamaleshkumaroffi/datavitals",
-  "download_filename": "datavitals-0.1.4.tar.gz",
-  "download_time": "2025-12-24T11:31:52.311860",
+  "download_filename": "datavitals-0.1.5.tar.gz",
+  "download_time": "2025-12-25T05:21:07.434765",
   "package_url": "https://pypi.org/project/datavitals/"
 }

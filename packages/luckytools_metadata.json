@@ -1,11 +1,11 @@
 {
   "name": "luckytools",
-  "version": "0.71",
+  "version": "0.8",
   "summary": "Print utility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luckytools-0.71.tar.gz",
-  "download_time": "2025-12-21T04:07:52.783229",
+  "download_filename": "luckytools-0.8.tar.gz",
+  "download_time": "2025-12-25T05:21:00.334017",
   "package_url": "https://pypi.org/project/luckytools/"
 }
