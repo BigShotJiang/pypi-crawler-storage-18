@@ -1,11 +1,11 @@
 {
   "name": "pyvpsq",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Simple Python library for querying Valve's principal servers",
   "author": "cetteup",
   "license": "MIT",
   "home_page": "https://github.com/cetteup/pyvpsq",
-  "download_filename": "pyvpsq-0.2.0.tar.gz",
-  "download_time": "2025-12-25T12:30:33.012980",
+  "download_filename": "pyvpsq-0.2.1.tar.gz",
+  "download_time": "2025-12-25T13:11:30.915625",
   "package_url": "https://pypi.org/project/pyvpsq/"
 }

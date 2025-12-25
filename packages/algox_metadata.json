@@ -1,0 +1,11 @@
+{
+  "name": "algox",
+  "version": "0.1.0",
+  "summary": "A collection of data structures and algorithms, all implemented in pure Python",
+  "author": "Prasad Raju G",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algox-0.1.0.tar.gz",
+  "download_time": "2025-12-25T13:11:02.745710",
+  "package_url": "https://pypi.org/project/algox/"
+}

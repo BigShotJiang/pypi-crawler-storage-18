@@ -1,0 +1,11 @@
+{
+  "name": "proofnest",
+  "version": "0.1.1",
+  "summary": "Proof, not promises. Tamper-evident decision logging for AI agents.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "proofnest-0.1.1.tar.gz",
+  "download_time": "2025-12-25T13:11:10.503647",
+  "package_url": "https://pypi.org/project/proofnest/"
+}

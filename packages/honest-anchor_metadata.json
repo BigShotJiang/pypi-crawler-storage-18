@@ -1,11 +1,11 @@
 {
   "name": "honest-anchor",
-  "version": "0.2.1",
-  "summary": "git commit for your IP - Timestamp your files to Bitcoin",
+  "version": "0.3.0",
+  "summary": "DEPRECATED - Use proofnest-anchor instead. Git commit for your IP.",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "honest_anchor-0.2.1.tar.gz",
-  "download_time": "2025-12-24T21:50:07.458133",
+  "download_filename": "honest_anchor-0.3.0.tar.gz",
+  "download_time": "2025-12-25T13:11:06.844812",
   "package_url": "https://pypi.org/project/honest-anchor/"
 }

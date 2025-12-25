@@ -1,0 +1,11 @@
+{
+  "name": "pigment64",
+  "version": "0.6.0",
+  "summary": "A library for handling conversion between N64 texture formats and modern image formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pigment64-0.6.0.tar.gz",
+  "download_time": "2025-12-25T13:11:08.384321",
+  "package_url": "https://pypi.org/project/pigment64/"
+}

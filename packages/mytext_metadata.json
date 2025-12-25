@@ -1,0 +1,11 @@
+{
+  "name": "mytext",
+  "version": "0.4",
+  "summary": "MyText: A Minimal AI-Powered Text Rewriting Tool",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/mytext",
+  "download_filename": "mytext-0.4.tar.gz",
+  "download_time": "2025-12-25T13:11:12.231995",
+  "package_url": "https://pypi.org/project/mytext/"
+}

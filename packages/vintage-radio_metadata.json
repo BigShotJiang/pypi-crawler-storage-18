@@ -1,0 +1,11 @@
+{
+  "name": "vintage-radio",
+  "version": "1.0.0",
+  "summary": "A retro-style internet radio player for the terminal",
+  "author": "Phil Jung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vintage_radio-1.0.0.tar.gz",
+  "download_time": "2025-12-25T13:11:23.938413",
+  "package_url": "https://pypi.org/project/vintage-radio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bazinga-cli",
+  "version": "1.2.1",
+  "summary": "BAZINGA CLI - A sophisticated multi-agent orchestration system for Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bazinga_cli-1.2.1-py3-none-any.whl",
+  "download_time": "2025-12-25T13:11:25.596030",
+  "package_url": "https://pypi.org/project/bazinga-cli/"
+}

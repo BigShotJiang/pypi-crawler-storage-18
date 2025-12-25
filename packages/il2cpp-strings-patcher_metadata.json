@@ -1,0 +1,11 @@
+{
+  "name": "il2cpp-strings-patcher",
+  "version": "0.1.0",
+  "summary": "Utilities to automate the modification to il2cpp string literals in metadata",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "il2cpp_strings_patcher-0.1.0.tar.gz",
+  "download_time": "2025-12-25T13:11:19.133658",
+  "package_url": "https://pypi.org/project/il2cpp-strings-patcher/"
+}

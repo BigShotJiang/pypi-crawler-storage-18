@@ -1,11 +1,11 @@
 {
   "name": "sm64-binds",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Mario 64 using WASM. Requires a US .z64 version ROM to work (8.00MB)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sm64_binds-0.0.4.tar.gz",
-  "download_time": "2025-12-24T10:45:39.993775",
+  "download_filename": "sm64_binds-0.0.5.tar.gz",
+  "download_time": "2025-12-25T13:11:26.730156",
   "package_url": "https://pypi.org/project/sm64-binds/"
 }

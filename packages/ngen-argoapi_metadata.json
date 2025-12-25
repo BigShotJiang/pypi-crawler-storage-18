@@ -1,11 +1,11 @@
 {
   "name": "ngen-argoapi",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": "ArgoCD API management CLI and wrapper package",
   "author": "ngen-argoapi contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "ngen_argoapi-0.1.11.tar.gz",
-  "download_time": "2025-12-25T12:30:42.121927",
+  "download_filename": "ngen_argoapi-0.1.13.tar.gz",
+  "download_time": "2025-12-25T13:11:06.333076",
   "package_url": "https://pypi.org/project/ngen-argoapi/"
 }
