@@ -1,11 +1,11 @@
 {
   "name": "repostats",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "A CLI tool to fetch GitHub repository statistics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repostats-1.2.0.tar.gz",
-  "download_time": "2025-12-25T06:25:19.347584",
+  "download_filename": "repostats-1.3.0.tar.gz",
+  "download_time": "2025-12-25T08:22:19.466766",
   "package_url": "https://pypi.org/project/repostats/"
 }

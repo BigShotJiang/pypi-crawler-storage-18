@@ -1,11 +1,11 @@
 {
   "name": "invar-runtime",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Lightweight runtime contracts for Invar projects",
   "author": "Invar Team",
   "license": null,
   "home_page": null,
-  "download_filename": "invar_runtime-1.0.0.tar.gz",
-  "download_time": "2025-12-23T14:45:22.255501",
+  "download_filename": "invar_runtime-1.2.0.tar.gz",
+  "download_time": "2025-12-25T08:22:05.556672",
   "package_url": "https://pypi.org/project/invar-runtime/"
 }

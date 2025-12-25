@@ -1,11 +1,11 @@
 {
   "name": "django-minio-storage-idtinc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Django Storage backend for MinIO",
   "author": "Chuong Kieu Van",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_minio_storage_idtinc-1.0.2.tar.gz",
-  "download_time": "2025-12-25T07:51:17.916361",
+  "download_filename": "django_minio_storage_idtinc-1.0.3.tar.gz",
+  "download_time": "2025-12-25T08:22:19.978965",
   "package_url": "https://pypi.org/project/django-minio-storage-idtinc/"
 }

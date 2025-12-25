@@ -1,0 +1,11 @@
+{
+  "name": "cjm-infra-plugin-system",
+  "version": "0.0.1",
+  "summary": "Standardized interface and data structures for infrastructure monitoring plugins in the cjm-plugin-system ecosystem.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-infra-plugin-system",
+  "download_filename": "cjm_infra_plugin_system-0.0.1.tar.gz",
+  "download_time": "2025-12-25T08:21:54.702900",
+  "package_url": "https://pypi.org/project/cjm-infra-plugin-system/"
+}
