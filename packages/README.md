@@ -1,35 +1,12 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-24T23:51:20.118018
-- **Total Packages**: 74
-- **Total Size**: 4.68 MB
+- **Download Time**: 2025-12-25T01:11:02.190572
+- **Total Packages**: 75
+- **Total Size**: 1.32 MB
 
 ## Packages List
-- co-eco
-- chunkops
-- securitycore
-- jekescore
-- openenv-dipg-safety
-- dyngle
-- claude-code-publish
 - IncludeCPP
-- pyhyperminhash
-- sdmx1
-- redeliver
-- py-ds-academy
-- foundry-mcp
-- KekikStream
-- dycw-actions
-- replimap
-- mil-kit
-- lokryn-merkle-tree
-- prism-engines
-- pgcli
-- aiosqlite-strict
-- mas-cli
-- autonomous-claude
-- open-flash
 - pymr-genetics
 - nv-ingest
 - nv-ingest-client
@@ -40,21 +17,25 @@
 - clevercx-security-master-types
 - hanzo-mcp
 - acordes
+- securitycore
 - charmarr-lib-testing
 - charmarr-lib-vpn
 - charmarr-lib-core
 - n8n-deploy
+- chunkops
 - aps-automation-sdk
 - pyCityParkingPermit
 - strutex
 - ai-debugger-inc
 - ai-bench-suite
 - mcp-everything-search
+- openenv-dipg-safety
 - pgcopy
 - yield-module-names-and-python-file-paths
 - cjm-plugin-system
 - adif-mcp
 - sukta
+- mil-kit
 - omnis-py
 - biblemategui
 - youtube-to-docs
@@ -66,11 +47,13 @@
 - db-bridge
 - jsonschema-rs
 - mlserve-sdk
+- replimap
 - opik-optimizer
 - graphqlite
 - datalab-server
 - stats-can
 - ingestkit
+- open-flash
 - warn-transformer
 - telekit
 - hangeul-jamo
@@ -80,3 +63,21 @@
 - gtm-wizard
 - combigraphs
 - dycw-setup-cronjob
+- django-cravensworth
+- dycw-restic
+- backboard-sdk
+- torchio
+- contrastive-ft
+- grapes-ecs
+- boask
+- aden-py
+- iris-devtester
+- quantconnect-stubs
+- secure-run
+- python-engineio
+- dev-health-ops
+- ternimator
+- markus-ai-server
+- octobase
+- fontsearch
+- mergechannels
