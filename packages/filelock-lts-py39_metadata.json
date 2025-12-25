@@ -1,11 +1,11 @@
 {
   "name": "filelock-lts-py39",
-  "version": "2025.68146.1",
+  "version": "2025.68146.2",
   "summary": "Python 3.9 compatible filelock with CVE-2025-68146 patch",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "filelock_lts_py39-2025.68146.1.tar.gz",
-  "download_time": "2025-12-25T17:50:42.990109",
+  "download_filename": "filelock_lts_py39-2025.68146.2.tar.gz",
+  "download_time": "2025-12-25T22:37:41.072681",
   "package_url": "https://pypi.org/project/filelock-lts-py39/"
 }

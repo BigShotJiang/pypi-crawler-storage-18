@@ -1,0 +1,11 @@
+{
+  "name": "qmctoolscl",
+  "version": "1.1.6",
+  "summary": "Quasi-Monte Carlo Tools in PyOpenCL and C",
+  "author": "Aleksei G Sorokin",
+  "license": null,
+  "home_page": "https://qmcsoftware.github.io/QMCToolsCL/",
+  "download_filename": "qmctoolscl-1.1.6.tar.gz",
+  "download_time": "2025-12-25T22:37:36.962768",
+  "package_url": "https://pypi.org/project/qmctoolscl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "maradoner",
-  "version": "0.24.6",
+  "version": "0.24.7",
   "summary": "Variance-adjusted estimation of motif activities.",
   "author": "Georgy Meshcheryakov",
   "license": null,
   "home_page": "https://github.com/autosome-ru/maradoner",
-  "download_filename": "maradoner-0.24.6.tar.gz",
-  "download_time": "2025-12-24T20:53:34.246223",
+  "download_filename": "maradoner-0.24.7.tar.gz",
+  "download_time": "2025-12-25T22:37:43.121128",
   "package_url": "https://pypi.org/project/maradoner/"
 }

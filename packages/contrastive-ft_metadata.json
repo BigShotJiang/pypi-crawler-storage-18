@@ -1,11 +1,11 @@
 {
   "name": "contrastive-ft",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "CRAFT: Contrastive Representation Aware Fine-Tuning toolkit",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "contrastive_ft-0.4.0.tar.gz",
-  "download_time": "2025-12-25T13:11:14.278972",
+  "download_filename": "contrastive_ft-0.4.1.tar.gz",
+  "download_time": "2025-12-25T22:37:54.513464",
   "package_url": "https://pypi.org/project/contrastive-ft/"
 }

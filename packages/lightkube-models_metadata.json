@@ -1,0 +1,11 @@
+{
+  "name": "lightkube-models",
+  "version": "1.35.0.8",
+  "summary": "Models and Resources for lightkube module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightkube_models-1.35.0.8.tar.gz",
+  "download_time": "2025-12-25T22:37:44.667635",
+  "package_url": "https://pypi.org/project/lightkube-models/"
+}
