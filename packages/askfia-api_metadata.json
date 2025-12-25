@@ -1,0 +1,11 @@
+{
+  "name": "askfia-api",
+  "version": "0.2.0",
+  "summary": "AskFIA - AI Conversational Interface for Forest Inventory Analysis - Part of the FIA Python Ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "askfia_api-0.2.0.tar.gz",
+  "download_time": "2025-12-25T17:34:51.016312",
+  "package_url": "https://pypi.org/project/askfia-api/"
+}

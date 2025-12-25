@@ -1,11 +1,11 @@
 {
   "name": "magicalapi",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "This is a Python client that provides easy access to the MagicalAPI.com services, fully type annotated, and asynchronous.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magicalapi-1.5.0.tar.gz",
-  "download_time": "2025-12-24T10:17:50.973391",
+  "download_filename": "magicalapi-1.5.1.tar.gz",
+  "download_time": "2025-12-25T17:34:47.789856",
   "package_url": "https://pypi.org/project/magicalapi/"
 }
