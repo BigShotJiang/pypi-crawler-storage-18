@@ -1,11 +1,11 @@
 {
   "name": "mctech-core",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mctech_core-1.1.1.tar.gz",
-  "download_time": "2025-12-24T09:54:35.660073",
+  "download_filename": "mctech_core-1.1.2.tar.gz",
+  "download_time": "2025-12-25T04:50:37.440001",
   "package_url": "https://pypi.org/project/mctech-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyeqx-opentelemetry",
+  "version": "0.4.2",
+  "summary": "OpenTelemetry instrumentation for PyEQX",
+  "author": "ESBM Cronus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyeqx_opentelemetry-0.4.2.tar.gz",
+  "download_time": "2025-12-25T04:50:53.581869",
+  "package_url": "https://pypi.org/project/pyeqx-opentelemetry/"
+}

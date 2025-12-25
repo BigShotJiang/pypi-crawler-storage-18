@@ -1,11 +1,11 @@
 {
   "name": "iris-devtester",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "Battle-tested InterSystems IRIS infrastructure utilities for Python development",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iris_devtester-1.5.2.tar.gz",
-  "download_time": "2025-12-24T22:52:55.174126",
+  "download_filename": "iris_devtester-1.5.3.tar.gz",
+  "download_time": "2025-12-25T04:50:27.913632",
   "package_url": "https://pypi.org/project/iris-devtester/"
 }

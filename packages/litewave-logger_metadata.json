@@ -1,11 +1,11 @@
 {
   "name": "litewave-logger",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A lightweight logging library with context carry forward",
   "author": "Litewave",
   "license": null,
   "home_page": null,
-  "download_filename": "litewave_logger-0.4.0.tar.gz",
-  "download_time": "2025-12-24T09:54:11.226744",
+  "download_filename": "litewave_logger-0.5.0.tar.gz",
+  "download_time": "2025-12-25T04:50:27.367778",
   "package_url": "https://pypi.org/project/litewave-logger/"
 }

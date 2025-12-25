@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-merge-tables",
+  "version": "0.1.0",
+  "summary": "Visual table merge tool for Streamlit",
+  "author": "Tuan Nguyen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_merge_tables-0.1.0.tar.gz",
+  "download_time": "2025-12-25T04:50:44.743590",
+  "package_url": "https://pypi.org/project/streamlit-merge-tables/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xbow-validation-benchmarks-sdk",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xbow_validation_benchmarks_sdk-0.0.10.tar.gz",
-  "download_time": "2025-12-25T03:04:30.151263",
+  "download_filename": "xbow_validation_benchmarks_sdk-0.0.12.tar.gz",
+  "download_time": "2025-12-25T04:50:28.961654",
   "package_url": "https://pypi.org/project/xbow-validation-benchmarks-sdk/"
 }
