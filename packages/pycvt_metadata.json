@@ -1,11 +1,11 @@
 {
   "name": "pycvt",
-  "version": "0.0.1.post202512252301",
-  "summary": "A lightweight Python toolkit for seamless image composition, color processing, and visualizing detection results.",
+  "version": "0.0.1.post202512252321",
+  "summary": "pycvt is a Python package designed for computer vision utilities, including YOLO annotation handling, image manipulation, bounding box plotting, and data conversion tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycvt-0.0.1.post202512252301.tar.gz",
-  "download_time": "2025-12-25T15:18:52.468320",
+  "download_filename": "pycvt-0.0.1.post202512252321.tar.gz",
+  "download_time": "2025-12-25T15:35:49.166124",
   "package_url": "https://pypi.org/project/pycvt/"
 }

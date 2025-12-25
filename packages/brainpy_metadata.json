@@ -1,0 +1,11 @@
+{
+  "name": "brainpy",
+  "version": "2.7.5",
+  "summary": "BrainPy: Brain Dynamics Programming in Python",
+  "author": null,
+  "license": "GPL-3.0 license",
+  "home_page": null,
+  "download_filename": "brainpy-2.7.5.tar.gz",
+  "download_time": "2025-12-25T15:35:51.885486",
+  "package_url": "https://pypi.org/project/brainpy/"
+}

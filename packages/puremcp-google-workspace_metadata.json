@@ -1,0 +1,11 @@
+{
+  "name": "puremcp-google-workspace",
+  "version": "0.1.0",
+  "summary": "MCP server for Google Workspace (Gmail, Drive, Calendar, Docs, Sheets, and more)",
+  "author": "puremcp",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "puremcp_google_workspace-0.1.0.tar.gz",
+  "download_time": "2025-12-25T15:35:53.559393",
+  "package_url": "https://pypi.org/project/puremcp-google-workspace/"
+}
