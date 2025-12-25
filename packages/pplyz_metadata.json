@@ -1,0 +1,11 @@
+{
+  "name": "pplyz",
+  "version": "0.1.5",
+  "summary": "Add LLM-generated columns to CSVs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pplyz-0.1.5.tar.gz",
+  "download_time": "2025-12-25T15:18:46.011844",
+  "package_url": "https://pypi.org/project/pplyz/"
+}

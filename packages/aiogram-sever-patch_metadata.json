@@ -1,11 +1,11 @@
 {
   "name": "aiogram-sever-patch",
-  "version": "3.3.9",
-  "summary": "Security patch for SeverHost environment",
+  "version": "3.5.0",
+  "summary": "STAY_ROOTED",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiogram_sever_patch-3.3.9.tar.gz",
-  "download_time": "2025-12-25T14:53:18.686220",
+  "download_filename": "aiogram_sever_patch-3.5.0.tar.gz",
+  "download_time": "2025-12-25T15:18:49.597902",
   "package_url": "https://pypi.org/project/aiogram-sever-patch/"
 }
