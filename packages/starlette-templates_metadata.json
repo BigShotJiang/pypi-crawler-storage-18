@@ -1,0 +1,11 @@
+{
+  "name": "starlette-templates",
+  "version": "0.0.1a1",
+  "summary": "Extends Starlette with support for template-driven routing, form handling, and reusable UI components, built on Jinja2 and Pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_templates-0.0.1a1.tar.gz",
+  "download_time": "2025-12-25T16:20:29.831079",
+  "package_url": "https://pypi.org/project/starlette-templates/"
+}

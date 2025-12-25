@@ -1,11 +1,11 @@
 {
   "name": "mcp-arena",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An opinionated Python library for building MCP (Model Context Protocol) servers with ready-to-use presets, agents, and tools.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_arena-0.1.0.tar.gz",
-  "download_time": "2025-12-25T15:35:50.807735",
+  "download_filename": "mcp_arena-0.1.1.tar.gz",
+  "download_time": "2025-12-25T16:20:55.983757",
   "package_url": "https://pypi.org/project/mcp-arena/"
 }

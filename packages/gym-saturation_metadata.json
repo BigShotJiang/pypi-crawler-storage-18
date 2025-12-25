@@ -1,0 +1,11 @@
+{
+  "name": "gym-saturation",
+  "version": "1.0.4",
+  "summary": "Gymnasium environments for saturation provers",
+  "author": "Boris Shminke",
+  "license": null,
+  "home_page": "https://github.com/inpefess/gym-saturation.git",
+  "download_filename": "gym_saturation-1.0.4.tar.gz",
+  "download_time": "2025-12-25T16:20:29.287245",
+  "package_url": "https://pypi.org/project/gym-saturation/"
+}
