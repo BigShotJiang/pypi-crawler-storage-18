@@ -1,0 +1,11 @@
+{
+  "name": "echointel",
+  "version": "1.0.0",
+  "summary": "Python SDK for integrating with the EchoIntel AI API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "echointel-1.0.0.tar.gz",
+  "download_time": "2025-12-25T18:51:43.955302",
+  "package_url": "https://pypi.org/project/echointel/"
+}

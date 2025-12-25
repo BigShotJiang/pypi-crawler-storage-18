@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-foasconsole20211028",
+  "version": "2.1.3",
+  "summary": "Alibaba Cloud foasconsole (20211028) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_foasconsole20211028-2.1.3.tar.gz",
+  "download_time": "2025-12-25T18:51:40.808841",
+  "package_url": "https://pypi.org/project/alibabacloud-foasconsole20211028/"
+}

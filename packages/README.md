@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T18:37:03.050533
-- **Total Packages**: 82
-- **Total Size**: 35.87 MB
+- **Download Time**: 2025-12-25T18:52:14.290672
+- **Total Packages**: 83
+- **Total Size**: 13.98 MB
 
 ## Packages List
+- BuzzerboyAWSLightsail
+- mcp-edit-math
+- procrastimate
+- montreal-aqi-api
+- alibabacloud-dms-enterprise20181101
+- alibabacloud-esa20240910
+- snail-core
+- polydup
+- alibabacloud-live20161101
+- redgit
+- tetherpy
+- alibabacloud-ess20220222
+- alibabacloud-cms20240330
+- alibabacloud-foasconsole20190601
+- nercone-macpower
+- alibabacloud-schedulerx320240624
+- alibabacloud-clickhouse20230522
+- alibabacloud-waf-openapi20211001
+- alibabacloud-aimiaobi20230801
+- alibabacloud-foasconsole20211028
+- starlette-templates
+- matrice-inference
+- medeval
+- noetl
+- gammarers.aws-resource-naming
+- echointel
+- matrice-streaming
+- rtlviz
+- openmarkets
+- karaoke-gen
+- secureaiml
+- xai-review
+- kerfed.protos
+- code-rag-me
+- sharepoint-to-text
 - windows-font-manager
 - reverse-api-engineer
 - salt-bundle
@@ -15,22 +50,18 @@
 - ezmsg-peripheraldevice
 - privalyse-mask
 - spotoptim
-- redgit
 - streamshatter
 - foodspec
 - redu
-- rtlviz
 - launchdarkly-drf
 - sentinelsearcher
 - pymtcnn
-- karaoke-gen
 - infiniloom
 - memex-md-mcp
 - phonetracer
 - application-file-scanner
 - attp-client
 - tlo-runner
-- secureaiml
 - quazydb
 - ingestkit
 - neonlink-client
@@ -38,11 +69,9 @@
 - oasys2
 - aa-payout
 - Nbvista
-- polydup
 - pyclnf
 - lv-namedays
 - seeragents
-- code-rag-me
 - schema-mapper
 - fatfs-ng
 - htmlgraph
@@ -51,7 +80,6 @@
 - slurmray
 - nchess
 - speciesnet
-- matrice-inference
 - neatify-ai
 - django-cfg
 - cross-compile-tool
@@ -61,30 +89,3 @@
 - filelock-lts-py39
 - filelock-lts-py37
 - filelock-lts-py38
-- matrice-streaming
-- uvtask
-- Collectfasta
-- matrice-common
-- comfyvault
-- moneyflow
-- pyochain
-- lokryn-mcp-log
-- freerouter
-- easy-image-labeling
-- nonebot-plugin-maimaimonitor
-- cicada-vector
-- unieai-mcp-accton-rfp
-- flaskpp
-- eb-features
-- neoncontract-gen
-- datamule
-- bandcamp-async-api
-- no-mcp-server
-- prismatools
-- fullenrichclient
-- ms-fabric-mcp-server
-- boxmot
-- fastapi-factory-utilities
-- vllama
-- magicalapi
-- biblemategui

@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-ess20220222",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "summary": "Alibaba Cloud Auto Scaling (20220222) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_ess20220222-1.12.0.tar.gz",
-  "download_time": "2025-12-24T17:50:57.589839",
+  "download_filename": "alibabacloud_ess20220222-1.12.1.tar.gz",
+  "download_time": "2025-12-25T18:51:36.116428",
   "package_url": "https://pypi.org/project/alibabacloud-ess20220222/"
 }
