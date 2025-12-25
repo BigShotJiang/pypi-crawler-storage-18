@@ -1,0 +1,11 @@
+{
+  "name": "django-system-audit",
+  "version": "0.1.1",
+  "summary": "Explicit, intent-aware audit trail library for Django and Django REST Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_system_audit-0.1.1.tar.gz",
+  "download_time": "2025-12-25T14:38:41.634287",
+  "package_url": "https://pypi.org/project/django-system-audit/"
+}

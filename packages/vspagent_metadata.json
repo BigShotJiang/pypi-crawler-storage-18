@@ -1,0 +1,11 @@
+{
+  "name": "vspagent",
+  "version": "2.2.0",
+  "summary": "AI-powered chat agent about Vishnu Suresh Perumbavoor. Powered by Qwen2.5-0.5B.",
+  "author": "Vishnu Suresh Perumbavoor",
+  "license": null,
+  "home_page": "https://github.com/vishnusureshperumbavoor/vsp_bot",
+  "download_filename": "vspagent-2.2.0.tar.gz",
+  "download_time": "2025-12-25T14:38:59.842552",
+  "package_url": "https://pypi.org/project/vspagent/"
+}

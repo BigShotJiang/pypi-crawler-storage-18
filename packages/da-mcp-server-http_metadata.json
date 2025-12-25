@@ -1,0 +1,11 @@
+{
+  "name": "da-mcp-server-http",
+  "version": "1.0.1",
+  "summary": "晨舟财务会计软件 MCP (Model Context Protocol) 服务器 - HTTP流式版本",
+  "author": "DeepSea Accounting Team",
+  "license": "MIT",
+  "home_page": "https://gitee.com/jlmpp/da_mcp_server",
+  "download_filename": "da_mcp_server_http-1.0.1.tar.gz",
+  "download_time": "2025-12-25T14:39:01.912564",
+  "package_url": "https://pypi.org/project/da-mcp-server-http/"
+}

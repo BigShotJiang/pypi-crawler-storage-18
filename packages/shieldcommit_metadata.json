@@ -1,0 +1,11 @@
+{
+  "name": "shieldcommit",
+  "version": "0.3.3",
+  "summary": "Lightweight pre-commit secret scanner CLI with EKS/RDS version warnings",
+  "author": "TechiKrish",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shieldcommit-0.3.3.tar.gz",
+  "download_time": "2025-12-25T14:38:35.242174",
+  "package_url": "https://pypi.org/project/shieldcommit/"
+}
