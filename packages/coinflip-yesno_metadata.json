@@ -1,0 +1,11 @@
+{
+  "name": "coinflip-yesno",
+  "version": "0.1.0",
+  "summary": "A minimal CLI tool that flips a coin and answers yes or no",
+  "author": "Johnny Graber",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coinflip_yesno-0.1.0.tar.gz",
+  "download_time": "2025-12-25T21:15:52.333618",
+  "package_url": "https://pypi.org/project/coinflip-yesno/"
+}

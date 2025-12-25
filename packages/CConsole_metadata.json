@@ -1,0 +1,11 @@
+{
+  "name": "CConsole",
+  "version": "1.0.0",
+  "summary": "Cool Console Prompt - Windows console customization library",
+  "author": "Xylera",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cconsole-1.0.0.tar.gz",
+  "download_time": "2025-12-25T21:15:48.280886",
+  "package_url": "https://pypi.org/project/CConsole/"
+}
