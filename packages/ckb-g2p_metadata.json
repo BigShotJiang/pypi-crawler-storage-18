@@ -1,0 +1,11 @@
+{
+  "name": "ckb-g2p",
+  "version": "3.0.0",
+  "summary": "A linguistically accurate Grapheme-to-Phoneme (G2P) converter and Syllabifier for Central Kurdish (Sorani). Optimized for TTS.",
+  "author": "Razwan M. Haji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ckb_g2p-3.0.0.tar.gz",
+  "download_time": "2025-12-25T21:49:57.211382",
+  "package_url": "https://pypi.org/project/ckb-g2p/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "itcpr",
-  "version": "2.1.6",
+  "version": "2.1.9",
   "summary": "CLI tool for syncing GitHub repositories from ITCPR Cloud",
   "author": "ITCPR",
   "license": "MIT",
   "home_page": "https://itcpr.org",
-  "download_filename": "itcpr-2.1.6.tar.gz",
-  "download_time": "2025-12-23T15:54:50.697021",
+  "download_filename": "itcpr-2.1.9.tar.gz",
+  "download_time": "2025-12-25T21:49:45.796704",
   "package_url": "https://pypi.org/project/itcpr/"
 }

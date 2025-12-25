@@ -1,11 +1,11 @@
 {
   "name": "pypomes-messaging",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A collection of Python pomes, penyeach (message handling modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_messaging-0.3.1.tar.gz",
-  "download_time": "2025-12-25T21:33:13.554080",
+  "download_filename": "pypomes_messaging-0.3.2.tar.gz",
+  "download_time": "2025-12-25T21:49:53.409386",
   "package_url": "https://pypi.org/project/pypomes-messaging/"
 }
