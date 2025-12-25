@@ -1,11 +1,13 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T13:57:32.286284
+- **Download Time**: 2025-12-25T14:16:31.959303
 - **Total Packages**: 84
-- **Total Size**: 41.71 MB
+- **Total Size**: 0.34 MB
 
 ## Packages List
+- braintrace
+- gptio
 - vnag
 - nonebot-plugin-boardgamehelper
 - ani-cli-arabic
@@ -88,5 +90,3 @@
 - mivia
 - NiceGui-UGForm
 - rdsai-cli
-- infiniloom
-- havoc-clustering-v2

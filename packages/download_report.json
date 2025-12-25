@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-12-25T13:57:32.286284",
+  "download_time": "2025-12-25T14:16:31.959303",
   "total_packages_downloaded": 84,
-  "total_size_mb": 41.71,
+  "total_size_mb": 0.34,
   "packages": [
+    "braintrace",
+    "gptio",
     "vnag",
     "nonebot-plugin-boardgamehelper",
     "ani-cli-arabic",
@@ -84,8 +86,6 @@
     "stata-mcp",
     "mivia",
     "NiceGui-UGForm",
-    "rdsai-cli",
-    "infiniloom",
-    "havoc-clustering-v2"
+    "rdsai-cli"
   ]
 }

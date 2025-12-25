@@ -1,0 +1,11 @@
+{
+  "name": "braintrace",
+  "version": "0.1.2",
+  "summary": "Enabling Scalable Online Learning for Brain Dynamics.",
+  "author": null,
+  "license": "Apache-2.0 license",
+  "home_page": null,
+  "download_filename": "braintrace-0.1.2.tar.gz",
+  "download_time": "2025-12-25T14:15:44.329442",
+  "package_url": "https://pypi.org/project/braintrace/"
+}
