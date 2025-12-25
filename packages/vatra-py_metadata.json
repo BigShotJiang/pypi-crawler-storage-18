@@ -1,11 +1,11 @@
 {
   "name": "vatra-py",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A lightweight Deep Learning framework backed by Vulkan (wgpu)",
   "author": "valik2424 <valikcobotar@gmail.com>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vatra_py-0.1.6-cp313-cp313-manylinux_2_35_x86_64.whl",
-  "download_time": "2025-12-25T09:54:27.313672",
+  "download_filename": "vatra_py-0.1.7-cp313-cp313-manylinux_2_35_x86_64.whl",
+  "download_time": "2025-12-25T10:17:37.702042",
   "package_url": "https://pypi.org/project/vatra-py/"
 }

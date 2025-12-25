@@ -1,22 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T09:55:07.294691
-- **Total Packages**: 85
-- **Total Size**: 14.66 MB
+- **Download Time**: 2025-12-25T10:18:03.833885
+- **Total Packages**: 81
+- **Total Size**: 13.55 MB
 
 ## Packages List
+- maxibot
+- vllm-sr
+- passme
+- icon-gen-ai
+- ai-edge-torch-nightly
+- asyncuvkit
+- acbox
+- streamlit-merge-tables
+- conductor-py
+- seallib
+- fluffless
+- drf-api-doc-generator
+- khaos-cli
+- pixelarraylib
+- DensityFlowMO
+- omniai-lakshya
+- qubitserving
+- qwen-mt-tool
+- aicp-helper
+- apache-airflow-provider-olostep
+- Jarvis-Brain
+- agenta
+- pythehagueparking
+- ASHReports
+- tamar-model-client
+- biogeme
+- part-of-day
+- tork-governance
+- pytha-ui-lib01
+- mthreads-ml-py
+- torchax
+- vatra-py
+- zipher-sdk
+- realtimex-agent-a2a-agent
+- python-neo-lzf
+- cleancloud
+- word-latex-mcp
+- mathutilspro
+- typer-slim
+- typer
+- typer-cli
+- parse-hcl
 - traceml-ai
 - kaizo
 - mcp-eregistrations-bpa
 - uploadoss
-- Jarvis-Brain
 - jkexcel
 - stelvio
 - jder-fastapi
 - vvdutils
-- vatra-py
-- ASHReports
 - bluer-agent
 - bkflow-sdk
 - aframexr
@@ -27,12 +66,10 @@
 - simforge-py
 - akshare
 - tfp-nightly
-- drf-api-doc-generator
 - kostyl-toolkit
 - alibabacloud-oss-v2
 - iranetf
 - NetHyTech-STT-tools
-- acbox
 - testxxyy
 - tplinkrouterc6u
 - meteva-base
@@ -50,44 +87,3 @@
 - tencent-wedata-auto-ml
 - aiiware-cli
 - strutex
-- ising-toolkit
-- mysql-awesome-stats-collector
-- onnx-paddleocr
-- blueair-api
-- pytha-ui-lib01
-- xcals
-- dev-health-ops
-- beneissue
-- fusesell
-- alibaba-cloud-ops-mcp-server
-- mirix
-- django-cfg
-- celestialflow
-- hfortix
-- pydevccu
-- dialoghelper
-- LoggedExample
-- jacksung-dev
-- s-MProcs
-- command-eval
-- aidev-bkplugin
-- MProcs
-- pieroutine
-- doc-store
-- fivccliche
-- python-redis-helper
-- connectonion
-- graphamazur
-- ChronicleLogger
-- gpuhunt
-- openmcp-sdk
-- biblemategui
-- ctyunsdk-hpfs20220909
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- tap-grib

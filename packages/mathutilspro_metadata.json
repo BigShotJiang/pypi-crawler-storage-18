@@ -1,0 +1,11 @@
+{
+  "name": "mathutilspro",
+  "version": "1.0.0",
+  "summary": "Библиотека для математических операций",
+  "author": "Ваше Имя",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mathutilspro",
+  "download_filename": "mathutilspro-1.0.0.tar.gz",
+  "download_time": "2025-12-25T10:17:40.812769",
+  "package_url": "https://pypi.org/project/mathutilspro/"
+}

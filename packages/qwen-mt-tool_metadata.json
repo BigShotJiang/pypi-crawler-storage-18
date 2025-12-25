@@ -1,11 +1,11 @@
 {
   "name": "qwen-mt-tool",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "A CLI tool for translating markdown files using Qwen-MT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qwen_mt_tool-0.1.8.tar.gz",
-  "download_time": "2025-12-25T07:41:58.475986",
+  "download_filename": "qwen_mt_tool-0.1.11.tar.gz",
+  "download_time": "2025-12-25T10:17:30.412815",
   "package_url": "https://pypi.org/project/qwen-mt-tool/"
 }
