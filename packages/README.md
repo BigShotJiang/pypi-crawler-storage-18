@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T07:42:31.037548
+- **Download Time**: 2025-12-25T07:52:02.374546
 - **Total Packages**: 85
-- **Total Size**: 31.12 MB
+- **Total Size**: 26.63 MB
 
 ## Packages List
+- django-minio-storage-idtinc
+- qlisp
+- dycw-utilities
+- onnx-paddleocr
+- epsbasin
+- sora-sdk-rpi
+- sora-sdk
+- aelion-calc
+- linzt-cfrna-test-1
+- python-neo-lzf
+- ai4gcnpy
+- someip-py
+- lollms-client
+- openmcp-sdk
+- PersonaCipher
+- imgb64
+- vitoxreduce
+- net-vis
+- teorver
 - alibaba-cloud-ops-mcp-server
 - streamdeck-mcp
 - tewi-transmission
@@ -26,14 +45,12 @@
 - mns-scheduler
 - figrecipe
 - logust
-- imgb64
 - rxnopt
 - qwen-mt-tool
 - weixinautox4
 - porosdata-processor
 - torchada
 - group-cc-hook
-- django-minio-storage-idtinc
 - qubitserving
 - sunbay-nexus-sdk
 - cleancore
@@ -42,9 +59,7 @@
 - spark-bestfit
 - geoapps-utils
 - agentic-fabriq-sdk
-- python-neo-lzf
 - DensityFlowMO
-- onnx-paddleocr
 - flux-mcp
 - garf-executors
 - goedels-poetry
@@ -53,7 +68,6 @@
 - vvdutils
 - ai-edge-litert-nightly
 - xiyan-leef-server
-- openmcp-sdk
 - MoleditPy
 - instapaper-scraper
 - bkflow-sdk
@@ -77,17 +91,3 @@
 - apcloudy-pipeline
 - atlisp
 - global-open-sdk-python
-- dragon-ml-toolbox
-- open-flash
-- mcp-core
-- pxdbench
-- bohr-agent-sdk
-- aipartnerupflow
-- cogents-core
-- anykernel
-- python3-openEuler
-- azuresfimcpagent-test
-- tencent-wedata-auto-ml
-- plash-cli
-- pdd-cli
-- viper-dev-kit

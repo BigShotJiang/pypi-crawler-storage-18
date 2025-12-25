@@ -1,0 +1,11 @@
+{
+  "name": "epsbasin",
+  "version": "0.2.0",
+  "summary": "Tools for computing and visualizing ε-attracting basin",
+  "author": "Yusuke Imoto",
+  "license": "MIT",
+  "home_page": "https://github.com/yusuke-imoto-lab/eps-attracting-basin",
+  "download_filename": "epsbasin-0.2.0.tar.gz",
+  "download_time": "2025-12-25T07:51:20.254527",
+  "package_url": "https://pypi.org/project/epsbasin/"
+}
