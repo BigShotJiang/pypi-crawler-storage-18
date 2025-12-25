@@ -1,11 +1,11 @@
 {
   "name": "autoglm-gui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Web GUI for AutoGLM Phone Agent - AI-powered Android automation",
   "author": "suyiiyii",
   "license": null,
   "home_page": null,
-  "download_filename": "autoglm_gui-1.0.0.tar.gz",
-  "download_time": "2025-12-24T05:02:03.757581",
+  "download_filename": "autoglm_gui-1.0.1.tar.gz",
+  "download_time": "2025-12-25T08:50:30.313997",
   "package_url": "https://pypi.org/project/autoglm-gui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "drf-api-doc-generator",
+  "version": "3.0.0",
+  "summary": "Auto-generate production-quality API & WebSocket documentation (PDF, HTML, JSON/OpenAPI) for Django REST Framework with a single command",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_api_doc_generator-3.0.0.tar.gz",
+  "download_time": "2025-12-25T08:50:21.952651",
+  "package_url": "https://pypi.org/project/drf-api-doc-generator/"
+}

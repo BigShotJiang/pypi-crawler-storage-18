@@ -1,13 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T08:22:38.313188
-- **Total Packages**: 89
-- **Total Size**: 20.67 MB
+- **Download Time**: 2025-12-25T08:51:06.608900
+- **Total Packages**: 85
+- **Total Size**: 15.79 MB
 
 ## Packages List
-- mns-common
+- wikiscraperx
 - gyrus
+- drf-api-doc-generator
+- dycw-utilities
+- axonate-esign-sdk
+- mineru-vl-utils
+- hive-builder
+- pulse-system-monitor
+- atlisp
+- pixel-font-knife
+- dragon-ml-toolbox
+- vllm-sr
+- zfx
+- flask-frame
+- simplepy
+- KairoCore
+- zhangtree
+- autoglm-gui
+- fivccliche
+- mns-scheduler
+- use-sqs
+- biblemategui
+- memeval
+- a2a-llm-tracker
+- bluer-ugv
+- akeyless
+- mcp-eregistrations-bpa
+- spark-bestfit
+- repo-smith
+- freegpthub-dramamoyu
+- git-bayesect
+- asynctasq
+- weixinautox4
+- tencent-wedata-auto-ml
+- spiritlong
+- word-latex-mcp
+- catena4j
+- mftsccs
+- moptipyapps
+- zhtree
+- chekml-blackemperor
+- kaq-quant-common
+- nsefeed
+- asyncuvkit
+- polydup
+- anemone-daisy-maker
+- openmcp-sdk
+- datapipe-core
+- mns-common
 - tpu-inference
 - PersonaCipher
 - go-task-bin
@@ -36,62 +83,11 @@
 - jacksung-dev
 - ezmsg-event
 - abstract-react
-- nsefeed
 - binary-refinery
 - python-qlv-helper
 - napari-simpleannotate
 - rabe-cridlib
-- atlisp
 - undine
 - auroraview
 - tf-models-nightly
 - plugwise
-- webqa-agent
-- llm-registry
-- portale
-- ctyunsdk-hpfs20220909
-- tablers
-- sparkwise
-- lightpdf-aipdf-backend
-- lightpdf-aipdf-mcp
-- ezmsg-lsl
-- why-tools
-- tts-clients
-- HexSS
-- repostats
-- django-minio-storage-idtinc
-- mcp-cuc-fwj
-- aegis-memory
-- turbo-orm
-- cndi
-- dataqueryanalyze
-- qlisp
-- dycw-utilities
-- onnx-paddleocr
-- epsbasin
-- sora-sdk-rpi
-- sora-sdk
-- aelion-calc
-- linzt-cfrna-test-1
-- python-neo-lzf
-- ai4gcnpy
-- someip-py
-- lollms-client
-- openmcp-sdk
-- imgb64
-- vitoxreduce
-- net-vis
-- teorver
-- alibaba-cloud-ops-mcp-server
-- streamdeck-mcp
-- tewi-transmission
-- rshub
-- CaptchaGen
-- naviai-voiceprint
-- cjm-plugin-system
-- pyfiberc
-- feldera
-- tap-grib
-- pushikoo-processer-re
-- repo-smith
-- ai-edge-litert-sdk-mediatek-nightly

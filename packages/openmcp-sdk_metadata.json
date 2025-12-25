@@ -1,11 +1,11 @@
 {
   "name": "openmcp-sdk",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Deploy MCP servers in seconds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openmcp_sdk-0.2.7.tar.gz",
-  "download_time": "2025-12-25T07:51:25.091636",
+  "download_filename": "openmcp_sdk-0.2.8.tar.gz",
+  "download_time": "2025-12-25T08:50:46.262396",
   "package_url": "https://pypi.org/project/openmcp-sdk/"
 }
