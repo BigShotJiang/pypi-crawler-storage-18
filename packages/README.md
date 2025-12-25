@@ -1,22 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T14:39:15.604138
-- **Total Packages**: 85
-- **Total Size**: 31.38 MB
+- **Download Time**: 2025-12-25T14:53:53.208511
+- **Total Packages**: 84
+- **Total Size**: 6.24 MB
 
 ## Packages List
-- rumdl
+- gmi-ieops
+- ani-cli-arabic
+- boask
+- tinymlx
+- ttutils
+- wizard-codegen
+- pasta-eln
+- embbedFirmata
+- xnlinkfinder
+- xync-client
+- xync-bot
+- coze-coding-dev-sdk
+- lm-notehub
 - asyncuvkit
+- csignum-fast
+- agentpool
+- datasciencelab7
+- imbue
+- word-latex-mcp
+- gsi-protocol-installer
+- PyPetka-Script
+- aiogram-sever-patch
+- pnex-publisher
+- py-gemini-watermark-remover
+- dycw-utilities
+- xync-schema
+- repo-smith
+- langswarm
+- bluetti-bt-lib
+- dremio-cli
+- chad-ai
+- kai-client
+- rumdl
 - licomp-doubleopen
 - one-public-api
-- ani-cli-arabic
-- datasciencelab7
 - ctfh
 - pycvt
 - pyfreeproxy
 - aiauto-client
-- word-latex-mcp
 - shieldcommit
 - pykimix
 - django-app-logs
@@ -32,9 +60,7 @@
 - hfortix
 - vsax
 - django-email-learning
-- gsi-protocol-installer
 - polydup
-- gmi-ieops
 - x-transformers
 - lite-taskman
 - BrainX
@@ -56,7 +82,6 @@
 - toolguard
 - brainevent
 - braintools
-- chad-ai
 - kearas
 - legit-api-client
 - justjit
@@ -64,30 +89,4 @@
 - vspagent
 - sm64-binds
 - mcp-eregistrations-bpa
-- repo-smith
 - da-mcp-server-http
-- proofnest
-- klaude-code
-- easyrip
-- aquiles-image
-- zipher-sdk
-- cyqnt-trd
-- anyenv
-- canns
-- purechance
-- csignum-fast
-- llm-kit-pro
-- sctrend
-- locoformer
-- linux-do-connect-token
-- tensordict-nightly
-- braintrace
-- gptio
-- vnag
-- nonebot-plugin-boardgamehelper
-- pyrig-dev
-- fabricatio-tool
-- petcode
-- fabricatio-actions
-- fabricatio-diff
-- fabricatio-anki

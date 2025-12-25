@@ -1,0 +1,11 @@
+{
+  "name": "pnex-publisher",
+  "version": "0.1.0",
+  "summary": "Client for publishing data to PNEX platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pnex_publisher-0.1.0.tar.gz",
+  "download_time": "2025-12-25T14:53:19.200154",
+  "package_url": "https://pypi.org/project/pnex-publisher/"
+}

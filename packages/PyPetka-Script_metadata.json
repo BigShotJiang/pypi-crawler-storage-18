@@ -1,0 +1,11 @@
+{
+  "name": "PyPetka-Script",
+  "version": "4.0.0",
+  "summary": "Русскоязычная библиотека Python с 150+ функциями для студентов и разработчиков. Упрощение работы с Python, математикой, шифрованием и алгоритмами.",
+  "author": "Chorelin",
+  "license": "MIT",
+  "home_page": "https://github.com/IlyaChaek/PyPetka-Script",
+  "download_filename": "pypetka_script-4.0.0.tar.gz",
+  "download_time": "2025-12-25T14:53:18.174824",
+  "package_url": "https://pypi.org/project/PyPetka-Script/"
+}

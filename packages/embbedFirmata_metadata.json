@@ -1,0 +1,11 @@
+{
+  "name": "embbedFirmata",
+  "version": "0.1.1",
+  "summary": "Crontol a embbbed system via firmata.",
+  "author": "Jhonata Rios Carneiro",
+  "license": null,
+  "home_page": null,
+  "download_filename": "embbedfirmata-0.1.1.tar.gz",
+  "download_time": "2025-12-25T14:53:10.833195",
+  "package_url": "https://pypi.org/project/embbedFirmata/"
+}
