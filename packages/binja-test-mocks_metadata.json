@@ -1,11 +1,11 @@
 {
   "name": "binja-test-mocks",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Mock Binary Ninja API for testing Binary Ninja plugins without requiring a license",
   "author": "mblsha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binja_test_mocks-0.1.5.tar.gz",
-  "download_time": "2025-12-24T09:44:42.545471",
+  "download_filename": "binja_test_mocks-0.1.7.tar.gz",
+  "download_time": "2025-12-25T03:04:19.863415",
   "package_url": "https://pypi.org/project/binja-test-mocks/"
 }

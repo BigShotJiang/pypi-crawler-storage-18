@@ -1,0 +1,11 @@
+{
+  "name": "reflex-chessboard",
+  "version": "0.1.0",
+  "summary": "Шахматная доска для Reflex (react-chessboard + chess.js)",
+  "author": "kuruhuru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reflex_chessboard-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-25T03:04:09.297547",
+  "package_url": "https://pypi.org/project/reflex-chessboard/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "uniserve",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "model serving frame work",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "uniserve-0.0.4-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-24T07:20:37.575366",
+  "download_filename": "uniserve-0.0.5-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-25T03:04:51.837535",
   "package_url": "https://pypi.org/project/uniserve/"
 }

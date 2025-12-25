@@ -1,0 +1,11 @@
+{
+  "name": "raccoon",
+  "version": "3.3.1",
+  "summary": "Python DataFrame with fast insert and appends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "raccoon-3.3.1.tar.gz",
+  "download_time": "2025-12-25T03:04:21.398387",
+  "package_url": "https://pypi.org/project/raccoon/"
+}

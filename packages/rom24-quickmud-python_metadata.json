@@ -1,0 +1,11 @@
+{
+  "name": "rom24-quickmud-python",
+  "version": "2.0.4",
+  "summary": "A modern Python port of the ROM 2.4b6 MUD engine with full telnet server and JSON world loading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rom24_quickmud_python-2.0.4.tar.gz",
+  "download_time": "2025-12-25T03:04:16.216650",
+  "package_url": "https://pypi.org/project/rom24-quickmud-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ison-py",
+  "version": "1.0.0",
+  "summary": "ISON (Interchange Simple Object Notation) - A token-efficient data format for AI/LLM workflows",
+  "author": "Mahesh Vaikri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ison_py-1.0.0.tar.gz",
+  "download_time": "2025-12-25T03:04:39.927682",
+  "package_url": "https://pypi.org/project/ison-py/"
+}

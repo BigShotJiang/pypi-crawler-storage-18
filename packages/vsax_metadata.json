@@ -1,11 +1,11 @@
 {
   "name": "vsax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "JAX-native Vector Symbolic Algebra library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vsax-1.1.0.tar.gz",
-  "download_time": "2025-12-20T19:48:41.223306",
+  "download_filename": "vsax-1.2.0.tar.gz",
+  "download_time": "2025-12-25T03:04:35.820395",
   "package_url": "https://pypi.org/project/vsax/"
 }

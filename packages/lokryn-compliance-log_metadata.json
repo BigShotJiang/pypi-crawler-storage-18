@@ -1,0 +1,11 @@
+{
+  "name": "lokryn-compliance-log",
+  "version": "0.1.1",
+  "summary": "Protocol Buffers schema for compliance-grade audit logging. Built for SOC2, HIPAA, and PCI environments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lokryn_compliance_log-0.1.1.tar.gz",
+  "download_time": "2025-12-25T03:04:48.222928",
+  "package_url": "https://pypi.org/project/lokryn-compliance-log/"
+}

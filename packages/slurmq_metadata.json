@@ -1,11 +1,11 @@
 {
   "name": "slurmq",
-  "version": "0.0.2",
-  "summary": "Slurm GPU quota monitoring and management",
+  "version": "0.0.3",
+  "summary": "Quota monitoring and management for Slurm.",
   "author": "Dedalus Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "slurmq-0.0.2.tar.gz",
-  "download_time": "2025-12-24T03:00:54.989806",
+  "download_filename": "slurmq-0.0.3.tar.gz",
+  "download_time": "2025-12-25T03:04:50.813246",
   "package_url": "https://pypi.org/project/slurmq/"
 }
