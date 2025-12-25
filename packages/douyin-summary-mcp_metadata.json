@@ -1,0 +1,11 @@
+{
+  "name": "douyin-summary-mcp",
+  "version": "1.0.1",
+  "summary": "MCP服务：从抖音分享链接提取音频、进行语音识别并整理对话内容",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/douyin-summary-mcp",
+  "download_filename": "douyin_summary_mcp-1.0.1.tar.gz",
+  "download_time": "2025-12-25T04:08:00.937702",
+  "package_url": "https://pypi.org/project/douyin-summary-mcp/"
+}

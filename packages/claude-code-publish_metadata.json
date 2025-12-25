@@ -1,11 +1,11 @@
 {
   "name": "claude-code-publish",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "Convert a Claude Code for web session.json to HTML",
   "author": "Simon Willison",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_publish-0.1.tar.gz",
-  "download_time": "2025-12-24T23:50:43.593109",
+  "download_filename": "claude_code_publish-0.2.tar.gz",
+  "download_time": "2025-12-25T04:07:58.322070",
   "package_url": "https://pypi.org/project/claude-code-publish/"
 }

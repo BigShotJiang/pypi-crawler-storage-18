@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-Astro-blog",
+  "version": "0.1.0",
+  "summary": "通过nonebot进行astro博客的简单操作",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_astro_blog-0.1.0.tar.gz",
+  "download_time": "2025-12-25T04:07:56.765583",
+  "package_url": "https://pypi.org/project/nonebot-plugin-Astro-blog/"
+}

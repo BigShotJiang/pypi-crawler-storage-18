@@ -1,11 +1,11 @@
 {
   "name": "python-async",
-  "version": "0.2.0",
-  "summary": "Thread-based parallelism for Python. Simple, explicit API for running tasks in parallel.",
+  "version": "0.3.0",
+  "summary": "Thread and Process-based parallelism for Python. Simple, explicit API for running tasks in parallel.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_async-0.2.0.tar.gz",
-  "download_time": "2025-12-25T03:04:23.456833",
+  "download_filename": "python_async-0.3.0.tar.gz",
+  "download_time": "2025-12-25T04:07:32.680540",
   "package_url": "https://pypi.org/project/python-async/"
 }

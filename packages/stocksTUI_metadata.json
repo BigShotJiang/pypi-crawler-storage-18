@@ -1,0 +1,11 @@
+{
+  "name": "stocksTUI",
+  "version": "0.1.0b10",
+  "summary": "A stylish and feature-rich Terminal User Interface for monitoring stock prices, news, and historical data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stockstui-0.1.0b10.tar.gz",
+  "download_time": "2025-12-25T04:07:46.824591",
+  "package_url": "https://pypi.org/project/stocksTUI/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-account-nfe",
+  "version": "14.0.6.1.1",
+  "summary": "Integration between l10n_br_account and l10n_br_nfe",
+  "author": "Engenere,Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_account_nfe-14.0.6.1.1-py3-none-any.whl",
+  "download_time": "2025-12-25T04:08:12.092274",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-account-nfe/"
+}

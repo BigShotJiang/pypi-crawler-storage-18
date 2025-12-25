@@ -1,0 +1,11 @@
+{
+  "name": "xiyan-lee-server",
+  "version": "0.1.6.dev0",
+  "summary": "A Model Context Protocol (MCP) server that utilizes XiyanSQL with databases. This server enables AI assistants to list tables, read data, and execute natural language queries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xiyan_lee_server-0.1.6.dev0.tar.gz",
+  "download_time": "2025-12-25T04:07:45.267197",
+  "package_url": "https://pypi.org/project/xiyan-lee-server/"
+}

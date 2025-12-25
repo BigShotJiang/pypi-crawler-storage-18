@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-pos",
+  "version": "14.0.1.5.4",
+  "summary": "Ponto de venda adaptado a legislação Brasileira",
+  "author": "KMEE, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_pos-14.0.1.5.4-py3-none-any.whl",
+  "download_time": "2025-12-25T04:08:13.642183",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-pos/"
+}

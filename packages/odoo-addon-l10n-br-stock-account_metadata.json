@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-stock-account",
+  "version": "16.0.4.0.0.4",
+  "summary": "Invoice from Picking (nota fiscal de remessa) and other WMS overrides",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_stock_account-16.0.4.0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-25T04:08:09.458790",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-stock-account/"
+}
