@@ -1,11 +1,11 @@
 {
   "name": "cloudsh",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python CLI wrapping common Linux commands for local/cloud files.",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "cloudsh-0.3.0.tar.gz",
-  "download_time": "2025-12-24T21:14:44.689863",
+  "download_filename": "cloudsh-0.3.1.tar.gz",
+  "download_time": "2025-12-25T19:13:26.125701",
   "package_url": "https://pypi.org/project/cloudsh/"
 }

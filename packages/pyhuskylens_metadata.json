@@ -1,11 +1,11 @@
 {
   "name": "pyhuskylens",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "Universal Python library for HuskyLens AI camera - supports MicroPython and CPython (Raspberry Pi)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhuskylens-2.1.0.tar.gz",
-  "download_time": "2025-12-22T12:34:24.493335",
+  "download_filename": "pyhuskylens-2.2.0.tar.gz",
+  "download_time": "2025-12-25T19:13:23.508606",
   "package_url": "https://pypi.org/project/pyhuskylens/"
 }

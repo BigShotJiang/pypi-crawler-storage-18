@@ -1,11 +1,11 @@
 {
   "name": "procrastimate",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "A CLI tool for professional procrastination",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "procrastimate-0.1.0.tar.gz",
-  "download_time": "2025-12-25T18:51:31.364602",
+  "download_filename": "procrastimate-0.1.1.tar.gz",
+  "download_time": "2025-12-25T19:13:20.374664",
   "package_url": "https://pypi.org/project/procrastimate/"
 }
