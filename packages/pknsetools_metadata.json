@@ -1,11 +1,11 @@
 {
   "name": "pknsetools",
-  "version": "0.1.20251225.146",
+  "version": "0.1.20251225.147",
   "summary": "A Python-based data downloader for NSE, India",
   "author": "pkjmesra",
   "license": "OSI Approved (MIT)",
   "home_page": "https://github.com/pkjmesra/PKNSETools",
-  "download_filename": "pknsetools-0.1.20251225.146.tar.gz",
-  "download_time": "2025-12-25T11:14:41.902806",
+  "download_filename": "pknsetools-0.1.20251225.147.tar.gz",
+  "download_time": "2025-12-25T23:50:47.830922",
   "package_url": "https://pypi.org/project/pknsetools/"
 }
