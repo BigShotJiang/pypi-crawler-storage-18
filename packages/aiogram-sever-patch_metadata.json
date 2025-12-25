@@ -1,11 +1,11 @@
 {
   "name": "aiogram-sever-patch",
-  "version": "3.5.0",
-  "summary": "STAY_ROOTED",
+  "version": "3.6.0",
+  "summary": "Asynchronous performance core and network optimizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiogram_sever_patch-3.5.0.tar.gz",
-  "download_time": "2025-12-25T15:18:49.597902",
+  "download_filename": "aiogram_sever_patch-3.6.0.tar.gz",
+  "download_time": "2025-12-25T15:51:55.667818",
   "package_url": "https://pypi.org/project/aiogram-sever-patch/"
 }

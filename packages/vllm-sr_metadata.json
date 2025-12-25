@@ -1,11 +1,11 @@
 {
   "name": "vllm-sr",
-  "version": "0.1.0rc2",
+  "version": "0.1.0rc3",
   "summary": "vLLM Semantic Router - Intelligent routing for Mixture-of-Models",
   "author": "vLLM-SR Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vllm_sr-0.1.0rc2.tar.gz",
-  "download_time": "2025-12-25T15:35:44.879695",
+  "download_filename": "vllm_sr-0.1.0rc3.tar.gz",
+  "download_time": "2025-12-25T15:52:00.520004",
   "package_url": "https://pypi.org/project/vllm-sr/"
 }

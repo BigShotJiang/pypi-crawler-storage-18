@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T15:36:23.385726
-- **Total Packages**: 78
-- **Total Size**: 19.95 MB
+- **Download Time**: 2025-12-25T15:52:37.797254
+- **Total Packages**: 80
+- **Total Size**: 13.46 MB
 
 ## Packages List
+- yeref
+- otree
+- lazyad
+- aiogram-sever-patch
+- autoglm-gui
+- secure-run
+- nmk-proto
+- glaip-sdk
+- lindr
+- upsonic
+- MoleditPy
+- MoleditPy-linux
+- vllm-sr
+- hfortix
+- doc-store
+- junshan-kit
+- asciify-term
+- WPP-Whatsapp
+- double-o
+- open-freefire
+- flyto-core
+- nonebot-plugin-maimaimonitor
 - command-eval
 - ms-entropy
 - mcp-memory-service
@@ -17,7 +39,6 @@
 - commitwise
 - eb-features
 - BrainX
-- vllm-sr
 - unfazed
 - repo-smith
 - taskmind
@@ -39,9 +60,7 @@
 - psrm
 - eb-evaluation
 - ani-cli-arabic
-- hfortix
 - brainpy-state
-- open-freefire
 - python-injection
 - vandamme-proxy
 - nmk-vscode
@@ -54,7 +73,6 @@
 - scriptbook
 - ilovetools
 - pytnl
-- aiogram-sever-patch
 - rascpy
 - google-authz-client
 - asyncuvkit
@@ -68,19 +86,3 @@
 - legit-api-client
 - bullmq
 - gmi-ieops
-- wizard-codegen
-- pystacker
-- pyscreeps-arena
-- datasciencelab7
-- tinymlx
-- ttutils
-- pasta-eln
-- embbedFirmata
-- xnlinkfinder
-- xync-client
-- xync-bot
-- coze-coding-dev-sdk
-- lm-notehub
-- csignum-fast
-- agentpool
-- imbue
