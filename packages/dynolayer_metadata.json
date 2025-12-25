@@ -1,11 +1,11 @@
 {
   "name": "dynolayer",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "O DynoLayer é uma ferramenta poderosa que simplifica e agiliza o acesso e manipulação de dados no Amazon DynamoDB, baseada no padrão Active Record.",
   "author": "Kauê Leal de Lima",
   "license": "MIT License",
   "home_page": "https://github.com/kauelima21/dynolayer",
-  "download_filename": "dynolayer-0.6.0.tar.gz",
-  "download_time": "2025-12-25T21:33:06.962469",
+  "download_filename": "dynolayer-0.6.2.tar.gz",
+  "download_time": "2025-12-25T22:17:54.591003",
   "package_url": "https://pypi.org/project/dynolayer/"
 }

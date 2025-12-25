@@ -1,11 +1,11 @@
 {
   "name": "slurmray",
-  "version": "6.0.5",
+  "version": "6.0.6",
   "summary": "SlurmRay is an official tool from DESI @ HEC UNIL for effortlessly distributing tasks on Slurm clusters (e.g., Curnagl) or standalone servers (e.g., ISIPOL09/Desi) using the Ray library.",
   "author": "Henri Jamet",
   "license": "Apache License",
   "home_page": "https://henri-jamet.vercel.app/",
-  "download_filename": "slurmray-6.0.5.tar.gz",
-  "download_time": "2025-12-25T21:32:42.723649",
+  "download_filename": "slurmray-6.0.6.tar.gz",
+  "download_time": "2025-12-25T22:18:06.287968",
   "package_url": "https://pypi.org/project/slurmray/"
 }
