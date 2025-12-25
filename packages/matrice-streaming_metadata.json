@@ -1,11 +1,11 @@
 {
   "name": "matrice-streaming",
-  "version": "0.1.45",
+  "version": "0.1.46",
   "summary": "Common server utilities for Matrice.ai services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrice_streaming-0.1.45.tar.gz",
-  "download_time": "2025-12-21T19:26:24.564749",
+  "download_filename": "matrice_streaming-0.1.46.tar.gz",
+  "download_time": "2025-12-25T17:50:44.558881",
   "package_url": "https://pypi.org/project/matrice-streaming/"
 }

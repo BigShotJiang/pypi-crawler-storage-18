@@ -1,11 +1,11 @@
 {
   "name": "filelock-lts-py38",
-  "version": "2025.68146",
-  "summary": "Python 3.8 compatible filelock with CVE-2025-68146 patch",
+  "version": "2025.68146.1",
+  "summary": "Python 3.8 filelock with CVE-2025-68146 security patch (symlink attack prevention via O_NOFOLLOW)",
   "author": null,
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "filelock_lts_py38-2025.68146.tar.gz",
-  "download_time": "2025-12-23T04:07:31.152842",
+  "download_filename": "filelock_lts_py38-2025.68146.1.tar.gz",
+  "download_time": "2025-12-25T17:50:44.037786",
   "package_url": "https://pypi.org/project/filelock-lts-py38/"
 }

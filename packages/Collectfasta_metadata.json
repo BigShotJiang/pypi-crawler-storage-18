@@ -1,0 +1,11 @@
+{
+  "name": "Collectfasta",
+  "version": "3.3.3",
+  "summary": "A Faster Collectstatic",
+  "author": "Anton Agestam, Jason Giancono",
+  "license": "MIT License",
+  "home_page": "https://github.com/jasongi/collectfasta/",
+  "download_filename": "collectfasta-3.3.3.tar.gz",
+  "download_time": "2025-12-25T17:50:45.604136",
+  "package_url": "https://pypi.org/project/Collectfasta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarm-orchestrator",
+  "version": "0.2.0",
+  "summary": "Multi-agent consensus system using Schaltwerk + Claude Code",
+  "author": "Swarm Orchestrator Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swarm_orchestrator-0.2.0.tar.gz",
+  "download_time": "2025-12-25T17:50:42.468880",
+  "package_url": "https://pypi.org/project/swarm-orchestrator/"
+}
