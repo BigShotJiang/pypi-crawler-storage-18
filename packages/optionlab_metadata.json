@@ -1,11 +1,11 @@
 {
   "name": "optionlab",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Python library for evaluating options trading strategies",
   "author": "Roberto Gomes, PhD",
   "license": null,
   "home_page": null,
-  "download_filename": "optionlab-1.5.0.tar.gz",
-  "download_time": "2025-12-23T18:52:59.887497",
+  "download_filename": "optionlab-1.5.1.tar.gz",
+  "download_time": "2025-12-25T11:43:15.979867",
   "package_url": "https://pypi.org/project/optionlab/"
 }
