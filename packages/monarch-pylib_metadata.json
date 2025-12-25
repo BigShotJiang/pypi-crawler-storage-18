@@ -1,11 +1,11 @@
 {
   "name": "monarch-pylib",
-  "version": "0.5.5",
+  "version": "0.5.7",
   "summary": "Monarch Python Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "monarch_pylib-0.5.5.tar.gz",
-  "download_time": "2025-12-25T10:46:18.446117",
+  "download_filename": "monarch_pylib-0.5.7.tar.gz",
+  "download_time": "2025-12-25T11:14:53.066211",
   "package_url": "https://pypi.org/project/monarch-pylib/"
 }

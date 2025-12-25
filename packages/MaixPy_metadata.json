@@ -1,0 +1,11 @@
+{
+  "name": "MaixPy",
+  "version": "4.12.4",
+  "summary": "Sipeed Maix Vision Python SDK",
+  "author": "Sipeed",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Sipeed/MaixPy",
+  "download_filename": "maixpy-4.12.4-cp310-cp310-manylinux2014_x86_64.whl",
+  "download_time": "2025-12-25T11:14:48.134283",
+  "package_url": "https://pypi.org/project/MaixPy/"
+}

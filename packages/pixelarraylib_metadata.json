@@ -1,11 +1,11 @@
 {
   "name": "pixelarraylib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "PixelArray Python开发工具库 - 包含阿里云服务、数据库工具、装饰器、监控等功能",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixelarraylib-1.2.0.tar.gz",
-  "download_time": "2025-12-25T10:17:28.327792",
+  "download_filename": "pixelarraylib-1.2.1.tar.gz",
+  "download_time": "2025-12-25T11:14:54.120000",
   "package_url": "https://pypi.org/project/pixelarraylib/"
 }

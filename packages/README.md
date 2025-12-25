@@ -1,16 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T10:56:33.148748
-- **Total Packages**: 85
-- **Total Size**: 7.72 MB
+- **Download Time**: 2025-12-25T11:15:18.306230
+- **Total Packages**: 74
+- **Total Size**: 14.08 MB
 
 ## Packages List
+- open-freefire
+- stream-translator-gpt
+- manimera
+- abstract-utilities
+- icraft
+- pkscreener
+- pyrig
+- waifuboard
+- pknsetools
+- ankiazvox
+- gptio
+- drf-api-doc-generator
+- codevideorenderer
+- aipyapp
+- acbox
+- command-eval
+- pulumiverse-talos
+- imbue
+- MaixPy
+- pkbrokers
+- open-ff
+- rustpy2025
+- nola-tools
+- termella
+- home-ops-cli
+- yafi
+- ayechat-dev
+- monarch-pylib
+- bigtools
+- pixelarraylib
+- li-group-center
+- mailbreeze
+- uvtask
+- uv-outdated
 - seallib
 - vatra-py
-- abstract-utilities
 - CYBERTECHMIND-CVE-2025-55182
-- manimera
 - nlbone
 - ngen-argoapi
 - shotgrid-mcp-server
@@ -25,7 +57,6 @@
 - nvidia-nat-strands
 - wsocks
 - nvidia-nat-phoenix
-- drf-api-doc-generator
 - nvidia-nat-mcp
 - nvidia-nat-ingestion
 - dingo-python
@@ -49,45 +80,3 @@
 - nvidia-nat-a2a
 - strutex
 - nvidia-nat-s3
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- abstract-react
-- nvidia-nat-langchain
-- agent-types
-- nvidia-nat-semantic-kernel
-- flyto-core
-- nvidia-nat-zep-cloud
-- letta-nightly
-- nvidia-nat-agno
-- nvidia-nat-vanna
-- aiqtoolkit-semantic-kernel
-- percy-rl
-- epl-analytics
-- aiqtoolkit-crewai
-- aiqtoolkit-agno
-- qedma-api
-- aiqtoolkit-zep-cloud
-- spatialkit
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- aiqtoolkit-test
-- typed-pytest
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- CryptoLyzer
-- aiqtoolkit-langchain
-- devopsmind
-- daffy
-- a2a-llm-tracker
-- asyncuvkit
-- kaspi-offers-py
-- py-openjudge
-- icalendar-anonymizer
-- django-app-logs
-- floydnet
-- pybiotech
-- mwj-tools
-- sdwk
-- velesdb
-- azuresfimcpagent-test
-- apyds

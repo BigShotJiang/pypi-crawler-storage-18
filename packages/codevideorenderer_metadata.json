@@ -1,0 +1,11 @@
+{
+  "name": "codevideorenderer",
+  "version": "1.1.1",
+  "summary": "A Python library for rendering code videos",
+  "author": "Zhu Chongjing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codevideorenderer-1.1.1.tar.gz",
+  "download_time": "2025-12-25T11:14:44.625798",
+  "package_url": "https://pypi.org/project/codevideorenderer/"
+}

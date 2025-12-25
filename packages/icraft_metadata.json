@@ -1,0 +1,11 @@
+{
+  "name": "icraft",
+  "version": "3.33.1",
+  "summary": "a whl for icraft",
+  "author": "TangXiao",
+  "license": "GPL Licence",
+  "home_page": null,
+  "download_filename": "icraft-3.33.1-cp38-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-12-25T11:14:39.695225",
+  "package_url": "https://pypi.org/project/icraft/"
+}

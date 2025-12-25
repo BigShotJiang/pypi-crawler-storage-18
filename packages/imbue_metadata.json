@@ -1,0 +1,11 @@
+{
+  "name": "imbue",
+  "version": "2.2.0",
+  "summary": "Type based python dependency injection framework.",
+  "author": "Gabriel Pajot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imbue-2.2.0.tar.gz",
+  "download_time": "2025-12-25T11:14:47.350892",
+  "package_url": "https://pypi.org/project/imbue/"
+}

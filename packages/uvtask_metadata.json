@@ -1,11 +1,11 @@
 {
   "name": "uvtask",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "An extremely fast Python task runner.",
   "author": "ticdenis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uvtask-0.5.0.tar.gz",
-  "download_time": "2025-12-25T03:04:50.268618",
+  "download_filename": "uvtask-0.6.0.tar.gz",
+  "download_time": "2025-12-25T11:14:55.702522",
   "package_url": "https://pypi.org/project/uvtask/"
 }

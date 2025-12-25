@@ -1,0 +1,11 @@
+{
+  "name": "rustpy2025",
+  "version": "0.2.0",
+  "summary": "Django uslubidagi CLI framework va Telegram botlar uchun yordamchi kutubxona",
+  "author": "Rustamjon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rustpy2025-0.2.0.tar.gz",
+  "download_time": "2025-12-25T11:14:49.816362",
+  "package_url": "https://pypi.org/project/rustpy2025/"
+}
