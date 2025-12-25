@@ -1,0 +1,11 @@
+{
+  "name": "clipsai-jp",
+  "version": "1.0.1",
+  "summary": "Clips AIは、長い動画を自動的にクリップに変換するオープンソースのPythonライブラリです（日本語専用版）",
+  "author": "Benjamin Smidt, Johann Ramirez, Armel Talla",
+  "license": "MIT",
+  "home_page": "https://clipsai.com/",
+  "download_filename": "clipsai_jp-1.0.1.tar.gz",
+  "download_time": "2025-12-25T07:19:10.983713",
+  "package_url": "https://pypi.org/project/clipsai-jp/"
+}

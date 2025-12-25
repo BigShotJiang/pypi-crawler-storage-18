@@ -1,11 +1,11 @@
 {
   "name": "aipartnerupflow",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "summary": "Agent workflow orchestration and execution platform",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aipartnerupflow-0.7.3.tar.gz",
-  "download_time": "2025-12-22T09:49:00.349426",
+  "download_filename": "aipartnerupflow-0.8.0.tar.gz",
+  "download_time": "2025-12-25T07:19:26.646858",
   "package_url": "https://pypi.org/project/aipartnerupflow/"
 }

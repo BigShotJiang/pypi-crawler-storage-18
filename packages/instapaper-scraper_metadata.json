@@ -1,0 +1,11 @@
+{
+  "name": "instapaper-scraper",
+  "version": "1.1.0",
+  "summary": "A tool to scrape articles from Instapaper.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "instapaper_scraper-1.1.0.tar.gz",
+  "download_time": "2025-12-25T07:19:08.303740",
+  "package_url": "https://pypi.org/project/instapaper-scraper/"
+}
