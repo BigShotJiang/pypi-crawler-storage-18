@@ -1,0 +1,11 @@
+{
+  "name": "microplex",
+  "version": "0.1.0",
+  "summary": "Microdata synthesis and reweighting using normalizing flows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microplex-0.1.0.tar.gz",
+  "download_time": "2025-12-25T23:16:13.318174",
+  "package_url": "https://pypi.org/project/microplex/"
+}

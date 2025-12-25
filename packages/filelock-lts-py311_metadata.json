@@ -1,11 +1,11 @@
 {
   "name": "filelock-lts-py311",
-  "version": "2025.68146",
+  "version": "2025.68146.2",
   "summary": "Python 3.11 filelock with CVE-2025-68146 security patch (symlink attack prevention via O_NOFOLLOW)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filelock_lts_py311-2025.68146.tar.gz",
-  "download_time": "2025-12-25T20:44:10.057824",
+  "download_filename": "filelock_lts_py311-2025.68146.2.tar.gz",
+  "download_time": "2025-12-25T23:16:04.573283",
   "package_url": "https://pypi.org/project/filelock-lts-py311/"
 }

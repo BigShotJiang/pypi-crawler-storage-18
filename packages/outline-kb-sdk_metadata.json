@@ -1,0 +1,11 @@
+{
+  "name": "outline-kb-sdk",
+  "version": "0.9.0",
+  "summary": "Python SDK for the Outline Knowledge Base API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "outline_kb_sdk-0.9.0.tar.gz",
+  "download_time": "2025-12-25T23:15:52.636792",
+  "package_url": "https://pypi.org/project/outline-kb-sdk/"
+}

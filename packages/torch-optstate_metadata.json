@@ -1,0 +1,11 @@
+{
+  "name": "torch-optstate",
+  "version": "0.1.1",
+  "summary": "Optimizer state virtualization and compression for PyTorch",
+  "author": "Vidhu Mathur",
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_optstate-0.1.1.tar.gz",
+  "download_time": "2025-12-25T23:16:15.059853",
+  "package_url": "https://pypi.org/project/torch-optstate/"
+}

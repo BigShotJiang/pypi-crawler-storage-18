@@ -1,0 +1,11 @@
+{
+  "name": "AirDragon",
+  "version": "0.4.0",
+  "summary": "Air + BasecoatUI + TailwindCSS made easy.",
+  "author": "Daniel Roy Greenfeld, Audrey Roy Greenfeld",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airdragon-0.4.0.tar.gz",
+  "download_time": "2025-12-25T23:16:02.376584",
+  "package_url": "https://pypi.org/project/AirDragon/"
+}

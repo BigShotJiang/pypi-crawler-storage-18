@@ -1,0 +1,11 @@
+{
+  "name": "moustique-client",
+  "version": "0.1.1",
+  "summary": "Python client for Moustique messaging server",
+  "author": "Moustique",
+  "license": null,
+  "home_page": "https://github.com/moustiqueserver/moustique",
+  "download_filename": "moustique_client-0.1.1.tar.gz",
+  "download_time": "2025-12-25T23:16:06.206661",
+  "package_url": "https://pypi.org/project/moustique-client/"
+}

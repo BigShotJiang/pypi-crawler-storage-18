@@ -1,0 +1,11 @@
+{
+  "name": "statebench",
+  "version": "1.0.2",
+  "summary": "A benchmark for measuring LLM state correctness over time",
+  "author": "Matt Liotta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "statebench-1.0.2.tar.gz",
+  "download_time": "2025-12-25T23:15:54.236164",
+  "package_url": "https://pypi.org/project/statebench/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "replimap",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "AWS Environment Replication Tool - Clone production to staging in minutes",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "replimap-0.1.13.tar.gz",
-  "download_time": "2025-12-24T23:50:48.258848",
+  "download_filename": "replimap-0.1.14.tar.gz",
+  "download_time": "2025-12-25T23:16:01.849530",
   "package_url": "https://pypi.org/project/replimap/"
 }

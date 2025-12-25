@@ -1,11 +1,11 @@
 {
   "name": "stegvault",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Password manager using steganography to embed encrypted credentials in images",
   "author": "StegVault Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stegvault-0.7.7.tar.gz",
-  "download_time": "2025-12-25T19:28:41.177357",
+  "download_filename": "stegvault-0.7.8.tar.gz",
+  "download_time": "2025-12-25T23:15:59.046322",
   "package_url": "https://pypi.org/project/stegvault/"
 }

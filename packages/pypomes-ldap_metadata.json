@@ -1,0 +1,11 @@
+{
+  "name": "pypomes-ldap",
+  "version": "0.2.2",
+  "summary": "A collection of Python pomes, penyeach (LDAP module)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypomes_ldap-0.2.2.tar.gz",
+  "download_time": "2025-12-25T23:15:56.382234",
+  "package_url": "https://pypi.org/project/pypomes-ldap/"
+}
