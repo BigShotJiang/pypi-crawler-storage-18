@@ -1,0 +1,11 @@
+{
+  "name": "shotgrid-mcp-server",
+  "version": "0.14.1",
+  "summary": "A Model Context Protocol (MCP) server implementation using fastmcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shotgrid_mcp_server-0.14.1-py3-none-any.whl",
+  "download_time": "2025-12-25T10:55:51.584447",
+  "package_url": "https://pypi.org/project/shotgrid-mcp-server/"
+}

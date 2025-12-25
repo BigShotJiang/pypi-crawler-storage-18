@@ -1,11 +1,11 @@
 {
   "name": "wsocks",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/sazima/WSocks",
-  "download_filename": "wsocks-1.0.2.tar.gz",
-  "download_time": "2025-12-21T04:07:49.894397",
+  "download_filename": "wsocks-1.0.4.tar.gz",
+  "download_time": "2025-12-25T10:55:56.965592",
   "package_url": "https://pypi.org/project/wsocks/"
 }

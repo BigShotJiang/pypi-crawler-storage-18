@@ -1,0 +1,11 @@
+{
+  "name": "fcsapi-rest",
+  "version": "4.0.0",
+  "summary": "Python REST API client for Forex, Cryptocurrency, and Stock market data from FCS API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fcsapi_rest-4.0.0.tar.gz",
+  "download_time": "2025-12-25T10:56:05.752730",
+  "package_url": "https://pypi.org/project/fcsapi-rest/"
+}
