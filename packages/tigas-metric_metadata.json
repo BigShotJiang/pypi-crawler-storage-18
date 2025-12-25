@@ -1,0 +1,11 @@
+{
+  "name": "tigas-metric",
+  "version": "0.1.1",
+  "summary": "Trained Image Generation Authenticity Score - A neural metric for assessing image realism",
+  "author": "TIGAS Project Team",
+  "license": null,
+  "home_page": "https://github.com/H1merka/TIGAS",
+  "download_filename": "tigas_metric-0.1.1.tar.gz",
+  "download_time": "2025-12-25T13:45:16.637529",
+  "package_url": "https://pypi.org/project/tigas-metric/"
+}

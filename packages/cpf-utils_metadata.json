@@ -1,0 +1,11 @@
+{
+  "name": "cpf-utils",
+  "version": "1.0.0",
+  "summary": "Utility functions to deal with CPF data (Brazilian personal ID)",
+  "author": "Julio L. Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpf_utils-1.0.0.tar.gz",
+  "download_time": "2025-12-25T13:45:22.880238",
+  "package_url": "https://pypi.org/project/cpf-utils/"
+}
