@@ -1,0 +1,11 @@
+{
+  "name": "racquet-lab",
+  "version": "0.1.0",
+  "summary": "A Python library for tennis equipment physics and analytics",
+  "author": "Liwaa Hosh",
+  "license": null,
+  "home_page": "https://github.com/LiwaaCoder/racquet-lab",
+  "download_filename": "racquet_lab-0.1.0.tar.gz",
+  "download_time": "2025-12-25T11:51:39.056784",
+  "package_url": "https://pypi.org/project/racquet-lab/"
+}

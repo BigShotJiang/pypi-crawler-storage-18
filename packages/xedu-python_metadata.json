@@ -1,0 +1,11 @@
+{
+  "name": "xedu-python",
+  "version": "2.0.0",
+  "summary": "XEduPro Hub and LLM",
+  "author": "XEduPro",
+  "license": "MIT License",
+  "home_page": "https://github.com/XEduPro/XEdu-python",
+  "download_filename": "xedu_python-2.0.0-py3-none-any.whl",
+  "download_time": "2025-12-25T11:51:44.247640",
+  "package_url": "https://pypi.org/project/xedu-python/"
+}

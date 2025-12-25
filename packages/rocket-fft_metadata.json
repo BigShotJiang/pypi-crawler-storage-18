@@ -1,0 +1,11 @@
+{
+  "name": "rocket-fft",
+  "version": "0.3.0",
+  "summary": "Rocket-FFT extends Numba by scipy.fft and numpy.fft",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "rocket_fft-0.3.0.tar.gz",
+  "download_time": "2025-12-25T11:51:59.738915",
+  "package_url": "https://pypi.org/project/rocket-fft/"
+}

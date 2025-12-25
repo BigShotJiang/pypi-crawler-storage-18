@@ -1,0 +1,11 @@
+{
+  "name": "textual-hires-canvas",
+  "version": "0.12.0",
+  "summary": "High-resolution drawing canvas for Textual apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_hires_canvas-0.12.0.tar.gz",
+  "download_time": "2025-12-25T11:52:01.876707",
+  "package_url": "https://pypi.org/project/textual-hires-canvas/"
+}
