@@ -1,21 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T19:29:25.044970
-- **Total Packages**: 87
-- **Total Size**: 4.65 MB
+- **Download Time**: 2025-12-25T19:39:43.124951
+- **Total Packages**: 85
+- **Total Size**: 5.0 MB
 
 ## Packages List
+- tactus
+- ipyflow-core
+- bunker-stats-rs
+- malware-sentinel
+- Flask-SocketIO
+- sphinx-revealjs
+- pyccolo
+- boask
 - safebrowse
 - mat3ra-api-client
+- ib-async-mcp
 - gsql
-- boask
 - stegvault
 - ai-plays-jackbox
 - sys-scan-agent
 - mijnbib
 - polydup
-- malware-sentinel
 - biblemategui
 - seemps
 - humanticclient
@@ -84,12 +91,3 @@
 - secureaiml
 - xai-review
 - kerfed.protos
-- code-rag-me
-- sharepoint-to-text
-- windows-font-manager
-- reverse-api-engineer
-- salt-bundle
-- recce-nightly
-- bunker-stats-rs
-- recce-cloud-nightly
-- ezmsg-peripheraldevice

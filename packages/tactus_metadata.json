@@ -1,0 +1,11 @@
+{
+  "name": "tactus",
+  "version": "0.8.0",
+  "summary": "Tactus: Lua-based DSL for agentic workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tactus-0.8.0.tar.gz",
+  "download_time": "2025-12-25T19:38:58.429703",
+  "package_url": "https://pypi.org/project/tactus/"
+}

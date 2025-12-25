@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-revealjs",
+  "version": "3.2.1",
+  "summary": "Sphinx extension with theme to generate Reveal.js presentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_revealjs-3.2.1.tar.gz",
+  "download_time": "2025-12-25T19:39:01.171588",
+  "package_url": "https://pypi.org/project/sphinx-revealjs/"
+}
