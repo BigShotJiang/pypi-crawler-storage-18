@@ -1,0 +1,11 @@
+{
+  "name": "uploadoss",
+  "version": "0.4.1",
+  "summary": "Uploadoss is the general module of uploading database data and local files to the Alibaba Cloud OSS",
+  "author": "Binghe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uploadoss-0.4.1.tar.gz",
+  "download_time": "2025-12-25T09:54:24.236979",
+  "package_url": "https://pypi.org/project/uploadoss/"
+}
