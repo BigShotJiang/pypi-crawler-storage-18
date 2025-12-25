@@ -1,0 +1,11 @@
+{
+  "name": "holidata",
+  "version": "2025.12.0",
+  "summary": "Holidata is a utility for algorithmically producing holidays for a given locale and year",
+  "author": "Gothenburg Bit Factory",
+  "license": null,
+  "home_page": "https://github.com/GothenburgBitFactory/holidata",
+  "download_filename": "holidata-2025.12.0.tar.gz",
+  "download_time": "2025-12-25T16:48:49.604368",
+  "package_url": "https://pypi.org/project/holidata/"
+}

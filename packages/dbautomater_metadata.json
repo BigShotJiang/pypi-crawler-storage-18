@@ -1,11 +1,11 @@
 {
   "name": "dbautomater",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "while learning mlops I created this python package for connecting with database.",
   "author": "mouryag",
   "license": "MIT",
   "home_page": "https://github.com/mouryag/MLOPS-Project",
-  "download_filename": "dbautomater-0.0.4.tar.gz",
-  "download_time": "2025-12-24T20:18:27.045427",
+  "download_filename": "dbautomater-0.0.6.tar.gz",
+  "download_time": "2025-12-25T16:49:07.088568",
   "package_url": "https://pypi.org/project/dbautomater/"
 }

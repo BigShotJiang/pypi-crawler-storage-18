@@ -1,11 +1,11 @@
 {
   "name": "infiniloom",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Python bindings for infiniloom - Repository context engine for LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infiniloom-0.4.4.tar.gz",
-  "download_time": "2025-12-25T13:45:48.121562",
+  "download_filename": "infiniloom-0.4.5.tar.gz",
+  "download_time": "2025-12-25T16:49:04.534420",
   "package_url": "https://pypi.org/project/infiniloom/"
 }

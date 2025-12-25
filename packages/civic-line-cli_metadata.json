@@ -1,11 +1,11 @@
 {
   "name": "civic-line-cli",
-  "version": "1.8",
+  "version": "1.11",
   "summary": "Dead simple email sending for developers",
   "author": "Hemit Vimal Patel",
   "license": null,
   "home_page": null,
-  "download_filename": "civic_line_cli-1.8.tar.gz",
-  "download_time": "2025-12-25T03:04:16.788786",
+  "download_filename": "civic_line_cli-1.11.tar.gz",
+  "download_time": "2025-12-25T16:49:00.424682",
   "package_url": "https://pypi.org/project/civic-line-cli/"
 }
