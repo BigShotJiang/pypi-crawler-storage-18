@@ -1,11 +1,11 @@
 {
   "name": "pycvt",
-  "version": "0.0.1.post202512250158",
+  "version": "0.0.1.post202512250159",
   "summary": "A lightweight Python toolkit for seamless image composition, color processing, and visualizing detection results.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycvt-0.0.1.post202512250158.tar.gz",
-  "download_time": "2025-12-25T07:19:09.961279",
+  "download_filename": "pycvt-0.0.1.post202512250159.tar.gz",
+  "download_time": "2025-12-25T07:42:09.500914",
   "package_url": "https://pypi.org/project/pycvt/"
 }

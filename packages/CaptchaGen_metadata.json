@@ -1,0 +1,11 @@
+{
+  "name": "CaptchaGen",
+  "version": "0.1.0",
+  "summary": "Configurable CAPTCHA generator in Python with rotation, noise, and color options.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "captchagen-0.1.0.tar.gz",
+  "download_time": "2025-12-25T07:41:48.996623",
+  "package_url": "https://pypi.org/project/CaptchaGen/"
+}

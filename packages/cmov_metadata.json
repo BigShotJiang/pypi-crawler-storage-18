@@ -1,11 +1,11 @@
 {
   "name": "cmov",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A high-level Python library for programmatic timeline-based video animation and dynamic scene creation.",
   "author": "Dylan DiBeneditto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cmov-0.1.6.tar.gz",
-  "download_time": "2025-12-25T04:08:01.473878",
+  "download_filename": "cmov-0.1.7.tar.gz",
+  "download_time": "2025-12-25T07:42:03.207727",
   "package_url": "https://pypi.org/project/cmov/"
 }

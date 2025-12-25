@@ -1,0 +1,11 @@
+{
+  "name": "logust",
+  "version": "0.1.0",
+  "summary": "A fast, Rust-powered Python logging library inspired by loguru",
+  "author": "yamaaaaaa31",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logust-0.1.0.tar.gz",
+  "download_time": "2025-12-25T07:41:56.920727",
+  "package_url": "https://pypi.org/project/logust/"
+}

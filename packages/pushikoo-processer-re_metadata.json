@@ -1,0 +1,11 @@
+{
+  "name": "pushikoo-processer-re",
+  "version": "0.1.0",
+  "summary": "A regex-based text processer for Pushikoo with configurable find/replace and terminal rules.",
+  "author": "Pushikoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pushikoo_processer_re-0.1.0.tar.gz",
+  "download_time": "2025-12-25T07:41:52.125972",
+  "package_url": "https://pypi.org/project/pushikoo-processer-re/"
+}

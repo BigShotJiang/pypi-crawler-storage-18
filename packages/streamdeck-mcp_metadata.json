@@ -1,0 +1,11 @@
+{
+  "name": "streamdeck-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for Elgato Stream Deck control — set buttons, manage pages, wire actions",
+  "author": "Jack Arturo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "streamdeck_mcp-0.1.2.tar.gz",
+  "download_time": "2025-12-25T07:41:46.911636",
+  "package_url": "https://pypi.org/project/streamdeck-mcp/"
+}
