@@ -1,0 +1,11 @@
+{
+  "name": "spatialkit",
+  "version": "0.3.3",
+  "summary": "A spatial computing toolkit for 3D vision and robotics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spatialkit-0.3.3.tar.gz",
+  "download_time": "2025-12-25T10:46:00.480873",
+  "package_url": "https://pypi.org/project/spatialkit/"
+}

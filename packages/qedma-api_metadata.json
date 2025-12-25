@@ -1,0 +1,11 @@
+{
+  "name": "qedma-api",
+  "version": "0.19.7",
+  "summary": "Qedma QESEM SDK",
+  "author": "Qedma Support",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qedma_api-0.19.7-py3-none-any.whl",
+  "download_time": "2025-12-25T10:45:59.446002",
+  "package_url": "https://pypi.org/project/qedma-api/"
+}

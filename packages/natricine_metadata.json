@@ -1,11 +1,11 @@
 {
   "name": "natricine",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Event-driven architecture toolkit for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "natricine-0.1.1.tar.gz",
-  "download_time": "2025-12-24T13:44:29.362707",
+  "download_filename": "natricine-0.2.0.tar.gz",
+  "download_time": "2025-12-25T10:46:23.188942",
   "package_url": "https://pypi.org/project/natricine/"
 }
