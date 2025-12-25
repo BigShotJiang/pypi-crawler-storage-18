@@ -1,0 +1,11 @@
+{
+  "name": "nintynine-boundaries",
+  "version": "0.1.0",
+  "summary": "Generate administrative boundaries from OpenStreetMap via Overpass",
+  "author": "Timothy Ellersiek",
+  "license": "MIT",
+  "home_page": "https://99boundaries.com",
+  "download_filename": "nintynine_boundaries-0.1.0.tar.gz",
+  "download_time": "2025-12-25T20:43:46.941015",
+  "package_url": "https://pypi.org/project/nintynine-boundaries/"
+}

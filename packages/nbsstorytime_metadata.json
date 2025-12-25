@@ -1,11 +1,11 @@
 {
   "name": "nbsstorytime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Python Library to write N4L notes from Jupyter Notebooks",
   "author": "Christophe Beauce",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/chrphb/nbsstorytime",
-  "download_filename": "nbsstorytime-0.0.1.tar.gz",
-  "download_time": "2025-12-25T16:48:31.920066",
+  "download_filename": "nbsstorytime-0.0.2.tar.gz",
+  "download_time": "2025-12-25T20:43:49.558451",
   "package_url": "https://pypi.org/project/nbsstorytime/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "parse-hcl",
-  "version": "0.2.0",
-  "summary": "Lightweight Terraform parser for Python matching the TypeScript parse-hcl features.",
+  "version": "1.0.0",
+  "summary": "CLI-first Terraform/HCL parser for Python with JSON/YAML output, dependency graphs, and per-file metadata.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "parse_hcl-0.2.0.tar.gz",
-  "download_time": "2025-12-25T20:18:07.414067",
+  "download_filename": "parse_hcl-1.0.0.tar.gz",
+  "download_time": "2025-12-25T20:44:03.748158",
   "package_url": "https://pypi.org/project/parse-hcl/"
 }

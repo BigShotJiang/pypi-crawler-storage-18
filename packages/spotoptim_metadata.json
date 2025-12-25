@@ -1,11 +1,11 @@
 {
   "name": "spotoptim",
-  "version": "0.0.111",
+  "version": "0.0.112",
   "summary": "Sequential Parameter Optimization Toolbox",
   "author": "bartzbeielstein",
   "license": null,
   "home_page": null,
-  "download_filename": "spotoptim-0.0.111.tar.gz",
-  "download_time": "2025-12-25T20:18:12.664040",
+  "download_filename": "spotoptim-0.0.112.tar.gz",
+  "download_time": "2025-12-25T20:43:46.420780",
   "package_url": "https://pypi.org/project/spotoptim/"
 }

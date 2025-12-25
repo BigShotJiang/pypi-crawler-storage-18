@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-multiupload",
+  "version": "0.1.0",
+  "summary": "Reusable multiple file upload for Django admin in new UI style. Compatible with Django's default admin, Jazzmin, and Grappelli admin interfaces.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_admin_multiupload-0.1.0.tar.gz",
+  "download_time": "2025-12-25T20:43:47.995333",
+  "package_url": "https://pypi.org/project/django-admin-multiupload/"
+}

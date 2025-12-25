@@ -1,11 +1,11 @@
 {
   "name": "torch-similarity-search",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "PyTorch-native similarity search: convert FAISS indexes to nn.Module",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torch_similarity_search-0.0.1.tar.gz",
-  "download_time": "2025-12-25T05:21:08.462167",
+  "download_filename": "torch_similarity_search-0.0.2.tar.gz",
+  "download_time": "2025-12-25T20:43:55.298932",
   "package_url": "https://pypi.org/project/torch-similarity-search/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lazy-loading",
-  "version": "0.1.0.post2",
+  "version": "0.2.0",
   "summary": "A simple lazy module loader for python",
   "author": "yesseruser",
   "license": null,
   "home_page": null,
-  "download_filename": "lazy_loading-0.1.0.post2.tar.gz",
-  "download_time": "2025-12-23T20:16:51.567429",
+  "download_filename": "lazy_loading-0.2.0.tar.gz",
+  "download_time": "2025-12-25T20:44:00.592190",
   "package_url": "https://pypi.org/project/lazy-loading/"
 }

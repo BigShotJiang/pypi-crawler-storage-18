@@ -1,0 +1,11 @@
+{
+  "name": "convnet",
+  "version": "2.0.0",
+  "summary": "A minimal, educational convolutional neural network framework with JAX acceleration",
+  "author": "codinggamer-dev",
+  "license": null,
+  "home_page": "https://github.com/codinggamer-dev/ConvNet-NumPy",
+  "download_filename": "convnet-2.0.0.tar.gz",
+  "download_time": "2025-12-25T20:43:51.636124",
+  "package_url": "https://pypi.org/project/convnet/"
+}
