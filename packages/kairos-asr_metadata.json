@@ -1,0 +1,11 @@
+{
+  "name": "kairos-asr",
+  "version": "0.6.7",
+  "summary": "High-performance Russian speech recognition library based on GigaAM-style RNN-T and ONNX.",
+  "author": "Alexey Shimokhin / Alenkar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kairos_asr-0.6.7.tar.gz",
+  "download_time": "2025-12-25T23:33:39.057197",
+  "package_url": "https://pypi.org/project/kairos-asr/"
+}

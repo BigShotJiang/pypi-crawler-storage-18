@@ -1,11 +1,11 @@
 {
   "name": "behi-admin",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "A modern, responsive, RTL/LTR-ready Django Admin Panel with enhanced UI/UX",
   "author": "Behi Admin Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "behi_admin-0.1.3.tar.gz",
-  "download_time": "2025-12-25T23:15:48.613700",
+  "download_filename": "behi_admin-0.2.1.tar.gz",
+  "download_time": "2025-12-25T23:33:41.654595",
   "package_url": "https://pypi.org/project/behi-admin/"
 }

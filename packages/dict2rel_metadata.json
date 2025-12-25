@@ -1,0 +1,11 @@
+{
+  "name": "dict2rel",
+  "version": "0.0.3",
+  "summary": "A library for transforming nested JSON data into relational tables and back",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dict2rel-0.0.3.tar.gz",
+  "download_time": "2025-12-25T23:33:29.083954",
+  "package_url": "https://pypi.org/project/dict2rel/"
+}
