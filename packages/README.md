@@ -1,42 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T22:38:19.461374
-- **Total Packages**: 85
-- **Total Size**: 7.92 MB
+- **Download Time**: 2025-12-25T22:53:20.169770
+- **Total Packages**: 78
+- **Total Size**: 0.23 MB
 
 ## Packages List
-- IncludeCPP
-- neatify-ai
-- qmctoolscl
-- slurmray
-- filelock-lts-py314
-- filelock-lts-py312
-- filelock-lts-py313
-- haco
-- polygon-mcp
-- filelock-lts-py310
-- filelock-lts-py39
-- filelock-lts-py38
-- filelock-lts-py37
-- medeval
-- maradoner
-- chad-ui
-- filelock-lts
-- lightkube-models
-- microsynth
-- pypomes-soap
-- py-ds-academy
-- koine-sdk
-- solvOR
-- andar
-- parsedmarc
-- exxec
-- pytest-watcher
-- sukta
 - pyrig-dev
 - sentinelseed
 - tidown
+- chad-ui
 - bluetti-bt-lib
 - ipykernel-helper
 - qry-doc
@@ -55,6 +28,7 @@
 - polydup
 - vandamme-proxy
 - napistu-torch
+- koine-sdk
 - roboka
 - sparkwise
 - duckdice-api
@@ -74,6 +48,7 @@
 - django-spellbook
 - toolslm
 - dynolayer
+- IncludeCPP
 - flaskpp
 - myfy
 - myfy-frontend
@@ -90,4 +65,22 @@
 - spectroview
 - tetherpy
 - german-ocr
+- medeval
 - csh-ldap
+- eas-3d-pattern
+- ax-lang
+- slurmray
+- omu-ubys
+- itcpr
+- rocket-welder-sdk
+- snail-core
+- jokoor
+- binscatter
+- PureNote
+- ubs-transactions-csv-parser
+- ai-microcore
+- pypomes-messaging
+- matrice-inference
+- proteorift
+- rerun-loader-mjcf
+- neatify-ai
