@@ -1,0 +1,11 @@
+{
+  "name": "pyclnf",
+  "version": "0.2.2",
+  "summary": "Pure Python implementation of CLNF (Constrained Local Neural Fields) facial landmark detector",
+  "author": null,
+  "license": "CC BY-NC 4.0",
+  "home_page": null,
+  "download_filename": "pyclnf-0.2.2.tar.gz",
+  "download_time": "2025-12-25T06:55:40.280391",
+  "package_url": "https://pypi.org/project/pyclnf/"
+}

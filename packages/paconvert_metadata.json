@@ -1,0 +1,11 @@
+{
+  "name": "paconvert",
+  "version": "3.3.0",
+  "summary": "PaddlePaddle Code Convert Toolkits",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": "https://github.com/PaddlePaddle/PaConvert",
+  "download_filename": "paconvert-3.3.0-py3-none-any.whl",
+  "download_time": "2025-12-25T06:55:42.360942",
+  "package_url": "https://pypi.org/project/paconvert/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "axonate-esign-sdk",
+  "version": "1.0.0",
+  "summary": "Pure Python SDK for Indian eSign (Digital Signature) Integration",
+  "author": "Axonate Tech",
+  "license": "MIT",
+  "home_page": "https://axonatetech.com/",
+  "download_filename": "axonate_esign_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-25T06:55:38.710683",
+  "package_url": "https://pypi.org/project/axonate-esign-sdk/"
+}
