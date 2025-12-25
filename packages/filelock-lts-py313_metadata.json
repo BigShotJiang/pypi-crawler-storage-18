@@ -1,0 +1,11 @@
+{
+  "name": "filelock-lts-py313",
+  "version": "2025.68146",
+  "summary": "filelock LTS tracker for Python 3.13 (redirects to official filelock >= 3.20.1)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "filelock_lts_py313-2025.68146.tar.gz",
+  "download_time": "2025-12-25T21:33:18.873960",
+  "package_url": "https://pypi.org/project/filelock-lts-py313/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "better-venv-killer",
+  "version": "1.0.0",
+  "summary": "Find and delete Python virtual environments to free disk space",
+  "author": "holygrimmdev",
+  "license": "MIT",
+  "home_page": "https://github.com/darkbits018",
+  "download_filename": "better_venv_killer-1.0.0.tar.gz",
+  "download_time": "2025-12-25T21:32:55.815021",
+  "package_url": "https://pypi.org/project/better-venv-killer/"
+}

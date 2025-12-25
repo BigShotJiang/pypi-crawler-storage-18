@@ -1,0 +1,11 @@
+{
+  "name": "choreography",
+  "version": "0.0.2",
+  "summary": "A choreographed way to run tasks (shell or Python, async or sync) from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "choreography-0.0.2.tar.gz",
+  "download_time": "2025-12-25T21:32:39.996898",
+  "package_url": "https://pypi.org/project/choreography/"
+}

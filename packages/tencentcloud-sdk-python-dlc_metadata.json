@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-dlc",
-  "version": "3.1.19",
+  "version": "3.1.20",
   "summary": "Tencent Cloud Dlc SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_dlc-3.1.19.tar.gz",
-  "download_time": "2025-12-24T21:14:30.783137",
+  "download_filename": "tencentcloud_sdk_python_dlc-3.1.20.tar.gz",
+  "download_time": "2025-12-25T21:33:04.175313",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-dlc/"
 }

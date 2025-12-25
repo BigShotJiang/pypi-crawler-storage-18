@@ -1,11 +1,11 @@
 {
   "name": "sillywalk",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Library for maximum likelihood principal component analysis for AnyBody models",
   "author": "Morten Enemark Lund",
   "license": null,
   "home_page": null,
-  "download_filename": "sillywalk-1.0.2.tar.gz",
-  "download_time": "2025-12-20T18:45:23.392781",
+  "download_filename": "sillywalk-1.1.0.tar.gz",
+  "download_time": "2025-12-25T21:32:37.312130",
   "package_url": "https://pypi.org/project/sillywalk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cloudapp",
+  "version": "3.1.20",
+  "summary": "Tencent Cloud Cloudapp SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_cloudapp-3.1.20.tar.gz",
+  "download_time": "2025-12-25T21:33:05.839713",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cloudapp/"
+}

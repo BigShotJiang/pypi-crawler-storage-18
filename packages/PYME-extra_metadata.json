@@ -1,0 +1,11 @@
+{
+  "name": "PYME-extra",
+  "version": "1.0.4.post0",
+  "summary": "Plugins and associated code for PYME",
+  "author": "Christian Soeller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyme_extra-1.0.4.post0.tar.gz",
+  "download_time": "2025-12-25T21:33:14.085694",
+  "package_url": "https://pypi.org/project/PYME-extra/"
+}

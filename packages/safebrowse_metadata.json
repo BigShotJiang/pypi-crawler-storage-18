@@ -1,11 +1,11 @@
 {
   "name": "safebrowse",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Python SDK for SafeBrowse - AI-powered browser security with prompt injection detection",
   "author": "SafeBrowse",
   "license": null,
-  "home_page": "https://github.com/safebrowse/safebrowse-python",
-  "download_filename": "safebrowse-0.3.0.tar.gz",
-  "download_time": "2025-12-25T19:28:38.468708",
+  "home_page": "https://github.com/aadil1/AI_Browser",
+  "download_filename": "safebrowse-0.3.2.tar.gz",
+  "download_time": "2025-12-25T21:33:16.185508",
   "package_url": "https://pypi.org/project/safebrowse/"
 }

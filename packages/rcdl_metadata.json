@@ -1,11 +1,11 @@
 {
   "name": "rcdl",
-  "version": "2.0.0a0",
+  "version": "2.0.0",
   "summary": "Coomer/Kemono CLI Downloader",
   "author": "Anonymous",
   "license": null,
   "home_page": null,
-  "download_filename": "rcdl-2.0.0a0.tar.gz",
-  "download_time": "2025-12-25T20:44:03.212373",
+  "download_filename": "rcdl-2.0.0.tar.gz",
+  "download_time": "2025-12-25T21:32:51.500028",
   "package_url": "https://pypi.org/project/rcdl/"
 }

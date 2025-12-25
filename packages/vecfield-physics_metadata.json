@@ -1,0 +1,11 @@
+{
+  "name": "vecfield-physics",
+  "version": "0.1.0",
+  "summary": "Numerical vector calculus for physics",
+  "author": "Noah Ryan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vecfield_physics-0.1.0.tar.gz",
+  "download_time": "2025-12-25T21:33:17.271300",
+  "package_url": "https://pypi.org/project/vecfield-physics/"
+}

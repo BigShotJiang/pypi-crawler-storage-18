@@ -1,0 +1,11 @@
+{
+  "name": "omu-ubys",
+  "version": "0.1.1",
+  "summary": "Unofficial Python client for OMU UBYS (University Information Management System)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omu_ubys-0.1.1.tar.gz",
+  "download_time": "2025-12-25T21:32:34.563087",
+  "package_url": "https://pypi.org/project/omu-ubys/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-vod",
-  "version": "3.1.19",
+  "version": "3.1.20",
   "summary": "Tencent Cloud Vod SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud_sdk_python_vod-3.1.19.tar.gz",
-  "download_time": "2025-12-24T21:14:18.921138",
+  "download_filename": "tencentcloud_sdk_python_vod-3.1.20.tar.gz",
+  "download_time": "2025-12-25T21:32:57.513915",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-vod/"
 }

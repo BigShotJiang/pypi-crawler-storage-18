@@ -1,11 +1,11 @@
 {
   "name": "snail-core",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "A system information collection and upload framework for Linux",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snail_core-0.5.2.tar.gz",
-  "download_time": "2025-12-25T21:16:19.465857",
+  "download_filename": "snail_core-0.5.3.tar.gz",
+  "download_time": "2025-12-25T21:32:35.644547",
   "package_url": "https://pypi.org/project/snail-core/"
 }
