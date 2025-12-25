@@ -1,11 +1,11 @@
 {
   "name": "pyrig-dev",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Just a minimal package that contains pyrigs dev dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyrig_dev-0.1.6.tar.gz",
-  "download_time": "2025-12-22T23:14:56.755544",
+  "download_filename": "pyrig_dev-0.1.7.tar.gz",
+  "download_time": "2025-12-25T13:56:47.180236",
   "package_url": "https://pypi.org/project/pyrig-dev/"
 }

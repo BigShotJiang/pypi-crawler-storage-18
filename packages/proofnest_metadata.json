@@ -1,11 +1,11 @@
 {
   "name": "proofnest",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Proof, not promises. Quantum-ready trust infrastructure for AI agents.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "proofnest-1.0.2.tar.gz",
-  "download_time": "2025-12-25T13:45:20.291781",
+  "download_filename": "proofnest-1.1.0.tar.gz",
+  "download_time": "2025-12-25T13:56:46.670088",
   "package_url": "https://pypi.org/project/proofnest/"
 }

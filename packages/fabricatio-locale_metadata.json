@@ -1,11 +1,11 @@
 {
   "name": "fabricatio-locale",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "An extension of fabricatio, which brings up the capability to generate locolization based on po file.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fabricatio_locale-0.1.5-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-22T12:34:29.256292",
+  "download_filename": "fabricatio_locale-0.1.6-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-25T13:56:52.069837",
   "package_url": "https://pypi.org/project/fabricatio-locale/"
 }

@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T13:45:57.223345
-- **Total Packages**: 80
-- **Total Size**: 22.54 MB
+- **Download Time**: 2025-12-25T13:57:32.286284
+- **Total Packages**: 84
+- **Total Size**: 41.71 MB
 
 ## Packages List
+- vnag
+- nonebot-plugin-boardgamehelper
+- ani-cli-arabic
+- proofnest
+- pyrig-dev
+- fabricatio-tool
+- petcode
+- fabricatio-actions
+- fabricatio-diff
+- fabricatio-anki
+- ckb-textify
+- fabricatio-locale
+- fabricatio
+- fabricatio-novel
+- fabricatio-thinking
+- fabricatio-memory
+- django-8e9e15-v1
+- fabricatio-core
+- fabricatio-agent
+- fabricatio-rag
+- fabricatio-typst
+- fabricatio-checkpoint
+- robocode-tank-royale
 - fbgemm-gpu-nightly-cpu
 - twg
 - sb-stealth-wrapper
@@ -15,9 +38,7 @@
 - pigment64
 - dragon-ml-toolbox
 - darren-utils
-- ani-cli-arabic
 - gsi-protocol-installer
-- proofnest
 - easypygamewidgets
 - smart-knn
 - wagtail-all-in-one-accessibility
@@ -66,23 +87,6 @@
 - stata-mcp
 - mivia
 - NiceGui-UGForm
-- nonebot-plugin-boardgamehelper
 - rdsai-cli
 - infiniloom
 - havoc-clustering-v2
-- graphar
-- apache-airflow-provider-olostep
-- clipsai-jp
-- sumstats-liftover
-- alibabacloud-qualitycheck20190115
-- algox
-- balex
-- type-bridge
-- jaxl-python
-- fmtr.tools
-- alibabacloud-push20160801
-- honest-anchor
-- honest-chain
-- regipy
-- tracia
-- nethytech-stt-ai
