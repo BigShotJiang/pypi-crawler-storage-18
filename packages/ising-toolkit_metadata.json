@@ -1,0 +1,11 @@
+{
+  "name": "ising-toolkit",
+  "version": "1.0.3",
+  "summary": "Python SDK for Ising Cloud Service",
+  "author": "IsingTech",
+  "license": null,
+  "home_page": "https://github.com/isingcloud/ising-cloud-sdk",
+  "download_filename": "ising_toolkit-1.0.3.tar.gz",
+  "download_time": "2025-12-25T09:44:07.670155",
+  "package_url": "https://pypi.org/project/ising-toolkit/"
+}

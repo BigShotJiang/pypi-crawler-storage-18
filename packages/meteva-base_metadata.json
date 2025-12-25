@@ -1,0 +1,11 @@
+{
+  "name": "meteva-base",
+  "version": "0.3.0.3",
+  "summary": "base classes and functions of generally meteorogical usage, like Basic_class/IO/calculation/plot .etc",
+  "author": "NMC_WFT",
+  "license": "MIT",
+  "home_page": "https://github.com/guoyunqian/meteva_base",
+  "download_filename": "meteva_base-0.3.0.3.tar.gz",
+  "download_time": "2025-12-25T09:43:56.629211",
+  "package_url": "https://pypi.org/project/meteva-base/"
+}

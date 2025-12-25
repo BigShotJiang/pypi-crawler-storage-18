@@ -1,17 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-25T09:19:34.920541
-- **Total Packages**: 94
-- **Total Size**: 37.52 MB
+- **Download Time**: 2025-12-25T09:44:43.381261
+- **Total Packages**: 83
+- **Total Size**: 15.37 MB
 
 ## Packages List
+- drf-api-doc-generator
+- kostyl-toolkit
+- alibabacloud-oss-v2
+- iranetf
+- NetHyTech-STT-tools
+- acbox
+- testxxyy
+- Jarvis-Brain
+- tplinkrouterc6u
+- meteva-base
+- kkape-nanolink
+- htmlgraph
+- funfedi_results
+- vatra-py
+- nextrec
+- tsdbpy
+- pyproject-pre-commit
+- orcakit-sdk
+- CYBERTECHMIND-CVE-2025-55182
+- lazyclaude
+- zrb
+- kiana
+- tencent-wedata-auto-ml
+- aiiware-cli
+- strutex
+- ising-toolkit
+- mysql-awesome-stats-collector
+- onnx-paddleocr
+- blueair-api
+- pytha-ui-lib01
+- xcals
+- dev-health-ops
+- beneissue
+- fusesell
+- alibaba-cloud-ops-mcp-server
 - mirix
 - django-cfg
 - celestialflow
 - hfortix
 - pydevccu
-- pyproject-pre-commit
 - dialoghelper
 - LoggedExample
 - jacksung-dev
@@ -20,9 +54,7 @@
 - aidev-bkplugin
 - MProcs
 - pieroutine
-- drf-api-doc-generator
 - doc-store
-- fusesell
 - fivccliche
 - python-redis-helper
 - connectonion
@@ -30,7 +62,6 @@
 - ChronicleLogger
 - gpuhunt
 - openmcp-sdk
-- testxxyy
 - biblemategui
 - ctyunsdk-hpfs20220909
 - autogluon
@@ -58,45 +89,3 @@
 - huaweicloudsdkworkspace
 - huaweicloudsdkwaf
 - huaweicloudsdkvpn
-- huaweicloudsdkvpcep
-- huaweicloudsdkvpc
-- huaweicloudsdkvod
-- huaweicloudsdkversatile
-- huaweicloudsdkvcm
-- huaweicloudsdkvas
-- huaweicloudsdkugo
-- huaweicloudsdkucs
-- huaweicloudsdktms
-- huaweicloudsdktics
-- huaweicloudsdkswr
-- huaweicloudsdksts
-- huaweicloudsdksmsapi
-- huaweicloudsdksms
-- huaweicloudsdksmnglobal
-- huaweicloudsdksmn
-- huaweicloudsdksis
-- huaweicloudsdksfsturbo
-- huaweicloudsdkservicestage
-- huaweicloudsdksecmaster
-- huaweicloudsdksdrs
-- huaweicloudsdkscm
-- huaweicloudsdksa
-- huaweicloudsdkroma
-- huaweicloudsdkrocketmq
-- huaweicloudsdkrms
-- huaweicloudsdkrgc
-- huaweicloudsdkrfs
-- huaweicloudsdkres
-- huaweicloudsdkrds
-- huaweicloudsdkram
-- huaweicloudsdkrabbitmq
-- huaweicloudsdkprojectman
-- huaweicloudsdkpangulargemodels
-- huaweicloudsdkosm
-- huaweicloudsdkoroas
-- huaweicloudsdkorgid
-- huaweicloudsdkorganizations
-- huaweicloudsdkoptverse
-- huaweicloudsdkoms
-- huaweicloudsdkoctopus
-- huaweicloudsdkocr

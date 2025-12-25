@@ -1,11 +1,11 @@
 {
   "name": "xcals",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A股交易日历以及日内交易时间",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xcals-0.1.1.tar.gz",
-  "download_time": "2025-12-25T03:04:34.796758",
+  "download_filename": "xcals-0.1.2.tar.gz",
+  "download_time": "2025-12-25T09:44:12.151670",
   "package_url": "https://pypi.org/project/xcals/"
 }
