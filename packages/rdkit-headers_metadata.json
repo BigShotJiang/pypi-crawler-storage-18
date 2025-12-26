@@ -1,0 +1,11 @@
+{
+  "name": "rdkit-headers",
+  "version": "2025.9.3",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdkit_headers-2025.9.3.tar.gz",
+  "download_time": "2025-12-26T10:56:11.435379",
+  "package_url": "https://pypi.org/project/rdkit-headers/"
+}

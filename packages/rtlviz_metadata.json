@@ -1,11 +1,11 @@
 {
   "name": "rtlviz",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "MCP Server for AI-powered RTL diagram generation from Verilog source",
   "author": "RTLViz Team",
   "license": null,
   "home_page": null,
-  "download_filename": "rtlviz-0.3.8-py3-none-any.whl",
-  "download_time": "2025-12-26T10:46:18.063334",
+  "download_filename": "rtlviz-0.3.10-py3-none-any.whl",
+  "download_time": "2025-12-26T10:56:07.329252",
   "package_url": "https://pypi.org/project/rtlviz/"
 }

@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T10:46:53.646352
-- **Total Packages**: 84
-- **Total Size**: 29.08 MB
+- **Download Time**: 2025-12-26T10:56:52.746219
+- **Total Packages**: 86
+- **Total Size**: 6.09 MB
 
 ## Packages List
+- rtlviz
+- mteb
+- sciv
+- gliographseg
+- mp-btp
+- qy-soulmate-drawing-generator
+- testoli
+- rdkit-headers
+- contrastive-ft
+- gdsfactory
+- nvidia-nat-ragaai
+- konduktor-nightly
+- nvidia-nat-test
+- nvidia-nat-strands
+- nvidia-nat-phoenix
+- nvidia-nat-mcp
+- nvidia-nat-ingestion
+- recollex
+- nvidia-nat-adk
+- ftllexengine
+- nvidia-nat-openpipe-art
+- trainy-mlop-nightly
+- trainy-policy-nightly
+- recollex-gpu
+- pyautoev
+- nvidia-nat-llama-index
+- nvidia-nat-profiling
+- nvidia-nat-opentelemetry
+- nvidia-nat-nemo-customizer
+- aip-agents-binary
+- nvidia-nat-mem0ai
+- nvidia-nat
 - nvidia-nat-mysql
 - gcl-sdk
 - nvidia-nat-data-flywheel
@@ -24,7 +56,6 @@
 - nvidia-nat-semantic-kernel
 - letta-nightly
 - nvidia-nat-zep-cloud
-- rtlviz
 - nvidia-nat-agno
 - nvidia-nat-vanna
 - qwen-mt-tool
@@ -56,37 +87,8 @@
 - django-sqlorm
 - bdext
 - mopyapns
-- mp-btp
 - traia-iatp
 - TatSu-LTS
 - cf-mcp-gateway
 - trackcell
 - nbsstorytime
-- service-forge
-- oxygent
-- pdb4ambermini
-- uipath
-- arsa_ml
-- gospelo-md2pdf
-- embed-client
-- openmcp-sdk
-- nora-observer
-- casambi-bt
-- bizyui
-- qlsdk2
-- pkscreener
-- ai-edge-torch-nightly
-- ipykernel-helper
-- ivolatility-backtesting
-- manimera
-- sdid
-- talos-python3
-- langchain-gigachat
-- toolslm
-- fastcore
-- TinyExp
-- svo-client
-- flashinfer-python-paddle
-- mudra-sdk-test-1
-- bc-trb-sdk
-- tomly
