@@ -1,0 +1,11 @@
+{
+  "name": "bijux-rag",
+  "version": "0.1.0",
+  "summary": "Standalone Bijux RAG toolkit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bijux_rag-0.1.0.tar.gz",
+  "download_time": "2025-12-26T11:15:27.877138",
+  "package_url": "https://pypi.org/project/bijux-rag/"
+}

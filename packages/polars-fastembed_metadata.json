@@ -1,11 +1,11 @@
 {
   "name": "polars-fastembed",
-  "version": "0.1.12",
+  "version": "0.1.15",
   "summary": "A Polars plugin for text embeddings in DataFrames",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polars_fastembed-0.1.12.tar.gz",
-  "download_time": "2025-12-22T15:59:22.931542",
+  "download_filename": "polars_fastembed-0.1.15.tar.gz",
+  "download_time": "2025-12-26T11:15:25.100690",
   "package_url": "https://pypi.org/project/polars-fastembed/"
 }

@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T10:56:52.746219
-- **Total Packages**: 86
-- **Total Size**: 6.09 MB
+- **Download Time**: 2025-12-26T11:16:06.695400
+- **Total Packages**: 89
+- **Total Size**: 14.1 MB
 
 ## Packages List
+- jnt-django-toolbox
+- rdkit-headers
+- batchling
+- double-o
+- pkscreener
+- changepacks
+- adif-mcp
+- django-scheduled-tasks
+- cvforge
+- zrb
+- polars-fastembed
+- adata
+- mudra-sdk
+- aimodelshare
+- fdb-record-layer
+- bijux-rag
+- a2ui-pydantic
+- flowweb
+- pypi-template
+- manimera
+- fivccliche
+- rcdl
+- pyautoev
+- aipyapp
+- geogee
+- fastapi-fullstack
+- brainsync-sdk
+- lumen-resources
 - rtlviz
 - mteb
 - sciv
@@ -13,7 +41,6 @@
 - mp-btp
 - qy-soulmate-drawing-generator
 - testoli
-- rdkit-headers
 - contrastive-ft
 - gdsfactory
 - nvidia-nat-ragaai
@@ -30,7 +57,6 @@
 - trainy-mlop-nightly
 - trainy-policy-nightly
 - recollex-gpu
-- pyautoev
 - nvidia-nat-llama-index
 - nvidia-nat-profiling
 - nvidia-nat-opentelemetry
@@ -69,26 +95,3 @@
 - aiqtoolkit
 - aiqtoolkit-test
 - tuible
-- aiqtoolkit-weave
-- aiqtoolkit-mem0ai
-- aiqtoolkit-langchain
-- pedros
-- pebble-tool
-- streamlit-merge-tables
-- rhiza
-- py-openjudge
-- mistapi
-- autonomize-observer
-- fdb-record-layer
-- ngbs-icon
-- velr
-- numin2
-- noetl
-- django-sqlorm
-- bdext
-- mopyapns
-- traia-iatp
-- TatSu-LTS
-- cf-mcp-gateway
-- trackcell
-- nbsstorytime

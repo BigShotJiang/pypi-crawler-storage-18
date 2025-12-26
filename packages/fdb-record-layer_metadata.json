@@ -1,11 +1,11 @@
 {
   "name": "fdb-record-layer",
-  "version": "0.1.0b1",
+  "version": "0.1.0b2",
   "summary": "Python implementation of FoundationDB Record Layer",
   "author": "FDB Record Layer Python Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fdb_record_layer-0.1.0b1.tar.gz",
-  "download_time": "2025-12-26T10:46:31.297391",
+  "download_filename": "fdb_record_layer-0.1.0b2.tar.gz",
+  "download_time": "2025-12-26T11:15:27.349005",
   "package_url": "https://pypi.org/project/fdb-record-layer/"
 }

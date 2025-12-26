@@ -1,0 +1,11 @@
+{
+  "name": "flowweb",
+  "version": "0.1.0",
+  "summary": "A mini Flask-like Python framework with file-based routing",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/flowweb",
+  "download_filename": "flowweb-0.1.0.tar.gz",
+  "download_time": "2025-12-26T11:15:28.932346",
+  "package_url": "https://pypi.org/project/flowweb/"
+}
