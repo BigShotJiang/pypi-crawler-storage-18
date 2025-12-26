@@ -1,11 +1,11 @@
 {
   "name": "huynk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Rule Evaluator API - He thong danh gia ho so bao hiem su dung AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "huynk-1.0.2.tar.gz",
-  "download_time": "2025-12-26T08:50:20.232243",
+  "download_filename": "huynk-1.0.4.tar.gz",
+  "download_time": "2025-12-26T09:43:56.812263",
   "package_url": "https://pypi.org/project/huynk/"
 }

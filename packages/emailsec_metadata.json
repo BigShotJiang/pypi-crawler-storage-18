@@ -1,0 +1,11 @@
+{
+  "name": "emailsec",
+  "version": "0.6.2",
+  "summary": "Authenticate incoming emails with SPF, DKIM, DMARC, and ARC.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emailsec-0.6.2.tar.gz",
+  "download_time": "2025-12-26T09:43:46.231128",
+  "package_url": "https://pypi.org/project/emailsec/"
+}

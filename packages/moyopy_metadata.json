@@ -1,0 +1,11 @@
+{
+  "name": "moyopy",
+  "version": "0.7.4",
+  "summary": "Python binding of Moyo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moyopy-0.7.4.tar.gz",
+  "download_time": "2025-12-26T09:43:56.285905",
+  "package_url": "https://pypi.org/project/moyopy/"
+}

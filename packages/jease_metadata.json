@@ -1,0 +1,11 @@
+{
+  "name": "jease",
+  "version": "0.1.0",
+  "summary": "JEase - JSON made easy: chainable, safe, and beginner-friendly JSON manipulation in Python",
+  "author": "Vaibhav Rawat",
+  "license": "MIT",
+  "home_page": "https://github.com/VaibhavRawat27/jease",
+  "download_filename": "jease-0.1.0.tar.gz",
+  "download_time": "2025-12-26T09:43:52.549101",
+  "package_url": "https://pypi.org/project/jease/"
+}

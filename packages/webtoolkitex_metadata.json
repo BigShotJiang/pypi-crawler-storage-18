@@ -1,11 +1,11 @@
 {
   "name": "webtoolkitex",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "summary": "Web tools and interfaces for Internet data processing.",
   "author": "Iwan Grozny",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "webtoolkitex-0.0.17.tar.gz",
-  "download_time": "2025-12-22T21:14:09.669251",
+  "download_filename": "webtoolkitex-0.0.19.tar.gz",
+  "download_time": "2025-12-26T09:44:09.318876",
   "package_url": "https://pypi.org/project/webtoolkitex/"
 }

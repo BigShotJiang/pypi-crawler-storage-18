@@ -1,0 +1,11 @@
+{
+  "name": "curveplate",
+  "version": "0.1.1",
+  "summary": "Generate model railway flexible track laying templates (DXF, PDF, STP)",
+  "author": "gsdali",
+  "license": null,
+  "home_page": null,
+  "download_filename": "curveplate-0.1.1.tar.gz",
+  "download_time": "2025-12-26T09:43:53.075069",
+  "package_url": "https://pypi.org/project/curveplate/"
+}
