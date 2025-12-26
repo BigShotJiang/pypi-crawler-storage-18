@@ -1,0 +1,11 @@
+{
+  "name": "kryten-playlist",
+  "version": "0.3.1",
+  "summary": "Kryten playlist management service - handles video queue, playlist operations, and catalog enrichment with LLM",
+  "author": "Kryten Robot Team",
+  "license": "MIT",
+  "home_page": "https://github.com/grobertson/kryten-playlist",
+  "download_filename": "kryten_playlist-0.3.1.tar.gz",
+  "download_time": "2025-12-26T14:16:57.212585",
+  "package_url": "https://pypi.org/project/kryten-playlist/"
+}

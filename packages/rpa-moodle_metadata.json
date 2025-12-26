@@ -1,11 +1,11 @@
 {
   "name": "rpa-moodle",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "RPA library for Moodle automation with Robot Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpa_moodle-1.0.8.tar.gz",
-  "download_time": "2025-12-26T13:57:20.356424",
+  "download_filename": "rpa_moodle-1.0.9.tar.gz",
+  "download_time": "2025-12-26T14:17:10.120603",
   "package_url": "https://pypi.org/project/rpa-moodle/"
 }
