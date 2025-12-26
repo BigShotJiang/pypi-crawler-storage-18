@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-ntk148v-alertmanager",
+  "version": "1.1.0",
+  "summary": "MCP Server for Prometheus Alertmanager integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_ntk148v_alertmanager-1.1.0.tar.gz",
+  "download_time": "2025-12-26T09:19:15.250185",
+  "package_url": "https://pypi.org/project/iflow-mcp-ntk148v-alertmanager/"
+}

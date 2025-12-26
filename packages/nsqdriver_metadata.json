@@ -1,11 +1,11 @@
 {
   "name": "nsqdriver",
-  "version": "0.12.17",
+  "version": "0.12.18",
   "summary": "Q series measurement and control equipment driver interface",
   "author": null,
   "license": null,
   "home_page": "https://g2hoyqcmh4.feishu.cn/wiki/Jgt1wxlKniveYQkqCgbcJHsMnoe",
-  "download_filename": "nsqdriver-0.12.17-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-12-24T12:31:41.289450",
+  "download_filename": "nsqdriver-0.12.18-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-12-26T09:19:06.019500",
   "package_url": "https://pypi.org/project/nsqdriver/"
 }

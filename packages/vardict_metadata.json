@@ -1,11 +1,11 @@
 {
   "name": "vardict",
-  "version": "1.0.2.post1",
+  "version": "1.0.3",
   "summary": "vardict - dict with variables",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vardict-1.0.2.post1.tar.gz",
-  "download_time": "2025-12-24T14:38:36.526543",
+  "download_filename": "vardict-1.0.3.tar.gz",
+  "download_time": "2025-12-26T09:19:10.042799",
   "package_url": "https://pypi.org/project/vardict/"
 }

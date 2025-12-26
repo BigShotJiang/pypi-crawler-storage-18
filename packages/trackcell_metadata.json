@@ -1,11 +1,11 @@
 {
   "name": "trackcell",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "A Python package for processing single-cell and spatial transcriptomics data",
   "author": "Zan Yuan",
   "license": null,
   "home_page": null,
-  "download_filename": "trackcell-0.3.7.tar.gz",
-  "download_time": "2025-12-26T08:22:14.258764",
+  "download_filename": "trackcell-0.3.8.tar.gz",
+  "download_time": "2025-12-26T09:19:08.329860",
   "package_url": "https://pypi.org/project/trackcell/"
 }
