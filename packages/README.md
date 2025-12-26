@@ -1,12 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T14:17:36.184879
-- **Total Packages**: 85
-- **Total Size**: 11.79 MB
+- **Download Time**: 2025-12-26T14:40:26.848564
+- **Total Packages**: 84
+- **Total Size**: 22.14 MB
 
 ## Packages List
+- pytrends-modern
+- pygpt-net
+- copilotkit
+- InvokeAI
+- secure-run
+- echoes-mcp-server
+- udl-sdk
+- matrice-streaming
+- simple-drf-pagination
+- telegrify
+- freellm
+- kryten-llm
+- osvc-kalkulacka
+- actory
+- ujeebu-scrapy
+- glaip-sdk
+- ssh-para
+- mcp-database-manager
+- metasdk
+- botrun-flow-lang
+- jsonargparse
+- kognitos-bdk-api
+- pkbrokers
+- planc
+- applab
+- limen-ai
+- pyprotogen
+- neatrl
+- pydantic-resolve
+- pytest-forger
+- ghpdf
+- treco-framework
+- xenfra
+- kinemotion
+- haze-library
+- recce
+- exceptionless
 - fastapi-all-helper
+- django-toon
+- recce-cloud
+- keirolabs
+- unifont_utils
+- markdown-flow
+- asyncpg-datalayer
+- kryten-py
+- lsyzwm-master-sdk
 - libzapi
 - hf-inference-acp
 - fast-agent-acp
@@ -14,17 +59,14 @@
 - sdlcctl
 - vnerrant
 - skidl
-- ssh-para
 - nbsstorytime
 - kryten-robot
 - kryten-playlist
 - dojocommons
 - steer-sdk
-- pytest-forger
 - robospeaker-win
 - geoVeRoPy
 - cellmech
-- asyncpg-datalayer
 - statly-observe
 - just-fix-windows-console
 - strawberry-graphql-django
@@ -35,14 +77,12 @@
 - time-to-critical
 - qlue-ls
 - pyrobale
-- echoes-mcp-server
 - git-remote-s3-zack
 - bonicbot-bridge
 - solvOR
 - mcp-arena
 - RubigramClient
 - rpa-moodle
-- osvc-kalkulacka
 - lightkube
 - gcl-certbot-plugin
 - worker-automate-hub
@@ -50,44 +90,3 @@
 - quantconnect-stubs
 - videodb
 - jeremydimond.pygamesim
-- jupyter-functions-exec
-- ani-cli-arabic
-- pkbrokers
-- htmlgraph
-- coinflip-yesno
-- ezbak
-- tensordict-nightly
-- czsc
-- torcrawl
-- copilotkit
-- gradio-customhighlightedtext
-- pclink
-- shannot
-- ORD
-- StreamingCommunity
-- optimus-dl
-- tenro
-- slm-trainer
-- django-cartouche
-- robusta-api
-- uipath-llamaindex
-- compact-json
-- uipath-langchain
-- DensityFlowMO
-- souleyez
-- vibeship-mind
-- ida-hcli
-- dokman
-- locisimiles
-- daimyo
-- scc-cli
-- koleo-cli
-- wecom-notifier
-- zombie-escape
-- UsamaAliceWhite
-- mmar-carl
-- pycvt
-- django-cmd
-- amniotic
-- telekinesis-datatypes
-- easyths

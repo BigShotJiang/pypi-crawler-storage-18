@@ -1,11 +1,11 @@
 {
   "name": "pydantic-resolve",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "pydantic-resolve turns pydantic from a static data container into a powerful composable component.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydantic_resolve-2.4.0.tar.gz",
-  "download_time": "2025-12-26T09:43:58.945423",
+  "download_filename": "pydantic_resolve-2.4.1.tar.gz",
+  "download_time": "2025-12-26T14:39:57.767732",
   "package_url": "https://pypi.org/project/pydantic-resolve/"
 }

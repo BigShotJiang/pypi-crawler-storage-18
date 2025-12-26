@@ -1,0 +1,11 @@
+{
+  "name": "simple-drf-pagination",
+  "version": "0.1.1",
+  "summary": "Zero-boilerplate pagination helpers for Django REST Framework",
+  "author": "EKRAMUL ISLAM SHADIK",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_drf_pagination-0.1.1.tar.gz",
+  "download_time": "2025-12-26T14:39:46.849512",
+  "package_url": "https://pypi.org/project/simple-drf-pagination/"
+}

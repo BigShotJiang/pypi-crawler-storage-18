@@ -1,11 +1,11 @@
 {
   "name": "keirolabs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Official Python SDK for KeiroLabs API - Search, Research, and Web Crawling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keirolabs-0.1.2.tar.gz",
-  "download_time": "2025-12-24T20:18:32.254032",
+  "download_filename": "keirolabs-0.1.3.tar.gz",
+  "download_time": "2025-12-26T14:40:04.516554",
   "package_url": "https://pypi.org/project/keirolabs/"
 }
