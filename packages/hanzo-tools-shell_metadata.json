@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-shell",
+  "version": "0.2.0",
+  "summary": "Shell/command execution tools - dag, ps, zsh, npx, uvx, open",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_shell-0.2.0.tar.gz",
+  "download_time": "2025-12-26T14:54:37.395702",
+  "package_url": "https://pypi.org/project/hanzo-tools-shell/"
+}

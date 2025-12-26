@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-filesystem",
+  "version": "0.2.0",
+  "summary": "Filesystem tools for Hanzo AI - read, write, edit, search, find",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_filesystem-0.2.0.tar.gz",
+  "download_time": "2025-12-26T14:54:36.863750",
+  "package_url": "https://pypi.org/project/hanzo-tools-filesystem/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "masked-norm",
+  "version": "2025.12",
+  "summary": "A modern implementation of normalization layers",
+  "author": "algmarques",
+  "license": null,
+  "home_page": null,
+  "download_filename": "masked_norm-2025.12.tar.gz",
+  "download_time": "2025-12-26T14:54:23.224586",
+  "package_url": "https://pypi.org/project/masked-norm/"
+}

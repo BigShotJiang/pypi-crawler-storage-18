@@ -1,11 +1,11 @@
 {
   "name": "pytrends-modern",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Modern Google Trends API - Combining the best of pytrends, with RSS feeds, Selenium scraping, and enhanced features",
   "author": "pytrends-modern contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytrends_modern-0.1.0.tar.gz",
-  "download_time": "2025-12-26T13:12:12.936044",
+  "download_filename": "pytrends_modern-0.1.1.tar.gz",
+  "download_time": "2025-12-26T14:54:53.629081",
   "package_url": "https://pypi.org/project/pytrends-modern/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "streamshatter",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "summary": "Multiplexed chunked file downloader",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamshatter-1.1.10.tar.gz",
-  "download_time": "2025-12-25T18:36:24.879082",
+  "download_filename": "streamshatter-1.1.11.tar.gz",
+  "download_time": "2025-12-26T14:54:35.226906",
   "package_url": "https://pypi.org/project/streamshatter/"
 }

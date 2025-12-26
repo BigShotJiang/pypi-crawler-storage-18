@@ -1,11 +1,11 @@
 {
   "name": "pygpt-net",
-  "version": "2.6.66",
+  "version": "2.6.67",
   "summary": "Desktop AI Assistant powered by: OpenAI GPT-5, GPT-4, o1, o3, Gemini, Claude, Grok, DeepSeek, and other models supported by Llama Index, and Ollama. Chatbot, agents, completion, image generation, vision analysis, speech-to-text, plugins, MCP, internet access, file handling, command execution and more.",
   "author": "Marcin Szczyglinski",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygpt_net-2.6.66.tar.gz",
-  "download_time": "2025-12-26T04:07:38.820048",
+  "download_filename": "pygpt_net-2.6.67.tar.gz",
+  "download_time": "2025-12-26T14:54:54.223255",
   "package_url": "https://pypi.org/project/pygpt-net/"
 }

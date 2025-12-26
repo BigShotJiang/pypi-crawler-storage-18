@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-browser",
+  "version": "0.2.0",
+  "summary": "Browser automation tools using Playwright - async-first, shared browser pool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_browser-0.2.0.tar.gz",
+  "download_time": "2025-12-26T14:54:36.330584",
+  "package_url": "https://pypi.org/project/hanzo-tools-browser/"
+}
