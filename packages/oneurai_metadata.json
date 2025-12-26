@@ -1,11 +1,11 @@
 {
   "name": "oneurai",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A powerful AI client library for Oneurai MLOps platform",
   "author": "MTMA",
   "license": null,
   "home_page": "https://oneurai.com",
-  "download_filename": "oneurai-0.2.7.tar.gz",
-  "download_time": "2025-12-26T16:47:32.727324",
+  "download_filename": "oneurai-0.2.8.tar.gz",
+  "download_time": "2025-12-26T17:15:45.559045",
   "package_url": "https://pypi.org/project/oneurai/"
 }

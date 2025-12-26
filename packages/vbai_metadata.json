@@ -1,0 +1,11 @@
+{
+  "name": "vbai",
+  "version": "0.1.9",
+  "summary": "Visual Brain AI - Multi-task brain MRI analysis library",
+  "author": "Neurazum",
+  "license": "MIT",
+  "home_page": "https://github.com/Neurazum-AI-Department/vbai",
+  "download_filename": "vbai-0.1.9.tar.gz",
+  "download_time": "2025-12-26T17:15:51.002618",
+  "package_url": "https://pypi.org/project/vbai/"
+}

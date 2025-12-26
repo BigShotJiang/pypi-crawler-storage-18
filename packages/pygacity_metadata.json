@@ -1,0 +1,11 @@
+{
+  "name": "pygacity",
+  "version": "0.4.0",
+  "summary": "A framework for exam and assignment generation using LaTeX and pythontex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygacity-0.4.0.tar.gz",
+  "download_time": "2025-12-26T17:15:58.525599",
+  "package_url": "https://pypi.org/project/pygacity/"
+}

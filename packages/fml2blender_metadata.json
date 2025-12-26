@@ -1,11 +1,11 @@
 {
   "name": "fml2blender",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Convert Floorplanner FML floor plans to Blender 3D scenes",
   "author": "David de Meij",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fml2blender-0.1.0.tar.gz",
-  "download_time": "2025-12-26T16:57:50.270502",
+  "download_filename": "fml2blender-0.1.1.tar.gz",
+  "download_time": "2025-12-26T17:16:02.821959",
   "package_url": "https://pypi.org/project/fml2blender/"
 }
