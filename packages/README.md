@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T20:55:02.489522
-- **Total Packages**: 75
-- **Total Size**: 18.38 MB
+- **Download Time**: 2025-12-26T21:15:44.820324
+- **Total Packages**: 78
+- **Total Size**: 11.79 MB
 
 ## Packages List
+- kraft-cli
+- pyreqwest
+- hyperp
+- orcheo-backend
+- llmctl
+- gable
+- iris-pgwire
+- ScriptCollection
+- rcounting
+- wallypub
+- playrip
+- neckenml-analyzer
 - recipes-sdk
 - airbrowser-client
 - psfed
@@ -16,7 +28,6 @@
 - zavudev
 - fidelity-helper
 - napistu
-- playrip
 - aimodelshare
 - boto3-stubs
 - boto3-stubs-lite
@@ -24,12 +35,10 @@
 - pyagentpay
 - TibblingAI
 - mini-arcade-core
-- wallypub
 - llcuda
 - omendb
 - fastapi-startkit
 - fastapi-startkit-database
-- hyperp
 - pivpy
 - pandas-plots
 - fleet-python
@@ -75,9 +84,3 @@
 - blockpaca
 - policyengine-us
 - ungraph
-- koruspy
-- jleechanorg-pr-automation
-- topolib
-- sc-samap
-- i18n-check
-- fastvideo-kernel

@@ -1,11 +1,11 @@
 {
   "name": "wallypub",
-  "version": "1.0.0b8",
+  "version": "1.0.0b9",
   "summary": "CLI Wallabag companion for generating epubs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wallypub-1.0.0b8.tar.gz",
-  "download_time": "2025-12-26T20:54:29.776527",
+  "download_filename": "wallypub-1.0.0b9.tar.gz",
+  "download_time": "2025-12-26T21:15:06.945861",
   "package_url": "https://pypi.org/project/wallypub/"
 }

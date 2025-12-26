@@ -1,0 +1,11 @@
+{
+  "name": "kraft-cli",
+  "version": "0.1.0",
+  "summary": "Python service scaffolding with zero learning curve",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kraft_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-26T21:15:00.790535",
+  "package_url": "https://pypi.org/project/kraft-cli/"
+}

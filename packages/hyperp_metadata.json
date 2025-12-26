@@ -1,11 +1,11 @@
 {
   "name": "hyperp",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "Hyper charge your productivity",
   "author": "Martin Baun",
   "license": null,
   "home_page": "https://github.com/yourusername/your-repo-name",
-  "download_filename": "hyperp-1.0.14.tar.gz",
-  "download_time": "2025-12-26T20:54:32.706805",
+  "download_filename": "hyperp-1.0.15.tar.gz",
+  "download_time": "2025-12-26T21:15:02.689003",
   "package_url": "https://pypi.org/project/hyperp/"
 }
