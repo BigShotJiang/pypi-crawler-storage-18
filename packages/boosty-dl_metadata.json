@@ -1,11 +1,11 @@
 {
   "name": "boosty-dl",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Download videos from Boosty channels",
   "author": "Artem Butusov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "boosty_dl-2.0.1.tar.gz",
-  "download_time": "2025-12-26T04:06:52.557819",
+  "download_filename": "boosty_dl-2.0.2.tar.gz",
+  "download_time": "2025-12-26T04:49:18.937963",
   "package_url": "https://pypi.org/project/boosty-dl/"
 }

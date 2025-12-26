@@ -1,11 +1,11 @@
 {
   "name": "vllama",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Comprehensive CLI tool and VS Code extension for vision models, AutoML, and local LLMs",
   "author": "Gopu Manvith",
   "license": "Apache-2.0",
   "home_page": "https://github.com/DayInfinity/Vllama",
-  "download_filename": "vllama-1.4.0.tar.gz",
-  "download_time": "2025-12-25T17:34:47.240987",
+  "download_filename": "vllama-1.5.0.tar.gz",
+  "download_time": "2025-12-26T04:49:33.906997",
   "package_url": "https://pypi.org/project/vllama/"
 }
