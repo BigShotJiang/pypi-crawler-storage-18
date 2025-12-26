@@ -1,0 +1,11 @@
+{
+  "name": "human-upgrade-graphql-client",
+  "version": "0.1.18",
+  "summary": "Python GraphQL client for Human Upgrade schema",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "human_upgrade_graphql_client-0.1.18.tar.gz",
+  "download_time": "2025-12-26T19:14:00.110445",
+  "package_url": "https://pypi.org/project/human-upgrade-graphql-client/"
+}

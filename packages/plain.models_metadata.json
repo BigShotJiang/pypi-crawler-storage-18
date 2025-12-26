@@ -1,11 +1,11 @@
 {
   "name": "plain.models",
-  "version": "0.69.1",
+  "version": "0.70.0",
   "summary": "Model your data and store it in a database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_models-0.69.1.tar.gz",
-  "download_time": "2025-12-22T23:32:57.452633",
+  "download_filename": "plain_models-0.70.0.tar.gz",
+  "download_time": "2025-12-26T19:14:11.531963",
   "package_url": "https://pypi.org/project/plain.models/"
 }

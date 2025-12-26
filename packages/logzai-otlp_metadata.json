@@ -1,11 +1,11 @@
 {
   "name": "logzai-otlp",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "OpenTelemetry logging client for LogzAI",
   "author": "LogzAI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "logzai_otlp-1.0.9.tar.gz",
-  "download_time": "2025-12-25T20:18:22.817907",
+  "download_filename": "logzai_otlp-1.0.11.tar.gz",
+  "download_time": "2025-12-26T19:14:06.967594",
   "package_url": "https://pypi.org/project/logzai-otlp/"
 }

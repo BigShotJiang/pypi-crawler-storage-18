@@ -1,11 +1,11 @@
 {
   "name": "electoral-sim",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "High-performance agent-based electoral simulation toolkit with support for 11+ countries, multiple voting systems, and advanced voter behavior models",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "electoral_sim-0.0.2.tar.gz",
-  "download_time": "2025-12-25T11:51:48.357160",
+  "download_filename": "electoral_sim-0.1.0.tar.gz",
+  "download_time": "2025-12-26T19:14:17.572337",
   "package_url": "https://pypi.org/project/electoral-sim/"
 }

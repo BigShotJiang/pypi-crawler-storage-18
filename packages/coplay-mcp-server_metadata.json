@@ -1,0 +1,11 @@
+{
+  "name": "coplay-mcp-server",
+  "version": "1.4.1",
+  "summary": "A Model Context Protocol (MCP) server for Coplay, providing Unity integration capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coplay_mcp_server-1.4.1.tar.gz",
+  "download_time": "2025-12-26T19:14:21.402649",
+  "package_url": "https://pypi.org/project/coplay-mcp-server/"
+}

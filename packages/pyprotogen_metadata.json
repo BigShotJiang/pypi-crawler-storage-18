@@ -1,11 +1,11 @@
 {
   "name": "pyprotogen",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "summary": null,
   "author": "Sergio Soldatov",
   "license": null,
   "home_page": "https://github.com/sollof/pyprotogen",
-  "download_filename": "pyprotogen-0.0.25.tar.gz",
-  "download_time": "2025-12-26T15:16:49.414892",
+  "download_filename": "pyprotogen-0.0.26.tar.gz",
+  "download_time": "2025-12-26T19:14:21.967504",
   "package_url": "https://pypi.org/project/pyprotogen/"
 }
