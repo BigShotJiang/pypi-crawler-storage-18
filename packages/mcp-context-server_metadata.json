@@ -1,11 +1,11 @@
 {
   "name": "mcp-context-server",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "MCP Context Server — a FastMCP-based server providing persistent multimodal context storage for LLM agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_context_server-0.11.0.tar.gz",
-  "download_time": "2025-12-22T22:15:32.482473",
+  "download_filename": "mcp_context_server-0.12.0.tar.gz",
+  "download_time": "2025-12-26T22:53:38.967774",
   "package_url": "https://pypi.org/project/mcp-context-server/"
 }

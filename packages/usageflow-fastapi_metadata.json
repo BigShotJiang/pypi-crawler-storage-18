@@ -1,11 +1,11 @@
 {
   "name": "usageflow-fastapi",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "FastAPI middleware for UsageFlow - Usage-based pricing made simple",
   "author": "UsageFlow",
   "license": null,
   "home_page": "https://github.com/usageflow/usageflow-python",
-  "download_filename": "usageflow_fastapi-0.3.2.tar.gz",
-  "download_time": "2025-12-22T21:13:54.876923",
+  "download_filename": "usageflow_fastapi-0.3.3.tar.gz",
+  "download_time": "2025-12-26T22:53:37.940457",
   "package_url": "https://pypi.org/project/usageflow-fastapi/"
 }

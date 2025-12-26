@@ -1,0 +1,11 @@
+{
+  "name": "slick-queue-py",
+  "version": "1.0.0",
+  "summary": "Lock-free MPMC queue with C++ interoperability via shared memory",
+  "author": "Slick Quant",
+  "license": "MIT",
+  "home_page": "https://github.com/SlickQuant/slick_queue_py",
+  "download_filename": "slick_queue_py-1.0.0.tar.gz",
+  "download_time": "2025-12-26T22:53:31.128442",
+  "package_url": "https://pypi.org/project/slick-queue-py/"
+}

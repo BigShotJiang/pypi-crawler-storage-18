@@ -1,11 +1,11 @@
 {
   "name": "keyedstablehash",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Stable, keyed hashing for Python objects and columnar data. Think `stablehash`, but with SipHash-like keyed PRF semantics so hashes are deterministic for a given key and resistant to adversarial inputs.",
   "author": "Shlok Tadilkar",
   "license": null,
   "home_page": "https://github.com/shloktech/keyedstablehash",
-  "download_filename": "keyedstablehash-0.0.3-py3-none-any.whl",
-  "download_time": "2025-12-26T22:37:40.428886",
+  "download_filename": "keyedstablehash-0.0.4-py3-none-any.whl",
+  "download_time": "2025-12-26T22:53:40.004708",
   "package_url": "https://pypi.org/project/keyedstablehash/"
 }
