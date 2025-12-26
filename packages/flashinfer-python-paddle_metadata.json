@@ -1,0 +1,11 @@
+{
+  "name": "flashinfer-python-paddle",
+  "version": "0.4.1",
+  "summary": "FlashInfer: Kernel Library for LLM Serving",
+  "author": "FlashInfer team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashinfer_python_paddle-0.4.1-py3-none-any.whl",
+  "download_time": "2025-12-26T10:17:49.601497",
+  "package_url": "https://pypi.org/project/flashinfer-python-paddle/"
+}

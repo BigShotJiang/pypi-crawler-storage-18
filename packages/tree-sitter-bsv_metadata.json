@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-bsv",
+  "version": "0.1.0",
+  "summary": "Bluespec system verilog treesitter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tree_sitter_bsv-0.1.0-cp310-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl",
+  "download_time": "2025-12-26T10:17:55.249901",
+  "package_url": "https://pypi.org/project/tree-sitter-bsv/"
+}

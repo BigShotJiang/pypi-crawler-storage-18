@@ -1,0 +1,11 @@
+{
+  "name": "pter",
+  "version": "3.23.0",
+  "summary": "Console UI to manage your todo.txt file(s).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pter-3.23.0.tar.gz",
+  "download_time": "2025-12-26T10:18:02.417278",
+  "package_url": "https://pypi.org/project/pter/"
+}
