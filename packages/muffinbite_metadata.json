@@ -1,0 +1,11 @@
+{
+  "name": "muffinbite",
+  "version": "0.1.8",
+  "summary": "Interactive Python CLI tool for sending personalized bulk emails via Gmail API or SMTP with explicit user-triggered execution",
+  "author": "Shivansh Varshney",
+  "license": "MIT",
+  "home_page": "https://www.muffinbite.dev/",
+  "download_filename": "muffinbite-0.1.8.tar.gz",
+  "download_time": "2025-12-26T08:50:42.078613",
+  "package_url": "https://pypi.org/project/muffinbite/"
+}

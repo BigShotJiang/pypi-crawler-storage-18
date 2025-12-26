@@ -1,0 +1,11 @@
+{
+  "name": "home-console-sdk",
+  "version": "0.0.2",
+  "summary": "SDK for Home Console Plugin Development",
+  "author": "Mishazx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "home_console_sdk-0.0.2.tar.gz",
+  "download_time": "2025-12-26T08:50:48.443902",
+  "package_url": "https://pypi.org/project/home-console-sdk/"
+}

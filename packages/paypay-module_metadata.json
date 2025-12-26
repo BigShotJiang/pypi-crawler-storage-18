@@ -1,11 +1,11 @@
 {
   "name": "paypay-module",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "summary": "paypay bot検知の対策版",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paypay_module-0.5.4.tar.gz",
-  "download_time": "2025-12-22T22:52:42.452037",
+  "download_filename": "paypay_module-0.5.5.tar.gz",
+  "download_time": "2025-12-26T08:50:34.182014",
   "package_url": "https://pypi.org/project/paypay-module/"
 }

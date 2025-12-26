@@ -1,11 +1,11 @@
 {
   "name": "pose-estimation-recognition-utils-rtmlib",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Classes for AI recognition on pose estimation data with rtmlib",
   "author": "Jonas David Stephan, Sabine Dawletow, Nathalie Dollmann, Benjamin Otto Ernst Bruch",
   "license": "Apache 2.0",
   "home_page": "https://github.com/cobtras/pose-estimation-recognition-utils-rtmlib",
-  "download_filename": "pose_estimation_recognition_utils_rtmlib-0.1.2.tar.gz",
-  "download_time": "2025-12-26T07:41:56.087909",
+  "download_filename": "pose_estimation_recognition_utils_rtmlib-0.1.4.tar.gz",
+  "download_time": "2025-12-26T08:50:43.647448",
   "package_url": "https://pypi.org/project/pose-estimation-recognition-utils-rtmlib/"
 }

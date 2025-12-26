@@ -1,0 +1,11 @@
+{
+  "name": "crestron-swamp-controller",
+  "version": "1.0.0",
+  "summary": "Interactive controller for Crestron SWAMP media amplifier systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crestron_swamp_controller-1.0.0.tar.gz",
+  "download_time": "2025-12-26T08:50:32.101692",
+  "package_url": "https://pypi.org/project/crestron-swamp-controller/"
+}

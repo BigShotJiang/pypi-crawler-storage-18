@@ -1,0 +1,11 @@
+{
+  "name": "rayvision-utils",
+  "version": "1.2.2.3",
+  "summary": "A Python API for Using Renderbus cloud rendering.",
+  "author": "Shenzhen Rayvision Technology Co., Ltd",
+  "license": null,
+  "home_page": "https://github.com/renderbus/rayvision_utils",
+  "download_filename": "rayvision_utils-1.2.2.3.tar.gz",
+  "download_time": "2025-12-26T08:50:22.832731",
+  "package_url": "https://pypi.org/project/rayvision-utils/"
+}

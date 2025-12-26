@@ -1,11 +1,11 @@
 {
   "name": "bluer-agent",
-  "version": "5.146.1",
+  "version": "5.153.1",
   "summary": "👾 an AI agent.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-agent",
-  "download_filename": "bluer_agent-5.146.1.tar.gz",
-  "download_time": "2025-12-25T14:38:48.883118",
+  "download_filename": "bluer_agent-5.153.1.tar.gz",
+  "download_time": "2025-12-26T08:50:23.871409",
   "package_url": "https://pypi.org/project/bluer-agent/"
 }

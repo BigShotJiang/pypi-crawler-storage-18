@@ -1,11 +1,11 @@
 {
   "name": "asciify-term",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A hybrid CLI tool for ASCII art generation with terminal and web preview modes.",
   "author": "V33010",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asciify_term-0.3.0.tar.gz",
-  "download_time": "2025-12-25T15:52:03.261681",
+  "download_filename": "asciify_term-0.4.0.tar.gz",
+  "download_time": "2025-12-26T08:50:47.371055",
   "package_url": "https://pypi.org/project/asciify-term/"
 }

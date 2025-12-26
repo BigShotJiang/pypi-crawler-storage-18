@@ -1,12 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T08:22:49.538616
+- **Download Time**: 2025-12-26T08:51:07.090732
 - **Total Packages**: 86
-- **Total Size**: 16.29 MB
+- **Total Size**: 8.84 MB
 
 ## Packages List
+- huynk
+- azure-devops-v6
+- codex-transcripts
+- pkscreener
+- mdparser-html
+- rayvision-utils
+- django-admin-multiupload
+- bluer-agent
+- bluer-ugv
 - DensityFlowMO
+- bluer-ai
+- xync-bot
+- maradoner
+- spatialim
+- atlisp
+- moy-nalog-api
+- myfy
+- Bitliker-libs
+- myfy-frontend
+- myfy-data
+- myfy-cli
+- myfy-web
+- myfy-core
+- crestron-swamp-controller
+- rm-gallery
+- ryumem
+- paypay-module
+- advanced-caching
+- subdomain-takeover-tools
+- medeval
+- logurich
+- rumoca
+- cltk
+- kumiho-comfyui
+- idtinc
+- charmarr-lib-core
+- psqlmodel
+- nintynine-boundaries
+- ip2geoapi
+- mp-btp
+- llmskit
+- muffinbite
+- typed-pytest
+- tpu-inference
+- pose-estimation-recognition-utils-rtmlib
+- plugwise
+- xync-schema
+- chad-ai
+- zhDateTime
+- rayvision-api
+- asciify-term
+- ai-intervention-agent
+- home-console-sdk
+- tamar-model-client
+- xync-client
 - orcakit-sdk
 - realtimex-deepagents
 - sparp
@@ -16,7 +70,6 @@
 - dyngle
 - uzdabrazor
 - strique-proto-schema
-- pkscreener
 - robhan-cdk-lib.aws-aps
 - alibabacloud-pailangstudio20240710
 - robhan-cdk-lib.aws-mwaa
@@ -26,13 +79,9 @@
 - iflow-mcp_aleph-rlm
 - cppmake
 - cppmakelib
-- trackcell
 - rhiza
-- idtinc
-- charmarr-lib-core
 - koruspy
 - textnotes
-- atlisp
 - pyglove
 - tf-models-nightly
 - mcp-image-zoom
@@ -43,52 +92,3 @@
 - matrice-inference
 - noveum-trace
 - clickzetta-connector
-- bigtools
-- arp-conformance
-- arp-standard-server
-- arp-standard-client
-- arp-standard-model
-- pytest-result-sender-r
-- unifont_utils
-- nonebot-plugin-trans-progress
-- jinjatomic
-- tamingnifty
-- yeref
-- manimera
-- pconf
-- truss
-- freerouter
-- game-ai-arena-sdk
-- linux-do-connect-token
-- PyStructMatrix
-- suisa_sendemeldung
-- recce-nightly
-- recce
-- agent-inspector
-- recce-cloud-nightly
-- pdd-cli
-- recce-cloud
-- chad-ai
-- tencent-wedata-auto-ml
-- cylestio-perimeter
-- axonate-esign-sdk
-- mftsccs
-- wisent
-- beneissue
-- django-app-logs
-- huojiweiguoba
-- bigraph-viz
-- fast-router
-- agentsilex
-- blackboard-core
-- botrun-flow-lang
-- maradoner
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- ultimateraylib
-- mpstats
-- django-admin-multiupload
-- feedback-mcp
-- rest-process
-- alethic-ism-db
-- liteai-sdk

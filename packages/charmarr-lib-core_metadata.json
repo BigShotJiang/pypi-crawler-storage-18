@@ -1,11 +1,11 @@
 {
   "name": "charmarr-lib-core",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Core charm libraries for Charmarr media automation",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "charmarr_lib_core-0.6.0.tar.gz",
-  "download_time": "2025-12-26T08:22:15.795716",
+  "download_filename": "charmarr_lib_core-0.6.1.tar.gz",
+  "download_time": "2025-12-26T08:50:38.931935",
   "package_url": "https://pypi.org/project/charmarr-lib-core/"
 }

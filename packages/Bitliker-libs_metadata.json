@@ -1,11 +1,11 @@
 {
   "name": "Bitliker-libs",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Bitliker 个人集合工具类",
   "author": "Bitliker",
   "license": "MIT",
   "home_page": "https://github.com/BitlikerPython/Libs",
-  "download_filename": "bitliker_libs-2.0.0.tar.gz",
-  "download_time": "2025-12-25T03:04:38.902803",
+  "download_filename": "bitliker_libs-2.0.2.tar.gz",
+  "download_time": "2025-12-26T08:50:29.038394",
   "package_url": "https://pypi.org/project/Bitliker-libs/"
 }

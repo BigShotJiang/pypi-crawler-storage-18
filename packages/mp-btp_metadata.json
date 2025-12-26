@@ -1,11 +1,11 @@
 {
   "name": "mp-btp",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mp_btp-2.0.6.tar.gz",
-  "download_time": "2025-12-26T07:41:55.569519",
+  "download_filename": "mp_btp-2.0.7.tar.gz",
+  "download_time": "2025-12-26T08:50:41.015878",
   "package_url": "https://pypi.org/project/mp-btp/"
 }

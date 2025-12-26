@@ -1,11 +1,11 @@
 {
   "name": "ryumem",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "summary": "Bi-temporal knowledge graph memory system using ryugraph",
   "author": "Ryumem Team",
-  "license": "MIT",
+  "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "ryumem-0.2.0.tar.gz",
-  "download_time": "2025-12-22T10:17:46.682260",
+  "download_filename": "ryumem-0.6.0.tar.gz",
+  "download_time": "2025-12-26T08:50:33.669569",
   "package_url": "https://pypi.org/project/ryumem/"
 }
