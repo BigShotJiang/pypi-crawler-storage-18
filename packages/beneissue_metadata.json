@@ -1,11 +1,11 @@
 {
   "name": "beneissue",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "summary": "AI-powered GitHub issue automation framework",
   "author": "Benedict Lee",
   "license": null,
   "home_page": null,
-  "download_filename": "beneissue-1.0.16.tar.gz",
-  "download_time": "2025-12-26T05:18:56.462743",
+  "download_filename": "beneissue-1.0.17.tar.gz",
+  "download_time": "2025-12-26T07:42:00.789117",
   "package_url": "https://pypi.org/project/beneissue/"
 }

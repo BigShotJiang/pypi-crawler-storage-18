@@ -1,0 +1,11 @@
+{
+  "name": "never-jscore",
+  "version": "2.5.2",
+  "summary": "High-performance Python JavaScript execution engine based on Deno Core (V8) with full Promise/async support and official Deno Web API integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "never_jscore-2.5.2.tar.gz",
+  "download_time": "2025-12-26T07:42:19.121530",
+  "package_url": "https://pypi.org/project/never-jscore/"
+}

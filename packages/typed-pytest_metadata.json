@@ -1,11 +1,11 @@
 {
   "name": "typed-pytest",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Type-safe mocking for pytest - preserve original type hints while using mock features",
   "author": "typed-pytest contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "typed_pytest-0.1.6.tar.gz",
-  "download_time": "2025-12-26T05:18:48.232270",
+  "download_filename": "typed_pytest-0.1.7.tar.gz",
+  "download_time": "2025-12-26T07:42:07.603027",
   "package_url": "https://pypi.org/project/typed-pytest/"
 }

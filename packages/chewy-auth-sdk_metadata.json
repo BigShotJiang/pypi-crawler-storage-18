@@ -1,0 +1,11 @@
+{
+  "name": "chewy-auth-sdk",
+  "version": "0.1.0",
+  "summary": "生产可用的 Python 统一认证 SDK，支持 Django 和 FastAPI",
+  "author": "Chewy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chewy_auth_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-26T07:42:03.909947",
+  "package_url": "https://pypi.org/project/chewy-auth-sdk/"
+}

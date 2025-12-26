@@ -1,11 +1,11 @@
 {
   "name": "mcp-stargazing",
-  "version": "0.1.6",
-  "summary": "This is a mcp server Calculate celestial object positions and rise/set times",
+  "version": "0.1.7",
+  "summary": "An MCP server that provides real-time astronomical data, smart stargazing planning, and light pollution analysis for AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_stargazing-0.1.6.tar.gz",
-  "download_time": "2025-12-25T06:25:17.704016",
+  "download_filename": "mcp_stargazing-0.1.7.tar.gz",
+  "download_time": "2025-12-26T07:42:02.873874",
   "package_url": "https://pypi.org/project/mcp-stargazing/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "realtimex-frappe",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "CLI tool for streamlined Frappe/ERPNext site setup with PostgreSQL and bundled binaries support",
   "author": "Realtimex",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "realtimex_frappe-0.1.1.tar.gz",
-  "download_time": "2025-12-25T04:07:53.638705",
+  "download_filename": "realtimex_frappe-0.2.0.tar.gz",
+  "download_time": "2025-12-26T07:42:18.599023",
   "package_url": "https://pypi.org/project/realtimex-frappe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rest-process",
+  "version": "1.0.1",
+  "summary": "server for hosting processes and composites from process-bigraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rest_process-1.0.1.tar.gz",
+  "download_time": "2025-12-26T07:41:49.305462",
+  "package_url": "https://pypi.org/project/rest-process/"
+}

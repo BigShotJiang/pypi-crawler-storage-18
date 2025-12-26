@@ -1,11 +1,11 @@
 {
   "name": "tork-governance",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A universal governance SDK for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tork_governance-0.2.0.tar.gz",
-  "download_time": "2025-12-26T05:18:47.718339",
+  "download_filename": "tork_governance-0.3.0.tar.gz",
+  "download_time": "2025-12-26T07:42:13.871174",
   "package_url": "https://pypi.org/project/tork-governance/"
 }

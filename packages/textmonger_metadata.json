@@ -1,11 +1,11 @@
 {
   "name": "textmonger",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A text analysis tool with readability, power word analysis, and NER visualization.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "textmonger-1.0.1.tar.gz",
-  "download_time": "2025-12-26T05:55:28.783293",
+  "download_filename": "textmonger-1.0.3.tar.gz",
+  "download_time": "2025-12-26T07:42:09.206691",
   "package_url": "https://pypi.org/project/textmonger/"
 }
