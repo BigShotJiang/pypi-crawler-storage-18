@@ -1,0 +1,11 @@
+{
+  "name": "jpholiday",
+  "version": "1.0.3",
+  "summary": "Pure-Python Japan Public Holiday Generate",
+  "author": "Vatis",
+  "license": "MIT",
+  "home_page": "https://github.com/Lalcs/jpholiday",
+  "download_filename": "jpholiday-1.0.3.tar.gz",
+  "download_time": "2025-12-26T05:45:38.350510",
+  "package_url": "https://pypi.org/project/jpholiday/"
+}

@@ -1,19 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T05:19:24.951847
-- **Total Packages**: 86
-- **Total Size**: 21.54 MB
+- **Download Time**: 2025-12-26T05:46:10.402449
+- **Total Packages**: 84
+- **Total Size**: 21.47 MB
 
 ## Packages List
+- praisonai-ui
+- apt-info-mcp
+- thread-notebook
+- veotools
+- trustedmcp
+- python3-openEuler
+- procvision-algorithm-sdk
+- date-tree
+- py-openjudge
+- thordata-sdk
+- pg-extended
+- libellula
+- epok-toolkit
+- textmonger
+- imessage-wrapped
+- silars
+- pytinel
+- empathy-framework
+- pkbrokers
+- pknsetools
+- hdsp-jupyter-extension
+- pkdevtools
+- itouch-auto
+- jpholiday
+- spdiu
+- doguda
+- PraisonAI
+- icepool
+- mctech-core
+- mobiu-q
+- quantiphy
+- yirifi-ops-mcp-hub
+- praisonaiagents
+- devhand
+- vllm-rbln
 - kele
 - sentience-python
 - holoviz-mcp
-- textmonger
-- mctech-core
-- silars
 - resource-segmentation
-- yirifi-ops-mcp-hub
 - matplotlib-cn
 - vyomcloudbridge
 - musicxml-to-png
@@ -40,7 +71,6 @@
 - cloudformation-dataclasses
 - hexcalculator
 - onnx-asr
-- clipsai-jp
 - asymmetric-td
 - uvd-x402-sdk
 - polymarket-telegram
@@ -60,35 +90,3 @@
 - eb-optimization
 - odoo-addon-rental-base
 - boosty-dl
-- easyths
-- tessera-sdk
-- nell-scb-lib
-- keras-nlp-nightly
-- keras-hub-nightly
-- optimum-rbln
-- data-recon-mcp
-- relace-mcp
-- qolsys-controller
-- boring-cli
-- koine-sdk
-- soyml
-- sonolus-fastapi
-- epl-analytics
-- noteblock-generator
-- git-notes-memory
-- code-rag-me
-- mp-hfs
-- ddss
-- abstra-json-sql
-- DensityFlow2
-- straxen
-- pytbox
-- vllama
-- fabricatio-diff
-- fabricatio-webui
-- fabricatio
-- keras-nightly
-- borgstats
-- casual-llm
-- coze-coding-utils
-- artificer-agents

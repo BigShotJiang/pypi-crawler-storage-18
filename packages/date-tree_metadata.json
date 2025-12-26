@@ -1,0 +1,11 @@
+{
+  "name": "date-tree",
+  "version": "1.0.2",
+  "summary": "Tree-based date filtering utilities",
+  "author": "Drew Hill",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "date_tree-1.0.2.tar.gz",
+  "download_time": "2025-12-26T05:45:29.594407",
+  "package_url": "https://pypi.org/project/date-tree/"
+}

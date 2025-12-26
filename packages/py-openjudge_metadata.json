@@ -1,11 +1,11 @@
 {
   "name": "py-openjudge",
-  "version": "0.1.7",
-  "summary": "OpenJudge: A Next-Generation Evaluation System for AI Model Assessment",
+  "version": "0.1.8",
+  "summary": "OpenJudge: A Unified Framework for Holistic Evaluation and Quality Reward",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_openjudge-0.1.7.tar.gz",
-  "download_time": "2025-12-25T10:46:08.774253",
+  "download_filename": "py_openjudge-0.1.8.tar.gz",
+  "download_time": "2025-12-26T05:45:30.108381",
   "package_url": "https://pypi.org/project/py-openjudge/"
 }
