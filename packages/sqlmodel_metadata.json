@@ -1,11 +1,11 @@
 {
   "name": "sqlmodel",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "SQLModel, SQL databases in Python, designed for simplicity, compatibility, and robustness.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlmodel-0.0.29.tar.gz",
-  "download_time": "2025-12-23T21:15:23.274820",
+  "download_filename": "sqlmodel-0.0.30.tar.gz",
+  "download_time": "2025-12-26T11:53:23.123660",
   "package_url": "https://pypi.org/project/sqlmodel/"
 }

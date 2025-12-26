@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T11:45:01.460616
-- **Total Packages**: 88
-- **Total Size**: 6.19 MB
+- **Download Time**: 2025-12-26T11:53:58.797247
+- **Total Packages**: 89
+- **Total Size**: 4.76 MB
 
 ## Packages List
+- emailsec
+- openmcp-sdk
+- quickcall-integrations
+- shannot
+- souleyez
+- nvidia-nat-redis
+- nvidia-nat-data-flywheel
+- livekit-plugins-kyutai-lasuite
+- nvidia-nat-semantic-kernel
+- nvidia-nat-opentelemetry
+- pyiec61850-ng
+- pytrends-modern
+- nvidia-nat-openpipe-art
+- nvidia-nat-llama-index
+- nvidia-nat-mem0ai
+- nvidia-nat-langchain
+- opentechcalendartools
+- nvidia-nat-phoenix
+- gpt2giga
+- nvidia-nat-crewai
+- nvidia-nat-all
+- fatfs-ng
+- nvidia-nat-test
+- nvidia-nat
+- nvidia-nat-a2a
+- sqlmodel-slim
+- yta-youtube
+- sqlmodel
+- nvidia-nat-zep-cloud
+- nvidia-nat-agno
+- nvidia-nat-strands
+- supermaker-ai-image-master-1
+- upgini
+- nvidia-nat-ingestion
+- nvidia-nat-mysql
+- actobotics
+- nvidia-nat-vanna
 - nvidia-nat-mcp
 - nvidia-nat-ragaai
 - waitless
@@ -24,7 +61,6 @@
 - aiqtoolkit-semantic-kernel
 - aiqtoolkit-agno
 - ml-management
-- livekit-plugins-kyutai-lasuite
 - aiqtoolkit-langchain
 - aiqtoolkit-zep-cloud
 - aiqtoolkit-llama-index
@@ -40,7 +76,6 @@
 - torchx-nightly
 - pynsi
 - maim-message
-- shannot
 - agile-todo-cli
 - dossenge
 - matrice-inference
@@ -60,37 +95,3 @@
 - iatoolkit
 - oip-checksum-validator
 - wu-forensics
-- fast-paseto
-- django-cfg
-- tf-keras-nightly
-- time-server-pkg
-- osvc-kalkulacka
-- mumott
-- jnt-django-toolbox
-- batchling
-- double-o
-- pkscreener
-- changepacks
-- adif-mcp
-- django-scheduled-tasks
-- cvforge
-- zrb
-- polars-fastembed
-- adata
-- mudra-sdk
-- fdb-record-layer
-- bijux-rag
-- a2ui-pydantic
-- flowweb
-- pypi-template
-- manimera
-- fivccliche
-- rcdl
-- pyautoev
-- aipyapp
-- geogee
-- fastapi-fullstack
-- brainsync-sdk
-- lumen-resources
-- rtlviz
-- mteb
