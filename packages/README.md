@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T05:46:10.402449
-- **Total Packages**: 84
-- **Total Size**: 21.47 MB
+- **Download Time**: 2025-12-26T05:56:09.959601
+- **Total Packages**: 74
+- **Total Size**: 18.17 MB
 
 ## Packages List
+- PraisonAI
+- praisonaiagents
+- textmonger
+- j-claude
+- dash-glide-grid
+- adif-mcp
+- gmi-ieops
+- spdiu
+- holoviz-mcp
+- pipenv-uv
+- imessage-wrapped
+- ngpu
+- clipsai-jp
+- nas-grpc-file
+- lyrify-cli
+- lazydocker-bin
+- fastfetch-bin
+- filtarr
+- mcp-vision-stat
 - praisonai-ui
 - apt-info-mcp
 - thread-notebook
@@ -19,8 +38,6 @@
 - pg-extended
 - libellula
 - epok-toolkit
-- textmonger
-- imessage-wrapped
 - silars
 - pytinel
 - empathy-framework
@@ -30,20 +47,16 @@
 - pkdevtools
 - itouch-auto
 - jpholiday
-- spdiu
 - doguda
-- PraisonAI
 - icepool
 - mctech-core
 - mobiu-q
 - quantiphy
 - yirifi-ops-mcp-hub
-- praisonaiagents
 - devhand
 - vllm-rbln
 - kele
 - sentience-python
-- holoviz-mcp
 - resource-segmentation
 - matplotlib-cn
 - vyomcloudbridge
@@ -54,7 +67,6 @@
 - klondike-spec-cli
 - tork-governance
 - typed-pytest
-- adif-mcp
 - mtmhdf
 - schema-mapper
 - zhtw
@@ -68,25 +80,3 @@
 - iamdata
 - tradion_api_client
 - beneissue
-- cloudformation-dataclasses
-- hexcalculator
-- onnx-asr
-- asymmetric-td
-- uvd-x402-sdk
-- polymarket-telegram
-- polymarket-fetcher
-- graphqlite
-- vyperdatum
-- sae-lens
-- dragon-ml-toolbox
-- ASHReports
-- skilz
-- ffmpeg4discord
-- srvdb
-- mthreads-ml-py
-- cf-mcp-gateway
-- weenspace-rabbitmq
-- napistu
-- eb-optimization
-- odoo-addon-rental-base
-- boosty-dl
