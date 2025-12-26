@@ -1,11 +1,11 @@
 {
   "name": "sc-sam",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "The Self-Assembling-Manifold algorithm for single-cell RNA sequencing analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sc_sam-2.0.0.tar.gz",
-  "download_time": "2025-12-26T20:17:28.128908",
+  "download_filename": "sc_sam-2.0.2.tar.gz",
+  "download_time": "2025-12-26T20:43:17.530917",
   "package_url": "https://pypi.org/project/sc-sam/"
 }

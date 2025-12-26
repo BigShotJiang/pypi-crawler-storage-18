@@ -1,18 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T20:18:10.534673
-- **Total Packages**: 81
-- **Total Size**: 30.87 MB
+- **Download Time**: 2025-12-26T20:43:37.537475
+- **Total Packages**: 76
+- **Total Size**: 27.7 MB
 
 ## Packages List
+- fleet-python
+- secure-run-manifest
+- pulumi-aws-native
+- macroni
+- vicentin
+- manimera
+- zerox-sync
+- athena-intelligence
+- wallypub
+- proxql
+- playrip
+- mccole
+- airbrowser-client
+- cherry-shared
+- nmn
+- aimodelshare
+- limitless-python
+- types-boto3-lite
+- types-boto3
+- types-boto3-medialive
+- boto3
+- py-flow-mapper
+- awscli
+- hanzo-mcp
+- utdg-env
+- psfed
+- tobiko-cloud-api-client
+- tobiko-cloud-helpers
+- tobiko-cloud-pydantic
+- muffinbite
+- hyperp
+- cjm-plugin-system
+- fatfs-ng
+- fastapi-startkit
+- groundmeas
+- smart-fetch
+- arzule-ingest
+- sc-sam
+- hefesto-ai
+- kreuzberg
+- str-mut-signatures
+- strongtyping
+- agenttrace-sdk
+- trustspeccli
+- trustspecpy
+- ohmyscrapper
+- revengai
+- ipyjadwal
+- blockpaca
+- policyengine-us
+- ungraph
+- koruspy
 - jleechanorg-pr-automation
 - topolib
 - sc-samap
-- sc-sam
-- playrip
-- airbrowser-client
-- hanzo-mcp
 - i18n-check
 - fastvideo-kernel
 - mlignore
@@ -20,14 +68,8 @@
 - IncludeCPP
 - test-mcp-echo-server
 - scdiffeq
-- macroni
-- aimodelshare
-- cherry-shared
-- agenttrace-sdk
 - gdrive-fsspec
 - photomapai
-- wallypub
-- blockpaca
 - psqlmodel
 - taskiq-dashboard
 - sparkback
@@ -40,50 +82,3 @@
 - netron
 - spotoptim
 - product-scraper
-- limitless-python
-- comfyui-manager
-- maradoner
-- TabulAIrity
-- configparser_rb
-- pymhihvac
-- python-hexagonal
-- graphql-http
-- polyinfer
-- flashforge-python-api
-- rustpy2025
-- increase
-- genall
-- daveagent-cli
-- actingweb
-- ipyjadwal
-- tklr-dgraham
-- skillport-mcp
-- skillport-core
-- dreamstack
-- telegrem
-- vaas
-- PraisonAI
-- dtreeviz
-- django-syauth
-- praisonai-tools
-- llmctl
-- smart-fetch
-- youtube-to-docs
-- contextnest
-- document-converter
-- notify-rs
-- formatparse
-- souleyez
-- tensorzero
-- praisonaiagents
-- xtop-cli
-- qtpie
-- mailbreeze
-- onehux-sso-client
-- sapiopycommons
-- krank
-- container-magic
-- hack4u-kebris-c-tools
-- zerox-sync
-- ospm
-- blizzapi

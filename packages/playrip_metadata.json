@@ -1,11 +1,11 @@
 {
   "name": "playrip",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Esse projeto é usado para abaixar musicas tanto no spotify e no Youtube",
   "author": "IyinG",
   "license": null,
   "home_page": null,
-  "download_filename": "playrip-1.1.0.tar.gz",
-  "download_time": "2025-12-26T20:17:28.649376",
+  "download_filename": "playrip-1.1.2.tar.gz",
+  "download_time": "2025-12-26T20:43:02.845593",
   "package_url": "https://pypi.org/project/playrip/"
 }

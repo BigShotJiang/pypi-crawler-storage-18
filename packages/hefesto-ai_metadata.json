@@ -1,0 +1,11 @@
+{
+  "name": "hefesto-ai",
+  "version": "4.3.0",
+  "summary": "Hefesto AI - Intelligent Code Quality Analysis and Technical Debt Detection",
+  "author": "Narapa LLC",
+  "license": "MIT",
+  "home_page": "https://github.com/artvepa80/Agents-Hefesto",
+  "download_filename": "hefesto_ai-4.3.0.tar.gz",
+  "download_time": "2025-12-26T20:43:18.043335",
+  "package_url": "https://pypi.org/project/hefesto-ai/"
+}

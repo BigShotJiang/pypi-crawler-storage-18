@@ -1,0 +1,11 @@
+{
+  "name": "strongtyping",
+  "version": "3.13.4",
+  "summary": "Decorator which checks whether the function is called with the correct type of parameters",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "strongtyping-3.13.4.tar.gz",
+  "download_time": "2025-12-26T20:43:19.576507",
+  "package_url": "https://pypi.org/project/strongtyping/"
+}
