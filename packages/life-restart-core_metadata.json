@@ -1,11 +1,11 @@
 {
   "name": "life-restart-core",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "High-performance life restart simulator core engine written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "life_restart_core-0.3.1.tar.gz",
-  "download_time": "2025-12-24T21:49:52.047324",
+  "download_filename": "life_restart_core-0.3.3.tar.gz",
+  "download_time": "2025-12-26T16:19:02.394290",
   "package_url": "https://pypi.org/project/life-restart-core/"
 }

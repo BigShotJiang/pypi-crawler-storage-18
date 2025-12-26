@@ -1,11 +1,11 @@
 {
   "name": "xytb",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "summary": "xytb is just (x)iao (y)ang's (t)ool(b)ox; https://github.com/you-n-g/toolbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xytb-1.6.3.tar.gz",
-  "download_time": "2025-12-24T08:22:20.604117",
+  "download_filename": "xytb-1.7.0.tar.gz",
+  "download_time": "2025-12-26T16:19:07.221342",
   "package_url": "https://pypi.org/project/xytb/"
 }

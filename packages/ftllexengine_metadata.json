@@ -1,11 +1,11 @@
 {
   "name": "ftllexengine",
-  "version": "0.33.0",
+  "version": "0.34.0",
   "summary": "Fluent (FTL) implementation with locale-aware parsing for numbers, dates, and currency",
   "author": "Ervins Strauhmanis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ftllexengine-0.33.0.tar.gz",
-  "download_time": "2025-12-26T10:56:18.387719",
+  "download_filename": "ftllexengine-0.34.0.tar.gz",
+  "download_time": "2025-12-26T16:19:22.531856",
   "package_url": "https://pypi.org/project/ftllexengine/"
 }

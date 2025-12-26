@@ -1,0 +1,11 @@
+{
+  "name": "dataset-translator",
+  "version": "0.2.0",
+  "summary": "⚡️ Efficient dataset translation using Google Translate's API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataset_translator-0.2.0.tar.gz",
+  "download_time": "2025-12-26T16:19:26.203168",
+  "package_url": "https://pypi.org/project/dataset-translator/"
+}

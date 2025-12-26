@@ -1,0 +1,11 @@
+{
+  "name": "aws-s3-risk-footprint",
+  "version": "0.1.1",
+  "summary": "CLI tool to analyze AWS S3 regional distribution and security risk",
+  "author": "John Ward",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_s3_risk_footprint-0.1.1.tar.gz",
+  "download_time": "2025-12-26T16:19:05.014512",
+  "package_url": "https://pypi.org/project/aws-s3-risk-footprint/"
+}
