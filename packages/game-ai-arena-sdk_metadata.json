@@ -1,0 +1,11 @@
+{
+  "name": "game-ai-arena-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for running bots on Game AI Arena",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "game_ai_arena_sdk-0.1.0.tar.gz",
+  "download_time": "2025-12-26T08:22:31.783189",
+  "package_url": "https://pypi.org/project/game-ai-arena-sdk/"
+}

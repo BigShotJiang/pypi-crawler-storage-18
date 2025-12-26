@@ -1,0 +1,11 @@
+{
+  "name": "pconf",
+  "version": "1.12.0",
+  "summary": "Hierarchical python configuration with files, environment variables, command-line arguments.",
+  "author": "Andras Maroy",
+  "license": "MIT",
+  "home_page": "https://github.com/andrasmaroy/pconf",
+  "download_filename": "pconf-1.12.0.tar.gz",
+  "download_time": "2025-12-26T08:22:30.236807",
+  "package_url": "https://pypi.org/project/pconf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jinjatomic",
-  "version": "0.0.1",
-  "summary": null,
-  "author": null,
+  "version": "0.0.2",
+  "summary": "A Datomic REST API client for Python reliant on jinja2 templates for writing stringified edn.",
+  "author": "Luka L",
   "license": null,
-  "home_page": null,
-  "download_filename": "jinjatomic-0.0.1.tar.gz",
-  "download_time": "2025-12-26T07:41:48.266272",
+  "home_page": "https://github.com/lukal-x/jinjatomic",
+  "download_filename": "jinjatomic-0.0.2.tar.gz",
+  "download_time": "2025-12-26T08:22:27.629843",
   "package_url": "https://pypi.org/project/jinjatomic/"
 }
