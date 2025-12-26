@@ -1,0 +1,11 @@
+{
+  "name": "insta-collect",
+  "version": "0.1.0",
+  "summary": "Modular Instagram Data Collector",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "insta_collect-0.1.0.tar.gz",
+  "download_time": "2025-12-26T06:55:45.199855",
+  "package_url": "https://pypi.org/project/insta-collect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hausalang",
+  "version": "1.1.0",
+  "summary": "Hausalang: A Hausa-based educational programming language with structured error reporting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hausalang-1.1.0.tar.gz",
+  "download_time": "2025-12-26T06:55:36.409965",
+  "package_url": "https://pypi.org/project/hausalang/"
+}

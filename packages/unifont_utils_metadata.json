@@ -1,11 +1,11 @@
 {
   "name": "unifont_utils",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Unifont Utilities, but rewritten in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unifont_utils-0.6.0.tar.gz",
-  "download_time": "2025-12-26T05:18:54.914521",
+  "download_filename": "unifont_utils-0.6.2.tar.gz",
+  "download_time": "2025-12-26T06:55:26.616248",
   "package_url": "https://pypi.org/project/unifont_utils/"
 }

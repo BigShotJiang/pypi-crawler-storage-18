@@ -1,11 +1,11 @@
 {
   "name": "django-nis2-shield",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Security-First Middleware for Django to ensure NIS2 compliance with forensic logging, active defense, and SIEM integration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_nis2_shield-0.2.0.tar.gz",
-  "download_time": "2025-12-25T20:18:25.968464",
+  "download_filename": "django_nis2_shield-0.3.0.tar.gz",
+  "download_time": "2025-12-26T06:55:22.861174",
   "package_url": "https://pypi.org/project/django-nis2-shield/"
 }
