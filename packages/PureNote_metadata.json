@@ -1,11 +1,11 @@
 {
   "name": "PureNote",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "A small python package",
   "author": "tamimystic",
   "license": "MIT",
   "home_page": "https://github.com/tamimystic/PureNote",
-  "download_filename": "purenote-0.0.3.tar.gz",
-  "download_time": "2025-12-25T23:50:47.303352",
+  "download_filename": "purenote-0.0.5.tar.gz",
+  "download_time": "2025-12-26T01:12:54.606217",
   "package_url": "https://pypi.org/project/PureNote/"
 }

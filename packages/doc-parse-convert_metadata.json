@@ -1,0 +1,11 @@
+{
+  "name": "doc-parse-convert",
+  "version": "0.6.1",
+  "summary": "Utilities for document content extraction and conversion",
+  "author": "Guthman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doc_parse_convert-0.6.1.tar.gz",
+  "download_time": "2025-12-26T01:12:42.807289",
+  "package_url": "https://pypi.org/project/doc-parse-convert/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shellerator",
-  "version": "0.1.0",
+  "version": "0.1.9",
   "summary": "A simple yet powerful tool to generate reverse, bind and web shells",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shellerator-0.1.0.tar.gz",
-  "download_time": "2025-12-25T23:50:53.496750",
+  "download_filename": "shellerator-0.1.9.tar.gz",
+  "download_time": "2025-12-26T01:12:50.476231",
   "package_url": "https://pypi.org/project/shellerator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mi-amore",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Make Espresso love again",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mi_amore-0.1.1.tar.gz",
-  "download_time": "2025-12-24T16:48:16.865694",
+  "download_filename": "mi_amore-0.1.2-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-26T01:12:58.790198",
   "package_url": "https://pypi.org/project/mi-amore/"
 }

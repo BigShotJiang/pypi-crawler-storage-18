@@ -1,0 +1,11 @@
+{
+  "name": "django-delete-guard",
+  "version": "0.1.1",
+  "summary": "Blocks dangerous Django ORM QuerySet.delete() calls in production.",
+  "author": "Matt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_delete_guard-0.1.1.tar.gz",
+  "download_time": "2025-12-26T01:12:56.383433",
+  "package_url": "https://pypi.org/project/django-delete-guard/"
+}

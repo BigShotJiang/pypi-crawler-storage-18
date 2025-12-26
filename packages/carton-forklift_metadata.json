@@ -1,0 +1,11 @@
+{
+  "name": "carton-forklift",
+  "version": "0.1.0",
+  "summary": "ForkLift by Carton, a data processing framework for Machine Learning large scale datasets",
+  "author": "guipenedo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carton_forklift-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-26T01:12:54.027618",
+  "package_url": "https://pypi.org/project/carton-forklift/"
+}
