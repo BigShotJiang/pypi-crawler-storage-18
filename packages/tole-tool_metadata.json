@@ -1,11 +1,11 @@
 {
   "name": "tole-tool",
-  "version": "1.1.1",
-  "summary": "CLI tool to convert Python to EXE",
+  "version": "1.2.0",
+  "summary": "The simplest way to convert Python scripts to EXE with asset support.",
   "author": "wetoq",
   "license": null,
-  "home_page": null,
-  "download_filename": "tole_tool-1.1.1.tar.gz",
-  "download_time": "2025-12-26T18:23:50.041378",
+  "home_page": "https://pypi.org/project/tole-tool/",
+  "download_filename": "tole_tool-1.2.0.tar.gz",
+  "download_time": "2025-12-26T19:29:18.777247",
   "package_url": "https://pypi.org/project/tole-tool/"
 }
