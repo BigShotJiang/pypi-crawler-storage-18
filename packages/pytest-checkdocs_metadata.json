@@ -1,0 +1,11 @@
+{
+  "name": "pytest-checkdocs",
+  "version": "2.14.0",
+  "summary": "check the README when running tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_checkdocs-2.14.0.tar.gz",
+  "download_time": "2025-12-26T21:32:42.446427",
+  "package_url": "https://pypi.org/project/pytest-checkdocs/"
+}

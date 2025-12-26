@@ -1,0 +1,11 @@
+{
+  "name": "amakaflow-fitfiletool",
+  "version": "0.2.3",
+  "summary": "Shared FIT file generation library for AmakaFlow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amakaflow_fitfiletool-0.2.3.tar.gz",
+  "download_time": "2025-12-26T21:32:40.847623",
+  "package_url": "https://pypi.org/project/amakaflow-fitfiletool/"
+}

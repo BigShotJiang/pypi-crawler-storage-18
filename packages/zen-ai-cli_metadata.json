@@ -1,0 +1,11 @@
+{
+  "name": "zen-ai-cli",
+  "version": "1.0.2",
+  "summary": "A beautiful terminal interface for Zen AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zen_ai_cli-1.0.2.tar.gz",
+  "download_time": "2025-12-26T21:32:27.249739",
+  "package_url": "https://pypi.org/project/zen-ai-cli/"
+}
