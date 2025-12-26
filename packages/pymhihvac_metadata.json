@@ -1,0 +1,11 @@
+{
+  "name": "pymhihvac",
+  "version": "0.1.2",
+  "summary": "Python library to interact with Mitsubishi Heavy Industries HVAC systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymhihvac-0.1.2.tar.gz",
+  "download_time": "2025-12-26T20:17:48.652878",
+  "package_url": "https://pypi.org/project/pymhihvac/"
+}

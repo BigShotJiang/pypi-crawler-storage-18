@@ -1,11 +1,11 @@
 {
   "name": "topolib",
-  "version": "0.10.0",
+  "version": "0.11.1",
   "summary": "A compact Python library for modeling, analyzing, and visualizing optical network topologies.",
   "author": "Danilo Bórquez-Paredes",
   "license": "MIT",
   "home_page": "https://gitlab.com/DaniloBorquez/topolib",
-  "download_filename": "topolib-0.10.0.tar.gz",
-  "download_time": "2025-12-22T19:39:59.916527",
+  "download_filename": "topolib-0.11.1.tar.gz",
+  "download_time": "2025-12-26T20:17:26.965512",
   "package_url": "https://pypi.org/project/topolib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-hexagonal",
+  "version": "0.1.0",
+  "summary": "Framework to build hexagonal architecture applications in Python.",
+  "author": "jose-matos-9281",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_hexagonal-0.1.0.tar.gz",
+  "download_time": "2025-12-26T20:17:49.175562",
+  "package_url": "https://pypi.org/project/python-hexagonal/"
+}

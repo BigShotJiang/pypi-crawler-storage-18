@@ -1,11 +1,11 @@
 {
   "name": "flashforge-python-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A comprehensive Python library for controlling FlashForge 3D printers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flashforge_python_api-1.0.1.tar.gz",
-  "download_time": "2025-12-25T03:04:45.592560",
+  "download_filename": "flashforge_python_api-1.0.2.tar.gz",
+  "download_time": "2025-12-26T20:17:50.801512",
   "package_url": "https://pypi.org/project/flashforge-python-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-dashboard",
+  "version": "0.3.2",
+  "summary": "An interactive dashboard for monitoring and managing Taskiq tasks.",
+  "author": "Anfimov Dima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskiq_dashboard-0.3.2.tar.gz",
+  "download_time": "2025-12-26T20:17:39.296647",
+  "package_url": "https://pypi.org/project/taskiq-dashboard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ezmsg-neo",
+  "version": "0.4.0",
+  "summary": "Load and stream data from neo files into ezmsg.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmsg_neo-0.4.0.tar.gz",
+  "download_time": "2025-12-26T20:17:41.204681",
+  "package_url": "https://pypi.org/project/ezmsg-neo/"
+}
