@@ -1,11 +1,11 @@
 {
   "name": "schema-mapper",
-  "version": "1.4.0",
-  "summary": "Production-grade ETL toolkit with unified connections, intelligent schema management, and built-in metadata for BigQuery, Snowflake, Redshift, SQL Server, and PostgreSQL",
+  "version": "1.4.1",
+  "summary": "Production-grade ETL toolkit with ML feature engineering, intelligent data profiling, and unified database connections for BigQuery, Snowflake, Redshift, SQL Server, and PostgreSQL",
   "author": "DataTeamSix",
   "license": "MIT",
   "home_page": "https://github.com/datateamsix/schema-mapper",
-  "download_filename": "schema_mapper-1.4.0.tar.gz",
-  "download_time": "2025-12-26T04:49:27.721269",
+  "download_filename": "schema_mapper-1.4.1.tar.gz",
+  "download_time": "2025-12-26T05:18:50.279341",
   "package_url": "https://pypi.org/project/schema-mapper/"
 }

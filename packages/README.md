@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T04:49:57.600042
-- **Total Packages**: 92
-- **Total Size**: 35.02 MB
+- **Download Time**: 2025-12-26T05:19:24.951847
+- **Total Packages**: 86
+- **Total Size**: 21.54 MB
 
 ## Packages List
+- kele
+- sentience-python
+- holoviz-mcp
+- textmonger
+- mctech-core
+- silars
+- resource-segmentation
+- yirifi-ops-mcp-hub
+- matplotlib-cn
+- vyomcloudbridge
+- musicxml-to-png
+- replimap
+- artefacts-toolkit
+- pegaflow-llm
+- klondike-spec-cli
+- tork-governance
+- typed-pytest
+- adif-mcp
+- mtmhdf
+- schema-mapper
+- zhtw
+- karaoke-gen
+- tlg-indices
+- mcp-server-aliyun-observability
+- onchaindata
+- a2ui-pydantic
+- pixgo
+- unifont_utils
+- iamdata
+- tradion_api_client
+- beneissue
+- cloudformation-dataclasses
+- hexcalculator
+- onnx-asr
+- clipsai-jp
+- asymmetric-td
+- uvd-x402-sdk
 - polymarket-telegram
 - polymarket-fetcher
 - graphqlite
@@ -15,10 +52,8 @@
 - ASHReports
 - skilz
 - ffmpeg4discord
-- coinsignal
 - srvdb
 - mthreads-ml-py
-- zhtw
 - cf-mcp-gateway
 - weenspace-rabbitmq
 - napistu
@@ -36,12 +71,9 @@
 - qolsys-controller
 - boring-cli
 - koine-sdk
-- uvd-x402-sdk
 - soyml
 - sonolus-fastapi
 - epl-analytics
-- typed-pytest
-- schema-mapper
 - noteblock-generator
 - git-notes-memory
 - code-rag-me
@@ -51,8 +83,6 @@
 - DensityFlow2
 - straxen
 - pytbox
-- resource-segmentation
-- beneissue
 - vllama
 - fabricatio-diff
 - fabricatio-webui
@@ -62,39 +92,3 @@
 - casual-llm
 - coze-coding-utils
 - artificer-agents
-- k6-mcp
-- BoschRpaMagicBox
-- tactus
-- freerouter
-- rom24-quickmud-python
-- mp-btp
-- souleyez
-- furina
-- PraisonAI
-- agent-sync
-- the-llm-council
-- charmarr-lib-core
-- range-merge
-- chromedriver-binary
-- cloudpss
-- zenoh-ros-type
-- nympha
-- praisonaiagents
-- mini-racer
-- idioma
-- hanzo-mcp
-- langgraph-api
-- nymphaea
-- nginx-crossplane
-- qry-doc
-- hideandseek
-- liteai-sdk
-- feedback-mcp
-- recce
-- kingsoftcloud-sdk-python
-- applyx
-- philh_myftp_biz
-- recce-cloud
-- aimodelshare
-- pypangolin
-- aegis-vision

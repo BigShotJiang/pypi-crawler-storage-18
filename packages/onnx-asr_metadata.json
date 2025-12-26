@@ -1,0 +1,11 @@
+{
+  "name": "onnx-asr",
+  "version": "0.10.0",
+  "summary": "Automatic Speech Recognition in Python using ONNX models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx_asr-0.10.0.tar.gz",
+  "download_time": "2025-12-26T05:18:58.005956",
+  "package_url": "https://pypi.org/project/onnx-asr/"
+}

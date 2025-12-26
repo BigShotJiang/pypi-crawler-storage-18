@@ -1,0 +1,11 @@
+{
+  "name": "asymmetric-td",
+  "version": "0.1.0",
+  "summary": "Asymmetric Temporal Difference Learning for stable deep RL",
+  "author": "StarEmporium Enterprise",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asymmetric_td-0.1.0.tar.gz",
+  "download_time": "2025-12-26T05:18:59.030257",
+  "package_url": "https://pypi.org/project/asymmetric-td/"
+}
