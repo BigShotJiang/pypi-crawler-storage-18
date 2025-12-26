@@ -1,11 +1,11 @@
 {
   "name": "codegate-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "The Supply Chain Firewall for AI Agents. Detects hallucinated dependencies.",
   "author": "Dario Monopoli",
   "license": null,
   "home_page": "https://github.com/dariomonopoli-dev/codegate-cli",
-  "download_filename": "codegate_cli-0.1.5.tar.gz",
-  "download_time": "2025-12-21T10:51:09.695619",
+  "download_filename": "codegate_cli-0.1.6.tar.gz",
+  "download_time": "2025-12-26T23:51:48.300782",
   "package_url": "https://pypi.org/project/codegate-cli/"
 }
