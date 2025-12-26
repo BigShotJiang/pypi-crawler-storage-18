@@ -1,11 +1,11 @@
 {
   "name": "pdflinkcheck",
-  "version": "1.1.93",
+  "version": "1.1.94",
   "summary": "A purpose-built PDF link analysis and reporting tool with GUI and CLI.",
   "author": "George Clayton Bennett",
   "license": null,
   "home_page": null,
-  "download_filename": "pdflinkcheck-1.1.93.tar.gz",
-  "download_time": "2025-12-26T01:12:32.063492",
+  "download_filename": "pdflinkcheck-1.1.94.tar.gz",
+  "download_time": "2025-12-26T06:25:24.870974",
   "package_url": "https://pypi.org/project/pdflinkcheck/"
 }

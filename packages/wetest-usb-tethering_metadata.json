@@ -1,11 +1,11 @@
 {
   "name": "wetest-usb-tethering",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Enable and verify Android USB tethering via uiautomator2, with device detection and helpers to download files and extract tar archives over the tethered LAN—useful for transfer testing and automation.",
   "author": "wetest",
   "license": null,
   "home_page": null,
-  "download_filename": "wetest_usb_tethering-0.0.8-py3-none-any.whl",
-  "download_time": "2025-12-25T13:11:21.329619",
+  "download_filename": "wetest_usb_tethering-0.0.9-py3-none-any.whl",
+  "download_time": "2025-12-26T06:25:15.486519",
   "package_url": "https://pypi.org/project/wetest-usb-tethering/"
 }

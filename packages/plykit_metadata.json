@@ -1,0 +1,11 @@
+{
+  "name": "plykit",
+  "version": "0.1.1",
+  "summary": "A PyQt5 GUI for point-cloud processing with plugin system",
+  "author": "mellon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plykit-0.1.1.tar.gz",
+  "download_time": "2025-12-26T06:25:20.196778",
+  "package_url": "https://pypi.org/project/plykit/"
+}

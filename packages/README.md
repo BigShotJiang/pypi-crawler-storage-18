@@ -1,33 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T05:56:09.959601
-- **Total Packages**: 74
-- **Total Size**: 18.17 MB
+- **Download Time**: 2025-12-26T06:25:45.676456
+- **Total Packages**: 75
+- **Total Size**: 40.46 MB
 
 ## Packages List
+- jacksung-dev
+- praisonai-ui
+- devopsmind
+- hatchling-autoextras-hook
+- thread-notebook
+- bkflow-sdk
+- jleechanorg-pr-automation
+- nonebot-plugin-group-relay
+- data-recon-mcp
+- mysql-awesome-stats-collector
+- application-file-scanner
+- libellula
+- framex-kit
+- extendedstim
+- rustpy2025
+- spTimeHelperPy
+- cache_house
+- dwu
+- homelab-assistant
+- aiq-platform-api
+- wetest-usb-tethering
+- bizydraft
+- jean-claude-code
+- lyrify-cli
+- adif-mcp
+- pyg-nightly
+- fastvideo-kernel
+- vxutils
+- taskdaemon
+- plykit
+- clipsai-jp
+- hdsp-jupyter-extension
+- emotion-machine
+- sleipnirgroup-jormungandr
+- tibet-chip
+- buzzerboy-platform-connectors
+- ai-minecraft-skin
+- dycw-utilities
+- pdflinkcheck
+- memex-md-mcp
+- kiphellopip
+- dirstats
+- epl-analytics
+- pyaudiodevice
+- antchain-collabinv
 - PraisonAI
 - praisonaiagents
 - textmonger
-- j-claude
 - dash-glide-grid
-- adif-mcp
 - gmi-ieops
 - spdiu
 - holoviz-mcp
 - pipenv-uv
 - imessage-wrapped
 - ngpu
-- clipsai-jp
 - nas-grpc-file
-- lyrify-cli
 - lazydocker-bin
 - fastfetch-bin
 - filtarr
 - mcp-vision-stat
-- praisonai-ui
 - apt-info-mcp
-- thread-notebook
 - veotools
 - trustedmcp
 - python3-openEuler
@@ -36,47 +75,9 @@
 - py-openjudge
 - thordata-sdk
 - pg-extended
-- libellula
 - epok-toolkit
 - silars
 - pytinel
 - empathy-framework
 - pkbrokers
 - pknsetools
-- hdsp-jupyter-extension
-- pkdevtools
-- itouch-auto
-- jpholiday
-- doguda
-- icepool
-- mctech-core
-- mobiu-q
-- quantiphy
-- yirifi-ops-mcp-hub
-- devhand
-- vllm-rbln
-- kele
-- sentience-python
-- resource-segmentation
-- matplotlib-cn
-- vyomcloudbridge
-- musicxml-to-png
-- replimap
-- artefacts-toolkit
-- pegaflow-llm
-- klondike-spec-cli
-- tork-governance
-- typed-pytest
-- mtmhdf
-- schema-mapper
-- zhtw
-- karaoke-gen
-- tlg-indices
-- mcp-server-aliyun-observability
-- onchaindata
-- a2ui-pydantic
-- pixgo
-- unifont_utils
-- iamdata
-- tradion_api_client
-- beneissue

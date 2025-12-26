@@ -1,0 +1,11 @@
+{
+  "name": "cache_house",
+  "version": "1.0.1",
+  "summary": "Caching tool for python",
+  "author": "Tural Muradov",
+  "license": "MIT",
+  "home_page": "https://github.com/Turall/cache-house",
+  "download_filename": "cache_house-1.0.1.tar.gz",
+  "download_time": "2025-12-26T06:25:13.419967",
+  "package_url": "https://pypi.org/project/cache_house/"
+}

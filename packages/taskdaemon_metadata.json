@@ -1,0 +1,11 @@
+{
+  "name": "taskdaemon",
+  "version": "0.1.0",
+  "summary": "TaskDaemon handler SDK for Python - write task handlers in Python",
+  "author": "Jonathan James",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskdaemon-0.1.0.tar.gz",
+  "download_time": "2025-12-26T06:25:19.686282",
+  "package_url": "https://pypi.org/project/taskdaemon/"
+}
