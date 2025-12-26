@@ -1,23 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T22:54:13.626411
-- **Total Packages**: 85
-- **Total Size**: 2.28 MB
+- **Download Time**: 2025-12-26T23:17:00.404705
+- **Total Packages**: 76
+- **Total Size**: 7.04 MB
 
 ## Packages List
+- initvenv
+- image-charts
+- shrinkray
+- tenso
+- kaggleease
+- aioprogress
+- rendarr
+- DensityFlowMO
+- ipyjadwal
+- asyncdbus
+- polars-timeseries-utils
+- utdg-env
+- varphi-devkit
+- llm-ldf
+- IncludeCPP
+- git-miner
+- psqlmodel
+- aiq-platform-api
+- flwr-nightly
+- souleyez
+- powerchord
+- vicentin
+- arzule-ingest
+- druta
+- GraphSpy
+- BobrTools
+- sista
+- qry-doc
+- makefolio
+- py-zerobyte
+- pyml-cli
+- gguf-coder
+- symbol-export
+- owl-contracts
+- pykotor
+- holocrontoolset
+- no-mcp-server
+- svg-ultralight
+- cider-cli
+- imessage-wrapped
+- pypangolin
 - cmdorc
 - dima
 - slick-queue-py
-- owl-contracts
 - ai-energy-benchmarks
 - ScriptCollection
 - clarity-api-sdk-python
-- git-miner
 - aiterm-dev
-- py-zerobyte
 - roampal
-- IncludeCPP
 - llmctl
 - wheke
 - usageflow-flask
@@ -40,54 +77,8 @@
 - promptdown
 - binauth
 - picklescan
-- psqlmodel
 - dominus-sdk-python
 - mark
 - harbor
 - microsoft-cdktfconstructs
 - morin
-- privalyse-cli
-- wallypub
-- strutex
-- ipyjadwal
-- s3dlio
-- samaware
-- duckdb-sqlalchemy
-- shad-saber
-- rnow
-- squirrels
-- dbl-boundary-service
-- polars-timeseries-utils
-- cjm-transcription-plugin-whisper
-- easyborg
-- mcp-memory-service
-- initvenv
-- crpto
-- iris-pgwire
-- GluonixDesigner
-- nextnextping
-- utdg-env
-- discourses
-- no-mcp-server
-- aiq-platform-api
-- fastcore
-- cjm-transcription-plugin-voxtral-hf
-- lastuuid
-- hefesto-ai
-- cqcalendar
-- zippathlib
-- crypo
-- tokamesh
-- operon-ai
-- neonlink-client
-- i3altlayout
-- everything
-- ytsage
-- py-ballisticcalc.exts
-- py-ballisticcalc
-- advanced-yaml
-- scapy
-- pypowerpetdoor
-- nestedtext
-- flaask
-- odoo14-addon-l10n-br-fiscal

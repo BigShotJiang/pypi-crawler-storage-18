@@ -1,0 +1,11 @@
+{
+  "name": "cider-cli",
+  "version": "0.1.5",
+  "summary": "IP address space visualization (pcap, geofeed, MaxMind)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cider_cli-0.1.5.tar.gz",
+  "download_time": "2025-12-26T23:16:41.007256",
+  "package_url": "https://pypi.org/project/cider-cli/"
+}

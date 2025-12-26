@@ -1,11 +1,11 @@
 {
   "name": "arzule-ingest",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "Lightweight SDK for capturing multi-agent traces and sending to Arzule",
   "author": "Arzule",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arzule_ingest-0.2.0.tar.gz",
-  "download_time": "2025-12-26T20:43:17.019087",
+  "download_filename": "arzule_ingest-0.3.1.tar.gz",
+  "download_time": "2025-12-26T23:16:32.261088",
   "package_url": "https://pypi.org/project/arzule-ingest/"
 }

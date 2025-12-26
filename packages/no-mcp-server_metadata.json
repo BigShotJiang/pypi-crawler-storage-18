@@ -1,11 +1,11 @@
 {
   "name": "no-mcp-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP wrapper for NaaS.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "no_mcp_server-0.2.0.tar.gz",
-  "download_time": "2025-12-26T22:37:56.564187",
+  "download_filename": "no_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-12-26T23:16:39.980127",
   "package_url": "https://pypi.org/project/no-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "GraphSpy",
+  "version": "1.6.0",
+  "summary": "Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI",
+  "author": "RedByte1337",
+  "license": null,
+  "home_page": "https://github.com/RedByte1337/GraphSpy",
+  "download_filename": "graphspy-1.6.0.tar.gz",
+  "download_time": "2025-12-26T23:16:33.289249",
+  "package_url": "https://pypi.org/project/GraphSpy/"
+}
