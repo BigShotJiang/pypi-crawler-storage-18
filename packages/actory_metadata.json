@@ -1,11 +1,11 @@
 {
   "name": "actory",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Official Python SDK for the Actory Agent Commerce Protocol (ACP) API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actory-0.1.2.tar.gz",
-  "download_time": "2025-12-26T15:16:47.711231",
+  "download_filename": "actory-0.1.3.tar.gz",
+  "download_time": "2025-12-26T15:36:26.144228",
   "package_url": "https://pypi.org/project/actory/"
 }

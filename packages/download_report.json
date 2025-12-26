@@ -1,8 +1,15 @@
 {
-  "download_time": "2025-12-26T15:17:33.756720",
-  "total_packages_downloaded": 81,
-  "total_size_mb": 10.08,
+  "download_time": "2025-12-26T15:37:06.709148",
+  "total_packages_downloaded": 86,
+  "total_size_mb": 3.29,
   "packages": [
+    "riverpod-3-scanner",
+    "django-cfg",
+    "licenseme-cli",
+    "wmill-pg",
+    "jeremydimond.pymlga",
+    "wmill",
+    "windmill-api",
     "category-embedding",
     "jeremydimond.pygamesim",
     "actory",
@@ -81,8 +88,6 @@
     "hanzo-tools-llm",
     "hanzo-tools-core",
     "ssh-para",
-    "buz",
-    "nixthon",
-    "copilotkit"
+    "buz"
   ]
 }

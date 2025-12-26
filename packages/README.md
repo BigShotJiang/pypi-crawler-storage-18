@@ -1,11 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T15:17:33.756720
-- **Total Packages**: 81
-- **Total Size**: 10.08 MB
+- **Download Time**: 2025-12-26T15:37:06.709148
+- **Total Packages**: 86
+- **Total Size**: 3.29 MB
 
 ## Packages List
+- riverpod-3-scanner
+- django-cfg
+- licenseme-cli
+- wmill-pg
+- jeremydimond.pymlga
+- wmill
+- windmill-api
 - category-embedding
 - jeremydimond.pygamesim
 - actory
@@ -85,5 +92,3 @@
 - hanzo-tools-core
 - ssh-para
 - buz
-- nixthon
-- copilotkit
