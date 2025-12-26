@@ -1,11 +1,11 @@
 {
   "name": "token-fuzz-rs",
-  "version": "0.0.1a1",
-  "summary": null,
+  "version": "0.0.1a2",
+  "summary": "Fast token-based fuzzy string matching for very large, static corpora (Rust-backed, Python-first).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "token_fuzz_rs-0.0.1a1.tar.gz",
-  "download_time": "2025-12-26T21:32:21.478742",
+  "download_filename": "token_fuzz_rs-0.0.1a2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-12-26T21:51:54.420584",
   "package_url": "https://pypi.org/project/token-fuzz-rs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wheke",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "A cute framework for small self-hosted apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wheke-0.5.1.tar.gz",
-  "download_time": "2025-12-26T17:37:05.651377",
+  "download_filename": "wheke-0.5.2.tar.gz",
+  "download_time": "2025-12-26T21:52:03.918273",
   "package_url": "https://pypi.org/project/wheke/"
 }

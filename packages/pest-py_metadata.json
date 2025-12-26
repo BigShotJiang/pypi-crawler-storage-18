@@ -1,0 +1,11 @@
+{
+  "name": "pest-py",
+  "version": "0.5.5",
+  "summary": "🐀 ⇝ pest › fastapi + rodi + mvc | python library for building scalable modular API's. Inspired by NestJS.",
+  "author": "Lucas Colombo",
+  "license": "MIT",
+  "home_page": "https://pest.lucode.dev",
+  "download_filename": "pest_py-0.5.5.tar.gz",
+  "download_time": "2025-12-26T21:52:05.495826",
+  "package_url": "https://pypi.org/project/pest-py/"
+}

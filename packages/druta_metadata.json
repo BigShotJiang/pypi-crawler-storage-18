@@ -1,0 +1,11 @@
+{
+  "name": "druta",
+  "version": "0.0.0",
+  "summary": "druta (द्रुत) - A fast video dataset format for PyTorch (for when storage isn't a problem)",
+  "author": "mayukhdeb",
+  "license": null,
+  "home_page": "https://github.com/mayukhdeb/druta",
+  "download_filename": "druta-0.0.0.tar.gz",
+  "download_time": "2025-12-26T21:52:01.835334",
+  "package_url": "https://pypi.org/project/druta/"
+}

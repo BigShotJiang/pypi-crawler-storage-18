@@ -1,0 +1,11 @@
+{
+  "name": "scapr",
+  "version": "2025.12.2",
+  "summary": "A Python script that uses Pillow's ImageGrab to capture screenshots.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scapr-2025.12.2.tar.gz",
+  "download_time": "2025-12-26T21:52:03.398170",
+  "package_url": "https://pypi.org/project/scapr/"
+}

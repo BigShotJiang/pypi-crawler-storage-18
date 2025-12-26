@@ -1,11 +1,11 @@
 {
   "name": "ufo-spacing-lib",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Font spacing management library for UFO-compatible fonts (kerning, margins, groups)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ufo_spacing_lib-0.1.1.tar.gz",
-  "download_time": "2025-12-26T13:11:38.889612",
+  "download_filename": "ufo_spacing_lib-0.2.0.tar.gz",
+  "download_time": "2025-12-26T21:51:56.508892",
   "package_url": "https://pypi.org/project/ufo-spacing-lib/"
 }
