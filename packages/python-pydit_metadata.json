@@ -1,0 +1,11 @@
+{
+  "name": "python-pydit",
+  "version": "0.2.0",
+  "summary": "A python dependency injection lib",
+  "author": "Marcelo Almeida (MrM4rc)",
+  "license": "bsd3",
+  "home_page": "https://github.com/MrM4rc/pydit",
+  "download_filename": "python_pydit-0.2.0.tar.gz",
+  "download_time": "2025-12-26T13:57:13.010599",
+  "package_url": "https://pypi.org/project/python-pydit/"
+}

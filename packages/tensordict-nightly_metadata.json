@@ -1,11 +1,11 @@
 {
   "name": "tensordict-nightly",
-  "version": "2025.12.25",
+  "version": "2025.12.26",
   "summary": "TensorDict is a pytorch dedicated tensor container.",
   "author": null,
   "license": "BSD",
   "home_page": null,
-  "download_filename": "tensordict_nightly-2025.12.25-cp310-cp310-macosx_15_0_universal2.whl",
-  "download_time": "2025-12-25T14:39:10.037086",
+  "download_filename": "tensordict_nightly-2025.12.26-cp310-cp310-macosx_15_0_universal2.whl",
+  "download_time": "2025-12-26T13:56:50.022108",
   "package_url": "https://pypi.org/project/tensordict-nightly/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "torcrawl",
+  "version": "1.33",
+  "summary": "A Python script to crawl and extract (regular or onion) webpages through TOR network.",
+  "author": "MikeMeliz",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/MikeMeliz/TorCrawl.py",
+  "download_filename": "torcrawl-1.33.tar.gz",
+  "download_time": "2025-12-26T13:56:51.074348",
+  "package_url": "https://pypi.org/project/torcrawl/"
+}

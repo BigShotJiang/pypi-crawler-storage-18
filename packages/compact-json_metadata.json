@@ -1,0 +1,11 @@
+{
+  "name": "compact-json",
+  "version": "1.8.2",
+  "summary": "A JSON formatter that produces compact but human-readable",
+  "author": "Jon Connell",
+  "license": "MIT",
+  "home_page": "https://github.com/masaccio/compact-json",
+  "download_filename": "compact_json-1.8.2.tar.gz",
+  "download_time": "2025-12-26T13:56:59.419466",
+  "package_url": "https://pypi.org/project/compact-json/"
+}

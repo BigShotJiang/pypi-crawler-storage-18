@@ -1,11 +1,11 @@
 {
   "name": "medeval",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "PyTorch-native library for medical imaging evaluation metrics",
   "author": "MedEval Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "medeval-0.1.5.tar.gz",
-  "download_time": "2025-12-26T08:50:35.811351",
+  "download_filename": "medeval-0.1.7.tar.gz",
+  "download_time": "2025-12-26T13:57:24.006485",
   "package_url": "https://pypi.org/project/medeval/"
 }
