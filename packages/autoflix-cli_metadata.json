@@ -1,11 +1,11 @@
 {
   "name": "autoflix-cli",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Stream movies, series, and anime in French (VF & VOSTFR) directly from your terminal. Inspired by ani-cli.",
   "author": "PaulExplorer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autoflix_cli-0.2.1.tar.gz",
-  "download_time": "2025-12-24T17:33:41.318958",
+  "download_filename": "autoflix_cli-0.3.0.tar.gz",
+  "download_time": "2025-12-26T11:44:29.673626",
   "package_url": "https://pypi.org/project/autoflix-cli/"
 }

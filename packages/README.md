@@ -1,15 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T11:32:44.340718
-- **Total Packages**: 84
-- **Total Size**: 27.11 MB
+- **Download Time**: 2025-12-26T11:45:01.460616
+- **Total Packages**: 88
+- **Total Size**: 6.19 MB
 
 ## Packages List
-- quickcall-integrations
+- nvidia-nat-mcp
+- nvidia-nat-ragaai
+- waitless
+- nvidia-nat-profiling
+- nvidia-nat-adk
+- nvidia-nat-nemo-customizer
+- bluer-ai
+- sentimetric
+- nvidia-nat-s3
+- nnlogging
+- nvidia-nat-weave
+- aimodelshare
+- aiqtoolkit-crewai
+- aiqtoolkit-weave
+- aiqtoolkit-test
+- aiqtoolkit-semantic-kernel
+- aiqtoolkit-agno
+- ml-management
+- livekit-plugins-kyutai-lasuite
+- aiqtoolkit-langchain
+- aiqtoolkit-zep-cloud
+- aiqtoolkit-llama-index
+- aiqtoolkit-mem0ai
+- aiqtoolkit
+- convnet
+- dbguard
+- homo-his-heart-mcp
+- mainsequence
+- ujeebu-python
+- autoflix-cli
 - plottwist-py
 - torchx-nightly
-- livekit-plugins-kyutai-lasuite
 - pynsi
 - maim-message
 - shannot
@@ -22,7 +50,6 @@
 - rdkit-headers
 - garf-core
 - vresto
-- aimodelshare
 - pkbrokers
 - fudgeo
 - he-kit
@@ -67,26 +94,3 @@
 - lumen-resources
 - rtlviz
 - mteb
-- sciv
-- gliographseg
-- mp-btp
-- qy-soulmate-drawing-generator
-- testoli
-- contrastive-ft
-- gdsfactory
-- nvidia-nat-ragaai
-- konduktor-nightly
-- nvidia-nat-test
-- nvidia-nat-strands
-- nvidia-nat-phoenix
-- nvidia-nat-mcp
-- nvidia-nat-ingestion
-- recollex
-- nvidia-nat-adk
-- ftllexengine
-- nvidia-nat-openpipe-art
-- trainy-mlop-nightly
-- trainy-policy-nightly
-- recollex-gpu
-- nvidia-nat-llama-index
-- nvidia-nat-profiling

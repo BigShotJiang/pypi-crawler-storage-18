@@ -1,11 +1,11 @@
 {
   "name": "convnet",
-  "version": "2.0.0",
-  "summary": "A minimal, educational convolutional neural network framework with JAX acceleration",
+  "version": "2.2.0",
+  "summary": "A high-performance CNN framework: Numba for CPU, JAX for GPU/TPU",
   "author": "codinggamer-dev",
   "license": null,
   "home_page": "https://github.com/codinggamer-dev/ConvNet-NumPy",
-  "download_filename": "convnet-2.0.0.tar.gz",
-  "download_time": "2025-12-25T20:43:51.636124",
+  "download_filename": "convnet-2.2.0.tar.gz",
+  "download_time": "2025-12-26T11:44:27.077219",
   "package_url": "https://pypi.org/project/convnet/"
 }

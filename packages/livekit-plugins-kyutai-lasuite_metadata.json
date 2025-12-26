@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-kyutai-lasuite",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Agent Framework plugin for services using Kyutai's Moshi server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_kyutai_lasuite-0.0.2.tar.gz",
-  "download_time": "2025-12-26T11:32:01.394064",
+  "download_filename": "livekit_plugins_kyutai_lasuite-0.0.3.tar.gz",
+  "download_time": "2025-12-26T11:44:23.988409",
   "package_url": "https://pypi.org/project/livekit-plugins-kyutai-lasuite/"
 }
