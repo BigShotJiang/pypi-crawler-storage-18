@@ -1,11 +1,11 @@
 {
   "name": "scriptbook",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Scriptbook - An executable Markdown server with script execution, result persistence, and stop functionality, ideal for SOP automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scriptbook-1.5.0.tar.gz",
-  "download_time": "2025-12-25T15:18:48.064183",
+  "download_filename": "scriptbook-1.5.1.tar.gz",
+  "download_time": "2025-12-26T13:11:46.097199",
   "package_url": "https://pypi.org/project/scriptbook/"
 }

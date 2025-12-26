@@ -1,0 +1,11 @@
+{
+  "name": "aqueduct",
+  "version": "1.13.0",
+  "summary": "Builder for performance-efficient prediction.",
+  "author": "Data Science SWAT",
+  "license": "MIT",
+  "home_page": "https://github.com/avito-tech/aqueduct",
+  "download_filename": "aqueduct-1.13.0.tar.gz",
+  "download_time": "2025-12-26T13:11:31.172427",
+  "package_url": "https://pypi.org/project/aqueduct/"
+}

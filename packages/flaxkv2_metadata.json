@@ -1,11 +1,11 @@
 {
   "name": "flaxkv2",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A high-performance dictionary database.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flaxkv2-0.1.3.tar.gz",
-  "download_time": "2025-12-25T17:34:50.489640",
+  "download_filename": "flaxkv2-0.1.4.tar.gz",
+  "download_time": "2025-12-26T13:12:13.958301",
   "package_url": "https://pypi.org/project/flaxkv2/"
 }

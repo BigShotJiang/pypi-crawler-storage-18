@@ -1,0 +1,11 @@
+{
+  "name": "bytegate",
+  "version": "0.0.0",
+  "summary": "A transparent Redis-backed WebSocket gateway that relays bytes between distributed systems.",
+  "author": "Jan Bjørge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bytegate-0.0.0.tar.gz",
+  "download_time": "2025-12-26T13:11:50.266083",
+  "package_url": "https://pypi.org/project/bytegate/"
+}

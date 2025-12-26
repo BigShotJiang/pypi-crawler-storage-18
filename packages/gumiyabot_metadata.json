@@ -1,0 +1,11 @@
+{
+  "name": "gumiyabot",
+  "version": "1.1.1",
+  "summary": "Standalone Twitch + Bancho IRC bot for handling osu! beatmap requests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gumiyabot-1.1.1.tar.gz",
+  "download_time": "2025-12-26T13:11:59.577531",
+  "package_url": "https://pypi.org/project/gumiyabot/"
+}

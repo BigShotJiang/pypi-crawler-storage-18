@@ -1,0 +1,11 @@
+{
+  "name": "tviz",
+  "version": "0.2.1",
+  "summary": "tviz is a visualization dashboard for the Tinker API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tviz-0.2.1.tar.gz",
+  "download_time": "2025-12-26T13:12:07.260070",
+  "package_url": "https://pypi.org/project/tviz/"
+}

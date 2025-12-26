@@ -1,0 +1,11 @@
+{
+  "name": "llcuda",
+  "version": "0.1.2",
+  "summary": "CUDA-accelerated LLM inference for Python",
+  "author": "Waqas Muhammad",
+  "license": "MIT",
+  "home_page": "https://github.com/waqasm86/llcuda",
+  "download_filename": "llcuda-0.1.2.tar.gz",
+  "download_time": "2025-12-26T13:11:46.609140",
+  "package_url": "https://pypi.org/project/llcuda/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wikontic",
+  "version": "0.0.3",
+  "summary": "Extract a knowledge graph with LLM from texts and perform QA over the resulted KG",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wikontic-0.0.3.tar.gz",
+  "download_time": "2025-12-26T13:12:09.851298",
+  "package_url": "https://pypi.org/project/wikontic/"
+}

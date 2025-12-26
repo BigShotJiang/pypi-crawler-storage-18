@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-kick",
+  "version": "0.1.1",
+  "summary": "FastAPI app scaffolder with health, modules, and Postgres",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://example.com/fastapi_kick",
+  "download_filename": "fastapi_kick-0.1.1.tar.gz",
+  "download_time": "2025-12-26T13:12:02.143377",
+  "package_url": "https://pypi.org/project/fastapi-kick/"
+}

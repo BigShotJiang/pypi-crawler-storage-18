@@ -1,11 +1,11 @@
 {
   "name": "sentimetric",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A modern sentiment analysis library with optional LLM support",
   "author": "Abel Peter",
   "license": "MIT",
   "home_page": "https://github.com/peter-abel/sentimetric",
-  "download_filename": "sentimetric-1.0.2.tar.gz",
-  "download_time": "2025-12-26T11:44:18.282474",
+  "download_filename": "sentimetric-1.0.3.tar.gz",
+  "download_time": "2025-12-26T13:12:03.680163",
   "package_url": "https://pypi.org/project/sentimetric/"
 }

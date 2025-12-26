@@ -1,0 +1,11 @@
+{
+  "name": "humsana-daemon",
+  "version": "1.0.0",
+  "summary": "Local behavioral signal collection for Humsana Cognitive Security",
+  "author": "Humsana",
+  "license": null,
+  "home_page": "https://github.com/sriramnatrajhen/humsana-daemon",
+  "download_filename": "humsana_daemon-1.0.0.tar.gz",
+  "download_time": "2025-12-26T13:11:41.974335",
+  "package_url": "https://pypi.org/project/humsana-daemon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swift-matrix",
+  "version": "0.1.0",
+  "summary": "Lightweight matrix library with a tiny immutable Matrix class.",
+  "author": "Steve Torn",
+  "license": "MIT",
+  "home_page": "https://github.com/El3k0n/Matrix",
+  "download_filename": "swift_matrix-0.1.0.tar.gz",
+  "download_time": "2025-12-26T13:11:31.685085",
+  "package_url": "https://pypi.org/project/swift-matrix/"
+}
