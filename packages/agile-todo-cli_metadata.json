@@ -1,0 +1,11 @@
+{
+  "name": "agile-todo-cli",
+  "version": "1.1.0a1",
+  "summary": "CLI tool for managing daily todos with time tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agile_todo_cli-1.1.0a1.tar.gz",
+  "download_time": "2025-12-26T11:32:03.969787",
+  "package_url": "https://pypi.org/project/agile-todo-cli/"
+}

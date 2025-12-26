@@ -1,0 +1,11 @@
+{
+  "name": "LightRFT",
+  "version": "0.1.0",
+  "summary": "Light, Efficient, Omni-modal & Reward-model Driven Reinforcement Fine-Tuning Framework",
+  "author": "LightRFT Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/opendilab/LightRFT",
+  "download_filename": "lightrft-0.1.0.tar.gz",
+  "download_time": "2025-12-26T11:32:11.701464",
+  "package_url": "https://pypi.org/project/LightRFT/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "osvc-kalkulacka",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "OSVČ kalkulačka (DPFO + ZP/SP)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "osvc_kalkulacka-0.1.0.tar.gz",
-  "download_time": "2025-12-26T01:13:02.223647",
+  "download_filename": "osvc_kalkulacka-0.2.0.tar.gz",
+  "download_time": "2025-12-26T11:32:16.858846",
   "package_url": "https://pypi.org/project/osvc-kalkulacka/"
 }

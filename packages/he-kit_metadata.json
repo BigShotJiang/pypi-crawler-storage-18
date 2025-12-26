@@ -1,0 +1,11 @@
+{
+  "name": "he-kit",
+  "version": "0.0.17",
+  "summary": "A project generator that bootstraps a FastAPI setup following Helicon's standards and best practices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "he_kit-0.0.17.tar.gz",
+  "download_time": "2025-12-26T11:32:10.675299",
+  "package_url": "https://pypi.org/project/he-kit/"
+}

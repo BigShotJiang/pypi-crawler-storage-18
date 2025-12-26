@@ -1,11 +1,11 @@
 {
   "name": "wu-forensics",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "summary": "Epistemic media forensics toolkit - structured uncertainty for courts",
   "author": "Zane Hambly",
   "license": null,
   "home_page": null,
-  "download_filename": "wu_forensics-1.4.0-py3-none-any.whl",
-  "download_time": "2025-12-22T08:52:20.869117",
+  "download_filename": "wu_forensics-1.6.0-py3-none-any.whl",
+  "download_time": "2025-12-26T11:32:14.277826",
   "package_url": "https://pypi.org/project/wu-forensics/"
 }

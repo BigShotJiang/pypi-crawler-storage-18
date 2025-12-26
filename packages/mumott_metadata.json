@@ -1,0 +1,11 @@
+{
+  "name": "mumott",
+  "version": "2.2",
+  "summary": "A library for the analysis of multi-modal tensor tomography data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mumott-2.2-py3-none-any.whl",
+  "download_time": "2025-12-26T11:32:17.409233",
+  "package_url": "https://pypi.org/project/mumott/"
+}

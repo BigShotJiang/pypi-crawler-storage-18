@@ -1,0 +1,11 @@
+{
+  "name": "kaleidoswap",
+  "version": "0.4.0",
+  "summary": "Python SDK for the Kaleidoswap protocol - trade RGB assets on Lightning Network",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kaleidoswap-0.4.0.tar.gz",
+  "download_time": "2025-12-26T11:32:12.738185",
+  "package_url": "https://pypi.org/project/kaleidoswap/"
+}

@@ -1,13 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T11:16:06.695400
-- **Total Packages**: 89
-- **Total Size**: 14.1 MB
+- **Download Time**: 2025-12-26T11:32:44.340718
+- **Total Packages**: 84
+- **Total Size**: 27.11 MB
 
 ## Packages List
-- jnt-django-toolbox
+- quickcall-integrations
+- plottwist-py
+- torchx-nightly
+- livekit-plugins-kyutai-lasuite
+- pynsi
+- maim-message
+- shannot
+- agile-todo-cli
+- dossenge
+- matrice-inference
+- torchft-nightly
+- shellerator
+- pranjit-transformer
 - rdkit-headers
+- garf-core
+- vresto
+- aimodelshare
+- pkbrokers
+- fudgeo
+- he-kit
+- XT-Remote
+- LightRFT
+- noetl
+- kaleidoswap
+- iatoolkit
+- oip-checksum-validator
+- wu-forensics
+- fast-paseto
+- django-cfg
+- tf-keras-nightly
+- time-server-pkg
+- osvc-kalkulacka
+- mumott
+- jnt-django-toolbox
 - batchling
 - double-o
 - pkscreener
@@ -19,7 +51,6 @@
 - polars-fastembed
 - adata
 - mudra-sdk
-- aimodelshare
 - fdb-record-layer
 - bijux-rag
 - a2ui-pydantic
@@ -59,39 +90,3 @@
 - recollex-gpu
 - nvidia-nat-llama-index
 - nvidia-nat-profiling
-- nvidia-nat-opentelemetry
-- nvidia-nat-nemo-customizer
-- aip-agents-binary
-- nvidia-nat-mem0ai
-- nvidia-nat
-- nvidia-nat-mysql
-- gcl-sdk
-- nvidia-nat-data-flywheel
-- nvidia-nat-all
-- nvidia-nat-weave
-- token-audit
-- nvidia-nat-a2a
-- nvidia-nat-s3
-- pp-primp
-- internal
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- nvidia-nat-langchain
-- salt-bundle
-- nonebot-plugin-trans-progress
-- nvidia-nat-semantic-kernel
-- letta-nightly
-- nvidia-nat-zep-cloud
-- nvidia-nat-agno
-- nvidia-nat-vanna
-- qwen-mt-tool
-- sklearn2pmml
-- asyncPyGithub
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-crewai
-- aiqtoolkit-agno
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- aiqtoolkit-test
-- tuible
