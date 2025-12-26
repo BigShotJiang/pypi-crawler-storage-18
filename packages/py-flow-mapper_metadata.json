@@ -1,11 +1,11 @@
 {
   "name": "py-flow-mapper",
-  "version": "0.1.0b0",
+  "version": "0.1.0b0.dev1",
   "summary": "Python project analyzer and visualization tool",
   "author": "Arun Koundinya Parasa",
   "license": "MIT",
   "home_page": "https://github.com/ArunKoundinyaParasa/py-flow-mapper",
-  "download_filename": "py_flow_mapper-0.1.0b0.tar.gz",
-  "download_time": "2025-12-26T20:43:08.643317",
+  "download_filename": "py_flow_mapper-0.1.0b0.dev1.tar.gz",
+  "download_time": "2025-12-26T21:44:06.308266",
   "package_url": "https://pypi.org/project/py-flow-mapper/"
 }

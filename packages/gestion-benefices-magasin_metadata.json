@@ -1,0 +1,11 @@
+{
+  "name": "gestion-benefices-magasin",
+  "version": "0.1.0",
+  "summary": "Application Python orientée objet pour calculer les bénéfices des ventes d'un magasin",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gestion_benefices_magasin-0.1.0.tar.gz",
+  "download_time": "2025-12-26T21:44:12.099651",
+  "package_url": "https://pypi.org/project/gestion-benefices-magasin/"
+}

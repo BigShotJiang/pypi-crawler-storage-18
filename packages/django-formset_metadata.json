@@ -1,11 +1,11 @@
 {
   "name": "django-formset",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "The missing widgets and form manipulation library for Django",
   "author": "Jacob Rief",
   "license": "MIT",
   "home_page": "https://django-formset.fly.dev/",
-  "download_filename": "django_formset-2.2.1.tar.gz",
-  "download_time": "2025-12-22T21:49:32.032316",
+  "download_filename": "django_formset-2.2.2.tar.gz",
+  "download_time": "2025-12-26T21:43:59.995968",
   "package_url": "https://pypi.org/project/django-formset/"
 }

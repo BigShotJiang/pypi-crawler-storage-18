@@ -1,0 +1,11 @@
+{
+  "name": "nexstar-control",
+  "version": "1.0.2",
+  "summary": "A library that can be used to communicate and control Celestron NexStar telescope devices.",
+  "author": "Tristen Georgiou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexstar_control-1.0.2.tar.gz",
+  "download_time": "2025-12-26T21:44:08.913784",
+  "package_url": "https://pypi.org/project/nexstar-control/"
+}
