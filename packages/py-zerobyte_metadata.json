@@ -1,0 +1,11 @@
+{
+  "name": "py-zerobyte",
+  "version": "1.0.0",
+  "summary": "Python SDK for Zerobyte API - Manage volumes, backups, and snapshots",
+  "author": "Tomer Klein",
+  "license": "MIT",
+  "home_page": "https://github.com/t0mer/py-zerobyte",
+  "download_filename": "py_zerobyte-1.0.0.tar.gz",
+  "download_time": "2025-12-26T22:37:34.649107",
+  "package_url": "https://pypi.org/project/py-zerobyte/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rnow",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "ReinforceNow CLI - Reinforcement Learning platform command-line interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rnow-0.2.7.tar.gz",
-  "download_time": "2025-12-26T22:16:46.538017",
+  "download_filename": "rnow-0.2.8.tar.gz",
+  "download_time": "2025-12-26T22:37:47.328765",
   "package_url": "https://pypi.org/project/rnow/"
 }

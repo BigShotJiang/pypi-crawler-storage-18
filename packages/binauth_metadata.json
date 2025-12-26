@@ -1,11 +1,11 @@
 {
   "name": "binauth",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Bitwise permission system for Python with SQLAlchemy and FastAPI integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "binauth-0.2.0.tar.gz",
-  "download_time": "2025-12-26T17:15:56.378959",
+  "download_filename": "binauth-0.3.0.tar.gz",
+  "download_time": "2025-12-26T22:37:37.866107",
   "package_url": "https://pypi.org/project/binauth/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kuhl-haus-mdp-servers",
+  "version": "0.0.3",
+  "summary": "Container image build repository for market data processing servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuhl_haus_mdp_servers-0.0.3.tar.gz",
+  "download_time": "2025-12-26T22:37:35.222278",
+  "package_url": "https://pypi.org/project/kuhl-haus-mdp-servers/"
+}

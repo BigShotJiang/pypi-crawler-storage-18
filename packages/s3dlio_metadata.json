@@ -1,0 +1,11 @@
+{
+  "name": "s3dlio",
+  "version": "0.9.31",
+  "summary": "High-performance S3, Azure, GCS, and file system operations for AI/ML",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "s3dlio-0.9.31.tar.gz",
+  "download_time": "2025-12-26T22:37:44.760543",
+  "package_url": "https://pypi.org/project/s3dlio/"
+}
