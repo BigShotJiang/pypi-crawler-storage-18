@@ -1,0 +1,11 @@
+{
+  "name": "docker-lens",
+  "version": "0.1.1",
+  "summary": "A Docker debugging CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docker_lens-0.1.1.tar.gz",
+  "download_time": "2025-12-26T17:37:05.141074",
+  "package_url": "https://pypi.org/project/docker-lens/"
+}

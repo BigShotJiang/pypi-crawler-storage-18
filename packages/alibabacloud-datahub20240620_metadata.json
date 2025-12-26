@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-datahub20240620",
+  "version": "1.0.0",
+  "summary": "Alibaba Cloud DataHub (20240620) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_datahub20240620-1.0.0.tar.gz",
+  "download_time": "2025-12-26T17:37:08.335267",
+  "package_url": "https://pypi.org/project/alibabacloud-datahub20240620/"
+}

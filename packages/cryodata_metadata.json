@@ -1,0 +1,11 @@
+{
+  "name": "cryodata",
+  "version": "0.1.1b5",
+  "summary": "Cryo-EM data processing tools for deep learning (e.g., cryo-IEF).",
+  "author": "Yang Yan",
+  "license": "MIT",
+  "home_page": "https://github.com/yanyang1998/cryoief-data",
+  "download_filename": "cryodata-0.1.1b5.tar.gz",
+  "download_time": "2025-12-26T17:37:09.935960",
+  "package_url": "https://pypi.org/project/cryodata/"
+}

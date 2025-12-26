@@ -1,0 +1,11 @@
+{
+  "name": "lvmgort",
+  "version": "1.11.5",
+  "summary": "The brains of LVM observing",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lvmgort-1.11.5.tar.gz",
+  "download_time": "2025-12-26T17:37:00.347581",
+  "package_url": "https://pypi.org/project/lvmgort/"
+}

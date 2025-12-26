@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-waf-openapi20211001",
-  "version": "7.2.0",
+  "version": "7.3.0",
   "summary": "Alibaba Cloud waf-openapi (20211001) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_waf_openapi20211001-7.2.0.tar.gz",
-  "download_time": "2025-12-25T18:51:39.766624",
+  "download_filename": "alibabacloud_waf_openapi20211001-7.3.0.tar.gz",
+  "download_time": "2025-12-26T17:36:59.321290",
   "package_url": "https://pypi.org/project/alibabacloud-waf-openapi20211001/"
 }
