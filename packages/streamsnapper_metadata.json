@@ -1,0 +1,11 @@
+{
+  "name": "streamsnapper",
+  "version": "0.4.1",
+  "summary": "Extract and analyze YouTube video streams with intelligent quality selection, language fallback, and comprehensive metadata retrieval",
+  "author": "henrique-coder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamsnapper-0.4.1.tar.gz",
+  "download_time": "2025-12-26T17:50:41.864081",
+  "package_url": "https://pypi.org/project/streamsnapper/"
+}

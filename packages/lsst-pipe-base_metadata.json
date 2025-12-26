@@ -1,0 +1,11 @@
+{
+  "name": "lsst-pipe-base",
+  "version": "30.2025.5200",
+  "summary": "Pipeline infrastructure for the Rubin Science Pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_pipe_base-30.2025.5200.tar.gz",
+  "download_time": "2025-12-26T17:50:43.930676",
+  "package_url": "https://pypi.org/project/lsst-pipe-base/"
+}

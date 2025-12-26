@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T17:37:37.074263
-- **Total Packages**: 78
-- **Total Size**: 8.32 MB
+- **Download Time**: 2025-12-26T17:51:16.501669
+- **Total Packages**: 77
+- **Total Size**: 6.24 MB
 
 ## Packages List
+- playrip
+- access-specifiers
+- git-miner
+- lsst-daf-butler
+- weltschmerz
+- yuantao-fmk
+- pibooth-nextcloud
+- my-cloud-devops-consulting
+- wmill-pg
+- smartXML
+- wmill
+- windmill-api
+- streamsnapper
+- ssh-para
+- uestc-login
+- claude-manager
+- lsst-pipe-base
+- joblet-sdk-python
+- charmos
+- souleyez
+- tole-tool
+- treco-framework
+- lsst-felis
 - lsst-ctrl-bps-htcondor
 - lsst-ctrl-bps-parsl
 - uvd-x402-sdk
@@ -29,7 +52,6 @@
 - docker-lens
 - wheke
 - ml-clara
-- weltschmerz
 - robomotion
 - omium
 - alibabacloud-datahub20240620
@@ -59,28 +81,5 @@
 - bluetti-bt-lib
 - madmax
 - mail-ops-scripts
-- pibooth-nextcloud
 - libraryPDB
 - binauth
-- pyreindexer
-- daglite
-- tensorflow-metadata-czgdp1807
-- pygacity
-- python-recutils
-- groupdocs-total-net
-- ndevio
-- wallypub
-- AWSTransactionalApps
-- whorled
-- biofilter
-- fml2blender
-- vqe-portfolio
-- gpu4pyscf
-- aws-s3-risk-footprint
-- BuzzerboyAWSLightsail
-- superopt
-- dbl-core
-- souleyez
-- esentity
-- ubpe-native
-- sentience-python
