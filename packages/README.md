@@ -1,21 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T23:17:00.404705
-- **Total Packages**: 76
-- **Total Size**: 7.04 MB
+- **Download Time**: 2025-12-26T23:35:09.026021
+- **Total Packages**: 69
+- **Total Size**: 10.47 MB
 
 ## Packages List
-- initvenv
+- sleipnirgroup-jormungandr
+- mmar-ptag
+- aiterm-dev
+- shad-saber
+- ytdl-sub
+- torchtitan
+- py-zerobyte
+- gumiyabot
 - image-charts
+- code-puppy
+- oaspy
+- connectonion
+- vicentin
+- aioprogress
+- initvenv
+- kotormcp
+- pranaam
+- tunnelify
+- souleyez
+- convertext
+- kleur
+- kaggleease
+- siglab-py
+- based-utils
+- harbor
+- asyncdbus
+- aiinbx
+- rtflite
+- tokeye
 - shrinkray
 - tenso
-- kaggleease
-- aioprogress
 - rendarr
 - DensityFlowMO
 - ipyjadwal
-- asyncdbus
 - polars-timeseries-utils
 - utdg-env
 - varphi-devkit
@@ -25,9 +49,7 @@
 - psqlmodel
 - aiq-platform-api
 - flwr-nightly
-- souleyez
 - powerchord
-- vicentin
 - arzule-ingest
 - druta
 - GraphSpy
@@ -35,7 +57,6 @@
 - sista
 - qry-doc
 - makefolio
-- py-zerobyte
 - pyml-cli
 - gguf-coder
 - symbol-export
@@ -53,32 +74,4 @@
 - ai-energy-benchmarks
 - ScriptCollection
 - clarity-api-sdk-python
-- aiterm-dev
 - roampal
-- llmctl
-- wheke
-- usageflow-flask
-- usageflow-fastapi
-- usageflow-core
-- mcp-context-server
-- hllrcon
-- keyedstablehash
-- dotvar
-- folderize
-- fastapi-factory-utilities
-- calibre
-- crm-automator
-- torch-optimi
-- inbq
-- chaiverse
-- kuhl-haus-mdp-servers
-- stringzillas-cpus
-- pywiim
-- promptdown
-- binauth
-- picklescan
-- dominus-sdk-python
-- mark
-- harbor
-- microsoft-cdktfconstructs
-- morin

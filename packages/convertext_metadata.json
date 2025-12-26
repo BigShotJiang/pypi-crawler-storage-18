@@ -1,0 +1,11 @@
+{
+  "name": "convertext",
+  "version": "0.2.0",
+  "summary": "Lightweight universal text/ebook/document format converter with CLI and API",
+  "author": "danielcorsano",
+  "license": null,
+  "home_page": "https://github.com/danielcorsano/convertext",
+  "download_filename": "convertext-0.2.0.tar.gz",
+  "download_time": "2025-12-26T23:34:42.282161",
+  "package_url": "https://pypi.org/project/convertext/"
+}

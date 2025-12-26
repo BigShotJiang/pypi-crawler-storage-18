@@ -1,11 +1,11 @@
 {
   "name": "aioprogress",
-  "version": "0.2.2.1",
+  "version": "0.2.2.3",
   "summary": "A high-performance, flexible async file downloader built with aiohttp.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aioprogress-0.2.2.1.tar.gz",
-  "download_time": "2025-12-26T23:16:23.465038",
+  "download_filename": "aioprogress-0.2.2.3.tar.gz",
+  "download_time": "2025-12-26T23:34:38.856744",
   "package_url": "https://pypi.org/project/aioprogress/"
 }
