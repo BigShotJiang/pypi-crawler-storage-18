@@ -1,11 +1,11 @@
 {
   "name": "Bayes-xw",
-  "version": "1.0",
+  "version": "4.3",
   "summary": "一个非常NB的包",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bayes_xw-1.0.tar.gz",
-  "download_time": "2025-12-26T01:12:33.224489",
+  "download_filename": "bayes_xw-4.3.tar.gz",
+  "download_time": "2025-12-26T03:02:34.809966",
   "package_url": "https://pypi.org/project/Bayes-xw/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bullet-trade",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "BulletTrade - 专业的量化交易系统，兼容聚宽策略，支持多数据源和实盘交易",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bullet_trade-0.5.6.tar.gz",
-  "download_time": "2025-12-22T13:11:13.788097",
+  "download_filename": "bullet_trade-0.5.7.tar.gz",
+  "download_time": "2025-12-26T03:02:48.272453",
   "package_url": "https://pypi.org/project/bullet-trade/"
 }

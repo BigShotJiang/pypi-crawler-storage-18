@@ -1,0 +1,11 @@
+{
+  "name": "mindedge-model-tool",
+  "version": "0.1.0",
+  "summary": "A command line tool for downloading files from MinIO",
+  "author": "luxu1220",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mindedge_model_tool-0.1.0.tar.gz",
+  "download_time": "2025-12-26T03:02:51.484917",
+  "package_url": "https://pypi.org/project/mindedge-model-tool/"
+}

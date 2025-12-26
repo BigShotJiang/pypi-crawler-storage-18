@@ -1,11 +1,11 @@
 {
   "name": "pyvoy",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Python app server based on envoy",
   "author": "CurioSwitch",
   "license": null,
   "home_page": null,
-  "download_filename": "pyvoy-0.2.1-cp310-cp310-macosx_15_0_arm64.whl",
-  "download_time": "2025-12-23T07:43:47.498132",
+  "download_filename": "pyvoy-0.2.2-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-12-26T03:02:50.188225",
   "package_url": "https://pypi.org/project/pyvoy/"
 }

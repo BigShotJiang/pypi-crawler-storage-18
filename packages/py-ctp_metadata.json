@@ -1,11 +1,11 @@
 {
   "name": "py-ctp",
-  "version": "6.7.10.20250423",
+  "version": "6.7.10.20250424",
   "summary": "Python CTP futures api",
   "author": "HaiFengAT",
   "license": "MIT License",
   "home_page": "https://github.com/haifengat/pyctp",
-  "download_filename": "py_ctp-6.7.10.20250423.tar.gz",
-  "download_time": "2025-12-22T03:10:47.247764",
+  "download_filename": "py_ctp-6.7.10.20250424.tar.gz",
+  "download_time": "2025-12-26T03:03:19.305009",
   "package_url": "https://pypi.org/project/py-ctp/"
 }

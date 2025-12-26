@@ -1,11 +1,11 @@
 {
   "name": "a_star_2048",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": "Solving 2048 using A star with multiple heuristics",
   "author": "joaopedroph",
   "license": "GPLv3",
   "home_page": "https://github.com/Joao-Pedro-P-Holanda/a-star-2048",
-  "download_filename": "a_star_2048-0.0.0.tar.gz",
-  "download_time": "2025-12-25T23:15:53.704924",
+  "download_filename": "a_star_2048-0.0.1.tar.gz",
+  "download_time": "2025-12-26T03:02:39.420810",
   "package_url": "https://pypi.org/project/a_star_2048/"
 }

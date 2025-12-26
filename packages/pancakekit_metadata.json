@@ -1,0 +1,11 @@
+{
+  "name": "pancakekit",
+  "version": "0.3.0",
+  "summary": "Handy graphical user interface library for daily use",
+  "author": "chocolate-icecream",
+  "license": "MIT",
+  "home_page": "https://github.com/chocolate-icecream/pancakekit",
+  "download_filename": "pancakekit-0.3.0.tar.gz",
+  "download_time": "2025-12-26T03:02:45.854663",
+  "package_url": "https://pypi.org/project/pancakekit/"
+}

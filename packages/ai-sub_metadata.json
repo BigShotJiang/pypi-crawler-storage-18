@@ -1,11 +1,11 @@
 {
   "name": "ai-sub",
-  "version": "1.0.2",
+  "version": "1.2.0",
   "summary": "AI-Powered Subtitle Generation with Translation",
   "author": "FlippFuzz",
   "license": null,
   "home_page": null,
-  "download_filename": "ai_sub-1.0.2.tar.gz",
-  "download_time": "2025-12-26T01:12:34.435377",
+  "download_filename": "ai_sub-1.2.0.tar.gz",
+  "download_time": "2025-12-26T03:02:27.731562",
   "package_url": "https://pypi.org/project/ai-sub/"
 }

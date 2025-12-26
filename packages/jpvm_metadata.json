@@ -1,0 +1,11 @@
+{
+  "name": "jpvm",
+  "version": "0.1.1",
+  "summary": "日本語で書けるPython製ミニ仮想マシン",
+  "author": "kirby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jpvm-0.1.1.tar.gz",
+  "download_time": "2025-12-26T03:03:08.394026",
+  "package_url": "https://pypi.org/project/jpvm/"
+}

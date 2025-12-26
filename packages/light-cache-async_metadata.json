@@ -1,0 +1,11 @@
+{
+  "name": "light-cache-async",
+  "version": "0.1.0",
+  "summary": "Async caching library with Redis, Memory, L1/L2, AutoSerializer (orjson/msgspec)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "light_cache_async-0.1.0.tar.gz",
+  "download_time": "2025-12-26T03:02:52.944035",
+  "package_url": "https://pypi.org/project/light-cache-async/"
+}

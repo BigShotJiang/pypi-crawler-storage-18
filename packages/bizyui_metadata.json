@@ -1,11 +1,11 @@
 {
   "name": "bizyui",
-  "version": "1.2.87",
+  "version": "1.2.89",
   "summary": "Web resources for [a/BizyAir](https://github.com/siliconflow/BizyAir) which contains Comfy Nodes that can run in any environment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bizyui-1.2.87-py3-none-any.whl",
-  "download_time": "2025-12-25T10:55:52.171193",
+  "download_filename": "bizyui-1.2.89-py3-none-any.whl",
+  "download_time": "2025-12-26T03:03:01.452512",
   "package_url": "https://pypi.org/project/bizyui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "osxphotos",
+  "version": "0.75.0",
+  "summary": "Export photos from Apple's macOS Photos app and query the Photos library database to access metadata about images.",
+  "author": "Rhet Turnbull",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/RhetTbull/",
+  "download_filename": "osxphotos-0.75.0.tar.gz",
+  "download_time": "2025-12-26T03:02:30.299422",
+  "package_url": "https://pypi.org/project/osxphotos/"
+}

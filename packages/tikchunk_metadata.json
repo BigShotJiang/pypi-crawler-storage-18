@@ -1,11 +1,11 @@
 {
   "name": "tikchunk",
-  "version": "0.0.3",
-  "summary": "Simple fast RAG chunking on semantic boundaries",
+  "version": "0.0.4",
+  "summary": "Highly performant python library for recursive semantic text chunking while respecting token limits.",
   "author": "Cody Pedersen",
   "license": null,
   "home_page": null,
-  "download_filename": "tikchunk-0.0.3.tar.gz",
-  "download_time": "2025-12-21T22:34:55.077147",
+  "download_filename": "tikchunk-0.0.4.tar.gz",
+  "download_time": "2025-12-26T03:03:04.014812",
   "package_url": "https://pypi.org/project/tikchunk/"
 }
