@@ -1,11 +1,11 @@
 {
   "name": "kaiju-tools",
-  "version": "2.4.18",
+  "version": "2.4.19",
   "summary": "Base classes and services for a backend application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kaiju_tools-2.4.18-py3-none-any.whl",
-  "download_time": "2025-12-22T13:51:28.185301",
+  "download_filename": "kaiju_tools-2.4.19-py3-none-any.whl",
+  "download_time": "2025-12-26T15:17:05.911081",
   "package_url": "https://pypi.org/project/kaiju-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "prc.api",
+  "version": "0.16.0",
+  "summary": "prc.api is an asynchronous Python wrapper for the PRC/ERLC API",
+  "author": "Tycho",
+  "license": "MIT",
+  "home_page": "https://github.com/TychoTeam/prc.api-py",
+  "download_filename": "prc_api-0.16.0.tar.gz",
+  "download_time": "2025-12-26T15:16:57.242083",
+  "package_url": "https://pypi.org/project/prc.api/"
+}

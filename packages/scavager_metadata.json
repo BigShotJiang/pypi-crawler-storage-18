@@ -1,0 +1,11 @@
+{
+  "name": "scavager",
+  "version": "0.2.17",
+  "summary": "Proteomics post-search algorithm",
+  "author": "Julia Bubis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scavager-0.2.17.tar.gz",
+  "download_time": "2025-12-26T15:16:52.603142",
+  "package_url": "https://pypi.org/project/scavager/"
+}
