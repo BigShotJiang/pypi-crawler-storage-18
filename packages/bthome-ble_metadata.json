@@ -1,11 +1,11 @@
 {
   "name": "bthome-ble",
-  "version": "3.17.0",
+  "version": "3.18.0",
   "summary": "BThome BLE support",
   "author": "Ernst Klamer",
   "license": null,
   "home_page": null,
-  "download_filename": "bthome_ble-3.17.0.tar.gz",
-  "download_time": "2025-12-24T08:22:41.210918",
+  "download_filename": "bthome_ble-3.18.0.tar.gz",
+  "download_time": "2025-12-26T15:52:36.369752",
   "package_url": "https://pypi.org/project/bthome-ble/"
 }

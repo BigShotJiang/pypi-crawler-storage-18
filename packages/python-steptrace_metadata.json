@@ -1,0 +1,11 @@
+{
+  "name": "python-steptrace",
+  "version": "0.1.0",
+  "summary": "A lightweight line-by-line Python execution tracer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_steptrace-0.1.0.tar.gz",
+  "download_time": "2025-12-26T15:52:52.270024",
+  "package_url": "https://pypi.org/project/python-steptrace/"
+}

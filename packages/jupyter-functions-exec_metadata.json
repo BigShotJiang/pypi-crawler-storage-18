@@ -1,11 +1,11 @@
 {
   "name": "jupyter-functions-exec",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Clase rápida para trabajar con notebooks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jupyter_functions_exec-0.3.0-cp314-cp314-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-12-26T14:17:14.810958",
+  "download_filename": "jupyter_functions_exec-0.4.0-cp314-cp314-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-12-26T15:52:42.018955",
   "package_url": "https://pypi.org/project/jupyter-functions-exec/"
 }

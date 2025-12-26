@@ -1,0 +1,11 @@
+{
+  "name": "django-jalali-date-unfold",
+  "version": "2.0.0",
+  "summary": "Jalali Date support for user interface. Easy conversion of DateTimeFiled to JalaliDateTimeField within the admin site, views, forms and templates.",
+  "author": "Sepehr Aliabadi",
+  "license": "MIT",
+  "home_page": "http://github.com/sphrlbd/django-jalali-date-unfold",
+  "download_filename": "django_jalali_date_unfold-2.0.0.tar.gz",
+  "download_time": "2025-12-26T15:52:52.779925",
+  "package_url": "https://pypi.org/project/django-jalali-date-unfold/"
+}

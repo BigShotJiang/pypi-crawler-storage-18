@@ -1,0 +1,11 @@
+{
+  "name": "kl-kernel-logic",
+  "version": "0.5.0",
+  "summary": "Lightweight deterministic execution substrate for governed operations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kl_kernel_logic-0.5.0.tar.gz",
+  "download_time": "2025-12-26T15:52:55.704051",
+  "package_url": "https://pypi.org/project/kl-kernel-logic/"
+}

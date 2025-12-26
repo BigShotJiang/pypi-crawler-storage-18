@@ -1,0 +1,11 @@
+{
+  "name": "loudness",
+  "version": "0.2.0",
+  "summary": "Python bindings for libloudness, for calculating integrated loudness in LUFS (ITU BS.1770 / EBU R 128)",
+  "author": "Magnus Bro Kolstø, Iver Jordal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loudness-0.2.0.tar.gz",
+  "download_time": "2025-12-26T15:53:11.687051",
+  "package_url": "https://pypi.org/project/loudness/"
+}

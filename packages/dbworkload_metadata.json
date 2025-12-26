@@ -1,0 +1,11 @@
+{
+  "name": "dbworkload",
+  "version": "0.10.1",
+  "summary": "Workload framework",
+  "author": "Fabio Ghirardello",
+  "license": "GPLv3+",
+  "home_page": "https://dbworkload.github.io/dbworkload/",
+  "download_filename": "dbworkload-0.10.1.tar.gz",
+  "download_time": "2025-12-26T15:52:58.351173",
+  "package_url": "https://pypi.org/project/dbworkload/"
+}
