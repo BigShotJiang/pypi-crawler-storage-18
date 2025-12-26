@@ -1,0 +1,11 @@
+{
+  "name": "pixelpay-sdk",
+  "version": "2.2.5",
+  "summary": "PixelPay SDK toolkit.",
+  "author": "Javier Cano",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pixelpay_sdk-2.2.5.tar.gz",
+  "download_time": "2025-12-26T18:24:16.472712",
+  "package_url": "https://pypi.org/project/pixelpay-sdk/"
+}

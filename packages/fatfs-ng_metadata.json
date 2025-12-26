@@ -1,11 +1,11 @@
 {
   "name": "fatfs-ng",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "Enhanced Python wrapper around ChaN's FatFS library - Fork of fatfs-python with extended features.",
   "author": "Johann Obermeier",
   "license": null,
   "home_page": "https://github.com/Jason2866/pyfatfs",
-  "download_filename": "fatfs_ng-0.1.9.tar.gz",
-  "download_time": "2025-12-26T13:11:51.295647",
+  "download_filename": "fatfs_ng-0.1.11.tar.gz",
+  "download_time": "2025-12-26T18:24:28.917751",
   "package_url": "https://pypi.org/project/fatfs-ng/"
 }

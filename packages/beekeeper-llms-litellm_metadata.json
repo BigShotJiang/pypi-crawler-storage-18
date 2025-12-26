@@ -1,0 +1,11 @@
+{
+  "name": "beekeeper-llms-litellm",
+  "version": "1.0.3",
+  "summary": "beekeeper llms litellm extension",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "beekeeper_llms_litellm-1.0.3.tar.gz",
+  "download_time": "2025-12-26T18:23:52.338959",
+  "package_url": "https://pypi.org/project/beekeeper-llms-litellm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inbq",
+  "version": "0.6.0",
+  "summary": "A library for parsing BigQuery queries and extracting schema-aware, column-level lineage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inbq-0.6.0.tar.gz",
+  "download_time": "2025-12-26T18:24:08.790763",
+  "package_url": "https://pypi.org/project/inbq/"
+}

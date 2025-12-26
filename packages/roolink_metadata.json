@@ -1,11 +1,11 @@
 {
   "name": "roolink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Official Roolink SDK for Python",
   "author": "Roolink",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "roolink-1.0.0.tar.gz",
-  "download_time": "2025-12-24T03:00:31.792211",
+  "download_filename": "roolink-1.0.1.tar.gz",
+  "download_time": "2025-12-26T18:24:11.879340",
   "package_url": "https://pypi.org/project/roolink/"
 }

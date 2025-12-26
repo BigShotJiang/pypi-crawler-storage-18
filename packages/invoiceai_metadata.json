@@ -1,0 +1,11 @@
+{
+  "name": "invoiceai",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the InvoiceAI API",
+  "author": "InvoiceAI",
+  "license": null,
+  "home_page": "https://invoiceai.co.za/api-docs",
+  "download_filename": "invoiceai-1.0.0.tar.gz",
+  "download_time": "2025-12-26T18:24:02.503271",
+  "package_url": "https://pypi.org/project/invoiceai/"
+}
