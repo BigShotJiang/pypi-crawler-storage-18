@@ -1,0 +1,11 @@
+{
+  "name": "scapy",
+  "version": "2.7.0",
+  "summary": "Scapy: interactive packet manipulation tool",
+  "author": "Philippe BIONDI, Gabriel POTTER",
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "scapy-2.7.0.tar.gz",
+  "download_time": "2025-12-26T22:16:41.418495",
+  "package_url": "https://pypi.org/project/scapy/"
+}

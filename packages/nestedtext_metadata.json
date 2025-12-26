@@ -1,0 +1,11 @@
+{
+  "name": "nestedtext",
+  "version": "3.8",
+  "summary": "human readable and writable data interchange format",
+  "author": "Ken Kundert, Kale Kundert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nestedtext-3.8.tar.gz",
+  "download_time": "2025-12-26T22:16:42.527406",
+  "package_url": "https://pypi.org/project/nestedtext/"
+}

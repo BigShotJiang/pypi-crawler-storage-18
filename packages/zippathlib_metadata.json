@@ -1,11 +1,11 @@
 {
   "name": "zippathlib",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A `pathlib.Path`-like class for accessing the contents of ZIP archives",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zippathlib-0.4.0.tar.gz",
-  "download_time": "2025-12-21T18:47:46.168703",
+  "download_filename": "zippathlib-0.5.0.tar.gz",
+  "download_time": "2025-12-26T22:16:33.201636",
   "package_url": "https://pypi.org/project/zippathlib/"
 }

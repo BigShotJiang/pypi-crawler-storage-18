@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-l10n-br-fiscal",
-  "version": "14.0.27.3.1",
+  "version": "14.0.27.4.0",
   "summary": "root fiscal module for Brazil",
   "author": "Akretion, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/l10n-brazil",
-  "download_filename": "odoo14_addon_l10n_br_fiscal-14.0.27.3.1-py3-none-any.whl",
-  "download_time": "2025-12-26T20:54:20.741948",
+  "download_filename": "odoo14_addon_l10n_br_fiscal-14.0.27.4.0-py3-none-any.whl",
+  "download_time": "2025-12-26T22:16:43.699171",
   "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-fiscal/"
 }

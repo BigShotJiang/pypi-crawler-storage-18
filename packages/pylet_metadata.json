@@ -1,11 +1,11 @@
 {
   "name": "pylet",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A simple distributed task execution system for GPU servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylet-0.3.0.tar.gz",
-  "download_time": "2025-12-25T16:48:37.234018",
+  "download_filename": "pylet-0.4.0.tar.gz",
+  "download_time": "2025-12-26T22:17:00.561736",
   "package_url": "https://pypi.org/project/pylet/"
 }
