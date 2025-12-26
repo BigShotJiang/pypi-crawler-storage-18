@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T18:24:32.465264
-- **Total Packages**: 77
-- **Total Size**: 36.61 MB
+- **Download Time**: 2025-12-26T18:52:56.480513
+- **Total Packages**: 78
+- **Total Size**: 4.88 MB
 
 ## Packages List
-- dwu
-- code-to-prompt-cli
 - tole-tool
 - airbrowser-client
 - ubpe
@@ -65,6 +63,7 @@
 - koine-sdk
 - dbl-main
 - time-to-critical
+- dwu
 - hatchet-sdk
 - mcp-memory-service
 - playrip
@@ -83,3 +82,5 @@
 - lsst-daf-butler
 - weltschmerz
 - yuantao-fmk
+- wmill-pg
+- smartXML

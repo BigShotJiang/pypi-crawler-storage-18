@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-12-26T18:24:32.465264",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 36.61,
+  "download_time": "2025-12-26T18:52:56.480513",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 4.88,
   "packages": [
-    "dwu",
-    "code-to-prompt-cli",
     "tole-tool",
     "airbrowser-client",
     "ubpe",
@@ -62,6 +60,7 @@
     "koine-sdk",
     "dbl-main",
     "time-to-critical",
+    "dwu",
     "hatchet-sdk",
     "mcp-memory-service",
     "playrip",
@@ -79,6 +78,8 @@
     "access-specifiers",
     "lsst-daf-butler",
     "weltschmerz",
-    "yuantao-fmk"
+    "yuantao-fmk",
+    "wmill-pg",
+    "smartXML"
   ]
 }
