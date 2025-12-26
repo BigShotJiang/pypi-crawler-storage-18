@@ -1,0 +1,11 @@
+{
+  "name": "zerox-sync",
+  "version": "0.1.0",
+  "summary": "Synchronous OCR using Gemini Vision API - A rewrite of pyzerox without async/litellm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zerox_sync-0.1.0.tar.gz",
+  "download_time": "2025-12-26T19:39:38.374255",
+  "package_url": "https://pypi.org/project/zerox-sync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hack4u-kebris-c-tools",
+  "version": "0.1.0",
+  "summary": "A library to list courses from Hack4u web",
+  "author": "kebris-c",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "hack4u_kebris_c_tools-0.1.0.tar.gz",
+  "download_time": "2025-12-26T19:39:37.853523",
+  "package_url": "https://pypi.org/project/hack4u-kebris-c-tools/"
+}

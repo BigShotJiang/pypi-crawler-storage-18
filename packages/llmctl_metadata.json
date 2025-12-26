@@ -1,0 +1,11 @@
+{
+  "name": "llmctl",
+  "version": "0.1.4",
+  "summary": "A professional CLI tool for interacting with OpenAI and Anthropic LLMs with cost tracking",
+  "author": "SM Sabbir Amin",
+  "license": "MIT",
+  "home_page": "https://github.com/sabbiramin113008/llmctl",
+  "download_filename": "llmctl-0.1.4.tar.gz",
+  "download_time": "2025-12-26T19:39:26.796945",
+  "package_url": "https://pypi.org/project/llmctl/"
+}

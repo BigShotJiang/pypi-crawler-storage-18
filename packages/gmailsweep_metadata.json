@@ -1,0 +1,11 @@
+{
+  "name": "gmailsweep",
+  "version": "0.1.0",
+  "summary": "Automated Gmail cleanup tool with Streamlit UI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gmailsweep-0.1.0.tar.gz",
+  "download_time": "2025-12-26T19:39:48.741482",
+  "package_url": "https://pypi.org/project/gmailsweep/"
+}

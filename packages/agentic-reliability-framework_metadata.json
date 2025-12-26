@@ -1,11 +1,11 @@
 {
   "name": "agentic-reliability-framework",
-  "version": "3.3.0",
-  "summary": "Agentic Reliability Framework OSS Edition - Apache 2.0 Licensed advisory-only AI reliability monitoring",
-  "author": null,
-  "license": "Apache 2.0",
-  "home_page": null,
-  "download_filename": "agentic_reliability_framework-3.3.0.tar.gz",
-  "download_time": "2025-12-22T17:50:51.330146",
+  "version": "3.3.3",
+  "summary": "Agentic Reliability Framework - OSS Edition: AI-powered infrastructure reliability monitoring",
+  "author": "Juan Petter",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/petterjuan/agentic-reliability-framework",
+  "download_filename": "agentic_reliability_framework-3.3.3.tar.gz",
+  "download_time": "2025-12-26T19:39:54.995997",
   "package_url": "https://pypi.org/project/agentic-reliability-framework/"
 }

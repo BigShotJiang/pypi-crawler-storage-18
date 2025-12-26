@@ -1,11 +1,11 @@
 {
   "name": "youtube-to-docs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Convert YouTube videos to docs/sheets for discoverability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "youtube_to_docs-0.0.3.tar.gz",
-  "download_time": "2025-12-25T22:37:53.487061",
+  "download_filename": "youtube_to_docs-0.0.4.tar.gz",
+  "download_time": "2025-12-26T19:39:27.842857",
   "package_url": "https://pypi.org/project/youtube-to-docs/"
 }

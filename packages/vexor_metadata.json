@@ -1,11 +1,11 @@
 {
   "name": "vexor",
-  "version": "0.21.1",
+  "version": "0.22.0",
   "summary": "A vector-powered CLI for semantic search over files.",
   "author": "scarletkc",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vexor-0.21.1.tar.gz",
-  "download_time": "2025-12-24T10:17:41.411614",
+  "download_filename": "vexor-0.22.0.tar.gz",
+  "download_time": "2025-12-26T19:39:40.963485",
   "package_url": "https://pypi.org/project/vexor/"
 }

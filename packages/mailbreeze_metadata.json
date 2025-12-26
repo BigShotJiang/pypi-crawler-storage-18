@@ -1,11 +1,11 @@
 {
   "name": "mailbreeze",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Official Python SDK for MailBreeze email platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mailbreeze-0.1.0.tar.gz",
-  "download_time": "2025-12-25T11:14:55.175733",
+  "download_filename": "mailbreeze-0.2.0.tar.gz",
+  "download_time": "2025-12-26T19:39:35.247659",
   "package_url": "https://pypi.org/project/mailbreeze/"
 }
