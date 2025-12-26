@@ -1,11 +1,11 @@
 {
   "name": "porthog",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "CLI/TUI tool to find and kill dev servers hogging your ports",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "porthog-0.1.0.tar.gz",
-  "download_time": "2025-12-26T16:19:04.491768",
+  "download_filename": "porthog-0.1.2.tar.gz",
+  "download_time": "2025-12-26T16:47:33.761707",
   "package_url": "https://pypi.org/project/porthog/"
 }

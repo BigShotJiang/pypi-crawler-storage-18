@@ -1,0 +1,11 @@
+{
+  "name": "duckdice-cli",
+  "version": "1.0.0",
+  "summary": "Powerful CLI app for DuckDice - Place bets and monitor balances",
+  "author": "duckdice.casino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdice_cli-1.0.0.tar.gz",
+  "download_time": "2025-12-26T16:47:30.660769",
+  "package_url": "https://pypi.org/project/duckdice-cli/"
+}

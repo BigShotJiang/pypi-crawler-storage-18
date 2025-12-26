@@ -1,0 +1,11 @@
+{
+  "name": "optimal-classification-cutoffs",
+  "version": "2.0.0",
+  "summary": "Utilities for computing optimal classification cutoffs for binary and multiclass classification",
+  "author": "Gaurav Sood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "optimal_classification_cutoffs-2.0.0.tar.gz",
+  "download_time": "2025-12-26T16:47:07.446873",
+  "package_url": "https://pypi.org/project/optimal-classification-cutoffs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grook",
+  "version": "0.1.2",
+  "summary": "Simple unofficial client for free access to Grok AI models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grook-0.1.2-py3-none-any.whl",
+  "download_time": "2025-12-26T16:47:14.160935",
+  "package_url": "https://pypi.org/project/grook/"
+}

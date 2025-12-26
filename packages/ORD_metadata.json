@@ -1,11 +1,11 @@
 {
   "name": "ORD",
-  "version": "1.8.19",
+  "version": "1.8.21",
   "summary": "Module for working with the ATOL cash register driver",
   "author": "Vladimir Smirnov",
   "license": null,
   "home_page": "https://github.com/brandshopru",
-  "download_filename": "ord-1.8.19-py3-none-any.whl",
-  "download_time": "2025-12-26T16:19:07.743572",
+  "download_filename": "ord-1.8.21-py3-none-any.whl",
+  "download_time": "2025-12-26T16:47:29.089852",
   "package_url": "https://pypi.org/project/ORD/"
 }

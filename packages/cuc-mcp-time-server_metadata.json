@@ -1,0 +1,11 @@
+{
+  "name": "cuc-mcp-time-server",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) time server that provides current time information",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mcp-time-server",
+  "download_filename": "cuc_mcp_time_server-0.1.0.tar.gz",
+  "download_time": "2025-12-26T16:47:27.027461",
+  "package_url": "https://pypi.org/project/cuc-mcp-time-server/"
+}
