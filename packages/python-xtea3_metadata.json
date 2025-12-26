@@ -1,0 +1,11 @@
+{
+  "name": "python-xtea3",
+  "version": "0.2.0",
+  "summary": "XTEA3 implementation",
+  "author": "Sergei Pikhovkin",
+  "license": "MIT",
+  "home_page": "https://github.com/pikhovkin/python-xtea3",
+  "download_filename": "python_xtea3-0.2.0.tar.gz",
+  "download_time": "2025-12-26T04:06:50.479263",
+  "package_url": "https://pypi.org/project/python-xtea3/"
+}

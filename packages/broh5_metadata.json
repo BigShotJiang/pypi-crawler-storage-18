@@ -1,0 +1,11 @@
+{
+  "name": "broh5",
+  "version": "1.4.2",
+  "summary": "Browser-based GUI HDF Viewer in Python",
+  "author": "Nghia Vo",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/algotom/broh5",
+  "download_filename": "broh5-1.4.2.tar.gz",
+  "download_time": "2025-12-26T04:07:36.522577",
+  "package_url": "https://pypi.org/project/broh5/"
+}

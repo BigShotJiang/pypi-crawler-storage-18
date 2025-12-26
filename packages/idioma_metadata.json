@@ -1,0 +1,11 @@
+{
+  "name": "idioma",
+  "version": "0.0.10",
+  "summary": "Free Google Translate API for Python. Translates totally free of charge.",
+  "author": "SuHun Han",
+  "license": "MIT",
+  "home_page": "https://github.com/dvershinin/idioma",
+  "download_filename": "idioma-0.0.10.tar.gz",
+  "download_time": "2025-12-26T04:06:22.242885",
+  "package_url": "https://pypi.org/project/idioma/"
+}

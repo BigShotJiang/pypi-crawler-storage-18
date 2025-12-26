@@ -1,11 +1,11 @@
 {
   "name": "cloudpss",
-  "version": "4.5.26",
+  "version": "4.5.27",
   "summary": "cloudpss sdk",
   "author": "cloudpss",
   "license": "MIT Licence",
   "home_page": "https://www.cloudpss.net",
-  "download_filename": "cloudpss-4.5.26.tar.gz",
-  "download_time": "2025-12-23T03:03:11.329164",
+  "download_filename": "cloudpss-4.5.27.tar.gz",
+  "download_time": "2025-12-26T04:06:15.632336",
   "package_url": "https://pypi.org/project/cloudpss/"
 }

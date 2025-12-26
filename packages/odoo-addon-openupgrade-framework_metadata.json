@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-openupgrade-framework",
+  "version": "19.0.1.0.0.5",
+  "summary": "Module to integrate in the server_wide_modules option to make upgrades between two major revisions.",
+  "author": "Odoo Community Association (OCA), Therp BV, Opener B.V., GRAP, Hunki Enterprises BV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/OpenUpgrade",
+  "download_filename": "odoo_addon_openupgrade_framework-19.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-12-26T04:07:14.317440",
+  "package_url": "https://pypi.org/project/odoo-addon-openupgrade-framework/"
+}

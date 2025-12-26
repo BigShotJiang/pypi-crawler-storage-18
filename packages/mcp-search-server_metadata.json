@@ -1,11 +1,11 @@
 {
   "name": "mcp-search-server",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "MCP server for web search, PDF parsing, and content extraction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_search_server-0.1.8.tar.gz",
-  "download_time": "2025-12-25T22:37:55.534469",
+  "download_filename": "mcp_search_server-0.1.9.tar.gz",
+  "download_time": "2025-12-26T04:07:26.248518",
   "package_url": "https://pypi.org/project/mcp-search-server/"
 }

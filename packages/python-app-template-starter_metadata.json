@@ -1,0 +1,11 @@
+{
+  "name": "python-app-template-starter",
+  "version": "0.1.0",
+  "summary": "A Python application template starter with pre-configured structure for building Python applications.",
+  "author": "GabriOliv",
+  "license": "MIT",
+  "home_page": "https://github.com/GabriOliv/python-app-template-starter",
+  "download_filename": "python_app_template_starter-0.1.0.tar.gz",
+  "download_time": "2025-12-26T04:07:29.295495",
+  "package_url": "https://pypi.org/project/python-app-template-starter/"
+}

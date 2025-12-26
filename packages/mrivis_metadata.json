@@ -1,0 +1,11 @@
+{
+  "name": "mrivis",
+  "version": "0.4",
+  "summary": "Intuitive high-level classes for visualization of medical imaging data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrivis-0.4.tar.gz",
+  "download_time": "2025-12-26T04:06:55.075421",
+  "package_url": "https://pypi.org/project/mrivis/"
+}
