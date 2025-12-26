@@ -1,11 +1,11 @@
 {
   "name": "psfed",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Partial Model Sharing for Federated Learning - A PyTorch and Flower extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psfed-0.1.1.tar.gz",
-  "download_time": "2025-12-26T20:43:11.289134",
+  "download_filename": "psfed-0.1.2.tar.gz",
+  "download_time": "2025-12-26T20:54:19.501566",
   "package_url": "https://pypi.org/project/psfed/"
 }

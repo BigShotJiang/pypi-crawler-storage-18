@@ -1,0 +1,11 @@
+{
+  "name": "qssh",
+  "version": "0.2.5",
+  "summary": "Quick SSH session manager - save your VM credentials and connect with a single command",
+  "author": "joan-code6",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qssh-0.2.5.tar.gz",
+  "download_time": "2025-12-26T20:54:21.887647",
+  "package_url": "https://pypi.org/project/qssh/"
+}

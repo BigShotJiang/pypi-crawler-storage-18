@@ -1,11 +1,11 @@
 {
   "name": "airbrowser-client",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Airbrowser API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "airbrowser_client-1.5.1.tar.gz",
-  "download_time": "2025-12-26T20:43:03.871608",
+  "download_filename": "airbrowser_client-1.5.2.tar.gz",
+  "download_time": "2025-12-26T20:54:18.841814",
   "package_url": "https://pypi.org/project/airbrowser-client/"
 }

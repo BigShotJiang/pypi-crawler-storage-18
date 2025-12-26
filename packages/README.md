@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T20:43:37.537475
-- **Total Packages**: 76
-- **Total Size**: 27.7 MB
+- **Download Time**: 2025-12-26T20:55:02.489522
+- **Total Packages**: 75
+- **Total Size**: 18.38 MB
 
 ## Packages List
+- recipes-sdk
+- airbrowser-client
+- psfed
+- sparkwise
+- odoo14-addon-l10n-br-fiscal
+- qssh
+- cherry-shared
+- zavudev
+- fidelity-helper
+- napistu
+- playrip
+- aimodelshare
+- boto3-stubs
+- boto3-stubs-lite
+- mypy-boto3-medialive
+- pyagentpay
+- TibblingAI
+- mini-arcade-core
+- wallypub
+- llcuda
+- omendb
+- fastapi-startkit
+- fastapi-startkit-database
+- hyperp
+- pivpy
+- pandas-plots
 - fleet-python
 - secure-run-manifest
 - pulumi-aws-native
@@ -14,14 +40,9 @@
 - manimera
 - zerox-sync
 - athena-intelligence
-- wallypub
 - proxql
-- playrip
 - mccole
-- airbrowser-client
-- cherry-shared
 - nmn
-- aimodelshare
 - limitless-python
 - types-boto3-lite
 - types-boto3
@@ -31,15 +52,12 @@
 - awscli
 - hanzo-mcp
 - utdg-env
-- psfed
 - tobiko-cloud-api-client
 - tobiko-cloud-helpers
 - tobiko-cloud-pydantic
 - muffinbite
-- hyperp
 - cjm-plugin-system
 - fatfs-ng
-- fastapi-startkit
 - groundmeas
 - smart-fetch
 - arzule-ingest
@@ -63,22 +81,3 @@
 - sc-samap
 - i18n-check
 - fastvideo-kernel
-- mlignore
-- subdx-dl
-- IncludeCPP
-- test-mcp-echo-server
-- scdiffeq
-- gdrive-fsspec
-- photomapai
-- psqlmodel
-- taskiq-dashboard
-- sparkback
-- PyOpenMagnetics
-- ezmsg-neo
-- django-core-micha
-- medusa-ssg
-- asynctasq
-- auditize
-- netron
-- spotoptim
-- product-scraper

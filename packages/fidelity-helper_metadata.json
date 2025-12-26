@@ -1,11 +1,11 @@
 {
   "name": "fidelity-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Fetch Fidelity transactions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fidelity_helper-0.1.0.tar.gz",
-  "download_time": "2025-12-25T21:33:03.609974",
+  "download_filename": "fidelity_helper-0.1.1.tar.gz",
+  "download_time": "2025-12-26T20:54:23.656158",
   "package_url": "https://pypi.org/project/fidelity-helper/"
 }

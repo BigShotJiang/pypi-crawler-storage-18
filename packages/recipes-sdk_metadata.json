@@ -1,11 +1,11 @@
 {
   "name": "recipes-sdk",
-  "version": "0.2.0",
-  "summary": "Python SDK for working with recipes from JSON files",
+  "version": "0.3.0",
+  "summary": "Python SDK for working with recipes from JSON files. Includes 4819+ validated recipes across breakfast, lunch, dinner, and snack categories.",
   "author": "christiaansann",
   "license": null,
   "home_page": "https://github.com/krstnvt/recipes-dataset",
-  "download_filename": "recipes_sdk-0.2.0.tar.gz",
-  "download_time": "2025-12-21T14:33:52.144139",
+  "download_filename": "recipes_sdk-0.3.0.tar.gz",
+  "download_time": "2025-12-26T20:54:18.239163",
   "package_url": "https://pypi.org/project/recipes-sdk/"
 }

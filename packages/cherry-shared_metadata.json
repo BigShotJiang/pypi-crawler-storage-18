@@ -1,11 +1,11 @@
 {
   "name": "cherry-shared",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Cherry Bot shared utilities",
   "author": "Mostafox",
   "license": null,
   "home_page": null,
-  "download_filename": "cherry_shared-0.1.15.tar.gz",
-  "download_time": "2025-12-26T20:43:04.387478",
+  "download_filename": "cherry_shared-0.1.16.tar.gz",
+  "download_time": "2025-12-26T20:54:22.482697",
   "package_url": "https://pypi.org/project/cherry-shared/"
 }
