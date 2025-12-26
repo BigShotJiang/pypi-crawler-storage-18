@@ -1,12 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-26T09:44:25.158254
-- **Total Packages**: 85
-- **Total Size**: 24.52 MB
+- **Download Time**: 2025-12-26T09:54:19.612246
+- **Total Packages**: 81
+- **Total Size**: 10.44 MB
 
 ## Packages List
+- vibego
+- pdb4ambermini
+- apify-client
+- chess-corners
+- pycharter
+- HwCodecDetect
+- Regularization-Methods-for-HVIs
+- pytest-result-sender-r
+- sdid
+- realtimex-agent-a2a-agent
+- attachments-fetcher
+- daffy
+- reminix
+- tfp-nightly
+- kcli
 - pkbrokers
+- agentbill-py-crewai
+- agentbill-py-langchain
+- agentbill-py-sdk
+- midas-civil
+- boask
 - manimera
 - nucliadb-utils
 - nucliadb-telemetry
@@ -16,10 +36,7 @@
 - nucliadb-dataset
 - nucliadb
 - nidx-protos
-- boask
 - pkscreener
-- agentbill-py-langchain
-- agentbill-py-sdk
 - emailsec
 - omnicoreagent
 - protoc-gen-connect-python
@@ -36,7 +53,6 @@
 - easyrip
 - word-latex-mcp
 - flake8-params
-- pytest-result-sender-r
 - dbt-rabbit-bigquery
 - moyopy
 - huynk
@@ -71,23 +87,3 @@
 - daytona_api_client
 - daytona_toolbox_api_client_async
 - xync-client
-- textmonger
-- mothilal-cli
-- cvpc
-- kyutil
-- quillmark
-- cloudbase-agent-llama-index
-- cloudbase-agent-tools
-- cloudbase-agent-crewai
-- cloudbase-agent-langgraph
-- ipyslides
-- cloudbase-agent-server
-- cloudbase-agent-storage
-- cloudbase-agent-core
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- formtools-formprof
-- autogluon.tabular
-- blackboard-core
-- autogluon.features

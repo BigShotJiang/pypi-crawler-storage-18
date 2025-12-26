@@ -1,11 +1,11 @@
 {
   "name": "sdid",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Synthetic Difference-in-Differences (SDID) for causal inference in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sdid-0.3.2.tar.gz",
-  "download_time": "2025-12-26T08:22:21.458489",
+  "download_filename": "sdid-0.3.3.tar.gz",
+  "download_time": "2025-12-26T09:53:41.745632",
   "package_url": "https://pypi.org/project/sdid/"
 }
