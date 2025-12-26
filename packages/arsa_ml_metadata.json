@@ -1,0 +1,11 @@
+{
+  "name": "arsa_ml",
+  "version": "0.1.5",
+  "summary": "ARSA_ML is a package for automated analysis of the Rashomon Set properties.",
+  "author": "Katarzyna Rogalska",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arsa_ml-0.1.5.tar.gz",
+  "download_time": "2025-12-26T10:46:41.125834",
+  "package_url": "https://pypi.org/project/arsa_ml/"
+}

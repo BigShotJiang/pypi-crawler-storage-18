@@ -1,11 +1,11 @@
 {
   "name": "service-forge",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "service_forge-0.1.21.tar.gz",
-  "download_time": "2025-12-24T17:33:36.180739",
+  "download_filename": "service_forge-0.1.22.tar.gz",
+  "download_time": "2025-12-26T10:46:38.850921",
   "package_url": "https://pypi.org/project/service-forge/"
 }
