@@ -1,0 +1,11 @@
+{
+  "name": "vrt-lss-registry",
+  "version": "7.28.3096",
+  "summary": "VRt.Registry [RG]",
+  "author": "Veeroute Support Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "vrt_lss_registry-7.28.3096-py3-none-any.whl",
+  "download_time": "2025-12-27T13:41:45.388209",
+  "package_url": "https://pypi.org/project/vrt-lss-registry/"
+}

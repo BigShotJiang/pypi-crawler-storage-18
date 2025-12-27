@@ -1,11 +1,11 @@
 {
   "name": "khaos-cli",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Kafka data generator and load testing tool - generate fake messages, simulate producers and consumers, test broker failures, and run chaos engineering scenarios",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "khaos_cli-0.4.0.tar.gz",
-  "download_time": "2025-12-25T12:30:39.439008",
+  "download_filename": "khaos_cli-0.5.1.tar.gz",
+  "download_time": "2025-12-27T13:41:42.555630",
   "package_url": "https://pypi.org/project/khaos-cli/"
 }

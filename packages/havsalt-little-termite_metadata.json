@@ -1,0 +1,11 @@
+{
+  "name": "havsalt-little-termite",
+  "version": "0.1.3",
+  "summary": "Terminate command output, by controlling this little hungry and human-looking termite",
+  "author": "Havsalt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "havsalt_little_termite-0.1.3.tar.gz",
+  "download_time": "2025-12-27T13:41:48.964703",
+  "package_url": "https://pypi.org/project/havsalt-little-termite/"
+}

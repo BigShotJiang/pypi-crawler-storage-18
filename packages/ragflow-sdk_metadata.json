@@ -1,0 +1,11 @@
+{
+  "name": "ragflow-sdk",
+  "version": "0.23.0",
+  "summary": "Python client sdk of [RAGFlow](https://github.com/infiniflow/ragflow). RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "ragflow_sdk-0.23.0.tar.gz",
+  "download_time": "2025-12-27T13:41:47.944221",
+  "package_url": "https://pypi.org/project/ragflow-sdk/"
+}
