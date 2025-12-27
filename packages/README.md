@@ -1,12 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T15:34:37.037369
-- **Total Packages**: 81
-- **Total Size**: 7.98 MB
+- **Download Time**: 2025-12-27T15:52:24.554962
+- **Total Packages**: 80
+- **Total Size**: 0.56 MB
 
 ## Packages List
-- aws-lambda-layer-cli
 - gpu-benchmark
 - coding-assistant-cli
 - pybFoam

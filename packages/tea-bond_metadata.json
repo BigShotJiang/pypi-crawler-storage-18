@@ -1,11 +1,11 @@
 {
   "name": "tea-bond",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tea_bond-0.4.9.tar.gz",
-  "download_time": "2025-12-27T14:51:56.047896",
+  "download_filename": "tea_bond-0.4.10.tar.gz",
+  "download_time": "2025-12-27T15:52:24.054058",
   "package_url": "https://pypi.org/project/tea-bond/"
 }
