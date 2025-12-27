@@ -1,11 +1,11 @@
 {
   "name": "ubpe-cython",
-  "version": "0.2.0b0",
+  "version": "0.2.0b1",
   "summary": "Cython implementation of UBPE tokenization algorithm (C++ backend).",
   "author": "Scurrra (Ilja Baroŭski)",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ubpe_cython-0.2.0b0-cp311-cp311-macosx_15_0_arm64.whl",
-  "download_time": "2025-12-27T12:29:36.011815",
+  "download_filename": "ubpe_cython-0.2.0b1-cp311-cp311-macosx_15_0_arm64.whl",
+  "download_time": "2025-12-27T19:13:44.562017",
   "package_url": "https://pypi.org/project/ubpe-cython/"
 }

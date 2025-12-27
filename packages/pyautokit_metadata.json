@@ -1,0 +1,11 @@
+{
+  "name": "pyautokit",
+  "version": "1.0.0",
+  "summary": "Python Automation Toolkit - Complete CLI utilities for everyday tasks",
+  "author": "George Pricop",
+  "license": null,
+  "home_page": "https://github.com/Gzeu/pyautokit",
+  "download_filename": "pyautokit-1.0.0.tar.gz",
+  "download_time": "2025-12-27T19:13:49.318534",
+  "package_url": "https://pypi.org/project/pyautokit/"
+}

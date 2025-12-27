@@ -1,11 +1,11 @@
 {
   "name": "XT-Remote",
-  "version": "1.9.49",
+  "version": "1.9.50",
   "summary": "Remote client framework for Telegram automation using Pyrogram",
   "author": "MrAhmadiRad",
   "license": "MIT",
   "home_page": "https://github.com/MohammadAhmadi-R/XT_Remote",
-  "download_filename": "xt_remote-1.9.49.tar.gz",
-  "download_time": "2025-12-27T13:07:56.700545",
+  "download_filename": "xt_remote-1.9.50.tar.gz",
+  "download_time": "2025-12-27T19:13:59.840350",
   "package_url": "https://pypi.org/project/XT-Remote/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dtreeviz",
-  "version": "2.3",
+  "version": "2.3.1",
   "summary": "A Python 3 library for sci-kit learn, XGBoost, LightGBM, Spark, and TensorFlow decision tree visualization",
   "author": "Terence Parr, Tudor Lapusan, and Prince Grover",
   "license": "MIT",
   "home_page": "https://github.com/parrt/dtreeviz",
-  "download_filename": "dtreeviz-2.3.tar.gz",
-  "download_time": "2025-12-26T19:50:28.646325",
+  "download_filename": "dtreeviz-2.3.1.tar.gz",
+  "download_time": "2025-12-27T19:13:54.604063",
   "package_url": "https://pypi.org/project/dtreeviz/"
 }

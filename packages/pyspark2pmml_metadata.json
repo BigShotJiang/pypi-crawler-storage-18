@@ -1,0 +1,11 @@
+{
+  "name": "pyspark2pmml",
+  "version": "0.8.2",
+  "summary": "Python library for converting Apache Spark ML pipelines to PMML",
+  "author": "Villu Ruusmann",
+  "license": "GNU Affero General Public License (AGPL) version 3.0",
+  "home_page": "https://github.com/jpmml/pyspark2pmml",
+  "download_filename": "pyspark2pmml-0.8.2.tar.gz",
+  "download_time": "2025-12-27T19:13:42.912773",
+  "package_url": "https://pypi.org/project/pyspark2pmml/"
+}

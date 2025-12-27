@@ -1,11 +1,11 @@
 {
   "name": "hanzo-tools",
-  "version": "0.2.0",
-  "summary": "All Hanzo AI tools - install everything at once",
+  "version": "0.3.0",
+  "summary": "Hanzo AI tools - core infrastructure and tool bundles",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hanzo_tools-0.2.0.tar.gz",
-  "download_time": "2025-12-26T19:14:24.272751",
+  "download_filename": "hanzo_tools-0.3.0.tar.gz",
+  "download_time": "2025-12-27T19:13:59.329284",
   "package_url": "https://pypi.org/project/hanzo-tools/"
 }

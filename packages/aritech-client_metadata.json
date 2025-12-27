@@ -1,11 +1,11 @@
 {
   "name": "aritech-client",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Unofficial Python client library for ATS alarm panels",
   "author": "Seba Kerckhof",
   "license": null,
   "home_page": null,
-  "download_filename": "aritech_client-0.2.2.tar.gz",
-  "download_time": "2025-12-22T20:17:05.421331",
+  "download_filename": "aritech_client-0.2.3.tar.gz",
+  "download_time": "2025-12-27T19:13:41.317804",
   "package_url": "https://pypi.org/project/aritech-client/"
 }

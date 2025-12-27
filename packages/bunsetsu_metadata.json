@@ -1,0 +1,11 @@
+{
+  "name": "bunsetsu",
+  "version": "0.1.0",
+  "summary": "Japanese-optimized semantic text chunking for RAG applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bunsetsu-0.1.0.tar.gz",
+  "download_time": "2025-12-27T19:13:58.183509",
+  "package_url": "https://pypi.org/project/bunsetsu/"
+}
