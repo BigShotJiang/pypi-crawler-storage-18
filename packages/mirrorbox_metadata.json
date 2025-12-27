@@ -1,0 +1,11 @@
+{
+  "name": "mirrorbox",
+  "version": "2.0.1",
+  "summary": "Enterprise Docker Mirror Client with AI-driven optimization and GUI.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mirrorbox-2.0.1.tar.gz",
+  "download_time": "2025-12-27T21:14:57.671976",
+  "package_url": "https://pypi.org/project/mirrorbox/"
+}

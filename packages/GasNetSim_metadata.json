@@ -1,0 +1,11 @@
+{
+  "name": "GasNetSim",
+  "version": "0.2.0",
+  "summary": "A tool for gas network steady-state simulation.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "gasnetsim-0.2.0.tar.gz",
+  "download_time": "2025-12-27T21:14:48.430812",
+  "package_url": "https://pypi.org/project/GasNetSim/"
+}

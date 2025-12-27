@@ -1,11 +1,11 @@
 {
   "name": "entropyguard",
-  "version": "1.22.1",
+  "version": "1.22.2",
   "summary": "High-Performance Semantic Deduplication Tool for RAG Pipelines",
   "author": "Damian Siuta",
   "license": "MIT",
   "home_page": "https://github.com/DamianSiuta/entropyguard",
-  "download_filename": "entropyguard-1.22.1.tar.gz",
-  "download_time": "2025-12-25T20:18:03.215458",
+  "download_filename": "entropyguard-1.22.2.tar.gz",
+  "download_time": "2025-12-27T21:14:42.714686",
   "package_url": "https://pypi.org/project/entropyguard/"
 }

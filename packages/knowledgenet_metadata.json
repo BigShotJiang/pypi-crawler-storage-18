@@ -1,0 +1,11 @@
+{
+  "name": "knowledgenet",
+  "version": "1.0.0b2",
+  "summary": "Knowledgenet RETE engine",
+  "author": "Amit Chatterjee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "knowledgenet-1.0.0b2.tar.gz",
+  "download_time": "2025-12-27T21:14:58.743759",
+  "package_url": "https://pypi.org/project/knowledgenet/"
+}

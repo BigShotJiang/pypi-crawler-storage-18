@@ -1,11 +1,11 @@
 {
   "name": "faker-healthcare-provider",
-  "version": "1.0.2",
-  "summary": "Generate realistic healthcare test data: 150+ diseases, 300+ WHO ICD-10 codes, 400+ medications, 100+ procedures, symptoms, and more",
+  "version": "2.0.0",
+  "summary": "Generate realistic healthcare test data in 6 languages (en, es, pt, zh, fr, de): 150+ diseases, 300+ ICD-10 codes, 400+ medications, procedures, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "faker_healthcare_provider-1.0.2.tar.gz",
-  "download_time": "2025-12-27T17:51:15.548565",
+  "download_filename": "faker_healthcare_provider-2.0.0.tar.gz",
+  "download_time": "2025-12-27T21:14:48.987778",
   "package_url": "https://pypi.org/project/faker-healthcare-provider/"
 }

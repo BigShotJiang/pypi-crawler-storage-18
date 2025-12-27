@@ -1,0 +1,11 @@
+{
+  "name": "polyhattrick",
+  "version": "0.1.0",
+  "summary": "Live Hattrick scores in your terminal and polybar",
+  "author": "Peter Toth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyhattrick-0.1.0.tar.gz",
+  "download_time": "2025-12-27T21:15:00.865503",
+  "package_url": "https://pypi.org/project/polyhattrick/"
+}

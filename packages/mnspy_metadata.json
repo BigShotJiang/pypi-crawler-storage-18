@@ -1,0 +1,11 @@
+{
+  "name": "mnspy",
+  "version": "0.9.21",
+  "summary": "Paquete didáctico para métodos numéricos",
+  "author": "Edwin Córdoba",
+  "license": "MIT",
+  "home_page": "https://github.com/EdwinSoft/mnspy",
+  "download_filename": "mnspy-0.9.21.tar.gz",
+  "download_time": "2025-12-27T21:14:56.068915",
+  "package_url": "https://pypi.org/project/mnspy/"
+}

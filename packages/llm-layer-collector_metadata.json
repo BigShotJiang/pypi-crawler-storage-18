@@ -1,0 +1,11 @@
+{
+  "name": "llm-layer-collector",
+  "version": "0.1.7",
+  "summary": "A tool for loading and computing on parts of LLM models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_layer_collector-0.1.7.tar.gz",
+  "download_time": "2025-12-27T21:14:47.141824",
+  "package_url": "https://pypi.org/project/llm-layer-collector/"
+}
