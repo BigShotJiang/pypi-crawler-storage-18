@@ -1,18 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T23:34:40.881851
-- **Total Packages**: 87
-- **Total Size**: 11.88 MB
+- **Download Time**: 2025-12-27T23:52:24.028088
+- **Total Packages**: 86
+- **Total Size**: 6.53 MB
 
 ## Packages List
+- uht-dmslibrarian
+- simtrial
+- cyclopts
+- nanobot
+- hother-cancelable
+- osbot-utils
+- PBQA
+- flowmark
+- aiogram-webhook
+- assay-it
+- gsdk
+- spatialflow
+- pyfaceau
+- lerpnet
+- mcp-readiness-scanner
+- gsdesign
+- dycw-utilities
+- dictionarpy
+- qubee-nlp
+- consolekit
+- repo2ai
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
 - claude-code-tools
 - unifi-controller-api
 - gdbrunner
 - osvc-kalkulacka
 - fastmssql
 - solaredge2mqtt
-- aiogram-webhook
 - IncludeCPP
 - engram-notion-mcp
 - serix
@@ -21,15 +44,11 @@
 - tacotoolbox
 - mbp
 - macblock
-- lerpnet
-- repo2ai
 - plexmix
 - sendspin
 - asynctasq
 - langchain-unstructured
 - pytest-mpi-tmweigand
-- hother-cancelable
-- dycw-utilities
 - khaos-cli
 - frigobar
 - nanocoder
@@ -73,23 +92,3 @@
 - python-base-app
 - loraxmod
 - nsip-skills
-- nsip-mcp-server
-- qtype
-- sentimentscopeai
-- metagame
-- victron-mqtt
-- test-helper-by-delica
-- langchain-salesforce
-- vegabase
-- pivpy
-- telegrify
-- zengeld-canvas
-- pyzenith
-- phoonnx
-- mkv-episode-matcher
-- rpp-protocol
-- souleyez
-- ai-rules-generator
-- corncobs
-- num2ltr
-- pyfia

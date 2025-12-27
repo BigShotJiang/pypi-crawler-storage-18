@@ -1,11 +1,11 @@
 {
   "name": "nanobot",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Minimalist robot navigation framework using cascading decision nodes",
   "author": "NanoBot Team",
   "license": null,
   "home_page": null,
-  "download_filename": "nanobot-0.3.1.tar.gz",
-  "download_time": "2025-12-27T22:16:23.828835",
+  "download_filename": "nanobot-0.3.2.tar.gz",
+  "download_time": "2025-12-27T23:51:40.235258",
   "package_url": "https://pypi.org/project/nanobot/"
 }
