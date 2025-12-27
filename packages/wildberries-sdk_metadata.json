@@ -1,11 +1,11 @@
 {
   "name": "wildberries-sdk",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Wildberries OpenAPI clients (generated).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wildberries_sdk-0.1.3.tar.gz",
-  "download_time": "2025-12-27T13:07:56.189228",
+  "download_filename": "wildberries_sdk-0.1.5.tar.gz",
+  "download_time": "2025-12-27T13:52:31.424198",
   "package_url": "https://pypi.org/project/wildberries-sdk/"
 }
