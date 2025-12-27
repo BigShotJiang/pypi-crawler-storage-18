@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T14:36:20.160643
-- **Total Packages**: 84
-- **Total Size**: 18.89 MB
+- **Download Time**: 2025-12-27T14:52:33.991487
+- **Total Packages**: 79
+- **Total Size**: 30.15 MB
 
 ## Packages List
+- mcp-server-nucleus
+- asyncuvkit
+- kos-Htools
+- abstra
+- pkboost
+- aimodelshare
+- userhub
+- gridfia
+- based-utils
+- sqlit-tui
+- powerchord
+- asynctasq
+- tea-bond
+- simple-toon
+- brinicle
+- kleur
+- koruspy
+- TechTrash-MusubiTraining
+- almanac-bot
+- aviutl2-api
+- ssh-para
+- br-utilities
+- pybasemkit
+- django-docxtpl
+- aiterm-dev
+- commizard
+- chname
+- keras2c
+- brief-survey
+- viralQC
+- anshin
+- liteai-sdk
+- exstruct
+- saifullah-anwar
+- shannot
+- saifullah
+- varphi-python
+- wildberries-sdk
+- mindspore-gs
+- aiohomematic-test-support
+- bigraph-viz
 - aiohomematic
 - fastapi-factory-utilities
 - karaoke-gen
@@ -16,7 +57,6 @@
 - codeoptix
 - lcn-frontend
 - asyncPyGithub
-- ssh-para
 - voice-agents
 - ufaas
 - mtcli-vap
@@ -24,11 +64,9 @@
 - intentlang
 - bpca
 - fastapi-fullstack
-- gridfia
 - obsidian-vault-mcp
 - aws-lambda-layer-cli
 - cogscikit
-- koruspy
 - ksbanim
 - Ked
 - mannetroll-cupystorm
@@ -36,13 +74,10 @@
 - zbWidgetLib
 - mahnoor
 - abstract-flask
-- asyncuvkit
 - markdown-editor-mcp-server
-- brief-survey
 - pypck
 - iterpy
 - fgo-api-types
-- wildberries-sdk
 - xiaothink
 - plexflow
 - poiidx
@@ -50,43 +85,3 @@
 - telegrify
 - careless-py
 - unstdlibpy
-- github-contribution-writer
-- easyths
-- batrachian-toad
-- frago-cli
-- ujeebu-scrapy
-- artemis-model
-- DensityFlowMO
-- xllamacpp
-- sftppathlib
-- dijkies
-- ai-rulez
-- pgslice
-- dtflow
-- speech-map
-- streamlit-lightweight-charts-v5
-- MapleX
-- myepubapp
-- tensordict-nightly
-- arase-sdk
-- aimodelshare
-- qtoggleserver
-- ncjishaku
-- gurufocus-mcp
-- gurufocus-api
-- PBQA
-- omniopt2
-- gegd
-- invar-tools
-- invar-runtime
-- lazy-crawler
-- cryptocoreedu
-- skeleton-project-name-tests
-- RubigramClient
-- openapi-batch
-- vibego
-- fbgemm-gpu-nightly-cpu
-- kite-common-py
-- kubesealpy
-- document-preprocessor
-- smartframe-df

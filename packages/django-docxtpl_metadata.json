@@ -1,11 +1,11 @@
 {
   "name": "django-docxtpl",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Django integration for docxtpl - generate documents from Word templates with multi-format export",
   "author": "ctrl-alt-d",
   "license": null,
   "home_page": null,
-  "download_filename": "django_docxtpl-0.7.0.tar.gz",
-  "download_time": "2025-12-27T11:51:00.489542",
+  "download_filename": "django_docxtpl-0.8.0.tar.gz",
+  "download_time": "2025-12-27T14:52:01.978274",
   "package_url": "https://pypi.org/project/django-docxtpl/"
 }

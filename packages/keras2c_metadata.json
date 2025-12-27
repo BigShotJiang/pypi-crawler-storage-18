@@ -1,11 +1,11 @@
 {
   "name": "keras2c",
-  "version": "0.1",
+  "version": "2.0",
   "summary": "A library for converting Keras neural networks to real-time compatible C.",
   "author": null,
   "license": "LGPLv3 License",
   "home_page": null,
-  "download_filename": "keras2c-0.1.tar.gz",
-  "download_time": "2025-12-27T14:15:35.623444",
+  "download_filename": "keras2c-2.0.tar.gz",
+  "download_time": "2025-12-27T14:52:04.689017",
   "package_url": "https://pypi.org/project/keras2c/"
 }

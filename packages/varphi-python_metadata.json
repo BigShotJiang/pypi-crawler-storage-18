@@ -1,11 +1,11 @@
 {
   "name": "varphi-python",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "An implementation of a Varphi-to-Python compiler.",
   "author": "Hassan El-Sheikha",
   "license": null,
   "home_page": null,
-  "download_filename": "varphi_python-2.0.0.tar.gz",
-  "download_time": "2025-12-27T05:45:29.124043",
+  "download_filename": "varphi_python-2.0.1.tar.gz",
+  "download_time": "2025-12-27T14:52:10.147304",
   "package_url": "https://pypi.org/project/varphi-python/"
 }

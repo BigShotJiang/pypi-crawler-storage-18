@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-nucleus",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "The Core of Your AI Agents - Model Context Protocol Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_nucleus-0.2.1.tar.gz",
-  "download_time": "2025-12-27T10:53:27.172794",
+  "download_filename": "mcp_server_nucleus-0.2.2.tar.gz",
+  "download_time": "2025-12-27T14:51:48.612423",
   "package_url": "https://pypi.org/project/mcp-server-nucleus/"
 }
