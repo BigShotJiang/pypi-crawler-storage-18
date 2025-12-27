@@ -1,11 +1,11 @@
 {
   "name": "zarx",
-  "version": "0.2.2",
-  "summary": "Advanced Hybrid Transformer Framework with MoE, SSM, and Adaptive Routing",
+  "version": "0.2.4",
+  "summary": "Zero-to-AGI Deep Learning Framework",
   "author": "Akik Faraji",
   "license": null,
-  "home_page": "https://github.com/akikfaraji/zarx",
-  "download_filename": "zarx-0.2.2.tar.gz",
-  "download_time": "2025-12-22T14:44:18.805423",
+  "home_page": "https://github.com/Akik-Forazi/zarx.git",
+  "download_filename": "zarx-0.2.4.tar.gz",
+  "download_time": "2025-12-27T06:24:10.925499",
   "package_url": "https://pypi.org/project/zarx/"
 }

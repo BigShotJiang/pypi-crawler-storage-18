@@ -1,11 +1,11 @@
 {
   "name": "pykotor",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "summary": "Read, modify and write files used by KotOR's game engine.",
   "author": "NickHugi",
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pykotor-2.0.2.tar.gz",
-  "download_time": "2025-12-27T04:31:23.409539",
+  "download_filename": "pykotor-2.0.4.tar.gz",
+  "download_time": "2025-12-27T06:24:01.962438",
   "package_url": "https://pypi.org/project/pykotor/"
 }

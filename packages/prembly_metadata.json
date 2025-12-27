@@ -1,0 +1,11 @@
+{
+  "name": "prembly",
+  "version": "0.1.0",
+  "summary": "The official Python library for the prembly API",
+  "author": "Prembly",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prembly-0.1.0.tar.gz",
+  "download_time": "2025-12-27T06:24:04.114538",
+  "package_url": "https://pypi.org/project/prembly/"
+}

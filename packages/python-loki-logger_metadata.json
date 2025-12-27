@@ -1,0 +1,11 @@
+{
+  "name": "python-loki-logger",
+  "version": "3.0.0",
+  "summary": "A Python Library for pushing logs to Grafana-Loki",
+  "author": "Piyush Manolkar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_loki_logger-3.0.0.tar.gz",
+  "download_time": "2025-12-27T06:24:00.812106",
+  "package_url": "https://pypi.org/project/python-loki-logger/"
+}
