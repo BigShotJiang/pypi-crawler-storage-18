@@ -1,11 +1,11 @@
 {
   "name": "claude-agent-framework",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A production-ready multi-agent orchestration framework built on Claude Agent SDK. Design, compose, and deploy complex AI workflows with pre-built architecture patterns.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_agent_framework-0.4.0.tar.gz",
-  "download_time": "2025-12-25T20:18:25.449951",
+  "download_filename": "claude_agent_framework-0.5.0.tar.gz",
+  "download_time": "2025-12-27T21:44:12.741914",
   "package_url": "https://pypi.org/project/claude-agent-framework/"
 }

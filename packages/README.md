@@ -1,17 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T21:32:54.499901
-- **Total Packages**: 89
-- **Total Size**: 5.54 MB
+- **Download Time**: 2025-12-27T21:44:56.646511
+- **Total Packages**: 86
+- **Total Size**: 8.4 MB
 
 ## Packages List
+- django-keycloak-oidc
+- step-cli-tools
+- zeek-reports
+- sevdesk
+- ojsTerminalBio
+- mobiu-q
+- claude-agent-framework
+- agentfield
+- backtick
+- odsbox-jaquel-mcp
+- plexmix
+- rite
+- multimeter-tension
+- entropyguard
+- glidergun
+- serix
+- naylence-agent-sdk
+- g4f
+- i3altlayout
+- explain-ok
+- llm-layer-collector
+- wwpdb.io
+- GasNetSim
+- faker-healthcare-provider
+- varphi-interpreter
+- python-keycloak
+- ltfmselector
+- sagaz
+- mcp-edit-math
+- engram-notion-mcp
+- pyworkflow-engine
+- fastapi-factory-utilities
+- robo-infra
+- pyrig
+- mnspy
+- svc-infra
+- nanobot
+- mirrorbox
 - py-aiterm
 - knowledgenet
 - mcp-context-server
 - uht-dmslibrarian
 - gpack
-- svc-infra
 - polyhattrick
 - fin-infra
 - usama
@@ -29,7 +66,6 @@
 - pyUnfoldedCircleRemote
 - mmar-mimpl
 - deltashare-api
-- ojsTerminalBio
 - karva
 - rumdl
 - words-segmentation
@@ -43,7 +79,6 @@
 - aimodelshare
 - survival-rs
 - dhisana
-- step-cli-tools
 - oarepo
 - code-puppy
 - stackweaver
@@ -57,41 +92,3 @@
 - egraphics
 - AWSTransactionalApps
 - truss
-- sqlite-export-for-ynab
-- odsbox-jaquel-mcp
-- jzpack
-- miqro
-- civic-line-cli
-- userhub
-- naylence-agent-sdk
-- workspace-mcp
-- iocscrape
-- iatoolkit
-- postkit
-- clientele
-- loclean
-- cykit
-- udata-dl
-- soilprofilecollection
-- nanobot
-- minijax
-- sendlix
-- ublkit
-- foundry-mcp
-- qubee-nlp
-- neuralpiano
-- licensechain-sdk
-- telegram-bot-mcp
-- semiwrap
-- video-specs
-- telegrify
-- pdfminer.six
-- gitree
-- qtype
-- birder
-- nifti2bids
-- Kekik
-- comfyui-nuvu
-- ciscoconfparse2
-- ubpe
-- invar-tools
