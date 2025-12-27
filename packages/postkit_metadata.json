@@ -1,0 +1,11 @@
+{
+  "name": "postkit",
+  "version": "0.1.0",
+  "summary": "PostgreSQL-native authentication and authorization SDK",
+  "author": "Varun Chopra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "postkit-0.1.0.tar.gz",
+  "download_time": "2025-12-27T20:43:58.171572",
+  "package_url": "https://pypi.org/project/postkit/"
+}

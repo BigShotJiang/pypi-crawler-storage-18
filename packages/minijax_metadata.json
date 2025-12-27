@@ -1,11 +1,11 @@
 {
   "name": "minijax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A mini machine learning framework a la JAX.",
   "author": "David Boetius",
   "license": null,
   "home_page": null,
-  "download_filename": "minijax-0.1.0.tar.gz",
-  "download_time": "2025-12-27T19:28:58.155306",
+  "download_filename": "minijax-0.1.1.tar.gz",
+  "download_time": "2025-12-27T20:44:02.295345",
   "package_url": "https://pypi.org/project/minijax/"
 }

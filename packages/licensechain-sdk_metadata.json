@@ -1,0 +1,11 @@
+{
+  "name": "licensechain-sdk",
+  "version": "1.1.3",
+  "summary": "Official LicenseChain Python SDK for license management and validation",
+  "author": "LicenseChain",
+  "license": null,
+  "home_page": "https://github.com/LicenseChain/LicenseChain-Python-SDK",
+  "download_filename": "licensechain_sdk-1.1.3.tar.gz",
+  "download_time": "2025-12-27T20:44:05.396300",
+  "package_url": "https://pypi.org/project/licensechain-sdk/"
+}

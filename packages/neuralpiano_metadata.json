@@ -1,0 +1,11 @@
+{
+  "name": "neuralpiano",
+  "version": "25.11.38",
+  "summary": "Hi-Fi neural MIDI piano synthesizer and MIDI renderer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralpiano-25.11.38.tar.gz",
+  "download_time": "2025-12-27T20:44:04.886198",
+  "package_url": "https://pypi.org/project/neuralpiano/"
+}

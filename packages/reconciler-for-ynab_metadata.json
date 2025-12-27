@@ -1,0 +1,11 @@
+{
+  "name": "reconciler-for-ynab",
+  "version": "0.0.3",
+  "summary": "Reconciler for YNAB - Reconcile YNAB transactions to reach a target balance",
+  "author": "Max R",
+  "license": "MIT",
+  "home_page": "https://github.com/mxr/reconciler-for-ynab",
+  "download_filename": "reconciler_for_ynab-0.0.3.tar.gz",
+  "download_time": "2025-12-27T20:43:46.523436",
+  "package_url": "https://pypi.org/project/reconciler-for-ynab/"
+}

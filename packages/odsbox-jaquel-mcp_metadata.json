@@ -1,11 +1,11 @@
 {
   "name": "odsbox-jaquel-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "ASAM ODS Jaquel MCP Server - A Model Context Protocol server for creating and validating Jaquel queries",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "odsbox_jaquel_mcp-1.0.1.tar.gz",
-  "download_time": "2025-12-27T20:18:07.786350",
+  "download_filename": "odsbox_jaquel_mcp-1.0.2.tar.gz",
+  "download_time": "2025-12-27T20:43:52.475322",
   "package_url": "https://pypi.org/project/odsbox-jaquel-mcp/"
 }

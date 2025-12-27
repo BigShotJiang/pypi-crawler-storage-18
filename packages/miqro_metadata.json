@@ -1,0 +1,11 @@
+{
+  "name": "miqro",
+  "version": "1.2.1",
+  "summary": "MIQRO is an MQTT Micro-Service Library for Python",
+  "author": "Daniel Fett",
+  "license": null,
+  "home_page": null,
+  "download_filename": "miqro-1.2.1.tar.gz",
+  "download_time": "2025-12-27T20:43:53.562145",
+  "package_url": "https://pypi.org/project/miqro/"
+}

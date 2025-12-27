@@ -1,0 +1,11 @@
+{
+  "name": "jzpack",
+  "version": "0.1.1",
+  "summary": "High-performance JSON/NDJSON compression library",
+  "author": "hasanzaibak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jzpack-0.1.1.tar.gz",
+  "download_time": "2025-12-27T20:43:52.984596",
+  "package_url": "https://pypi.org/project/jzpack/"
+}

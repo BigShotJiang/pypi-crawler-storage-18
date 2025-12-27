@@ -1,0 +1,11 @@
+{
+  "name": "tinydb-rust",
+  "version": "0.1.0",
+  "summary": "A Rust reimplementation of the TinyDB library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinydb_rust-0.1.0.tar.gz",
+  "download_time": "2025-12-27T20:43:48.573359",
+  "package_url": "https://pypi.org/project/tinydb-rust/"
+}
