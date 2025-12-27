@@ -1,11 +1,11 @@
 {
   "name": "figlinq",
-  "version": "0.2.31",
+  "version": "0.2.32",
   "summary": "Utilities for interfacing with Plotly's Chart Studio and figlinq.com",
   "author": "figlinq.com",
   "license": "MIT",
   "home_page": "https://github.com/figlinq/figlinq",
-  "download_filename": "figlinq-0.2.31-py3-none-any.whl",
-  "download_time": "2025-12-27T20:53:49.004799",
+  "download_filename": "figlinq-0.2.32-py3-none-any.whl",
+  "download_time": "2025-12-27T21:51:58.455024",
   "package_url": "https://pypi.org/project/figlinq/"
 }
