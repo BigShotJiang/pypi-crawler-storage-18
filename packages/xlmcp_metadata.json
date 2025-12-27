@@ -1,0 +1,11 @@
+{
+  "name": "xlmcp",
+  "version": "0.3.0",
+  "summary": "MCP server for JupyterHub/Jupyter/Qubx integration with Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xlmcp-0.3.0.tar.gz",
+  "download_time": "2025-12-27T12:29:52.902186",
+  "package_url": "https://pypi.org/project/xlmcp/"
+}

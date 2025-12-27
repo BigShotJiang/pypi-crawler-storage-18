@@ -1,11 +1,11 @@
 {
   "name": "sqlean-stubs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Type hints for sqlean.py (sqlite3 + extensions)",
   "author": null,
   "license": "Zlib",
   "home_page": null,
-  "download_filename": "sqlean_stubs-0.0.7.tar.gz",
-  "download_time": "2025-12-27T11:51:27.644679",
+  "download_filename": "sqlean_stubs-0.0.8.tar.gz",
+  "download_time": "2025-12-27T12:29:51.882277",
   "package_url": "https://pypi.org/project/sqlean-stubs/"
 }

@@ -1,11 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T11:51:28.145545
-- **Total Packages**: 92
-- **Total Size**: 2.13 MB
+- **Download Time**: 2025-12-27T12:30:11.253827
+- **Total Packages**: 86
+- **Total Size**: 14.62 MB
 
 ## Packages List
+- openapi-batch
+- bitranox-template-cli-app-config-log-mail
+- article-mcp
+- generic
+- tamingnifty
+- abstract-database
+- amcp-agent
+- shrinkray
+- mailbreeze
+- actingweb
+- fastmcp-sqltools
+- bitranox-template-cli-app-config-log
+- powerfulcases
+- setVCD
+- keyedstablehash
+- process-bigraph
+- bitalino-rs
+- ubpe-cython
+- pytnl
+- polymath-schemas
+- MetaPont
+- intentkit
+- ubpe-native
+- zrb-extras
+- my-utils-23373275
+- IncludeCPP
+- mmrelay
+- riskit
+- zombie-escape
+- credigraph
+- ripio
+- inmanta-module-sops
+- structural-lib-is456
+- fastapi-clean-archi
+- omniai-lakshya
+- gumiyabot
+- gaphas
+- rcdl
+- meshcore-cli
+- django-cfg
+- cdktn
+- maplib
+- sendspin
+- apscale-nanopore
+- django-choices-field
+- plexflow
+- epub2text
+- tklr-dgraham
+- sqlean-stubs
+- aiosendspin
+- xlmcp
+- stimkit
+- lightning-mcp
 - virgo-modules
 - py-dbms-cli
 - nvidia-nat-redis
@@ -28,7 +81,6 @@
 - install-release
 - nvidia-nat-test
 - nvidia-nat
-- IncludeCPP
 - nvidia-nat-a2a
 - linux-do-connect-token
 - amsdal_cli
@@ -40,61 +92,3 @@
 - memium
 - nvidia-nat-vanna
 - nvidia-nat-mcp
-- nvidia-nat-ragaai
-- german-ocr
-- nvidia-nat-profiling
-- nvidia-nat-adk
-- django-docxtpl
-- nvidia-nat-nemo-customizer
-- ua-parser-rs
-- nvidia-nat-s3
-- nvidia-nat-weave
-- pysiglib
-- aiqtoolkit-crewai
-- aiqtoolkit-weave
-- aiqtoolkit-test
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-agno
-- lexigram-ai
-- aiqtoolkit-langchain
-- aiqtoolkit-zep-cloud
-- aiqtoolkit-llama-index
-- aiqtoolkit-mem0ai
-- aiqtoolkit
-- codesense
-- minecraft-server-creator
-- fastapi-clean-archi
-- visaionlibrary
-- rcabench
-- pytest-multilog
-- specular-differentiation
-- fastmcp-sqltools
-- 59chat
-- s-MProcs
-- qanswer_sdk
-- MProcs
-- torchx-nightly
-- puffcoble
-- vibe-infra
-- whatsapp-toolkit
-- unit-hifigan
-- torchft-nightly
-- blazeserve
-- codegate-cli
-- auto-coder
-- atlas-agent
-- canns
-- ragscore
-- l-pdf-extractor
-- nats-view
-- vllm-ascend
-- finam-trade-api
-- metaerrors
-- numin2
-- normattiva2md
-- motioneye
-- mysql-awesome-stats-collector
-- mteb
-- py-observatory
-- gridvoting-jax
-- sqlean-stubs
