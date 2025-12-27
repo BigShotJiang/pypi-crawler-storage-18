@@ -1,11 +1,11 @@
 {
   "name": "metaerrors",
-  "version": "1.1",
-  "summary": "Outputs errors in popups",
+  "version": "2.0",
+  "summary": "Outputs exceptions in popups",
   "author": "IgorNk500",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "home_page": "https://github.com/IgorNk500/metaerrors",
-  "download_filename": "metaerrors-1.1-py3-none-any.whl",
-  "download_time": "2025-12-26T18:24:13.409501",
+  "download_filename": "metaerrors-2.0-py3-none-any.whl",
+  "download_time": "2025-12-27T11:30:19.684539",
   "package_url": "https://pypi.org/project/metaerrors/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "finam-trade-api",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "summary": "Асинхронный REST-клиент для API Finam",
   "author": "DBoyara",
   "license": "GNU GPL v.3.0",
   "home_page": null,
-  "download_filename": "finam_trade_api-4.2.0.tar.gz",
-  "download_time": "2025-12-23T15:43:52.883936",
+  "download_filename": "finam_trade_api-4.2.1.tar.gz",
+  "download_time": "2025-12-27T11:30:19.044141",
   "package_url": "https://pypi.org/project/finam-trade-api/"
 }

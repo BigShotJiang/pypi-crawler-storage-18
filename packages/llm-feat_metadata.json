@@ -1,0 +1,11 @@
+{
+  "name": "llm-feat",
+  "version": "0.1.0",
+  "summary": "Automated feature engineering using Large Language Models (LLMs) for tabular data",
+  "author": "Srinivas Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/codeastra2/llm-feat",
+  "download_filename": "llm_feat-0.1.0.tar.gz",
+  "download_time": "2025-12-27T11:30:29.705802",
+  "package_url": "https://pypi.org/project/llm-feat/"
+}
