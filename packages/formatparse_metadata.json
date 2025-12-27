@@ -1,11 +1,11 @@
 {
   "name": "formatparse",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Parse strings using a specification based on the Python format() syntax (Rust implementation)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "formatparse-0.4.0.tar.gz",
-  "download_time": "2025-12-27T03:00:17.812963",
+  "download_filename": "formatparse-0.4.2.tar.gz",
+  "download_time": "2025-12-27T04:31:29.063994",
   "package_url": "https://pypi.org/project/formatparse/"
 }

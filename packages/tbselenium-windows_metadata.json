@@ -1,0 +1,11 @@
+{
+  "name": "tbselenium-windows",
+  "version": "1.0.0",
+  "summary": "Tor Browser automation with Selenium for Windows",
+  "author": "tbselenium-windows contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tbselenium_windows-1.0.0.tar.gz",
+  "download_time": "2025-12-27T04:31:32.123254",
+  "package_url": "https://pypi.org/project/tbselenium-windows/"
+}

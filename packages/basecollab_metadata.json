@@ -1,0 +1,11 @@
+{
+  "name": "basecollab",
+  "version": "0.1.2",
+  "summary": "TODO finder with Git blame metadata (Rust + PyO3)",
+  "author": "ccouble",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "basecollab-0.1.2.tar.gz",
+  "download_time": "2025-12-27T04:31:12.980906",
+  "package_url": "https://pypi.org/project/basecollab/"
+}
