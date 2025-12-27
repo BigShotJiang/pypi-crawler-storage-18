@@ -1,0 +1,11 @@
+{
+  "name": "bifrost-ai",
+  "version": "2.0.0",
+  "summary": "Unified Python SDK for multiple AI providers with automatic conversation management",
+  "author": "BifrostAI",
+  "license": null,
+  "home_page": "https://github.com/yourusername/bifrost-ai",
+  "download_filename": "bifrost_ai-2.0.0.tar.gz",
+  "download_time": "2025-12-27T10:53:10.162435",
+  "package_url": "https://pypi.org/project/bifrost-ai/"
+}

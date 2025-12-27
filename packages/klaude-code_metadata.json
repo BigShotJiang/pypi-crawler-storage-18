@@ -1,11 +1,11 @@
 {
   "name": "klaude-code",
-  "version": "1.2.29",
+  "version": "1.2.30",
   "summary": "Minimal code agent CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klaude_code-1.2.29.tar.gz",
-  "download_time": "2025-12-25T14:39:02.929235",
+  "download_filename": "klaude_code-1.2.30.tar.gz",
+  "download_time": "2025-12-27T10:53:22.539165",
   "package_url": "https://pypi.org/project/klaude-code/"
 }

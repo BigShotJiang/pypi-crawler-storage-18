@@ -1,11 +1,11 @@
 {
   "name": "fflive",
-  "version": "1.4",
+  "version": "1.4.1",
   "summary": "fflive python package url [https://github.com/jiashaokun/fflive]",
   "author": "SkeyJIA",
   "license": "MIT Licence",
   "home_page": "https://github.com/jiashaokun/fflive",
-  "download_filename": "fflive-1.4.tar.gz",
-  "download_time": "2025-12-27T10:39:27.337378",
+  "download_filename": "fflive-1.4.1.tar.gz",
+  "download_time": "2025-12-27T10:53:20.477216",
   "package_url": "https://pypi.org/project/fflive/"
 }
