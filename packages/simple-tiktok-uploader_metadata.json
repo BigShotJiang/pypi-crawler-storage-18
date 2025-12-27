@@ -1,11 +1,11 @@
 {
   "name": "simple-tiktok-uploader",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Simple TikTok video uploader using Playwright - no API key required",
   "author": "Yaniv Gabay",
   "license": null,
   "home_page": null,
-  "download_filename": "simple_tiktok_uploader-0.1.1.tar.gz",
-  "download_time": "2025-12-27T18:22:42.123020",
+  "download_filename": "simple_tiktok_uploader-0.2.0.tar.gz",
+  "download_time": "2025-12-27T18:50:58.175011",
   "package_url": "https://pypi.org/project/simple-tiktok-uploader/"
 }

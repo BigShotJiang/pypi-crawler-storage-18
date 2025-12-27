@@ -1,11 +1,11 @@
 {
   "name": "flacfetch",
-  "version": "0.13.0",
+  "version": "0.14.1",
   "summary": "Search and download high-quality audio from multiple sources",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/flacfetch",
-  "download_filename": "flacfetch-0.13.0.tar.gz",
-  "download_time": "2025-12-27T08:21:23.830858",
+  "download_filename": "flacfetch-0.14.1.tar.gz",
+  "download_time": "2025-12-27T18:50:46.603413",
   "package_url": "https://pypi.org/project/flacfetch/"
 }

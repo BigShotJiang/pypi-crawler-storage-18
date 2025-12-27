@@ -1,11 +1,11 @@
 {
   "name": "koine-sdk",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "Python SDK for Koine gateway",
   "author": "Pattern Zones Co",
   "license": null,
   "home_page": null,
-  "download_filename": "koine_sdk-2.2.0.tar.gz",
-  "download_time": "2025-12-27T16:47:17.711035",
+  "download_filename": "koine_sdk-2.3.0.tar.gz",
+  "download_time": "2025-12-27T18:51:07.944831",
   "package_url": "https://pypi.org/project/koine-sdk/"
 }

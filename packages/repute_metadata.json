@@ -1,11 +1,11 @@
 {
   "name": "repute",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python package dependency analytics. Know what you depend on!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repute-0.1.4.tar.gz",
-  "download_time": "2025-12-24T19:12:59.758786",
+  "download_filename": "repute-0.1.5.tar.gz",
+  "download_time": "2025-12-27T18:51:04.845030",
   "package_url": "https://pypi.org/project/repute/"
 }

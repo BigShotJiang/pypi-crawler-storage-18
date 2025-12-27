@@ -1,11 +1,11 @@
 {
   "name": "jcmoptimizer",
-  "version": "3.0.1",
+  "version": "3.0.0",
   "summary": "The JCMoptimizer interface for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jcmoptimizer-3.0.1.tar.gz",
-  "download_time": "2025-12-27T18:22:21.633979",
+  "download_filename": "jcmoptimizer-3.0.0.tar.gz",
+  "download_time": "2025-12-27T18:51:13.577420",
   "package_url": "https://pypi.org/project/jcmoptimizer/"
 }

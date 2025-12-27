@@ -1,0 +1,11 @@
+{
+  "name": "starlingbankapi",
+  "version": "3.3",
+  "summary": "An unofficial Python package that provides access to parts of the Starling bank API. Designed to be used for personal use (i.e. using personal access tokens). Updated based on the 2019 codebase by Adam Dullage and the fork at https://github.com/rahulpdev/ to include Spaces support.",
+  "author": "Rich Kershaw",
+  "license": "MIT",
+  "home_page": "https://github.com/richkershaw/starlingbankapi",
+  "download_filename": "starlingbankapi-3.3.tar.gz",
+  "download_time": "2025-12-27T18:51:03.309748",
+  "package_url": "https://pypi.org/project/starlingbankapi/"
+}

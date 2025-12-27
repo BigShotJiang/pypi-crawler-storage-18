@@ -1,0 +1,11 @@
+{
+  "name": "bn-lightweight-charts",
+  "version": "1.0.0",
+  "summary": "Python framework for TradingView's Lightweight Charts JavaScript library.",
+  "author": "smalinin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bn_lightweight_charts-1.0.0.tar.gz",
+  "download_time": "2025-12-27T18:50:48.196817",
+  "package_url": "https://pypi.org/project/bn-lightweight-charts/"
+}
