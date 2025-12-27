@@ -1,11 +1,11 @@
 {
   "name": "aws-lambda-layer-cli",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "CLI tool for creating and publishing AWS Lambda layers for Node.js and Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aws_lambda_layer_cli-2.0.3.tar.gz",
-  "download_time": "2025-12-27T14:35:46.301758",
+  "download_filename": "aws_lambda_layer_cli-2.0.4.tar.gz",
+  "download_time": "2025-12-27T15:33:53.246371",
   "package_url": "https://pypi.org/project/aws-lambda-layer-cli/"
 }

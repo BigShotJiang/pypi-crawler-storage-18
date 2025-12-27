@@ -1,0 +1,11 @@
+{
+  "name": "coding-assistant-cli",
+  "version": "0.1.0",
+  "summary": "An agent-orchestrated CLI for streamlining and automating coding tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coding_assistant_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-27T15:33:54.296535",
+  "package_url": "https://pypi.org/project/coding-assistant-cli/"
+}

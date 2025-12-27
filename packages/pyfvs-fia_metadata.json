@@ -1,11 +1,11 @@
 {
   "name": "pyfvs-fia",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Python implementation of the Forest Vegetation Simulator - Part of the FIA Python Ecosystem",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfvs_fia-0.2.0.tar.gz",
-  "download_time": "2025-12-25T17:34:54.904399",
+  "download_filename": "pyfvs_fia-0.2.1.tar.gz",
+  "download_time": "2025-12-27T15:34:10.475310",
   "package_url": "https://pypi.org/project/pyfvs-fia/"
 }
