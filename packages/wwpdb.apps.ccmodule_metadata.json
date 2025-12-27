@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.apps.ccmodule",
+  "version": "0.33.3",
+  "summary": "wwPDB workflow engine utils",
+  "author": "Ezra Peisach",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-wwpdb_apps_wf_engine_utils",
+  "download_filename": "wwpdb_apps_ccmodule-0.33.3.tar.gz",
+  "download_time": "2025-12-27T20:53:50.045410",
+  "package_url": "https://pypi.org/project/wwpdb.apps.ccmodule/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fcp-silence-detector",
+  "version": "0.0.1",
+  "summary": "Read FCPXML, detect silences, place Markers in FCPXML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fcp_silence_detector-0.0.1.tar.gz",
+  "download_time": "2025-12-27T20:53:48.483407",
+  "package_url": "https://pypi.org/project/fcp-silence-detector/"
+}
