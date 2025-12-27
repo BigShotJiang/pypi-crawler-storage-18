@@ -1,0 +1,11 @@
+{
+  "name": "chesstab",
+  "version": "8.2",
+  "summary": "Database for chess games.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chesstab-8.2.tar.gz",
+  "download_time": "2025-12-27T22:37:16.647713",
+  "package_url": "https://pypi.org/project/chesstab/"
+}

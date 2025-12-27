@@ -1,0 +1,11 @@
+{
+  "name": "chesscalc",
+  "version": "2.0.4",
+  "summary": "Calculate player performances in chess games.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chesscalc-2.0.4.tar.gz",
+  "download_time": "2025-12-27T22:37:17.767958",
+  "package_url": "https://pypi.org/project/chesscalc/"
+}

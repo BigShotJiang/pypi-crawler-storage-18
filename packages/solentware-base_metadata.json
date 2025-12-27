@@ -1,0 +1,11 @@
+{
+  "name": "solentware-base",
+  "version": "5.3",
+  "summary": "Bitmapped record number databases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solentware_base-5.3.tar.gz",
+  "download_time": "2025-12-27T22:37:15.492287",
+  "package_url": "https://pypi.org/project/solentware-base/"
+}

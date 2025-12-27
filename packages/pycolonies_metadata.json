@@ -1,0 +1,11 @@
+{
+  "name": "pycolonies",
+  "version": "1.0.25",
+  "summary": "Colonies Python SDK",
+  "author": "Johan Kristiansson",
+  "license": null,
+  "home_page": "https://github.com/colonyos/pycolonies",
+  "download_filename": "pycolonies-1.0.25-py3-none-any.whl",
+  "download_time": "2025-12-27T22:37:20.031942",
+  "package_url": "https://pypi.org/project/pycolonies/"
+}
