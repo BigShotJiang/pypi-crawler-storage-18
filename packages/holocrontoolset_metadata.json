@@ -1,11 +1,11 @@
 {
   "name": "holocrontoolset",
-  "version": "4.0.0b7",
-  "summary": "A PyQt5-backed program with a collection of tools and editors that make it easy to work with kotor files",
+  "version": "4.0.0b9",
+  "summary": "A PyQt-backed program with a collection of tools and editors that make it easy to work with kotor files",
   "author": "NickHugi",
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "holocrontoolset-4.0.0b7.tar.gz",
-  "download_time": "2025-12-26T23:16:39.464479",
+  "download_filename": "holocrontoolset-4.0.0b9.tar.gz",
+  "download_time": "2025-12-27T03:00:49.455235",
   "package_url": "https://pypi.org/project/holocrontoolset/"
 }

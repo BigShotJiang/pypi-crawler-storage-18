@@ -1,0 +1,11 @@
+{
+  "name": "gpbacay-arcane",
+  "version": "3.0.0",
+  "summary": "A neuromimetic language foundation model library with biologically-inspired neural mechanisms including spiking neural networks, Hebbian learning, and homeostatic plasticity",
+  "author": "Gianne P. Bacay",
+  "license": null,
+  "home_page": "https://github.com/gpbacay/gpbacay_arcane",
+  "download_filename": "gpbacay_arcane-3.0.0.tar.gz",
+  "download_time": "2025-12-27T03:00:06.924827",
+  "package_url": "https://pypi.org/project/gpbacay-arcane/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bear-shelf",
+  "version": "0.3.10",
+  "summary": "A lightweight document storage system with SQLAlchemy dialect support. Where your data or honey, hibernates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bear_shelf-0.3.10.tar.gz",
+  "download_time": "2025-12-27T03:00:43.108124",
+  "package_url": "https://pypi.org/project/bear-shelf/"
+}

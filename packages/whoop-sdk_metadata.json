@@ -1,0 +1,11 @@
+{
+  "name": "whoop-sdk",
+  "version": "0.3.1",
+  "summary": "A modern Python SDK for the WHOOP Developer API (v2)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whoop_sdk-0.3.1.tar.gz",
+  "download_time": "2025-12-27T03:00:13.798989",
+  "package_url": "https://pypi.org/project/whoop-sdk/"
+}

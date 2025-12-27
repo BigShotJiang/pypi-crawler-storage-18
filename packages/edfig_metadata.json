@@ -1,0 +1,11 @@
+{
+  "name": "edfig",
+  "version": "0.0.1",
+  "summary": "Official utilities and SDK for Edfig AI",
+  "author": "Edfig AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edfig-0.0.1.tar.gz",
+  "download_time": "2025-12-27T03:00:21.267593",
+  "package_url": "https://pypi.org/project/edfig/"
+}

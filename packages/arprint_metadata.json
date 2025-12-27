@@ -1,11 +1,11 @@
 {
   "name": "arprint",
-  "version": "0.1.1",
-  "summary": "A simple library to print Arabic text correctly in terminal",
+  "version": "0.1.2",
+  "summary": "A library to print and input Arabic text correctly in terminal with color support",
   "author": "youcef",
   "license": null,
-  "home_page": null,
-  "download_filename": "arprint-0.1.1.tar.gz",
-  "download_time": "2025-12-20T20:33:36.129766",
+  "home_page": "https://github.com/cymoussa/arprint",
+  "download_filename": "arprint-0.1.2.tar.gz",
+  "download_time": "2025-12-27T03:00:09.820444",
   "package_url": "https://pypi.org/project/arprint/"
 }
