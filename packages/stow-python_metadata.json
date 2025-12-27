@@ -1,0 +1,11 @@
+{
+  "name": "stow-python",
+  "version": "2.4.1",
+  "summary": "Stow-Python - Python reimplementation of GNU Stow symlink farm manager",
+  "author": "Istvan Sarandi",
+  "license": null,
+  "home_page": "https://github.com/isarandi/stow-python",
+  "download_filename": "stow_python-2.4.1.tar.gz",
+  "download_time": "2025-12-27T08:21:12.006543",
+  "package_url": "https://pypi.org/project/stow-python/"
+}

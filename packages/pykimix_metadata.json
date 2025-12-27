@@ -1,11 +1,11 @@
 {
   "name": "pykimix",
-  "version": "0.4.31",
+  "version": "0.4.32",
   "summary": "Python engine integrating Pygame and Kivy with optional native acceleration.",
   "author": "StormTheGuy",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pykimix-0.4.31.tar.gz",
-  "download_time": "2025-12-26T09:19:07.729540",
+  "download_filename": "pykimix-0.4.32.tar.gz",
+  "download_time": "2025-12-27T08:21:42.402365",
   "package_url": "https://pypi.org/project/pykimix/"
 }

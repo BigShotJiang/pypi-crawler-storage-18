@@ -1,11 +1,11 @@
 {
   "name": "mat3ra-api-examples",
-  "version": "2025.12.26.post2",
+  "version": "2025.12.27.post0",
   "summary": "Mat3ra API Examples",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mat3ra_api_examples-2025.12.26.post2-py3-none-any.whl",
-  "download_time": "2025-12-26T17:15:47.776135",
+  "download_filename": "mat3ra_api_examples-2025.12.27.post0-py3-none-any.whl",
+  "download_time": "2025-12-27T08:21:10.880357",
   "package_url": "https://pypi.org/project/mat3ra-api-examples/"
 }

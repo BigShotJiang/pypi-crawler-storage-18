@@ -1,0 +1,11 @@
+{
+  "name": "lmcats",
+  "version": "0.2.0",
+  "summary": "lmcats: Advanced metaheuristic optimization with reporting",
+  "author": "Louati Mahdi",
+  "license": null,
+  "home_page": "https://github.com/mahdi123-tech",
+  "download_filename": "lmcats-0.2.0.tar.gz",
+  "download_time": "2025-12-27T08:21:44.046386",
+  "package_url": "https://pypi.org/project/lmcats/"
+}

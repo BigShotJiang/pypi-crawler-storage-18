@@ -1,11 +1,11 @@
 {
   "name": "dycw-utilities",
-  "version": "0.174.8",
+  "version": "0.174.10",
   "summary": null,
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_utilities-0.174.8.tar.gz",
-  "download_time": "2025-12-27T03:58:25.941574",
+  "download_filename": "dycw_utilities-0.174.10.tar.gz",
+  "download_time": "2025-12-27T08:21:10.314770",
   "package_url": "https://pypi.org/project/dycw-utilities/"
 }

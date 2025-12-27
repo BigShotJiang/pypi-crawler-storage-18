@@ -1,11 +1,11 @@
 {
   "name": "fastapi-startkit",
-  "version": "0.1.1",
-  "summary": "Core Masonite components (Container, Config, Loader)",
+  "version": "0.1.2",
+  "summary": "Fastapi_Startkit components",
   "author": "Bedram Tamang",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_startkit-0.1.1.tar.gz",
-  "download_time": "2025-12-26T20:54:31.534529",
+  "download_filename": "fastapi_startkit-0.1.2.tar.gz",
+  "download_time": "2025-12-27T08:21:20.531682",
   "package_url": "https://pypi.org/project/fastapi-startkit/"
 }

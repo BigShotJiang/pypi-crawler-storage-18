@@ -1,0 +1,11 @@
+{
+  "name": "fdnpy",
+  "version": "0.2.0",
+  "summary": "A Python SDK for FinancialData.Net API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/financialdatanet/fdnpy",
+  "download_filename": "fdnpy-0.2.0.tar.gz",
+  "download_time": "2025-12-27T08:21:36.849059",
+  "package_url": "https://pypi.org/project/fdnpy/"
+}
