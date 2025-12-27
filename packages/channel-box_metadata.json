@@ -1,0 +1,11 @@
+{
+  "name": "channel-box",
+  "version": "1.2.0",
+  "summary": "ChannelBox is a package for FastAPI & Starlette that allows you to make named websocket channels.",
+  "author": "Sobolev Andrey",
+  "license": "MIT",
+  "home_page": "https://github.com/Sobolev5/channel-box",
+  "download_filename": "channel_box-1.2.0.tar.gz",
+  "download_time": "2025-12-27T09:17:11.996069",
+  "package_url": "https://pypi.org/project/channel-box/"
+}

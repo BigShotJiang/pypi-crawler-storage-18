@@ -1,0 +1,11 @@
+{
+  "name": "varray",
+  "version": "1.0.4",
+  "summary": "A numpy-like array object with variable-length rows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "varray-1.0.4.tar.gz",
+  "download_time": "2025-12-27T09:16:59.675027",
+  "package_url": "https://pypi.org/project/varray/"
+}

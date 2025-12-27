@@ -1,0 +1,11 @@
+{
+  "name": "arp-auth",
+  "version": "0.2.0",
+  "summary": "Auth helpers for ARP components (OIDC client credentials and token exchange).",
+  "author": "Agent Runtime Protocol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arp_auth-0.2.0.tar.gz",
+  "download_time": "2025-12-27T09:17:15.586297",
+  "package_url": "https://pypi.org/project/arp-auth/"
+}

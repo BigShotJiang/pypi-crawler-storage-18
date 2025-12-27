@@ -1,11 +1,11 @@
 {
   "name": "khalib",
-  "version": "0.2",
+  "version": "0.3",
   "summary": "Classifier Calibration with Khiops",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "khalib-0.2.tar.gz",
-  "download_time": "2025-12-26T16:47:10.064572",
+  "download_filename": "khalib-0.3.tar.gz",
+  "download_time": "2025-12-27T09:17:07.343611",
   "package_url": "https://pypi.org/project/khalib/"
 }
