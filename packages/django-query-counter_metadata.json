@@ -1,0 +1,11 @@
+{
+  "name": "django-query-counter",
+  "version": "0.4.2",
+  "summary": "Debug tool to print SQL queries count to the console",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_query_counter-0.4.2.tar.gz",
+  "download_time": "2025-12-27T15:15:54.787121",
+  "package_url": "https://pypi.org/project/django-query-counter/"
+}

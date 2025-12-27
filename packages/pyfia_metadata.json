@@ -1,11 +1,11 @@
 {
   "name": "pyfia",
-  "version": "1.1.0b1",
+  "version": "1.1.0b2",
   "summary": "High-performance Python library for Forest Inventory Analysis (FIA) data analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyfia-1.1.0b1.tar.gz",
-  "download_time": "2025-12-23T18:53:06.052170",
+  "download_filename": "pyfia-1.1.0b2.tar.gz",
+  "download_time": "2025-12-27T15:16:05.615579",
   "package_url": "https://pypi.org/project/pyfia/"
 }

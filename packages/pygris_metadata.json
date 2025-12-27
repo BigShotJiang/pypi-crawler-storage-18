@@ -1,0 +1,11 @@
+{
+  "name": "pygris",
+  "version": "0.2.1",
+  "summary": "Download and use US Census Bureau TIGER/Line Shapefiles and other data resources in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygris-0.2.1.tar.gz",
+  "download_time": "2025-12-27T15:15:56.324929",
+  "package_url": "https://pypi.org/project/pygris/"
+}

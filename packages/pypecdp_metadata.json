@@ -1,0 +1,11 @@
+{
+  "name": "pypecdp",
+  "version": "0.3.0",
+  "summary": "Async Chrome DevTools Protocol over POSIX pipes.",
+  "author": "sohaib17",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pypecdp-0.3.0.tar.gz",
+  "download_time": "2025-12-27T15:15:52.740850",
+  "package_url": "https://pypi.org/project/pypecdp/"
+}

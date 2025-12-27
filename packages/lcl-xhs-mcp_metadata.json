@@ -1,0 +1,11 @@
+{
+  "name": "lcl-xhs-mcp",
+  "version": "0.4.3",
+  "summary": "A Model Context Protocol (MCP) server for Xiaohongshu (Little Red Book) automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lcl_xhs_mcp-0.4.3.tar.gz",
+  "download_time": "2025-12-27T15:15:57.349487",
+  "package_url": "https://pypi.org/project/lcl-xhs-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kvdroid",
+  "version": "0.7.1",
+  "summary": "A re-implementation of android java API in python with easy access to some Android functionalitylike Notification,Reading of Contacts, accessing Webview Cookies, etc...",
+  "author": "Yunus Ceyhan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kvdroid-0.7.1.tar.gz",
+  "download_time": "2025-12-27T15:16:08.699757",
+  "package_url": "https://pypi.org/project/kvdroid/"
+}
