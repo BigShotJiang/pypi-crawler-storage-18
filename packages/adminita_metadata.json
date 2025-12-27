@@ -1,11 +1,11 @@
 {
   "name": "adminita",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A modern admin interface for Django using Tailwind CSS v4",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adminita-0.1.5.tar.gz",
-  "download_time": "2025-12-23T01:10:24.564982",
+  "download_filename": "adminita-0.1.6.tar.gz",
+  "download_time": "2025-12-27T14:35:37.914205",
   "package_url": "https://pypi.org/project/adminita/"
 }

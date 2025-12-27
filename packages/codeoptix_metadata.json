@@ -1,11 +1,11 @@
 {
   "name": "codeoptix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Agentic Code Optimization & Deep Evaluation for Superior Coding Agent Experience. Built by Superagentic AI.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "codeoptix-0.1.1.tar.gz",
-  "download_time": "2025-12-27T13:41:50.495130",
+  "download_filename": "codeoptix-0.1.2.tar.gz",
+  "download_time": "2025-12-27T14:35:39.475584",
   "package_url": "https://pypi.org/project/codeoptix/"
 }
