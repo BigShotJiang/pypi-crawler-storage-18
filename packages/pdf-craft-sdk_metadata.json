@@ -1,0 +1,11 @@
+{
+  "name": "pdf-craft-sdk",
+  "version": "0.4.0",
+  "summary": "A Python SDK for PDF Craft API",
+  "author": "User",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pdf-craft-sdk",
+  "download_filename": "pdf_craft_sdk-0.4.0.tar.gz",
+  "download_time": "2025-12-27T13:07:55.156742",
+  "package_url": "https://pypi.org/project/pdf-craft-sdk/"
+}

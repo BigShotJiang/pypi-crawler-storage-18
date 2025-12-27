@@ -1,11 +1,11 @@
 {
   "name": "article-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Article MCP文献搜索服务器 - 基于Europe PMC、arXiv等多个数据源的学术文献搜索工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "article_mcp-0.2.0.tar.gz",
-  "download_time": "2025-12-27T12:29:28.324643",
+  "download_filename": "article_mcp-0.2.1.tar.gz",
+  "download_time": "2025-12-27T13:08:11.110493",
   "package_url": "https://pypi.org/project/article-mcp/"
 }

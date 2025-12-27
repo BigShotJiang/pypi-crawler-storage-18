@@ -1,0 +1,11 @@
+{
+  "name": "form-submit",
+  "version": "0.1.0",
+  "summary": "A Python package to display an HTML form in Colab, capture submissions, and send data via email.",
+  "author": "Louati Mahdi",
+  "license": null,
+  "home_page": "https://github.com/mahdi123-tech/form_submit",
+  "download_filename": "form_submit-0.1.0.tar.gz",
+  "download_time": "2025-12-27T13:07:46.927790",
+  "package_url": "https://pypi.org/project/form-submit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emeralx",
+  "version": "0.9.1",
+  "summary": "A library for making simple 2D games",
+  "author": "modaochangyang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emeralx-0.9.1.tar.gz",
+  "download_time": "2025-12-27T13:07:49.493812",
+  "package_url": "https://pypi.org/project/emeralx/"
+}

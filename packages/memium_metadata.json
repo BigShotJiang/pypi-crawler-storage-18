@@ -1,11 +1,11 @@
 {
   "name": "memium",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "Memium",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memium-1.9.0.tar.gz",
-  "download_time": "2025-12-27T11:50:56.895847",
+  "download_filename": "memium-1.10.0.tar.gz",
+  "download_time": "2025-12-27T13:07:51.567108",
   "package_url": "https://pypi.org/project/memium/"
 }

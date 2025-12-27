@@ -1,0 +1,11 @@
+{
+  "name": "ChemographyKit",
+  "version": "0.1.0",
+  "summary": "A Python library for exploring chemical space using Generative Topographic Mapping.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chemographykit-0.1.0.tar.gz",
+  "download_time": "2025-12-27T13:07:45.901583",
+  "package_url": "https://pypi.org/project/ChemographyKit/"
+}
