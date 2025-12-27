@@ -1,11 +1,11 @@
 {
   "name": "repo2ai",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Export Git repository contents to structured Markdown with AI chat integration",
   "author": "Georg Hildebrand",
   "license": "MIT",
   "home_page": "https://github.com/georghildebrand/repo2ai",
-  "download_filename": "repo2ai-0.2.1.tar.gz",
-  "download_time": "2025-12-27T23:16:24.502515",
+  "download_filename": "repo2ai-0.2.3.tar.gz",
+  "download_time": "2025-12-27T23:34:04.142297",
   "package_url": "https://pypi.org/project/repo2ai/"
 }

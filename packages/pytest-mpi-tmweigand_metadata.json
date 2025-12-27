@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mpi-tmweigand",
+  "version": "0.7.0",
+  "summary": "forked pytest plugin to collect information from tests",
+  "author": "Timothy M. Weigand",
+  "license": "3-clause BSD",
+  "home_page": "https://github.com/tmweigand/pytest-mpi",
+  "download_filename": "pytest_mpi_tmweigand-0.7.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-27T23:34:06.711994",
+  "package_url": "https://pypi.org/project/pytest-mpi-tmweigand/"
+}

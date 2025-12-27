@@ -1,14 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T23:17:10.882245
-- **Total Packages**: 90
-- **Total Size**: 33.65 MB
+- **Download Time**: 2025-12-27T23:34:40.881851
+- **Total Packages**: 87
+- **Total Size**: 11.88 MB
 
 ## Packages List
+- claude-code-tools
+- unifi-controller-api
+- gdbrunner
+- osvc-kalkulacka
+- fastmssql
+- solaredge2mqtt
+- aiogram-webhook
+- IncludeCPP
+- engram-notion-mcp
+- serix
+- cdk8s-plone
+- agentfield
+- tacotoolbox
+- mbp
+- macblock
+- lerpnet
+- repo2ai
+- plexmix
+- sendspin
+- asynctasq
+- langchain-unstructured
+- pytest-mpi-tmweigand
+- hother-cancelable
+- dycw-utilities
+- khaos-cli
+- frigobar
+- nanocoder
+- copilotagent
+- naylence-agent-sdk
+- finbrain-python
 - pixiq
 - munchboka-edutools
-- repo2ai
 - graph-refs-dataclasses
 - naylence-runtime
 - spotoptim
@@ -16,9 +45,7 @@
 - vlaamscodex
 - watchcode-cli
 - pythermite
-- tacotoolbox
 - graphqlite
-- serix
 - autoclean-ds
 - devhand
 - trueentropy
@@ -26,7 +53,6 @@
 - karaoke-gen
 - depswiz
 - fit2gpx-lightning
-- macblock
 - roksta
 - readme-writer
 - zuban
@@ -37,7 +63,6 @@
 - embed-anything
 - trancepoint
 - pytest-checkers
-- engram-notion-mcp
 - aiq-platform-api
 - enroll
 - unicorefw
@@ -58,7 +83,6 @@
 - vegabase
 - pivpy
 - telegrify
-- mbp
 - zengeld-canvas
 - pyzenith
 - phoonnx
@@ -69,30 +93,3 @@
 - corncobs
 - num2ltr
 - pyfia
-- toon-format-parser
-- rocket-welder-sdk
-- cowado
-- oxyde
-- ftllexengine
-- lerpnet
-- jaaql-middleware-python
-- pynetlink
-- random-symplectic
-- libpixelair
-- tenso
-- odsbox-jaquel-mcp
-- autoform
-- not1mm
-- oxyde-core
-- pcu
-- aquiles-image
-- JthonsTorches
-- holm
-- nsip-client
-- IncludeCPP
-- shrinkray
-- pref_voting
-- dataclass-wizard
-- image-thr
-- pepedd
-- pepedd-nodes

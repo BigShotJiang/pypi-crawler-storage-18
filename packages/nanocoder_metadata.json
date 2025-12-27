@@ -1,0 +1,11 @@
+{
+  "name": "nanocoder",
+  "version": "0.2.0",
+  "summary": "A multi-provider coding agent with Textual TUI (supports Gemini, OpenAI, Anthropic)",
+  "author": "Yuxiang Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanocoder-0.2.0.tar.gz",
+  "download_time": "2025-12-27T23:34:09.324659",
+  "package_url": "https://pypi.org/project/nanocoder/"
+}
