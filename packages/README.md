@@ -1,15 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T10:19:36.093115
-- **Total Packages**: 87
-- **Total Size**: 17.92 MB
+- **Download Time**: 2025-12-27T10:40:04.506569
+- **Total Packages**: 83
+- **Total Size**: 12.72 MB
 
 ## Packages List
-- abstract-flask
-- ml-management
+- psqlmodel
+- saif
+- funpaybotengine
+- maleo-metadata-client
+- asanAI
+- ruamel.yaml.clibz
+- kopi-docka
+- setuptools-zig
+- nvfuser-cu130
+- nvfuser-cu128
+- pypi-package-stats
+- tole-tool
+- fflive
+- carbatpy
+- codeany-hubs-mcp-server
 - stow-install
+- shannot
+- poly-web3
+- zohocrmsdk8-0
+- termella
 - mns-common
+- orbit-torch
+- flake8-params
+- abstract-flask
+- xtop-cli
+- repo-smith
+- mp-hfs
+- mcp-memory-service
+- cats-feedback
+- ml-management
 - caffee
 - ai-edge-torch-nightly
 - nexo-soma
@@ -17,7 +43,6 @@
 - nexo-middlewares
 - yara-dsl
 - adorable-cli
-- termella
 - arp-jarvis-rungateway
 - easyths
 - nexo-google
@@ -50,7 +75,6 @@
 - coze-coding-dev-sdk
 - autocoder-cli-sdk
 - no-mcp-server
-- codeany-hubs-mcp-server
 - nexo-database
 - dycw-utilities
 - synapse-sdk
@@ -65,31 +89,3 @@
 - bayesian-optimization
 - micasense-imageprocessing
 - tfp-nightly
-- saif
-- agentbill-py-crewai
-- agentbill-py-langchain
-- agentbill-py-sdk
-- mosparo-django
-- monitor-claude
-- xync-bot
-- wrapper-tls-requests
-- mathinfinity
-- ai-rulez
-- mp4fixer
-- hanary-mcp
-- kbbi-mcp
-- ragscore
-- astreum
-- llmify-cli
-- ask2api
-- ainfra
-- ORD
-- tork-governance
-- ollama-tool-cli
-- attp-client
-- p2pstore
-- console-player-noffmpeg
-- console-player
-- tenuo
-- lastuuid
-- django-full-kit

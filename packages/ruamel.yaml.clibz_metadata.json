@@ -1,11 +1,11 @@
 {
   "name": "ruamel.yaml.clibz",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "C version of reader, parser and emitter for ruamel.yaml, compiled with Zig, derived from libyaml",
   "author": "Anthon van der Neut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ruamel_yaml_clibz-0.3.2.tar.gz",
-  "download_time": "2025-12-24T09:45:05.599010",
+  "download_filename": "ruamel_yaml_clibz-0.3.3.tar.gz",
+  "download_time": "2025-12-27T10:39:23.612452",
   "package_url": "https://pypi.org/project/ruamel.yaml.clibz/"
 }

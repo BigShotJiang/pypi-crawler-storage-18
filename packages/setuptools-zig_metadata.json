@@ -1,11 +1,11 @@
 {
   "name": "setuptools-zig",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A setuptools extension, for building cpython extensions in Zig or C with the Zig compiler",
   "author": null,
   "license": "MIT",
   "home_page": "https://sourceforge.net/p/setuptools-zig/code/ref/default/",
-  "download_filename": "setuptools_zig-0.5.0.tar.gz",
-  "download_time": "2025-12-25T17:34:55.452301",
+  "download_filename": "setuptools_zig-0.5.1.tar.gz",
+  "download_time": "2025-12-27T10:39:24.638127",
   "package_url": "https://pypi.org/project/setuptools-zig/"
 }
