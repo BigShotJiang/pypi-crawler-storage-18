@@ -1,11 +1,11 @@
 {
   "name": "robo-infra",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Universal robotics infrastructure - control any robot from servo to rocket",
   "author": "nfraxlab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "robo_infra-0.2.1.tar.gz",
-  "download_time": "2025-12-27T08:21:44.610686",
+  "download_filename": "robo_infra-0.2.2.tar.gz",
+  "download_time": "2025-12-27T18:22:45.806825",
   "package_url": "https://pypi.org/project/robo-infra/"
 }

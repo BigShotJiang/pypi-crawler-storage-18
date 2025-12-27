@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-edi-no-autocreate-partner",
+  "version": "16.0.1.0.0.2",
+  "summary": "Prevents auto-creation of partners during invoice import by assigning unmatched invoices to a protected “Partner Not Found” contact.",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi",
+  "download_filename": "odoo_addon_account_edi_no_autocreate_partner-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-12-27T18:22:34.808056",
+  "package_url": "https://pypi.org/project/odoo-addon-account-edi-no-autocreate-partner/"
+}

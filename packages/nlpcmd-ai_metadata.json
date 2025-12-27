@@ -1,0 +1,11 @@
+{
+  "name": "nlpcmd-ai",
+  "version": "0.1.0",
+  "summary": "A true NLP-powered command line assistant using AI - works on Windows, Linux, and macOS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlpcmd_ai-0.1.0.tar.gz",
+  "download_time": "2025-12-27T18:22:46.933933",
+  "package_url": "https://pypi.org/project/nlpcmd-ai/"
+}
