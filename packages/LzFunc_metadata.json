@@ -1,0 +1,11 @@
+{
+  "name": "LzFunc",
+  "version": "0.1.2",
+  "summary": "A small library with some 1-line functions to reduce boilerplate in the code. Also has some unusual functions. The main part contains about 5 functions, 1 class and an extra 1 error.",
+  "author": "Pozitive_Guy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lzfunc-0.1.2.tar.gz",
+  "download_time": "2025-12-27T19:51:04.462956",
+  "package_url": "https://pypi.org/project/LzFunc/"
+}
