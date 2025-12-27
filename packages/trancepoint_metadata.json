@@ -1,0 +1,11 @@
+{
+  "name": "trancepoint",
+  "version": "0.1.1",
+  "summary": "SDK for agent observability and monitoring with backend integration",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/agent-observability",
+  "download_filename": "trancepoint-0.1.1.tar.gz",
+  "download_time": "2025-12-27T23:16:39.469159",
+  "package_url": "https://pypi.org/project/trancepoint/"
+}

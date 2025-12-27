@@ -1,11 +1,11 @@
 {
   "name": "macblock",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Local DNS sinkhole for macOS using dnsmasq",
   "author": "SpyicyDev",
   "license": null,
   "home_page": null,
-  "download_filename": "macblock-0.2.5.tar.gz",
-  "download_time": "2025-12-27T13:42:01.063428",
+  "download_filename": "macblock-0.2.6.tar.gz",
+  "download_time": "2025-12-27T23:16:34.097368",
   "package_url": "https://pypi.org/project/macblock/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-base-app",
+  "version": "0.3.4",
+  "summary": "Generic tools and base classes for Python applications with web interface.",
+  "author": "Marcus Rickert",
+  "license": null,
+  "home_page": "https://github.com/marcus67/python_base_app",
+  "download_filename": "python_base_app-0.3.4.tar.gz",
+  "download_time": "2025-12-27T23:16:44.697804",
+  "package_url": "https://pypi.org/project/python-base-app/"
+}

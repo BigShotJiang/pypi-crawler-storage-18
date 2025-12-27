@@ -1,11 +1,11 @@
 {
   "name": "devhand",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "CLI tool to improve devX for webapps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devhand-0.2.0.tar.gz",
-  "download_time": "2025-12-27T20:43:39.118584",
+  "download_filename": "devhand-0.2.1.tar.gz",
+  "download_time": "2025-12-27T23:16:30.863589",
   "package_url": "https://pypi.org/project/devhand/"
 }

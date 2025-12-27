@@ -1,20 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T22:53:35.626123
-- **Total Packages**: 87
-- **Total Size**: 22.84 MB
+- **Download Time**: 2025-12-27T23:17:10.882245
+- **Total Packages**: 90
+- **Total Size**: 33.65 MB
 
 ## Packages List
-- qtype
-- sentimentscopeai
+- pixiq
+- munchboka-edutools
+- repo2ai
+- graph-refs-dataclasses
+- naylence-runtime
+- spotoptim
+- python-recutils
+- vlaamscodex
+- watchcode-cli
+- pythermite
+- tacotoolbox
+- graphqlite
+- serix
+- autoclean-ds
+- devhand
+- trueentropy
+- hanzo-mcp
+- karaoke-gen
+- depswiz
+- fit2gpx-lightning
+- macblock
+- roksta
+- readme-writer
+- zuban
+- personalitygen
+- pycep-parser
+- pymongosql
+- sqruff
+- embed-anything
+- trancepoint
+- pytest-checkers
+- engram-notion-mcp
+- aiq-platform-api
+- enroll
+- unicorefw
+- pychnosz
+- arzule-ingest
+- clientele
+- metapyle
+- python-base-app
+- loraxmod
 - nsip-skills
 - nsip-mcp-server
+- qtype
+- sentimentscopeai
 - metagame
 - victron-mqtt
 - test-helper-by-delica
 - langchain-salesforce
-- unicorefw
 - vegabase
 - pivpy
 - telegrify
@@ -36,7 +76,6 @@
 - ftllexengine
 - lerpnet
 - jaaql-middleware-python
-- trueentropy
 - pynetlink
 - random-symplectic
 - libpixelair
@@ -57,39 +96,3 @@
 - image-thr
 - pepedd
 - pepedd-nodes
-- phasedist
-- agentfield
-- pyiceberg-firestore-gcs
-- foundry-mcp
-- finanzonline-databox
-- pivmetalib
-- embed-anything-gpu
-- hetman-pipeline
-- mcp-memory-service
-- genomeshader
-- psqlmodel
-- jsonmodels
-- grug-lang
-- extrator-lattes
-- kopi-docka
-- netbook
-- tklr-dgraham
-- pytest-checkers
-- ojsTerminalBio
-- spectral-trust
-- aimodelshare
-- hexdoc-hyperhexcast
-- vtk-python-docs
-- video-specs
-- MoleditPy-linux
-- MoleditPy
-- naylence-agent-sdk
-- arzule-ingest
-- rom24-quickmud-python
-- vlaamscodex
-- xev-data
-- pre-commit-crocodile
-- omniopt2
-- naylence-runtime
-- rheedium
-- sloppy-json

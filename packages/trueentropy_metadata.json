@@ -1,11 +1,11 @@
 {
   "name": "trueentropy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "True randomness from real-world entropy sources - harness chaos from network latency, system jitter, seismic activity, and financial markets",
   "author": "TrueEntropy Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "trueentropy-0.1.0.tar.gz",
-  "download_time": "2025-12-27T22:53:05.468351",
+  "download_filename": "trueentropy-0.1.1.tar.gz",
+  "download_time": "2025-12-27T23:16:31.388006",
   "package_url": "https://pypi.org/project/trueentropy/"
 }

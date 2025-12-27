@@ -1,11 +1,11 @@
 {
   "name": "unicorefw",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Universal Core Utility Library",
   "author": "Kenny Ngo",
   "license": null,
   "home_page": "https://github.com/unicorefw-org/unicorefw-py",
-  "download_filename": "unicorefw-1.1.0.tar.gz",
-  "download_time": "2025-12-27T22:52:53.847092",
+  "download_filename": "unicorefw-1.1.2.tar.gz",
+  "download_time": "2025-12-27T23:16:42.070977",
   "package_url": "https://pypi.org/project/unicorefw/"
 }

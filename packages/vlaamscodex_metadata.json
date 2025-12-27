@@ -1,11 +1,11 @@
 {
   "name": "vlaamscodex",
-  "version": "0.1.7",
-  "summary": "A transpiler toolchain for Platskript, a parody programming language using Flemish dialect keywords that compiles to Python",
+  "version": "0.2.0",
+  "summary": "A transpiler toolchain for Platskript, a parody programming language using Multi-Vlaams dialect keywords that compiles to Python",
   "author": "VlaamsCodex contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "vlaamscodex-0.1.7.tar.gz",
-  "download_time": "2025-12-27T22:16:21.657428",
+  "download_filename": "vlaamscodex-0.2.0.tar.gz",
+  "download_time": "2025-12-27T23:16:27.158510",
   "package_url": "https://pypi.org/project/vlaamscodex/"
 }

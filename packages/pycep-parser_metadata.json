@@ -1,0 +1,11 @@
+{
+  "name": "pycep-parser",
+  "version": "0.6.1",
+  "summary": "A Python based Bicep parser",
+  "author": "Anton Grübel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycep_parser-0.6.1.tar.gz",
+  "download_time": "2025-12-27T23:16:37.367434",
+  "package_url": "https://pypi.org/project/pycep-parser/"
+}

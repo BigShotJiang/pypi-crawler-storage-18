@@ -1,11 +1,11 @@
 {
   "name": "nsip-skills",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "Breeding decision support tools for sheep genetics using NSIP EBV data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nsip_skills-1.4.4.tar.gz",
-  "download_time": "2025-12-27T22:52:50.485287",
+  "download_filename": "nsip_skills-1.4.5.tar.gz",
+  "download_time": "2025-12-27T23:16:45.737900",
   "package_url": "https://pypi.org/project/nsip-skills/"
 }

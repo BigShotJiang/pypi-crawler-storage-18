@@ -1,11 +1,11 @@
 {
   "name": "clientele",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "The Python API Client Generator for FastAPI, Django REST Framework, and Django Ninja",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clientele-1.0.1.tar.gz",
-  "download_time": "2025-12-27T22:37:13.787678",
+  "download_filename": "clientele-1.1.0.tar.gz",
+  "download_time": "2025-12-27T23:16:43.657377",
   "package_url": "https://pypi.org/project/clientele/"
 }
