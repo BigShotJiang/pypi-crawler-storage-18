@@ -1,0 +1,11 @@
+{
+  "name": "secapka",
+  "version": "0.1.12",
+  "summary": "Secapka - Framework CLI d'analyse d'APK Android",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "secapka-0.1.12.tar.gz",
+  "download_time": "2025-12-27T19:38:40.903742",
+  "package_url": "https://pypi.org/project/secapka/"
+}

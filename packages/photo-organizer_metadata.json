@@ -1,11 +1,11 @@
 {
   "name": "photo-organizer",
-  "version": "1.7.2",
+  "version": "2.0.0",
   "summary": "A script to organize photos by creation date into year/month/day folders.",
   "author": "Supporterino",
   "license": "MIT",
   "home_page": "https://github.com/Supporterino/photo-organizer",
-  "download_filename": "photo_organizer-1.7.2.tar.gz",
-  "download_time": "2025-12-27T16:19:01.105425",
+  "download_filename": "photo_organizer-2.0.0.tar.gz",
+  "download_time": "2025-12-27T19:38:43.698757",
   "package_url": "https://pypi.org/project/photo-organizer/"
 }
