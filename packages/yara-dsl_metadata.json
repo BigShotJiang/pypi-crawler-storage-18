@@ -1,0 +1,11 @@
+{
+  "name": "yara-dsl",
+  "version": "0.1.2",
+  "summary": "Semantic YARA DSL - Construction-time validation",
+  "author": "Sanjeev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yara_dsl-0.1.2.tar.gz",
+  "download_time": "2025-12-27T10:18:55.399820",
+  "package_url": "https://pypi.org/project/yara-dsl/"
+}

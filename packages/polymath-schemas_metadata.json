@@ -1,11 +1,11 @@
 {
   "name": "polymath-schemas",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Schemas for Polymath python reference implementations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polymath_schemas-0.2.3.tar.gz",
-  "download_time": "2025-12-27T09:51:39.844375",
+  "download_filename": "polymath_schemas-0.2.4.tar.gz",
+  "download_time": "2025-12-27T10:19:10.875694",
   "package_url": "https://pypi.org/project/polymath-schemas/"
 }

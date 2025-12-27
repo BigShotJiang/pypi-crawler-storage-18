@@ -1,0 +1,11 @@
+{
+  "name": "justdo",
+  "version": "0.1.1",
+  "summary": "Just do it! - 一个简单的命令行待办事项工具",
+  "author": "gqy20",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "justdo-0.1.1.tar.gz",
+  "download_time": "2025-12-27T10:19:09.846360",
+  "package_url": "https://pypi.org/project/justdo/"
+}

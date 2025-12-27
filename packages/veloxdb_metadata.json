@@ -1,0 +1,11 @@
+{
+  "name": "veloxdb",
+  "version": "0.1.0",
+  "summary": "A high performance embedded vector database written in C++ with AVX2 Support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "veloxdb-0.1.0-cp312-cp312-manylinux_2_39_x86_64.whl",
+  "download_time": "2025-12-27T10:19:19.232636",
+  "package_url": "https://pypi.org/project/veloxdb/"
+}

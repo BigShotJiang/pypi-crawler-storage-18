@@ -1,0 +1,11 @@
+{
+  "name": "euring",
+  "version": "0.1.0",
+  "summary": "A Python library and CLI for decoding, validating, and working with EURING bird ringing data records.",
+  "author": "Dylan Verheul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "euring-0.1.0.tar.gz",
+  "download_time": "2025-12-27T10:19:03.143380",
+  "package_url": "https://pypi.org/project/euring/"
+}

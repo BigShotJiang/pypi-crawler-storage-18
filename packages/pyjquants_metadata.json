@@ -1,11 +1,11 @@
 {
   "name": "pyjquants",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Investor-friendly OOP Python library for J-Quants API",
   "author": "Soshi Mizutani",
   "license": null,
   "home_page": null,
-  "download_filename": "pyjquants-0.1.0.tar.gz",
-  "download_time": "2025-12-27T08:21:41.803392",
+  "download_filename": "pyjquants-0.1.1.tar.gz",
+  "download_time": "2025-12-27T10:19:15.589120",
   "package_url": "https://pypi.org/project/pyjquants/"
 }
