@@ -1,0 +1,11 @@
+{
+  "name": "spawn-user-agent",
+  "version": "0.0.4",
+  "summary": "Super simple user agent generator",
+  "author": "Fastily",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spawn_user_agent-0.0.4.tar.gz",
+  "download_time": "2025-12-27T05:18:20.107515",
+  "package_url": "https://pypi.org/project/spawn-user-agent/"
+}
