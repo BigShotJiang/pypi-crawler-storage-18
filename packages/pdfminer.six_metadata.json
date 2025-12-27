@@ -1,0 +1,11 @@
+{
+  "name": "pdfminer.six",
+  "version": "20251227",
+  "summary": "PDF parser and analyzer",
+  "author": "Yusuke Shinyama, Pieter Marsman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfminer_six-20251227.tar.gz",
+  "download_time": "2025-12-27T20:17:59.489257",
+  "package_url": "https://pypi.org/project/pdfminer.six/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "docstrfmt",
+  "version": "2.0.1",
+  "summary": "docstrfmt: A formatter for Sphinx flavored reStructuredText.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docstrfmt-2.0.1.tar.gz",
+  "download_time": "2025-12-27T20:18:06.233935",
+  "package_url": "https://pypi.org/project/docstrfmt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ghost-protocol",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "The automated guardian of your sanity. Auto-ignores junk & protects repos.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ghost_protocol-1.0.2.tar.gz",
-  "download_time": "2025-12-27T19:50:59.006451",
+  "download_filename": "ghost_protocol-1.0.3.tar.gz",
+  "download_time": "2025-12-27T20:18:18.104206",
   "package_url": "https://pypi.org/project/ghost-protocol/"
 }
