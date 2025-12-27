@@ -1,11 +1,11 @@
 {
   "name": "noob-gradio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A lightweight async alternative to gradio_client without heavy dependencies.",
   "author": "Noob",
   "license": null,
   "home_page": null,
-  "download_filename": "noob_gradio-1.0.2.tar.gz",
-  "download_time": "2025-12-22T23:15:01.917348",
+  "download_filename": "noob_gradio-1.0.3.tar.gz",
+  "download_time": "2025-12-27T17:51:07.158015",
   "package_url": "https://pypi.org/project/noob-gradio/"
 }

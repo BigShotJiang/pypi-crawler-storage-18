@@ -1,11 +1,11 @@
 {
   "name": "usageflow-core",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Core functionality for UsageFlow - Usage-based pricing made simple",
   "author": "UsageFlow",
   "license": null,
   "home_page": "https://github.com/usageflow/usageflow-python",
-  "download_filename": "usageflow_core-0.3.3.tar.gz",
-  "download_time": "2025-12-26T22:53:38.451935",
+  "download_filename": "usageflow_core-0.3.4.tar.gz",
+  "download_time": "2025-12-27T17:51:26.566974",
   "package_url": "https://pypi.org/project/usageflow-core/"
 }

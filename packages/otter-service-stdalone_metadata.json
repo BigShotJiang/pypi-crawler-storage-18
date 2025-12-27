@@ -1,0 +1,11 @@
+{
+  "name": "otter-service-stdalone",
+  "version": "1.1.36",
+  "summary": "Grading Service for Instructors using Otter Grader",
+  "author": "Sean Morris",
+  "license": null,
+  "home_page": "https://github.com/sean-morris/otter-service-stdalone",
+  "download_filename": "otter_service_stdalone-1.1.36.tar.gz",
+  "download_time": "2025-12-27T17:51:21.308054",
+  "package_url": "https://pypi.org/project/otter-service-stdalone/"
+}

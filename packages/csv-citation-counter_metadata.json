@@ -1,0 +1,11 @@
+{
+  "name": "csv-citation-counter",
+  "version": "0.1.0",
+  "summary": "Summarize CSV publication and citation data by column.",
+  "author": "Tiger Deng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "csv_citation_counter-0.1.0.tar.gz",
+  "download_time": "2025-12-27T17:51:19.215240",
+  "package_url": "https://pypi.org/project/csv-citation-counter/"
+}

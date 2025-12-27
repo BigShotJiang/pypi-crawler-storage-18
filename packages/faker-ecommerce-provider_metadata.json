@@ -1,11 +1,11 @@
 {
   "name": "faker-ecommerce-provider",
-  "version": "1.0.0",
-  "summary": "Faker provider for generating e-commerce fake data",
+  "version": "1.0.2",
+  "summary": "Generate realistic e-commerce test data: products, SKUs, orders, 20+ carriers, 20+ payment methods, coupons, reviews, and more",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "faker_ecommerce_provider-1.0.0.tar.gz",
-  "download_time": "2025-12-27T17:15:11.998344",
+  "download_filename": "faker_ecommerce_provider-1.0.2.tar.gz",
+  "download_time": "2025-12-27T17:51:16.609529",
   "package_url": "https://pypi.org/project/faker-ecommerce-provider/"
 }

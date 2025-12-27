@@ -1,17 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T17:34:23.811781
-- **Total Packages**: 89
-- **Total Size**: 19.88 MB
+- **Download Time**: 2025-12-27T17:51:51.121609
+- **Total Packages**: 88
+- **Total Size**: 14.29 MB
 
 ## Packages List
+- pyPLNmodels
+- visdax
+- nalogovich
+- interpn
+- stackweaver
+- noob-gradio
+- xpatch-rs
+- tathaagat-pip
+- spotify-profile-monitor
+- mtcli-vap
+- tau-community-detection
+- ssnolib
+- souleyez
+- quasarr
+- constella
+- munchboka-edutools
+- pytest-checkers
+- tunnelify
+- mapminer
+- pyb_utils
+- odoo-addon-account-edi-no-product-name-match
+- faker-healthcare-provider
+- pdflinkcheck
+- faker-ecommerce-provider
+- jettask
+- flybook
+- faker-ai-provider
+- voc4cat
+- csv-citation-counter
+- dynamarq
+- DiscordTranscript
+- django-iran-ip
+- otter-service-stdalone
+- pyhabitat
 - usb-remote
 - aiterm-dev
 - microfinity
 - mcp-stata
 - rocketdoo
-- pyhabitat
 - onerouter
 - usageflow-flask
 - usageflow-fastapi
@@ -28,7 +61,6 @@
 - ax-lang
 - metapyle
 - marginaleffects
-- nalogovich
 - pygame-widget-kit
 - obsidian-vault-mcp
 - userhub
@@ -42,16 +74,12 @@
 - beneissue
 - airbrowser-client
 - modulitiz
-- faker-healthcare-provider
 - alibabacloud-ecd20200930
-- faker-ecommerce-provider
 - geoph
-- faker-ai-provider
 - npcpy
 - PyGreSQL
 - private-attribute-cpp
 - PCILeechFWGenerator
-- visdax
 - easypygamewidgets
 - karaoke-gen
 - wwpdb.utils.wf
@@ -66,32 +94,3 @@
 - datawarden
 - easy-edge-tts
 - modulitiz-micro
-- purekit
-- videofetch
-- cs-models
-- ErisPulse-QvQChat
-- persona-engine
-- ontolutils
-- xpatch-rs
-- medmetric
-- font-fetcher
-- udf-tools
-- parallel-hill-climber
-- drugs
-- koine-sdk
-- RubigramClient
-- homeconnect-websocket
-- glaium
-- s3ranger
-- gammarers.aws-cdk-errors
-- markdown-flow
-- shrinkray
-- uncms
-- brewbar
-- viu-media
-- copapy
-- spectral-trust
-- causers
-- brinicle
-- ask2api
-- ElSabio
