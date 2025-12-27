@@ -1,11 +1,11 @@
 {
   "name": "solvOR",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Solvor all your optimization needs.",
   "author": "Steven Bytheway",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solvor-0.5.0.tar.gz",
-  "download_time": "2025-12-26T17:15:50.456166",
+  "download_filename": "solvor-0.5.1.tar.gz",
+  "download_time": "2025-12-27T04:54:33.773868",
   "package_url": "https://pypi.org/project/solvOR/"
 }

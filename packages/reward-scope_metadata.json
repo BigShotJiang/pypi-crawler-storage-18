@@ -1,0 +1,11 @@
+{
+  "name": "reward-scope",
+  "version": "0.2.0",
+  "summary": "Reward debugging and hacking detection for reinforcement learning",
+  "author": "RewardScope Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "reward_scope-0.2.0.tar.gz",
+  "download_time": "2025-12-27T04:54:31.102907",
+  "package_url": "https://pypi.org/project/reward-scope/"
+}

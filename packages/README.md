@@ -1,20 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T04:31:50.858755
+- **Download Time**: 2025-12-27T04:55:02.555386
 - **Total Packages**: 73
-- **Total Size**: 11.94 MB
+- **Total Size**: 5.08 MB
 
 ## Packages List
-- compair-core
+- nutri-matic
+- specify-extend
+- tup-cli
+- ErisPulse-QvQChat
+- kstandard
+- reporoulette
+- agentpool
+- zhtw
+- githubfucker
+- opennetics-edge
+- ctplite
+- copilot-proxy
+- unmeshed-sdk
+- abloom
+- xinference-client
+- reward-scope
+- kivy-reloader
+- storytelling
+- far-search-tool
+- solvOR
 - basecollab
-- mtmbbox
-- email-archiver
+- keras-nlp-nightly
+- keras-hub-nightly
 - zengeld-canvas
+- wikilangs
+- fewlab
+- kelviq-sdk
+- dataclass-wizard
+- qbitwave
+- email-archiver
+- agentica
+- treeline-money
+- deltashare-api
+- compair-core
+- mtmbbox
 - aimodelshare
 - devbooster
 - keras-nightly
-- far-search-tool
 - mtmqujing
 - psqlmodel
 - trade-safety
@@ -22,7 +51,6 @@
 - mp-btp
 - imessage-wrapped
 - youtube-to-docs
-- nutri-matic
 - kotormcp
 - kotor-diff
 - kotorcli
@@ -51,31 +79,3 @@
 - py-pve-cloud-backup
 - pyenforce
 - opustag
-- ollama-local-serve
-- tsqx
-- keras-rs-nightly
-- fewlab
-- polarcap
-- qlisp
-- GANDLF
-- liteai-sdk
-- pyfrontkit
-- mtopencv
-- yhlogin
-- odoo-addon-payroll
-- solar-cli-eldermarx
-- aden-py
-- django-minio-storage-idtinc
-- vondb
-- kamiwaza-mlx
-- ephemeral-terminal-chat
-- ilovetools
-- juliana-laba8-property
-- umik-base-app
-- yuantao-fmk
-- crpto
-- crypo
-- flaask
-- callbotics-sdk
-- swig
-- alopex

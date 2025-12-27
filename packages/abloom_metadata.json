@@ -1,11 +1,11 @@
 {
   "name": "abloom",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "High-performance Bloom filter for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "abloom-0.3.0.tar.gz",
-  "download_time": "2025-12-23T20:54:01.609463",
+  "download_filename": "abloom-1.0.0.tar.gz",
+  "download_time": "2025-12-27T04:54:30.054901",
   "package_url": "https://pypi.org/project/abloom/"
 }
