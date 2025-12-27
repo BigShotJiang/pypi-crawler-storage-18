@@ -1,11 +1,11 @@
 {
   "name": "chad-ai",
-  "version": "0.3.12",
+  "version": "0.3.13",
   "summary": "Chad: YOLO AI",
   "author": "Team Chad: AI Police",
   "license": null,
   "home_page": null,
-  "download_filename": "chad_ai-0.3.12.tar.gz",
-  "download_time": "2025-12-26T23:51:51.718883",
+  "download_filename": "chad_ai-0.3.13.tar.gz",
+  "download_time": "2025-12-27T06:53:58.937660",
   "package_url": "https://pypi.org/project/chad-ai/"
 }
