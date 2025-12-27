@@ -1,0 +1,11 @@
+{
+  "name": "picohttp",
+  "version": "0.0.11",
+  "summary": "A very minimal HTTP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picohttp-0.0.11.tar.gz",
+  "download_time": "2025-12-27T17:15:18.547658",
+  "package_url": "https://pypi.org/project/picohttp/"
+}
