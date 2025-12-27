@@ -1,11 +1,11 @@
 {
   "name": "unstdlibpy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple example package",
   "author": "Chen Yuxuan",
   "license": null,
   "home_page": null,
-  "download_filename": "unstdlibpy-0.0.1.tar.gz",
-  "download_time": "2025-12-27T10:53:15.339492",
+  "download_filename": "unstdlibpy-0.0.2.tar.gz",
+  "download_time": "2025-12-27T14:15:26.714585",
   "package_url": "https://pypi.org/project/unstdlibpy/"
 }

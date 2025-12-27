@@ -1,0 +1,11 @@
+{
+  "name": "careless-py",
+  "version": "0.0.1",
+  "summary": "Python version of R careless package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "careless_py-0.0.1.tar.gz",
+  "download_time": "2025-12-27T14:15:26.202842",
+  "package_url": "https://pypi.org/project/careless-py/"
+}

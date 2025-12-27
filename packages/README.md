@@ -1,21 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T13:53:17.531407
-- **Total Packages**: 89
-- **Total Size**: 18.49 MB
+- **Download Time**: 2025-12-27T14:16:01.123457
+- **Total Packages**: 87
+- **Total Size**: 16.17 MB
 
 ## Packages List
+- Ked
+- mannetroll-cupystorm
+- asyncPyGithub
+- dataform-view-migrator
+- zbWidgetLib
+- mahnoor
+- abstract-flask
+- asyncuvkit
+- markdown-editor-mcp-server
+- brief-survey
+- pypck
+- iterpy
+- fgo-api-types
 - wildberries-sdk
+- xiaothink
+- plexflow
+- poiidx
+- maheer
+- telegrify
+- careless-py
+- unstdlibpy
+- github-contribution-writer
+- easyths
+- batrachian-toad
+- frago-cli
+- ujeebu-scrapy
+- artemis-model
+- DensityFlowMO
+- xllamacpp
+- sftppathlib
+- dijkies
+- ai-rulez
+- pgslice
+- dtflow
+- speech-map
+- streamlit-lightweight-charts-v5
+- MapleX
+- keras2c
+- myepubapp
+- tensordict-nightly
+- arase-sdk
 - aimodelshare
 - qtoggleserver
-- fgo-api-types
 - ncjishaku
 - gurufocus-mcp
 - gurufocus-api
 - koruspy
 - ufaas
-- asyncuvkit
 - PBQA
 - omniopt2
 - gegd
@@ -35,7 +73,6 @@
 - data-time-machine
 - infiniloom
 - nonebot-plugin-bili2mp4
-- easyths
 - human-readable-id
 - mcp-memory-service
 - superposition-sdk
@@ -56,42 +93,3 @@
 - havsalt-little-termite
 - pgtree
 - DiscordTranscript
-- codeoptix
-- rustpy2025
-- mapminer
-- rplc
-- pathfinding-py
-- assay-it
-- fastmcp-sqltools
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- msglc
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- promptshield-ptit
-- nbdev-stdlib
-- liteai-sdk
-- agile-todo-cli
-- yt-channel-downloader
-- macblock
-- jarvis-ai-assistant
-- stegvault
-- birdeye
-- cvforge
-- abstract-flask
-- emeralx
-- shannot
-- powerfulcases
-- xlmcp
-- visdax
-- beancount-gocardless
-- fittrackee
-- ChemographyKit
-- tofu-tree
-- form-submit
-- amrita
-- omniai-lakshya
-- imessage-year-wrapped

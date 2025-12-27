@@ -1,0 +1,11 @@
+{
+  "name": "dataform-view-migrator",
+  "version": "0.1.6",
+  "summary": "Migrate BigQuery views into Dataform view definitions.",
+  "author": "Alan Vainsencher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataform_view_migrator-0.1.6.tar.gz",
+  "download_time": "2025-12-27T14:15:17.475594",
+  "package_url": "https://pypi.org/project/dataform-view-migrator/"
+}
