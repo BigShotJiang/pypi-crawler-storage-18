@@ -1,0 +1,11 @@
+{
+  "name": "unit-hifigan",
+  "version": "0.1.2",
+  "summary": "Unit HiFi-GAN",
+  "author": "Maxime Poli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unit_hifigan-0.1.2.tar.gz",
+  "download_time": "2025-12-27T11:40:27.321826",
+  "package_url": "https://pypi.org/project/unit-hifigan/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "visaionlibrary",
-  "version": "0.6.15",
+  "version": "0.6.16",
   "summary": "A comprehensive deep learning library for computer vision tasks, built on OpenMMLab ecosystem.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "visaionlibrary-0.6.15.tar.gz",
-  "download_time": "2025-12-24T13:44:21.921565",
+  "download_filename": "visaionlibrary-0.6.16.tar.gz",
+  "download_time": "2025-12-27T11:40:20.152184",
   "package_url": "https://pypi.org/project/visaionlibrary/"
 }

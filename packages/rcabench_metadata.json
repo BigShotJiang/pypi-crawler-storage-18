@@ -1,0 +1,11 @@
+{
+  "name": "rcabench",
+  "version": "1.1.52",
+  "summary": "RCABench - A comprehensive root cause analysis benchmarking platform for microservices",
+  "author": "Lincyaw, rainystevn1, YifanYang6",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcabench-1.1.52.tar.gz",
+  "download_time": "2025-12-27T11:40:20.664336",
+  "package_url": "https://pypi.org/project/rcabench/"
+}

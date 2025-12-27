@@ -1,0 +1,11 @@
+{
+  "name": "puffcoble",
+  "version": "0.1.0",
+  "summary": "Python BLE SDK for Puffco Peak Pro devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "puffcoble-0.1.0.tar.gz",
+  "download_time": "2025-12-27T11:40:25.280864",
+  "package_url": "https://pypi.org/project/puffcoble/"
+}

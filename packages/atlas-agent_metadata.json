@@ -1,0 +1,11 @@
+{
+  "name": "atlas-agent",
+  "version": "0.9.8.dev7",
+  "summary": "Multi-agent CLI to operate Atlas via gRPC, with LLM-powered planning and tooling.",
+  "author": "Feng Lab",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "atlas_agent-0.9.8.dev7-py3-none-any.whl",
+  "download_time": "2025-12-27T11:40:29.980788",
+  "package_url": "https://pypi.org/project/atlas-agent/"
+}

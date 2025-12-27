@@ -1,28 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T11:31:09.661431
-- **Total Packages**: 88
-- **Total Size**: 9.47 MB
+- **Download Time**: 2025-12-27T11:40:59.866653
+- **Total Packages**: 84
+- **Total Size**: 8.55 MB
 
 ## Packages List
+- aiqtoolkit-llama-index
+- aiqtoolkit-mem0ai
+- aiqtoolkit
+- codesense
+- minecraft-server-creator
+- fastapi-clean-archi
+- visaionlibrary
+- rcabench
+- pytest-multilog
+- specular-differentiation
+- fastmcp-sqltools
+- 59chat
+- s-MProcs
+- qanswer_sdk
+- MProcs
+- torchx-nightly
+- puffcoble
+- IncludeCPP
+- vibe-infra
+- whatsapp-toolkit
+- unit-hifigan
+- torchft-nightly
+- blazeserve
+- codegate-cli
+- auto-coder
+- atlas-agent
+- canns
+- ragscore
+- l-pdf-extractor
 - nats-view
 - vllm-ascend
 - finam-trade-api
 - metaerrors
 - numin2
 - normattiva2md
-- minecraft-server-creator
 - motioneye
 - mysql-awesome-stats-collector
 - mteb
 - py-observatory
 - gridvoting-jax
 - sqlean-stubs
-- ragscore
 - tf-keras-nightly
 - pigeonpy
-- IncludeCPP
 - document-preprocessor
 - llm-feat
 - mailbreeze
@@ -34,7 +60,6 @@
 - tacotoolbox
 - adorable-cli
 - asanAI
-- specular-differentiation
 - python-zenity-wrapper
 - mlprep-rust
 - yirifi-ops-mcp-hub
@@ -65,32 +90,3 @@
 - nvidia-nat-llama-index
 - psqlmodel
 - nvidia-nat-profiling
-- nvidia-nat-opentelemetry
-- bifrost-ai
-- nvidia-nat-nemo-customizer
-- mkdocs-intersphinx
-- nvidia-nat-mem0ai
-- nvidia-nat
-- trainy-policy-nightly
-- nvidia-nat-mysql
-- nvidia-nat-data-flywheel
-- utf8-tokenizer
-- unstdlibpy
-- trainy-mlop-nightly
-- nvidia-nat-all
-- yara-dsl
-- nvidia-nat-weave
-- nvidia-nat-a2a
-- nvidia-nat-s3
-- nvidia-nat-crewai
-- nvidia-nat-redis
-- nvidia-nat-langchain
-- fflive
-- nvidia-nat-semantic-kernel
-- nvidia-nat-zep-cloud
-- termella
-- klaude-code
-- nvidia-nat-agno
-- nvidia-nat-vanna
-- aiqtoolkit-semantic-kernel
-- letta-nightly
