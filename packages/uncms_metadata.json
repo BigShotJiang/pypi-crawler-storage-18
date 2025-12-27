@@ -1,0 +1,11 @@
+{
+  "name": "uncms",
+  "version": "0.0.14",
+  "summary": "A CMS toolkit for Django emphasising simplicity, speed, and familiarity.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncms-0.0.14.tar.gz",
+  "download_time": "2025-12-27T16:47:22.454065",
+  "package_url": "https://pypi.org/project/uncms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "actvalue.mongo-client",
+  "version": "0.1.0",
+  "summary": "Singleton MongoDB client for AWS Lambda and serverless environments",
+  "author": "ActValue",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actvalue_mongo_client-0.1.0.tar.gz",
+  "download_time": "2025-12-27T16:47:34.651053",
+  "package_url": "https://pypi.org/project/actvalue.mongo-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bascom",
+  "version": "0.1.1",
+  "summary": "Core library that my tools use.",
+  "author": "Andrew Udvare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bascom-0.1.1.tar.gz",
+  "download_time": "2025-12-27T16:47:42.562712",
+  "package_url": "https://pypi.org/project/bascom/"
+}

@@ -1,14 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T16:19:38.324243
-- **Total Packages**: 82
-- **Total Size**: 44.88 MB
+- **Download Time**: 2025-12-27T16:48:04.610546
+- **Total Packages**: 89
+- **Total Size**: 35.72 MB
 
 ## Packages List
+- koine-sdk
+- easy-edge-tts
+- RubigramClient
+- homeconnect-websocket
+- glaium
+- s3ranger
+- gammarers.aws-cdk-errors
+- markdown-flow
+- shrinkray
+- uncms
+- brewbar
+- viu-media
+- copapy
+- spectral-trust
+- causers
+- brinicle
+- ask2api
+- scrapebadger
+- ElSabio
+- klaude-code
+- aiterm-dev
+- omnibase_core
+- mol2chemfigPy3
+- pyPLNmodels
+- middleman-ml
+- forest-gen
+- starlingbank-v2
+- aimodelshare
+- luxprint
+- Tefect
+- acto
+- tabularforge-sgk
+- actvalue.mongo-client
+- campers
+- realms-gos
+- fabriq
+- decube-auth
+- ml-clara
+- tombi
+- pyopenapi-gen
+- pyavrocd
+- step-cli-tools
+- cltk
+- boneio
+- gmi-ieops
+- visdax
+- warn-transformer
+- bascom
+- cmeta
+- telegram-rag-bot
+- safetext
+- phrasplit
 - colibri-stateless
 - varphi-interpreter
-- aimodelshare
 - codevec
 - fastpluggy-postgres-tools
 - aiohomematic-test-support
@@ -18,7 +69,6 @@
 - pyrng
 - undetected
 - mp-btp
-- markdown-flow
 - photo-organizer
 - easyths
 - jupyterpack
@@ -39,52 +89,9 @@
 - rnow
 - foodeo-core
 - uv-secure
-- klaude-code
 - private-attribute-cpp
 - QTradeX
 - nvlib-sn
 - ax-lang
 - yumo
-- gmi-ieops
 - agentpool
-- contextnest
-- ft3
-- varphi-python-dap
-- cherry-shared
-- python-recutils
-- Yahtzee-On-Terminal
-- brinicle
-- oEmbedPy
-- pyircsdk
-- ksbanim
-- metop
-- webtap-tool
-- mtanvil
-- strutex
-- glaium
-- rumoca
-- qqmusic-api-python
-- locoformer
-- karaoke-gen
-- souleyez
-- realms-gos
-- vcsp-guard
-- IHopesProperties
-- opdroid
-- fastyaml-rs
-- cmeuncerpy
-- wmill-pg
-- wmill
-- jax-shape-tracker
-- windmill-api
-- tea-bond
-- wah
-- pycmd2
-- costgov
-- pydongo
-- symbolicwisardpkg
-- loom-agent
-- asyncPyGithub
-- mcp-memory-service
-- structural-lib-is456
-- watchcode-cli

@@ -1,0 +1,11 @@
+{
+  "name": "luxprint",
+  "version": "1.0.0",
+  "summary": "Elegant terminal text updater and animated progress bars",
+  "author": "YourName",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "luxprint-1.0.0.tar.gz",
+  "download_time": "2025-12-27T16:47:32.566541",
+  "package_url": "https://pypi.org/project/luxprint/"
+}

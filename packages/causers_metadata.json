@@ -1,11 +1,11 @@
 {
   "name": "causers",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "High-performance statistical operations for Polars DataFrames",
   "author": "James Nordlund",
   "license": null,
   "home_page": null,
-  "download_filename": "causers-0.5.1.tar.gz",
-  "download_time": "2025-12-26T04:07:09.908739",
+  "download_filename": "causers-0.6.0.tar.gz",
+  "download_time": "2025-12-27T16:47:25.202677",
   "package_url": "https://pypi.org/project/causers/"
 }

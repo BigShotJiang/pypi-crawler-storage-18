@@ -1,0 +1,11 @@
+{
+  "name": "fabriq",
+  "version": "0.2.9.5",
+  "summary": "Fabriq is a Python SDK for developing quick, low code Generative AI solutions.",
+  "author": "Aaryan Verma",
+  "license": "MIT",
+  "home_page": "https://github.com/Aaryanverma/fabriq",
+  "download_filename": "fabriq-0.2.9.5.tar.gz",
+  "download_time": "2025-12-27T16:47:36.239295",
+  "package_url": "https://pypi.org/project/fabriq/"
+}
