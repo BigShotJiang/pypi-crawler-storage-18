@@ -1,0 +1,11 @@
+{
+  "name": "ai-rules-generator",
+  "version": "1.0.0",
+  "summary": "A CLI tool that generates comprehensive AI coding agent rules for Cursor and Claude Code",
+  "author": "AI Rules Generator Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_rules_generator-1.0.0.tar.gz",
+  "download_time": "2025-12-27T22:52:59.765445",
+  "package_url": "https://pypi.org/project/ai-rules-generator/"
+}

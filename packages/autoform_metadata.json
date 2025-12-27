@@ -1,11 +1,11 @@
 {
   "name": "autoform",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Composable function transformations for LLM programs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autoform-0.0.4.tar.gz",
-  "download_time": "2025-12-26T01:12:55.187764",
+  "download_filename": "autoform-0.0.6.tar.gz",
+  "download_time": "2025-12-27T22:53:08.540315",
   "package_url": "https://pypi.org/project/autoform/"
 }

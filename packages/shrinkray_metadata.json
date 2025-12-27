@@ -1,11 +1,11 @@
 {
   "name": "shrinkray",
-  "version": "25.12.27.2",
+  "version": "25.12.27.3",
   "summary": "Shrink Ray",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shrinkray-25.12.27.2.tar.gz",
-  "download_time": "2025-12-27T16:47:21.934209",
+  "download_filename": "shrinkray-25.12.27.3.tar.gz",
+  "download_time": "2025-12-27T22:53:13.243264",
   "package_url": "https://pypi.org/project/shrinkray/"
 }

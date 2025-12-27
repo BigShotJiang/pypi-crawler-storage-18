@@ -1,0 +1,11 @@
+{
+  "name": "pepedd",
+  "version": "0.1.0",
+  "summary": "A library for creating paired datasets with different degradations.",
+  "author": "Umzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pepedd-0.1.0.tar.gz",
+  "download_time": "2025-12-27T22:53:15.292295",
+  "package_url": "https://pypi.org/project/pepedd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "random-symplectic",
+  "version": "0.0.2",
+  "summary": "Random d-nary symplectic matrices for qudit Clifford gates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "random_symplectic-0.0.2.tar.gz",
+  "download_time": "2025-12-27T22:53:06.489098",
+  "package_url": "https://pypi.org/project/random-symplectic/"
+}

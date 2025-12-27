@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T22:37:38.412368
-- **Total Packages**: 81
-- **Total Size**: 19.06 MB
+- **Download Time**: 2025-12-27T22:53:35.626123
+- **Total Packages**: 87
+- **Total Size**: 22.84 MB
 
 ## Packages List
+- qtype
+- sentimentscopeai
+- nsip-skills
+- nsip-mcp-server
+- metagame
+- victron-mqtt
+- test-helper-by-delica
+- langchain-salesforce
+- unicorefw
+- vegabase
+- pivpy
+- telegrify
+- mbp
+- zengeld-canvas
+- pyzenith
+- phoonnx
+- mkv-episode-matcher
+- rpp-protocol
+- souleyez
+- ai-rules-generator
+- corncobs
+- num2ltr
+- pyfia
+- toon-format-parser
+- rocket-welder-sdk
+- cowado
+- oxyde
+- ftllexengine
+- lerpnet
+- jaaql-middleware-python
+- trueentropy
+- pynetlink
+- random-symplectic
+- libpixelair
+- tenso
+- odsbox-jaquel-mcp
+- autoform
+- not1mm
+- oxyde-core
+- pcu
+- aquiles-image
+- JthonsTorches
+- holm
+- nsip-client
+- IncludeCPP
+- shrinkray
+- pref_voting
+- dataclass-wizard
+- image-thr
+- pepedd
+- pepedd-nodes
+- phasedist
 - agentfield
 - pyiceberg-firestore-gcs
 - foundry-mcp
@@ -20,14 +72,12 @@
 - grug-lang
 - extrator-lattes
 - kopi-docka
-- IncludeCPP
 - netbook
 - tklr-dgraham
 - pytest-checkers
 - ojsTerminalBio
 - spectral-trust
 - aimodelshare
-- image-thr
 - hexdoc-hyperhexcast
 - vtk-python-docs
 - video-specs
@@ -43,47 +93,3 @@
 - naylence-runtime
 - rheedium
 - sloppy-json
-- clientele
-- imessage-wrapped
-- pycricinfo
-- solentware-base
-- pgn-read
-- chesstab
-- ublkit
-- chesscalc
-- rpp-protocol
-- agent-fuse
-- jupyterlab-solarized-light-theme
-- pycolonies
-- fastapi-factory-utilities
-- svg-ultralight
-- nanobot
-- phoonnx
-- figlinq
-- llm-council-core
-- relaxit
-- readme-writer
-- paginators
-- usageflow-flask
-- modu
-- jsoninja
-- commitwise
-- hikari-lightbulb
-- dify-dataset-sdk
-- nsip-mcp-server
-- nsip-client
-- synth-ai
-- powertrack-sdk
-- py-aiterm
-- gatsbie
-- linkd
-- ax-lang
-- rite
-- cline-core
-- raycast2D
-- maheer
-- mcp-stata
-- sentimentscopeai
-- neuronum
-- wikigen
-- mahnoor
