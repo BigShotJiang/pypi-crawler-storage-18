@@ -1,0 +1,11 @@
+{
+  "name": "wrapper-tls-requests",
+  "version": "1.1.9",
+  "summary": "A powerful and lightweight Python library for making secure and reliable HTTP/TLS fingerprint requests.",
+  "author": "Tu Pham",
+  "license": "MIT",
+  "home_page": "https://github.com/thewebscraping/tls-requests",
+  "download_filename": "wrapper_tls_requests-1.1.9.tar.gz",
+  "download_time": "2025-12-27T09:51:20.663728",
+  "package_url": "https://pypi.org/project/wrapper-tls-requests/"
+}

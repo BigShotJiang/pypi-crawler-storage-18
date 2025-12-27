@@ -1,11 +1,11 @@
 {
   "name": "asyncuvkit",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "summary": "Asyncuvkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asyncuvkit-0.3.1.tar.gz",
-  "download_time": "2025-12-27T09:16:57.120285",
+  "download_filename": "asyncuvkit-0.3.4.tar.gz",
+  "download_time": "2025-12-27T09:51:23.250311",
   "package_url": "https://pypi.org/project/asyncuvkit/"
 }

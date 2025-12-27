@@ -1,0 +1,11 @@
+{
+  "name": "django-full-kit",
+  "version": "0.2.0",
+  "summary": "A reusable Django package providing ready-to-use models, admin configurations, and utilities.",
+  "author": "aboalfazlH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_full_kit-0.2.0.tar.gz",
+  "download_time": "2025-12-27T09:51:35.420343",
+  "package_url": "https://pypi.org/project/django-full-kit/"
+}

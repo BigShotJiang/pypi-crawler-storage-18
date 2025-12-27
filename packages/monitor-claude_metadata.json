@@ -1,0 +1,11 @@
+{
+  "name": "monitor-claude",
+  "version": "1.0.5",
+  "summary": "Web-based usage monitoring tool for Claude Code",
+  "author": "Allan Napier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "monitor_claude-1.0.5.tar.gz",
+  "download_time": "2025-12-27T09:51:19.355919",
+  "package_url": "https://pypi.org/project/monitor-claude/"
+}

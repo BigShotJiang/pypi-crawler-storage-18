@@ -1,11 +1,11 @@
 {
   "name": "bonicbot-bridge",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python SDK for educational robotics programming with BonicBot A2",
   "author": "Autobonics Pvt Ltd",
   "license": null,
   "home_page": "https://github.com/autobonics/bonicbot-bridge",
-  "download_filename": "bonicbot_bridge-0.2.1.tar.gz",
-  "download_time": "2025-12-26T18:24:28.402603",
+  "download_filename": "bonicbot_bridge-0.2.2.tar.gz",
+  "download_time": "2025-12-27T09:51:37.964719",
   "package_url": "https://pypi.org/project/bonicbot-bridge/"
 }

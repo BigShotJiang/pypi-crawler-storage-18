@@ -1,11 +1,11 @@
 {
   "name": "kbbi-mcp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple MCP server for querying KBBI (Indonesian dictionary)",
   "author": "Gakuto Furuya",
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "kbbi_mcp-0.0.1.tar.gz",
-  "download_time": "2025-12-27T09:17:04.787517",
+  "download_filename": "kbbi_mcp-0.0.2.tar.gz",
+  "download_time": "2025-12-27T09:51:24.547159",
   "package_url": "https://pypi.org/project/kbbi-mcp/"
 }

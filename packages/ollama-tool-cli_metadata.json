@@ -1,0 +1,11 @@
+{
+  "name": "ollama-tool-cli",
+  "version": "1.1.1",
+  "summary": "CLI tool for managing Ollama models - backup, restore, update, and list models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_tool_cli-1.1.1.tar.gz",
+  "download_time": "2025-12-27T09:51:29.742025",
+  "package_url": "https://pypi.org/project/ollama-tool-cli/"
+}

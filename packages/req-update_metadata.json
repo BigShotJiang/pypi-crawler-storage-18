@@ -1,0 +1,11 @@
+{
+  "name": "req-update",
+  "version": "2.9.0",
+  "summary": "Update python, node, go, docker, and other dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "req_update-2.9.0.tar.gz",
+  "download_time": "2025-12-27T09:51:36.062487",
+  "package_url": "https://pypi.org/project/req-update/"
+}
