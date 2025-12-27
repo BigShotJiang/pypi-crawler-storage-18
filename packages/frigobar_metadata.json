@@ -1,0 +1,11 @@
+{
+  "name": "frigobar",
+  "version": "6",
+  "summary": "Distribute Python scripts to Windows machines without freezing them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frigobar-6.tar.gz",
+  "download_time": "2025-12-27T01:09:53.015530",
+  "package_url": "https://pypi.org/project/frigobar/"
+}

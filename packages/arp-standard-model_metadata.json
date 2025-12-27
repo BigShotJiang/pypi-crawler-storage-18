@@ -1,11 +1,11 @@
 {
   "name": "arp-standard-model",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Pydantic models for the ARP Standard (v1).",
   "author": "Agent Runtime Protocol",
   "license": null,
   "home_page": null,
-  "download_filename": "arp_standard_model-0.3.0.tar.gz",
-  "download_time": "2025-12-26T08:22:25.579422",
+  "download_filename": "arp_standard_model-0.3.1.tar.gz",
+  "download_time": "2025-12-27T01:09:46.720479",
   "package_url": "https://pypi.org/project/arp-standard-model/"
 }

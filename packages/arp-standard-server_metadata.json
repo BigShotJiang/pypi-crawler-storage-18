@@ -1,11 +1,11 @@
 {
   "name": "arp-standard-server",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "FastAPI server scaffolding for the ARP Standard (v1).",
   "author": "Agent Runtime Protocol",
   "license": null,
   "home_page": null,
-  "download_filename": "arp_standard_server-0.3.0.tar.gz",
-  "download_time": "2025-12-26T08:22:24.551834",
+  "download_filename": "arp_standard_server-0.3.1.tar.gz",
+  "download_time": "2025-12-27T01:09:45.682078",
   "package_url": "https://pypi.org/project/arp-standard-server/"
 }

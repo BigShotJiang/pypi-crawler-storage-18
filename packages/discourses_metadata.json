@@ -1,11 +1,11 @@
 {
   "name": "discourses",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "summary": "Official Python SDK for Discourses — Era-calibrated financial sentiment analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "discourses-1.1.1.tar.gz",
-  "download_time": "2025-12-26T23:51:46.136649",
+  "download_filename": "discourses-1.1.4.tar.gz",
+  "download_time": "2025-12-27T01:09:58.785177",
   "package_url": "https://pypi.org/project/discourses/"
 }

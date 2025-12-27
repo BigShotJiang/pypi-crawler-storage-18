@@ -1,0 +1,11 @@
+{
+  "name": "Bestatic",
+  "version": "0.0.31",
+  "summary": "A simple but really powerful static-site generator",
+  "author": "Tatsat Banerjee",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.bestaticpy.com/",
+  "download_filename": "bestatic-0.0.31.tar.gz",
+  "download_time": "2025-12-27T01:09:47.762680",
+  "package_url": "https://pypi.org/project/Bestatic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quickframe",
+  "version": "0.1.0",
+  "summary": "Lightning-fast video frame extraction tool - Part of QuickKit",
+  "author": "LoboGuardian 🐺",
+  "license": "MIT",
+  "home_page": "https://github.com/quickkit/quickframe",
+  "download_filename": "quickframe-0.1.0.tar.gz",
+  "download_time": "2025-12-27T01:09:26.035931",
+  "package_url": "https://pypi.org/project/quickframe/"
+}

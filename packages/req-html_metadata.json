@@ -1,0 +1,11 @@
+{
+  "name": "req-html",
+  "version": "1.0.0",
+  "summary": "Tool to analyze website and APIs via HTTP requests",
+  "author": "PixelPirate-bit",
+  "license": "MIT",
+  "home_page": "https://github.com/PixelPirate-bit/tool-REQ-HTML",
+  "download_filename": "req_html-1.0.0.tar.gz",
+  "download_time": "2025-12-27T01:09:36.166451",
+  "package_url": "https://pypi.org/project/req-html/"
+}

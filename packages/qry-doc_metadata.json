@@ -1,11 +1,11 @@
 {
   "name": "qry-doc",
-  "version": "0.1.5",
+  "version": "0.1.51",
   "summary": "Motor de análisis generativo que transforma el lenguaje natural en código ejecutable, visualizaciones y reportes PDF profesionales.",
   "author": "danro-dev",
   "license": null,
   "home_page": null,
-  "download_filename": "qry_doc-0.1.5.tar.gz",
-  "download_time": "2025-12-26T23:16:35.338439",
+  "download_filename": "qry_doc-0.1.51.tar.gz",
+  "download_time": "2025-12-27T01:09:55.108740",
   "package_url": "https://pypi.org/project/qry-doc/"
 }

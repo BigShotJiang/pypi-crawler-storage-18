@@ -1,0 +1,11 @@
+{
+  "name": "mangala",
+  "version": "1.0.0",
+  "summary": "Türk zeka ve strateji oyunu Mangala için bir kütüphane ve komut satırı oyunu.",
+  "author": "saveralf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mangala-1.0.0.tar.gz",
+  "download_time": "2025-12-27T01:09:44.110422",
+  "package_url": "https://pypi.org/project/mangala/"
+}
