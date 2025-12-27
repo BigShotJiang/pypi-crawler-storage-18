@@ -1,0 +1,11 @@
+{
+  "name": "metapyle",
+  "version": "0.1.0",
+  "summary": "Unified interface for querying financial time-series data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metapyle-0.1.0.tar.gz",
+  "download_time": "2025-12-27T17:33:47.630747",
+  "package_url": "https://pypi.org/project/metapyle/"
+}
