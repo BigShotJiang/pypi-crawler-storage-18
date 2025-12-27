@@ -1,0 +1,11 @@
+{
+  "name": "pyrng",
+  "version": "0.1.2",
+  "summary": "Chained algorithm ephemeral password and PIN generator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrng-0.1.2.tar.gz",
+  "download_time": "2025-12-27T16:18:59.052697",
+  "package_url": "https://pypi.org/project/pyrng/"
+}

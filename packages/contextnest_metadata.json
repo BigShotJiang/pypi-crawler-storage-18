@@ -1,11 +1,11 @@
 {
   "name": "contextnest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A cozy `nest` where all needed context is pre‑assembled for the LLM.",
   "author": "Ezzeldeen Mamdouh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextnest-0.1.1.tar.gz",
-  "download_time": "2025-12-27T03:00:44.841713",
+  "download_filename": "contextnest-0.1.2.tar.gz",
+  "download_time": "2025-12-27T16:19:16.102456",
   "package_url": "https://pypi.org/project/contextnest/"
 }

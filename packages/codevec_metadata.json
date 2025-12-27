@@ -1,0 +1,11 @@
+{
+  "name": "codevec",
+  "version": "1.0.0",
+  "summary": "Semantic search for functions in Python codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codevec-1.0.0.tar.gz",
+  "download_time": "2025-12-27T16:18:55.957093",
+  "package_url": "https://pypi.org/project/codevec/"
+}

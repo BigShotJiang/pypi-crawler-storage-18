@@ -1,0 +1,11 @@
+{
+  "name": "digpipe",
+  "version": "1.1.2",
+  "summary": "Decimal-Digit Input Pipeline",
+  "author": "DJ Stomp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "digpipe-1.1.2.tar.gz",
+  "download_time": "2025-12-27T16:19:09.921034",
+  "package_url": "https://pypi.org/project/digpipe/"
+}

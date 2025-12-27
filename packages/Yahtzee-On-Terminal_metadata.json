@@ -1,0 +1,11 @@
+{
+  "name": "Yahtzee-On-Terminal",
+  "version": "0.0.2",
+  "summary": "This package includes a famous boardgame 'Yahtzee', which is a two-player game.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yahtzee_on_terminal-0.0.2.tar.gz",
+  "download_time": "2025-12-27T16:19:18.666454",
+  "package_url": "https://pypi.org/project/Yahtzee-On-Terminal/"
+}

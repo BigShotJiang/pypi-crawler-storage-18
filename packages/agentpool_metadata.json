@@ -1,11 +1,11 @@
 {
   "name": "agentpool",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "summary": "Pydantic-AI based Multi-Agent Framework with YAML-based Agents, Teams, Workflows & Extended ACP / AGUI integration",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "agentpool-2.1.9.tar.gz",
-  "download_time": "2025-12-27T04:54:26.408142",
+  "download_filename": "agentpool-2.1.10.tar.gz",
+  "download_time": "2025-12-27T16:19:15.589465",
   "package_url": "https://pypi.org/project/agentpool/"
 }

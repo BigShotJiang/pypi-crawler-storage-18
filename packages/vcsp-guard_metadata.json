@@ -1,11 +1,11 @@
 {
   "name": "vcsp-guard",
-  "version": "1.0.3",
+  "version": "1.0.3.1",
   "summary": "Vibe Coding Security Protocol - Security & Quality Guardrails for AI Coding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vcsp_guard-1.0.3.tar.gz",
-  "download_time": "2025-12-27T03:00:08.024129",
+  "download_filename": "vcsp_guard-1.0.3.1.tar.gz",
+  "download_time": "2025-12-27T16:19:27.480949",
   "package_url": "https://pypi.org/project/vcsp-guard/"
 }

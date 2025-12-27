@@ -1,0 +1,11 @@
+{
+  "name": "yumo",
+  "version": "0.1.3",
+  "summary": "Scalar field visualization using Polyscope.",
+  "author": "Chaofan Luo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yumo-0.1.3.tar.gz",
+  "download_time": "2025-12-27T16:19:14.557915",
+  "package_url": "https://pypi.org/project/yumo/"
+}
