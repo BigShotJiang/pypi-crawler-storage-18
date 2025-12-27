@@ -1,11 +1,11 @@
 {
   "name": "claude-code-transcripts",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "Convert Claude Code session files to HTML transcripts",
   "author": "Simon Willison",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_transcripts-0.3.tar.gz",
-  "download_time": "2025-12-25T23:16:00.789402",
+  "download_filename": "claude_code_transcripts-0.4.tar.gz",
+  "download_time": "2025-12-27T07:33:24.012321",
   "package_url": "https://pypi.org/project/claude-code-transcripts/"
 }

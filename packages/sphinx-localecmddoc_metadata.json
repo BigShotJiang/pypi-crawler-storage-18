@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-localecmddoc",
+  "version": "0.5.1",
+  "summary": "Sphinx extension for autodocumenting localecmd modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_localecmddoc-0.5.1.tar.gz",
+  "download_time": "2025-12-27T07:33:23.479513",
+  "package_url": "https://pypi.org/project/sphinx-localecmddoc/"
+}

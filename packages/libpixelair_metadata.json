@@ -1,11 +1,11 @@
 {
   "name": "libpixelair",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": null,
   "author": "Aiden Vigue",
   "license": null,
   "home_page": null,
-  "download_filename": "libpixelair-0.2.1.tar.gz",
-  "download_time": "2025-12-27T07:16:44.672598",
+  "download_filename": "libpixelair-0.2.2.tar.gz",
+  "download_time": "2025-12-27T07:33:14.567583",
   "package_url": "https://pypi.org/project/libpixelair/"
 }
