@@ -1,0 +1,11 @@
+{
+  "name": "cmesdata",
+  "version": "1.2.8",
+  "summary": "cmes-data.com",
+  "author": "cmes-data.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmesdata-1.2.8-py3-none-any.whl",
+  "download_time": "2025-12-27T03:58:11.552005",
+  "package_url": "https://pypi.org/project/cmesdata/"
+}

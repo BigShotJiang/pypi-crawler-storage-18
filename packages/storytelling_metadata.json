@@ -1,11 +1,11 @@
 {
   "name": "storytelling",
-  "version": "0.2.17",
+  "version": "0.2.19",
   "summary": "AI-powered narrative generation system implementing Software 3.0 methodology - The Soul of Your Story's Blueprint",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "storytelling-0.2.17.tar.gz",
-  "download_time": "2025-12-27T03:00:29.769514",
+  "download_filename": "storytelling-0.2.19.tar.gz",
+  "download_time": "2025-12-27T03:58:20.370892",
   "package_url": "https://pypi.org/project/storytelling/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "crpto",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Defensive registration - 'crypt' is a built-in module. Use pycryptodome or cryptography instead.",
   "author": "Security Researcher",
   "license": null,
   "home_page": null,
-  "download_filename": "crpto-0.0.1.tar.gz",
-  "download_time": "2025-12-26T22:37:52.445530",
+  "download_filename": "crpto-0.0.3.tar.gz",
+  "download_time": "2025-12-27T03:58:02.923363",
   "package_url": "https://pypi.org/project/crpto/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "callbotics-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Callbotics Voice AI Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "callbotics_sdk-1.0.0.tar.gz",
+  "download_time": "2025-12-27T03:58:04.458349",
+  "package_url": "https://pypi.org/project/callbotics-sdk/"
+}

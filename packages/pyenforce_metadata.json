@@ -1,11 +1,11 @@
 {
   "name": "pyenforce",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "summary": "A comprehensive quality assurance CLI for enforcing strict Python code standards.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyenforce-0.0.0.tar.gz",
-  "download_time": "2025-12-26T23:51:55.567607",
+  "download_filename": "pyenforce-0.1.0.tar.gz",
+  "download_time": "2025-12-27T03:57:48.414696",
   "package_url": "https://pypi.org/project/pyenforce/"
 }

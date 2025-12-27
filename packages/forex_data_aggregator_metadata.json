@@ -1,0 +1,11 @@
+{
+  "name": "forex_data_aggregator",
+  "version": "0.1.0",
+  "summary": "Data aggregation for forex market data",
+  "author": "Nicola Fiorato",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forex_data_aggregator-0.1.0.tar.gz",
+  "download_time": "2025-12-27T03:58:24.896856",
+  "package_url": "https://pypi.org/project/forex_data_aggregator/"
+}
