@@ -1,0 +1,11 @@
+{
+  "name": "likelihood",
+  "version": "2.1.2",
+  "summary": "A package that performs the maximum likelihood algorithm.",
+  "author": "J. A. Moreno-Guerra",
+  "license": null,
+  "home_page": "https://github.com/jzsmoreno/likelihood/",
+  "download_filename": "likelihood-2.1.2.tar.gz",
+  "download_time": "2025-12-27T05:45:18.458053",
+  "package_url": "https://pypi.org/project/likelihood/"
+}

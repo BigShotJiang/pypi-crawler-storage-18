@@ -1,11 +1,11 @@
 {
   "name": "githubfucker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Dev All-in-One Accelerator (Github, Pip, Docker, Apt, UV)",
   "author": "pythonxueba",
   "license": null,
   "home_page": "https://github.com/pythonxueba",
-  "download_filename": "githubfucker-1.0.1.tar.gz",
-  "download_time": "2025-12-27T04:54:27.455520",
+  "download_filename": "githubfucker-1.0.2.tar.gz",
+  "download_time": "2025-12-27T05:45:33.348706",
   "package_url": "https://pypi.org/project/githubfucker/"
 }

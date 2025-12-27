@@ -1,11 +1,11 @@
 {
   "name": "zengeld-canvas",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "High-performance SVG chart rendering engine for financial data visualization",
   "author": "zengeld",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "zengeld_canvas-0.1.6.tar.gz",
-  "download_time": "2025-12-27T04:54:35.902375",
+  "download_filename": "zengeld_canvas-0.1.8.tar.gz",
+  "download_time": "2025-12-27T05:45:17.936719",
   "package_url": "https://pypi.org/project/zengeld-canvas/"
 }

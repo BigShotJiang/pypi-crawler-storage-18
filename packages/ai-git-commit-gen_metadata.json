@@ -1,11 +1,11 @@
 {
   "name": "ai-git-commit-gen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-powered git commit message generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_git_commit_gen-0.1.1.tar.gz",
-  "download_time": "2025-12-26T18:23:58.604820",
+  "download_filename": "ai_git_commit_gen-0.1.2.tar.gz",
+  "download_time": "2025-12-27T05:45:27.049466",
   "package_url": "https://pypi.org/project/ai-git-commit-gen/"
 }
