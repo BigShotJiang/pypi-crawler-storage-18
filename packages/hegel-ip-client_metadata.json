@@ -1,0 +1,11 @@
+{
+  "name": "hegel-ip-client",
+  "version": "0.1.4",
+  "summary": "Python client library for Hegel amplifiers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hegel_ip_client-0.1.4.tar.gz",
+  "download_time": "2025-12-27T07:16:39.991124",
+  "package_url": "https://pypi.org/project/hegel-ip-client/"
+}

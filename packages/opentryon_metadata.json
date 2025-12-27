@@ -1,0 +1,11 @@
+{
+  "name": "opentryon",
+  "version": "0.0.2",
+  "summary": "Open-source AI toolkit for fashion tech and virtual try-on",
+  "author": "TryOn Labs",
+  "license": "CC-BY-NC-4.0",
+  "home_page": "https://github.com/tryonlabs/opentryon",
+  "download_filename": "opentryon-0.0.2.tar.gz",
+  "download_time": "2025-12-27T07:16:45.191809",
+  "package_url": "https://pypi.org/project/opentryon/"
+}

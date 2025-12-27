@@ -1,11 +1,11 @@
 {
   "name": "aliyun-cert",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": "AGPLv3",
   "home_page": null,
-  "download_filename": "aliyun_cert-0.1.2.tar.gz",
-  "download_time": "2025-12-27T06:53:48.908592",
+  "download_filename": "aliyun_cert-0.1.4.tar.gz",
+  "download_time": "2025-12-27T07:16:39.473393",
   "package_url": "https://pypi.org/project/aliyun-cert/"
 }

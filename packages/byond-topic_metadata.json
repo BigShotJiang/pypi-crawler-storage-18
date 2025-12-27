@@ -1,0 +1,11 @@
+{
+  "name": "byond-topic",
+  "version": "0.1.2",
+  "summary": "Sending Topic packets to BYOND servers, and receive responses",
+  "author": "Tamber",
+  "license": null,
+  "home_page": "https://github.com/TamberP/byond.topic",
+  "download_filename": "byond_topic-0.1.2.tar.gz",
+  "download_time": "2025-12-27T07:16:28.362144",
+  "package_url": "https://pypi.org/project/byond-topic/"
+}

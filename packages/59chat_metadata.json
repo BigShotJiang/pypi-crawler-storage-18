@@ -1,11 +1,11 @@
 {
   "name": "59chat",
-  "version": "0.1.9",
+  "version": "0.2.6",
   "summary": "59-second zero-trace terminal chat",
   "author": "YourName",
   "license": null,
   "home_page": "https://github.com/yourusername/59chat",
-  "download_filename": "59chat-0.1.9.tar.gz",
-  "download_time": "2025-12-27T06:53:49.426782",
+  "download_filename": "59chat-0.2.6.tar.gz",
+  "download_time": "2025-12-27T07:16:29.388803",
   "package_url": "https://pypi.org/project/59chat/"
 }
