@@ -1,0 +1,11 @@
+{
+  "name": "egi-telemetry",
+  "version": "0.1.0",
+  "summary": "Telemetry SDK for EGIntegrations client engines",
+  "author": "EGIntegrations",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "egi_telemetry-0.1.0.tar.gz",
+  "download_time": "2025-12-27T19:29:05.477774",
+  "package_url": "https://pypi.org/project/egi-telemetry/"
+}
