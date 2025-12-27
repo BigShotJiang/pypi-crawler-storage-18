@@ -1,0 +1,11 @@
+{
+  "name": "python-zenity-wrapper",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python wrapper for Zenity dialogs",
+  "author": "CodeCaine",
+  "license": "MIT",
+  "home_page": "https://github.com/codecaine-zz/python_zenity_wrapper",
+  "download_filename": "python_zenity_wrapper-0.1.0.tar.gz",
+  "download_time": "2025-12-27T11:13:51.553152",
+  "package_url": "https://pypi.org/project/python-zenity-wrapper/"
+}

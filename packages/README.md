@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-27T10:53:42.013283
-- **Total Packages**: 84
-- **Total Size**: 3.13 MB
+- **Download Time**: 2025-12-27T11:14:30.692994
+- **Total Packages**: 87
+- **Total Size**: 6.25 MB
 
 ## Packages List
+- mailbreeze
+- libefiling
+- exness-data-preprocess
+- pigeonpy
+- purekit
+- langchain-dev-utils
+- pum
+- tacotoolbox
+- adorable-cli
+- asanAI
+- specular-differentiation
+- python-zenity-wrapper
+- mlprep-rust
+- yirifi-ops-mcp-hub
+- liteai-sdk
+- minecraft-server-creator
+- mns-scheduler
+- cltk
+- nanasqlite
+- normattiva2md
+- byteprint
+- hanary-mcp
 - KunQuant
 - chad-ai
 - logust
@@ -15,7 +37,6 @@
 - nvidia-nat-ragaai
 - nvidia-nat-test
 - nvidia-nat-strands
-- specular-differentiation
 - nvidia-nat-phoenix
 - tole-tool
 - nvidia-nat-mcp
@@ -36,7 +57,6 @@
 - nvidia-nat
 - trainy-policy-nightly
 - nvidia-nat-mysql
-- asanAI
 - nvidia-nat-data-flywheel
 - utf8-tokenizer
 - unstdlibpy
@@ -73,20 +93,3 @@
 - saif
 - funpaybotengine
 - maleo-metadata-client
-- ruamel.yaml.clibz
-- kopi-docka
-- setuptools-zig
-- nvfuser-cu130
-- nvfuser-cu128
-- pypi-package-stats
-- carbatpy
-- codeany-hubs-mcp-server
-- stow-install
-- shannot
-- poly-web3
-- zohocrmsdk8-0
-- mns-common
-- orbit-torch
-- flake8-params
-- abstract-flask
-- xtop-cli

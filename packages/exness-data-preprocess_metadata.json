@@ -1,0 +1,11 @@
+{
+  "name": "exness-data-preprocess",
+  "version": "2.0.0",
+  "summary": "Professional Exness forex tick data preprocessing with ClickHouse backend. Provides efficient storage with lossless precision and direct queryability.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exness_data_preprocess-2.0.0.tar.gz",
+  "download_time": "2025-12-27T11:13:46.881259",
+  "package_url": "https://pypi.org/project/exness-data-preprocess/"
+}

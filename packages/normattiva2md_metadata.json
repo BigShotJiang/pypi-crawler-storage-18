@@ -1,0 +1,11 @@
+{
+  "name": "normattiva2md",
+  "version": "2.0.23",
+  "summary": "Convertitore da XML Akoma Ntoso a formato Markdown con download automatico delle leggi citate e cross-references inline (CLI: normattiva2md)",
+  "author": "Andrea Borruso",
+  "license": "MIT",
+  "home_page": "https://github.com/ondata/normattiva_2_md",
+  "download_filename": "normattiva2md-2.0.23.tar.gz",
+  "download_time": "2025-12-27T11:13:55.678205",
+  "package_url": "https://pypi.org/project/normattiva2md/"
+}
