@@ -1,0 +1,11 @@
+{
+  "name": "udf-tools",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python library for handling UYAP UDF files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "udf_tools-0.1.0.tar.gz",
+  "download_time": "2025-12-27T16:58:10.358545",
+  "package_url": "https://pypi.org/project/udf-tools/"
+}
