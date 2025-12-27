@@ -1,11 +1,11 @@
 {
   "name": "naylence-agent-sdk",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Naylence Agent SDK",
   "author": "naylencedev@gmail.com",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "naylence_agent_sdk-0.4.3.tar.gz",
-  "download_time": "2025-12-27T21:44:18.248070",
+  "download_filename": "naylence_agent_sdk-0.4.4.tar.gz",
+  "download_time": "2025-12-27T22:16:33.140210",
   "package_url": "https://pypi.org/project/naylence-agent-sdk/"
 }

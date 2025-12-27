@@ -1,11 +1,11 @@
 {
   "name": "agent-fuse",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Circuit Breaker for AI Agents - Fail Safe by Default",
   "author": "AgentFuse Team",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_fuse-0.2.0.tar.gz",
-  "download_time": "2025-12-27T21:52:19.863505",
+  "download_filename": "agent_fuse-0.2.1.tar.gz",
+  "download_time": "2025-12-27T22:16:43.391322",
   "package_url": "https://pypi.org/project/agent-fuse/"
 }

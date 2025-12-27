@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-12-27T21:52:45.080706",
+  "download_time": "2025-12-27T22:17:08.689073",
   "total_packages_downloaded": 87,
-  "total_size_mb": 4.22,
+  "total_size_mb": 13.07,
   "packages": [
+    "phoonnx",
     "figlinq",
     "vlaamscodex",
     "llm-council-core",
@@ -88,7 +89,6 @@
     "mnspy",
     "svc-infra",
     "mirrorbox",
-    "knowledgenet",
-    "mcp-context-server"
+    "knowledgenet"
   ]
 }
