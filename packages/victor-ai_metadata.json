@@ -1,11 +1,11 @@
 {
   "name": "victor-ai",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Enterprise-Ready AI Coding Assistant - Code to Victory with Any AI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "victor_ai-0.2.2.tar.gz",
-  "download_time": "2025-12-27T08:21:31.761692",
+  "download_filename": "victor_ai-0.2.3.tar.gz",
+  "download_time": "2025-12-27T08:50:33.318436",
   "package_url": "https://pypi.org/project/victor-ai/"
 }
