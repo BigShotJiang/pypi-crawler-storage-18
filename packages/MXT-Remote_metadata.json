@@ -1,0 +1,11 @@
+{
+  "name": "MXT-Remote",
+  "version": "1.9.48",
+  "summary": "Remote client framework for Telegram automation using Pyrogram",
+  "author": "MrAhmadiRad",
+  "license": "MIT",
+  "home_page": "https://github.com/MohammadAhmadi-R/MXT_Remote",
+  "download_filename": "mxt_remote-1.9.48.tar.gz",
+  "download_time": "2025-12-27T11:50:44.555667",
+  "package_url": "https://pypi.org/project/MXT-Remote/"
+}
