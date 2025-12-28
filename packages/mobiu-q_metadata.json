@@ -1,11 +1,11 @@
 {
   "name": "mobiu-q",
-  "version": "2.6",
+  "version": "2.7.1",
   "summary": "Soft Algebra Optimizer for Quantum & Complex Optimization",
   "author": "Mobiu Technologies",
   "license": "Proprietary",
   "home_page": "https://mobiu.ai",
-  "download_filename": "mobiu_q-2.6.tar.gz",
-  "download_time": "2025-12-27T21:44:12.128679",
+  "download_filename": "mobiu_q-2.7.1.tar.gz",
+  "download_time": "2025-12-28T12:30:57.574812",
   "package_url": "https://pypi.org/project/mobiu-q/"
 }

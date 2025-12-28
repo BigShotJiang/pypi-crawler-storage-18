@@ -1,0 +1,11 @@
+{
+  "name": "tobii-gaze-server",
+  "version": "0.1.0",
+  "summary": "WebSocket server for Tobii Eye Tracker gaze data using Tobii Stream Engine",
+  "author": "Thomas Wagner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tobii_gaze_server-0.1.0.tar.gz",
+  "download_time": "2025-12-28T12:30:43.850092",
+  "package_url": "https://pypi.org/project/tobii-gaze-server/"
+}

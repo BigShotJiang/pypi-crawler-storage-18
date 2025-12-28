@@ -1,11 +1,11 @@
 {
   "name": "smithed-libraries",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "All of the Smithed Libraries",
   "author": "Smithed Council",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smithed_libraries-0.16.0.tar.gz",
-  "download_time": "2025-12-28T11:14:44.635858",
+  "download_filename": "smithed_libraries-0.16.1.tar.gz",
+  "download_time": "2025-12-28T12:31:00.169484",
   "package_url": "https://pypi.org/project/smithed-libraries/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyhems",
+  "version": "0.1.0",
+  "summary": "ECHONET Lite library for Home Energy Management System (HEMS)",
+  "author": "Sayurin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhems-0.1.0.tar.gz",
+  "download_time": "2025-12-28T12:31:01.199629",
+  "package_url": "https://pypi.org/project/pyhems/"
+}

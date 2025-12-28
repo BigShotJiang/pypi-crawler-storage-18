@@ -1,0 +1,11 @@
+{
+  "name": "spartaabc",
+  "version": "0.8.0",
+  "summary": "Indel model parameter inference.",
+  "author": null,
+  "license": "AFL-3.0",
+  "home_page": null,
+  "download_filename": "spartaabc-0.8.0.tar.gz",
+  "download_time": "2025-12-28T12:30:51.252233",
+  "package_url": "https://pypi.org/project/spartaabc/"
+}

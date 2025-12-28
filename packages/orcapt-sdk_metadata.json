@@ -1,11 +1,11 @@
 {
   "name": "orcapt-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Clean, minimal package for Orca platform integration",
   "author": "Orca Team",
   "license": "MIT",
   "home_page": "https://github.com/Orcapt/orca-pip",
-  "download_filename": "orcapt_sdk-1.0.3.tar.gz",
-  "download_time": "2025-12-24T18:51:56.892036",
+  "download_filename": "orcapt_sdk-1.0.4.tar.gz",
+  "download_time": "2025-12-28T12:30:48.030952",
   "package_url": "https://pypi.org/project/orcapt-sdk/"
 }

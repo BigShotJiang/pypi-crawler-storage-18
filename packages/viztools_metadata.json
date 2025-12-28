@@ -1,11 +1,11 @@
 {
   "name": "viztools",
-  "version": "0.6.1",
+  "version": "0.6.4",
   "summary": "Interactively visualize data using pygame.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viztools-0.6.1.tar.gz",
-  "download_time": "2025-12-23T17:16:57.899512",
+  "download_filename": "viztools-0.6.4.tar.gz",
+  "download_time": "2025-12-28T12:31:13.154600",
   "package_url": "https://pypi.org/project/viztools/"
 }

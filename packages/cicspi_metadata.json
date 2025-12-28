@@ -1,0 +1,11 @@
+{
+  "name": "cicspi",
+  "version": "0.1.2",
+  "summary": "Spice toolbox",
+  "author": "Carsten Wulff",
+  "license": "MIT",
+  "home_page": "https://github.com/wulffern/cicspi",
+  "download_filename": "cicspi-0.1.2.tar.gz",
+  "download_time": "2025-12-28T12:31:06.394590",
+  "package_url": "https://pypi.org/project/cicspi/"
+}
