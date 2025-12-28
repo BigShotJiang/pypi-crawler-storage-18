@@ -1,17 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T20:19:52.672814
-- **Total Packages**: 77
-- **Total Size**: 18.02 MB
+- **Download Time**: 2025-12-28T21:34:14.176213
+- **Total Packages**: 76
+- **Total Size**: 13.73 MB
 
 ## Packages List
+- glaium
 - gepa
 - AlexaPy
 - gcbrickwork
 - modict
 - pyagentpay
-- kodexa-document
 - moto
 - fastloop
 - foundry-ml
@@ -82,4 +82,3 @@
 - mkdocs-texsmith
 - texsmith
 - consts-everywhere
-- flake8-multiline-equals
