@@ -1,11 +1,11 @@
 {
   "name": "pygame-widget-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A GUI framework built on Pygame. Designed as a retained-mode UI system with a component tree, extensible widgets, and focus management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pygame_widget_kit-0.0.1.tar.gz",
-  "download_time": "2025-12-27T17:33:49.167122",
+  "download_filename": "pygame_widget_kit-0.0.2.tar.gz",
+  "download_time": "2025-12-28T11:15:05.144327",
   "package_url": "https://pypi.org/project/pygame-widget-kit/"
 }

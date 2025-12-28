@@ -1,11 +1,11 @@
 {
   "name": "investor-agent",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "A Model Context Protocol server for an investor agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "investor_agent-1.6.0.tar.gz",
-  "download_time": "2025-12-28T07:18:09.620786",
+  "download_filename": "investor_agent-1.6.1.tar.gz",
+  "download_time": "2025-12-28T11:14:52.334560",
   "package_url": "https://pypi.org/project/investor-agent/"
 }

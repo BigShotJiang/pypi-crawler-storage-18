@@ -1,0 +1,11 @@
+{
+  "name": "gnomad-db",
+  "version": "0.1.6",
+  "summary": "This package scales the huge gnomAD files to a SQLite database, which is easy and fast to query. It extracts from a gnomAD vcf the minor allele frequency for each variant.",
+  "author": "KalinNonchev",
+  "license": "MIT License",
+  "home_page": "https://github.com/KalinNonchev/gnomAD_DB",
+  "download_filename": "gnomad_db-0.1.6.tar.gz",
+  "download_time": "2025-12-28T11:14:58.996893",
+  "package_url": "https://pypi.org/project/gnomad-db/"
+}

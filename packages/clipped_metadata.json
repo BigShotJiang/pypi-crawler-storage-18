@@ -1,0 +1,11 @@
+{
+  "name": "clipped",
+  "version": "0.11.3",
+  "summary": "Common shortcuts and utils.",
+  "author": "Mourad Mourafiq",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mmourafiq/clipped",
+  "download_filename": "clipped-0.11.3.tar.gz",
+  "download_time": "2025-12-28T11:14:54.896051",
+  "package_url": "https://pypi.org/project/clipped/"
+}

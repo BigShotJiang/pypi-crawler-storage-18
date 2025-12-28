@@ -1,11 +1,11 @@
 {
   "name": "crm-automator",
-  "version": "1.7.5",
+  "version": "1.7.7",
   "summary": "AI-powered email processing and CRM automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crm_automator-1.7.5.tar.gz",
-  "download_time": "2025-12-28T10:40:52.904644",
+  "download_filename": "crm_automator-1.7.7.tar.gz",
+  "download_time": "2025-12-28T11:14:51.314282",
   "package_url": "https://pypi.org/project/crm-automator/"
 }

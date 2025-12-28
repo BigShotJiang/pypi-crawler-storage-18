@@ -1,11 +1,11 @@
 {
   "name": "craftsperson-env",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A configuration file parser for yaml, env, toml, xml, and json formats",
   "author": "Celal Akçelik",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "craftsperson_env-1.0.4.tar.gz",
-  "download_time": "2025-12-28T09:18:38.765098",
+  "download_filename": "craftsperson_env-1.0.5.tar.gz",
+  "download_time": "2025-12-28T11:15:02.071751",
   "package_url": "https://pypi.org/project/craftsperson-env/"
 }

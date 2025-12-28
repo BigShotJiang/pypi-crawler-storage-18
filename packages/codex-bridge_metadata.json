@@ -1,0 +1,11 @@
+{
+  "name": "codex-bridge",
+  "version": "1.2.3",
+  "summary": "Lightweight MCP server bridging Claude Code to OpenAI Codex via official CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_bridge-1.2.3.tar.gz",
+  "download_time": "2025-12-28T11:14:45.663703",
+  "package_url": "https://pypi.org/project/codex-bridge/"
+}

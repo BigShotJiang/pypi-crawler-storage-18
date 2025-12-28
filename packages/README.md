@@ -1,18 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T10:55:19.566741
-- **Total Packages**: 81
-- **Total Size**: 6.89 MB
+- **Download Time**: 2025-12-28T11:15:24.969884
+- **Total Packages**: 79
+- **Total Size**: 5.0 MB
 
 ## Packages List
+- notion-dev
+- smithed-libraries
+- textual-chat
+- codex-bridge
+- genesis-devtools
+- depswiz
+- nonebot-plugin-mc-whitelist-controller
+- mail-pigeon
+- udata-dl
+- agent-skills-cli
+- skills-mcp
+- souleyez
+- mcp-kql-server
+- invar-tools
+- crm-automator
+- gitcraft
+- investor-agent
+- pyhabitat
+- image-charts
+- ghost-protocol
+- dat1-runtime
+- clipped
+- pytest-json-ctrf
+- neuroglia-python
+- cypher-cell
+- xc-api-py
+- OAM-KIST
+- mediafile
+- screen-times
+- gnomad-db
+- breesy
+- pysqlcrypt
+- dockreap
+- sloppy-json
+- mode-manager-mcp
+- craftsperson-env
+- toolbox-python
+- pydantic-invoices
+- qtoggleserver
+- dynamic-mcp
+- minecraftbotsapi
+- pygame-widget-kit
 - keepass2-merger
 - easyths
 - autotunenet
 - spkrepo
-- gitcraft
 - skoufas-dbf-reader
-- souleyez
 - apcloudy
 - gixy-ng
 - regexapp
@@ -24,10 +64,8 @@
 - asyncgui
 - trainy-mlop-nightly
 - trainy-policy-nightly
-- ghost-protocol
 - fmtr.tools
 - duckdb-sqlalchemy
-- pyhabitat
 - kxy-open-id-client
 - gios
 - letta-nightly
@@ -41,49 +79,9 @@
 - DensityFlowMO
 - simple-dwd-weatherforecast
 - nanasqlite
-- screen-times
 - mp-hfs
 - py-aiterm
 - hother-cancelable
 - fractured-json
 - HydrogenLib-NEXT
 - pyscript-programming-language
-- crm-automator
-- yirifi-ops-mcp-hub
-- noteframe
-- repr-cli
-- dockreap
-- step-cli-tools
-- local-share-cli
-- HydrogenLib-Config
-- rocket-welder-sdk
-- gemini-bridge
-- zelas2
-- pysqlcrypt
-- ytdl-transcript
-- superposition-sdk
-- superposition-provider
-- superposition-bindings
-- pre_commit_mirror_maker_2
-- accuweather
-- quinkgl
-- universal-mcp-applications
-- fastapi-factory-utilities
-- exstruct
-- pyquery-polars
-- radix-mlp
-- mimetica
-- ai-edge-torch-nightly
-- export_to_obsidian
-- filekits
-- llm-complete
-- xc-api-py
-- bblean
-- raycast2D
-- vmux-cli
-- goedels-poetry
-- scm-python-core
-- auditwheel
-- afragment
-- torchax
-- pmdb_utils
