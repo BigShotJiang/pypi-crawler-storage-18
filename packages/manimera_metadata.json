@@ -1,11 +1,11 @@
 {
   "name": "manimera",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "summary": "Manimera is a Python library that makes creating Manim animations easy and fast. Designed for educators, content creators, and anyone making educational videos, Manimera provides a simple interface to animate mathematical concepts, graphics, and visual explanations without a lot of boilerplate code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "manimera-0.4.7.tar.gz",
-  "download_time": "2025-12-27T08:21:54.010291",
+  "download_filename": "manimera-0.4.8.tar.gz",
+  "download_time": "2025-12-28T10:54:51.662307",
   "package_url": "https://pypi.org/project/manimera/"
 }

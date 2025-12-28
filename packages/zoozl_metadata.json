@@ -1,11 +1,11 @@
 {
   "name": "zoozl",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "Zoozl services for chatbots",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zoozl-0.2.8.tar.gz",
-  "download_time": "2025-12-28T08:49:24.522920",
+  "download_filename": "zoozl-0.2.9.tar.gz",
+  "download_time": "2025-12-28T10:54:51.090301",
   "package_url": "https://pypi.org/project/zoozl/"
 }

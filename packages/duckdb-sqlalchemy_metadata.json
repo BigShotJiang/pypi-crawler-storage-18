@@ -1,11 +1,11 @@
 {
   "name": "duckdb-sqlalchemy",
-  "version": "0.19.1",
+  "version": "0.19.2",
   "summary": "SQLAlchemy driver for duckdb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duckdb_sqlalchemy-0.19.1.tar.gz",
-  "download_time": "2025-12-26T22:37:46.299003",
+  "download_filename": "duckdb_sqlalchemy-0.19.2.tar.gz",
+  "download_time": "2025-12-28T10:54:47.624898",
   "package_url": "https://pypi.org/project/duckdb-sqlalchemy/"
 }

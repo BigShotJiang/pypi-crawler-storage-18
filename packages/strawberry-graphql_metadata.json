@@ -1,11 +1,11 @@
 {
   "name": "strawberry-graphql",
-  "version": "0.287.4",
+  "version": "0.288.0",
   "summary": "A library for creating GraphQL APIs",
   "author": "Patrick Arminio",
   "license": "MIT",
   "home_page": "https://strawberry.rocks/",
-  "download_filename": "strawberry_graphql-0.287.4.tar.gz",
-  "download_time": "2025-12-27T18:22:43.200594",
+  "download_filename": "strawberry_graphql-0.288.0.tar.gz",
+  "download_time": "2025-12-28T10:54:43.343594",
   "package_url": "https://pypi.org/project/strawberry-graphql/"
 }
