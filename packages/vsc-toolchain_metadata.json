@@ -1,11 +1,11 @@
 {
   "name": "vsc-toolchain",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A compiler for the ValuaScript financial modeling language.",
   "author": "Alessio Marcuzzi",
   "license": null,
   "home_page": "https://github.com/Alessio2704/valuascript",
-  "download_filename": "vsc_toolchain-1.0.1.tar.gz",
-  "download_time": "2025-12-28T05:04:38.791919",
+  "download_filename": "vsc_toolchain-1.0.2.tar.gz",
+  "download_time": "2025-12-28T16:49:07.426327",
   "package_url": "https://pypi.org/project/vsc-toolchain/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "clustimage",
+  "version": "1.7.1",
+  "summary": "Python package clustimage is for unsupervised clustering of images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clustimage-1.7.1.tar.gz",
+  "download_time": "2025-12-28T16:49:33.507957",
+  "package_url": "https://pypi.org/project/clustimage/"
+}

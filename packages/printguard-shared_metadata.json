@@ -1,0 +1,11 @@
+{
+  "name": "printguard-shared",
+  "version": "0.1.0",
+  "summary": "Shared utilities for PrintGuard backend and Home Assistant integration",
+  "author": null,
+  "license": "GPL-2.0-only",
+  "home_page": null,
+  "download_filename": "printguard_shared-0.1.0.tar.gz",
+  "download_time": "2025-12-28T16:49:25.793600",
+  "package_url": "https://pypi.org/project/printguard-shared/"
+}

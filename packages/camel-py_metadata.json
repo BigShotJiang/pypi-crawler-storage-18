@@ -1,0 +1,11 @@
+{
+  "name": "camel-py",
+  "version": "0.2.0",
+  "summary": "A lightweight Python client for Ollama with context management and streaming support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "camel_py-0.2.0.tar.gz",
+  "download_time": "2025-12-28T16:49:19.867463",
+  "package_url": "https://pypi.org/project/camel-py/"
+}

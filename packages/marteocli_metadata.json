@@ -1,0 +1,11 @@
+{
+  "name": "marteocli",
+  "version": "0.1.0",
+  "summary": "Uma ferramenta para iniciar projetos C++ com templates pré-definidos.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "marteocli-0.1.0.tar.gz",
+  "download_time": "2025-12-28T16:49:22.522557",
+  "package_url": "https://pypi.org/project/marteocli/"
+}

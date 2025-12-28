@@ -1,0 +1,11 @@
+{
+  "name": "pshell",
+  "version": "1.5.0",
+  "summary": "An alternative to bash scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pshell-1.5.0.tar.gz",
+  "download_time": "2025-12-28T16:49:23.068631",
+  "package_url": "https://pypi.org/project/pshell/"
+}

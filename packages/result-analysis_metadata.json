@@ -1,11 +1,11 @@
 {
   "name": "result-analysis",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A CLI tool for managing student results from Excel sheets.",
   "author": "Utkarsh Tiwari",
   "license": null,
   "home_page": null,
-  "download_filename": "result_analysis-0.1.0.tar.gz",
-  "download_time": "2025-12-28T16:19:52.615890",
+  "download_filename": "result_analysis-1.0.0.tar.gz",
+  "download_time": "2025-12-28T16:49:25.267419",
   "package_url": "https://pypi.org/project/result-analysis/"
 }

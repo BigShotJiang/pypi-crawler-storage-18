@@ -1,0 +1,11 @@
+{
+  "name": "kavach-iam-client",
+  "version": "0.1.0",
+  "summary": "Official IAM client for Kavach IAM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kavach_iam_client-0.1.0.tar.gz",
+  "download_time": "2025-12-28T16:49:21.996401",
+  "package_url": "https://pypi.org/project/kavach-iam-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "subtimizer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Computational Workflow for Structure-Guided Design of Potent and Selective Kinase Peptide Substrates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subtimizer-0.1.0.tar.gz",
-  "download_time": "2025-12-28T16:20:02.501123",
+  "download_filename": "subtimizer-0.2.0.tar.gz",
+  "download_time": "2025-12-28T16:49:12.767157",
   "package_url": "https://pypi.org/project/subtimizer/"
 }

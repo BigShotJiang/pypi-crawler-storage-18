@@ -1,0 +1,11 @@
+{
+  "name": "vigilant-scanner",
+  "version": "1.0.2",
+  "summary": "A CLI tool for monitoring file integrity, detecting changes, analyzing logs and identifying potential security threats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vigilant_scanner-1.0.2.tar.gz",
+  "download_time": "2025-12-28T16:49:05.071628",
+  "package_url": "https://pypi.org/project/vigilant-scanner/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lore-mcp",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Version control for AI coding context - Commit your intent, not just your code",
   "author": "ctx-stack",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lore_mcp-1.0.9.tar.gz",
-  "download_time": "2025-12-28T14:17:02.025401",
+  "download_filename": "lore_mcp-1.0.10.tar.gz",
+  "download_time": "2025-12-28T16:49:19.319949",
   "package_url": "https://pypi.org/project/lore-mcp/"
 }

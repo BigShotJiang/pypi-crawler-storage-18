@@ -1,11 +1,11 @@
 {
   "name": "balex",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Python library Bale Messenger",
   "author": "z8r-service",
   "license": null,
   "home_page": null,
-  "download_filename": "balex-1.2.0.tar.gz",
-  "download_time": "2025-12-28T15:52:22.066378",
+  "download_filename": "balex-1.3.0.tar.gz",
+  "download_time": "2025-12-28T16:49:32.430408",
   "package_url": "https://pypi.org/project/balex/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "video-transcriber",
+  "version": "0.3",
+  "summary": "A Python project following TDD principles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_transcriber-0.3.tar.gz",
+  "download_time": "2025-12-28T16:49:17.162781",
+  "package_url": "https://pypi.org/project/video-transcriber/"
+}
