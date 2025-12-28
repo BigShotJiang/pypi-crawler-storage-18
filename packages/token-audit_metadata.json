@@ -1,11 +1,11 @@
 {
   "name": "token-audit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Token usage auditor for AI coding tools. Investigate context bloat across Claude Code, Codex CLI & Gemini CLI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "token_audit-1.0.2.tar.gz",
-  "download_time": "2025-12-26T10:46:11.260252",
+  "download_filename": "token_audit-1.0.3.tar.gz",
+  "download_time": "2025-12-28T06:26:26.234392",
   "package_url": "https://pypi.org/project/token-audit/"
 }

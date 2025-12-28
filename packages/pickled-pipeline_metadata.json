@@ -1,0 +1,11 @@
+{
+  "name": "pickled-pipeline",
+  "version": "0.3.1",
+  "summary": "A package for caching repeat runs of pipelines that have expensive operations along the way",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pickled_pipeline-0.3.1.tar.gz",
+  "download_time": "2025-12-28T06:26:36.625166",
+  "package_url": "https://pypi.org/project/pickled-pipeline/"
+}

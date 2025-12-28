@@ -1,11 +1,11 @@
 {
   "name": "telegrify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Simple Telegram notification framework with plugin support",
-  "author": "Gemechis Chala",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telegrify-1.0.3.tar.gz",
-  "download_time": "2025-12-27T22:52:55.494668",
+  "download_filename": "telegrify-1.0.4.tar.gz",
+  "download_time": "2025-12-28T06:26:28.828119",
   "package_url": "https://pypi.org/project/telegrify/"
 }

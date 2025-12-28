@@ -1,0 +1,11 @@
+{
+  "name": "flash-fuzzy",
+  "version": "0.1.0",
+  "summary": "High-performance fuzzy search engine using Bitap algorithm with bloom filter pre-filtering. Powered by Rust for blazing fast performance.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flash_fuzzy-0.1.0.tar.gz",
+  "download_time": "2025-12-28T06:26:13.217878",
+  "package_url": "https://pypi.org/project/flash-fuzzy/"
+}

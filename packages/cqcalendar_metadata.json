@@ -1,11 +1,11 @@
 {
   "name": "cqcalendar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "CQCalendar is a lightweight, tick-based time and calendar system for Python games and simulations.",
   "author": "Brianna Ladson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cqcalendar-1.0.0.tar.gz",
-  "download_time": "2025-12-26T22:16:32.091196",
+  "download_filename": "cqcalendar-1.1.0.tar.gz",
+  "download_time": "2025-12-28T06:26:29.339046",
   "package_url": "https://pypi.org/project/cqcalendar/"
 }

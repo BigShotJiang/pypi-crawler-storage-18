@@ -1,11 +1,11 @@
 {
   "name": "evalvault",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "RAG evaluation system using Ragas with Langfuse tracing",
   "author": "EvalVault Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "evalvault-0.1.0.tar.gz",
-  "download_time": "2025-12-28T03:23:52.150079",
+  "download_filename": "evalvault-1.0.1.tar.gz",
+  "download_time": "2025-12-28T06:26:33.471791",
   "package_url": "https://pypi.org/project/evalvault/"
 }
