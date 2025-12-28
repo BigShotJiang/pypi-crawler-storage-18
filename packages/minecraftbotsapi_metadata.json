@@ -1,11 +1,11 @@
 {
   "name": "minecraftbotsapi",
-  "version": "1.2",
+  "version": "1.4",
   "summary": "Функции для создания своего бота в Minecraft!",
   "author": "florestdev",
   "license": null,
   "home_page": null,
-  "download_filename": "minecraftbotsapi-1.2.tar.gz",
-  "download_time": "2025-12-28T11:31:29.894773",
+  "download_filename": "minecraftbotsapi-1.4.tar.gz",
+  "download_time": "2025-12-28T11:43:36.211236",
   "package_url": "https://pypi.org/project/minecraftbotsapi/"
 }

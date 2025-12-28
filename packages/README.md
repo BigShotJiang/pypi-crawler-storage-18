@@ -1,36 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T11:32:03.614142
-- **Total Packages**: 85
-- **Total Size**: 33.43 MB
+- **Download Time**: 2025-12-28T11:44:10.567421
+- **Total Packages**: 80
+- **Total Size**: 0.12 MB
 
 ## Packages List
-- qtoggleserver-mqtt
-- qtoggleserver-mppsolar
-- mcp-memory-service
-- qtoggleserver-generic-http
-- torchx-nightly
-- qtoggleserver-dallastemp
-- pdflinkcheck
-- mimesis
-- dynexus
-- sylriekit
-- mp4fixer
-- souleyez
-- portal_tool
-- torchft-nightly
-- je-api-testka-dev
-- traceml
-- diffpy.srxconfutils
-- trade-safety
-- array-api-compat
-- minecraftbotsapi
-- mcare
-- tui-audioplayer
-- viewscope
-- ncatbot
-- skyborn
 - ghost-protocol
 - entra
 - autotunenet
@@ -49,6 +24,8 @@
 - pyscf-vorticity
 - fireprompt
 - uv-mcp-server
+- minecraftbotsapi
+- portal_tool
 - notion-dev
 - smithed-libraries
 - textual-chat
@@ -60,6 +37,7 @@
 - udata-dl
 - agent-skills-cli
 - skills-mcp
+- souleyez
 - mcp-kql-server
 - invar-tools
 - crm-automator
@@ -91,3 +69,20 @@
 - keepass2-merger
 - easyths
 - skoufas-dbf-reader
+- apcloudy
+- gixy-ng
+- regexapp
+- sylriekit
+- genericlib
+- strawberry-graphql
+- konduktor-nightly
+- ayechat-dev
+- asyncgui
+- trainy-mlop-nightly
+- trainy-policy-nightly
+- fmtr.tools
+- gios
+- letta-nightly
+- nomadnet
+- zoozl
+- manimera
