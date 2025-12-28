@@ -1,11 +1,11 @@
 {
   "name": "zenv-lang",
-  "version": "0.1.0",
-  "summary": "Écosystème Zenv - Runtime, CLI et Package Manager",
+  "version": "1.0.0",
+  "summary": "Zenv Language - Écosystème complet avec hub web zenv-hub.vercel.app",
   "author": "gopu.inc",
-  "license": "MIT",
-  "home_page": "https://github.com/gopu-inc/zenv",
-  "download_filename": "zenv_lang-0.1.0.tar.gz",
-  "download_time": "2025-12-28T14:38:23.940692",
+  "license": null,
+  "home_page": "https://zenv-hub.vercel.app",
+  "download_filename": "zenv_lang-1.0.0.tar.gz",
+  "download_time": "2025-12-28T15:16:43.294157",
   "package_url": "https://pypi.org/project/zenv-lang/"
 }

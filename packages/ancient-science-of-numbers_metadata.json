@@ -1,0 +1,11 @@
+{
+  "name": "ancient-science-of-numbers",
+  "version": "0.1.0",
+  "summary": "A Python library implementing the numerology system from 'The Ancient Science of Numbers' by Luo Clement (1908)",
+  "author": "Mthabis W. Mkwananzi",
+  "license": "MIT",
+  "home_page": "https://github.com/sigasaint/ancient-science-of-numbers",
+  "download_filename": "ancient_science_of_numbers-0.1.0.tar.gz",
+  "download_time": "2025-12-28T15:17:00.525871",
+  "package_url": "https://pypi.org/project/ancient-science-of-numbers/"
+}

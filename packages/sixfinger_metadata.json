@@ -1,11 +1,11 @@
 {
   "name": "sixfinger",
-  "version": "1.1.0",
+  "version": "2.1.0",
   "summary": "Ultra-fast AI platform: Cloud API + On-device language models",
   "author": "Sixfinger Team",
   "license": "MIT",
   "home_page": "https://sfapi.pythonanywhere.com",
-  "download_filename": "sixfinger-1.1.0.tar.gz",
-  "download_time": "2025-12-27T19:50:57.921160",
+  "download_filename": "sixfinger-2.1.0.tar.gz",
+  "download_time": "2025-12-28T15:17:04.286295",
   "package_url": "https://pypi.org/project/sixfinger/"
 }

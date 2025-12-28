@@ -1,11 +1,11 @@
 {
   "name": "transparent-overlay",
-  "version": "2.7.2",
+  "version": "2.7.3",
   "summary": "High-performance transparent graphics overlay for Windows",
   "author": "Илья Яковенко",
   "license": "MIT",
   "home_page": "https://github.com/IlyaYakko/transparent-overlay",
-  "download_filename": "transparent_overlay-2.7.2-py3-none-any.whl",
-  "download_time": "2025-12-28T14:38:00.084658",
+  "download_filename": "transparent_overlay-2.7.3-py3-none-any.whl",
+  "download_time": "2025-12-28T15:17:01.602486",
   "package_url": "https://pypi.org/project/transparent-overlay/"
 }

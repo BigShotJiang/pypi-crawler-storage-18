@@ -1,0 +1,11 @@
+{
+  "name": "isssm",
+  "version": "0.1.0",
+  "summary": "Importance Sampling for State Space Models (in jax)",
+  "author": "Stefan Heyder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isssm-0.1.0.tar.gz",
+  "download_time": "2025-12-28T15:16:54.067099",
+  "package_url": "https://pypi.org/project/isssm/"
+}

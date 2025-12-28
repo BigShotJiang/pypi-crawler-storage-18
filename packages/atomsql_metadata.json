@@ -1,0 +1,11 @@
+{
+  "name": "atomsql",
+  "version": "0.0.1",
+  "summary": "A lightweight Object-Relational Mapping (ORM) library for Python with support for SQLite and PostgreSQL",
+  "author": "Prashant Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atomsql-0.0.1.tar.gz",
+  "download_time": "2025-12-28T15:16:47.057161",
+  "package_url": "https://pypi.org/project/atomsql/"
+}

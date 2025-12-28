@@ -1,11 +1,11 @@
 {
   "name": "webtestpilot",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "WebTestPilot is an LLM-driven automated web testing framework for end-to-end browser testing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webtestpilot-0.1.7.tar.gz",
-  "download_time": "2025-12-23T12:31:40.300849",
+  "download_filename": "webtestpilot-0.1.8.tar.gz",
+  "download_time": "2025-12-28T15:16:58.942940",
   "package_url": "https://pypi.org/project/webtestpilot/"
 }

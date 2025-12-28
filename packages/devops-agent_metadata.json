@@ -1,11 +1,11 @@
 {
   "name": "devops-agent",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "AI-powered DevOps CLI assistant",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/devops-agent",
-  "download_filename": "devops_agent-0.0.4.tar.gz",
-  "download_time": "2025-12-28T06:55:59.790461",
+  "download_filename": "devops_agent-0.0.5.tar.gz",
+  "download_time": "2025-12-28T15:16:43.820987",
   "package_url": "https://pypi.org/project/devops-agent/"
 }
