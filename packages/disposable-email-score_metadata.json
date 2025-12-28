@@ -1,11 +1,11 @@
 {
   "name": "disposable-email-score",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A risk-scoring engine for email signups.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "disposable_email_score-0.1.0.tar.gz",
-  "download_time": "2025-12-28T04:34:49.722164",
+  "download_filename": "disposable_email_score-0.1.1.tar.gz",
+  "download_time": "2025-12-28T14:54:46.824189",
   "package_url": "https://pypi.org/project/disposable-email-score/"
 }

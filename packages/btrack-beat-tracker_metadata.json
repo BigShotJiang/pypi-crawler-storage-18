@@ -1,0 +1,11 @@
+{
+  "name": "btrack-beat-tracker",
+  "version": "1.0.6",
+  "summary": "Python bindings for the BTrack beat tracker",
+  "author": "Adam Stark",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "btrack_beat_tracker-1.0.6.tar.gz",
+  "download_time": "2025-12-28T14:54:43.726713",
+  "package_url": "https://pypi.org/project/btrack-beat-tracker/"
+}

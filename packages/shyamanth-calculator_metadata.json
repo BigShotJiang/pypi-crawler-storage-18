@@ -1,0 +1,11 @@
+{
+  "name": "shyamanth-calculator",
+  "version": "0.1.0",
+  "summary": "A Python package that provides essential mathematical operations (add, subtract, multiply, divide, modulo, power) with built-in error handling for safe calculations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shyamanth_calculator-0.1.0.tar.gz",
+  "download_time": "2025-12-28T14:54:53.488655",
+  "package_url": "https://pypi.org/project/shyamanth-calculator/"
+}

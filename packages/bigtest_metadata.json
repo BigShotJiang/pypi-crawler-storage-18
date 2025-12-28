@@ -1,0 +1,11 @@
+{
+  "name": "bigtest",
+  "version": "2.0.0",
+  "summary": "Holy Grail Backtester - Institutional-grade quant backtesting engine with 100x leverage support",
+  "author": "Kushal Garg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigtest-2.0.0.tar.gz",
+  "download_time": "2025-12-28T14:54:40.658273",
+  "package_url": "https://pypi.org/project/bigtest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "machine_access_control",
+  "version": "0.7.0",
+  "summary": "Decatur Makers Machine Access Control package",
+  "author": "Jason Antman",
+  "license": "MIT",
+  "home_page": "https://github.com/jantman/machine_access_control",
+  "download_filename": "machine_access_control-0.7.0.tar.gz",
+  "download_time": "2025-12-28T14:54:47.845956",
+  "package_url": "https://pypi.org/project/machine_access_control/"
+}

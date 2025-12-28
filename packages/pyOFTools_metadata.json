@@ -1,0 +1,11 @@
+{
+  "name": "pyOFTools",
+  "version": "0.1.1",
+  "summary": "Python tools for OpenFOAM",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyoftools-0.1.1.tar.gz",
+  "download_time": "2025-12-28T14:54:31.401123",
+  "package_url": "https://pypi.org/project/pyOFTools/"
+}

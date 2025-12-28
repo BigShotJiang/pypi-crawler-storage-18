@@ -1,0 +1,11 @@
+{
+  "name": "cnpj-cd",
+  "version": "1.0.2",
+  "summary": "Utility resources to calculate check digits on CNPJ (Brazilian employer ID)",
+  "author": "Julio L. Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnpj_cd-1.0.2.tar.gz",
+  "download_time": "2025-12-28T14:54:52.979481",
+  "package_url": "https://pypi.org/project/cnpj-cd/"
+}

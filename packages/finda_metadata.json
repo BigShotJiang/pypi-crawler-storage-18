@@ -1,0 +1,11 @@
+{
+  "name": "finda",
+  "version": "2.0.0",
+  "summary": "Pro-Grade async financial data engine with Parquet caching and multi-provider support",
+  "author": "Kushal Garg",
+  "license": "MIT",
+  "home_page": "https://github.com/kshlgrg/finda",
+  "download_filename": "finda-2.0.0.tar.gz",
+  "download_time": "2025-12-28T14:54:23.114063",
+  "package_url": "https://pypi.org/project/finda/"
+}
