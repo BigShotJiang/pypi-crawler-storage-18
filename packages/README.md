@@ -1,38 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T11:44:10.567421
-- **Total Packages**: 80
-- **Total Size**: 0.12 MB
+- **Download Time**: 2025-12-28T11:52:04.503902
+- **Total Packages**: 77
+- **Total Size**: 0.02 MB
 
 ## Packages List
-- ghost-protocol
-- entra
-- autotunenet
-- toolguard
-- kxy-open-id-client
-- genesis-ci-tools
-- feffery-utils-components
-- nuxl-rescore
-- rcdl
-- accrqa
-- pyrust-native
-- assisted-service-client
-- spkrepo
-- tf-keras-nightly
-- duckdb-sqlalchemy
-- pyscf-vorticity
-- fireprompt
-- uv-mcp-server
-- minecraftbotsapi
-- portal_tool
-- notion-dev
-- smithed-libraries
-- textual-chat
-- codex-bridge
-- genesis-devtools
-- depswiz
-- nonebot-plugin-mc-whitelist-controller
 - mail-pigeon
 - udata-dl
 - agent-skills-cli
@@ -45,6 +18,7 @@
 - investor-agent
 - pyhabitat
 - image-charts
+- ghost-protocol
 - dat1-runtime
 - clipped
 - pytest-json-ctrf
@@ -65,9 +39,12 @@
 - pydantic-invoices
 - qtoggleserver
 - dynamic-mcp
+- minecraftbotsapi
 - pygame-widget-kit
 - keepass2-merger
 - easyths
+- autotunenet
+- spkrepo
 - skoufas-dbf-reader
 - apcloudy
 - gixy-ng
@@ -81,8 +58,28 @@
 - trainy-mlop-nightly
 - trainy-policy-nightly
 - fmtr.tools
+- duckdb-sqlalchemy
+- kxy-open-id-client
 - gios
 - letta-nightly
 - nomadnet
 - zoozl
 - manimera
+- gridvoting-jax
+- plexus-python-common
+- xlsxturbo
+- smallestai
+- DensityFlowMO
+- simple-dwd-weatherforecast
+- nanasqlite
+- mp-hfs
+- py-aiterm
+- hother-cancelable
+- fractured-json
+- HydrogenLib-NEXT
+- pyscript-programming-language
+- yirifi-ops-mcp-hub
+- noteframe
+- repr-cli
+- step-cli-tools
+- local-share-cli
