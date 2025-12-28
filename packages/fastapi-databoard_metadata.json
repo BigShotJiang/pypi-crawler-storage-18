@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-databoard",
+  "version": "0.1.0",
+  "summary": "A database administration dashboard for FastAPI applications",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/Bittu2903/fastapi-databoard",
+  "download_filename": "fastapi_databoard-0.1.0.tar.gz",
+  "download_time": "2025-12-28T05:40:39.758742",
+  "package_url": "https://pypi.org/project/fastapi-databoard/"
+}

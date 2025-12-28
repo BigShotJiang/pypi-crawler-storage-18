@@ -1,16 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T05:05:11.922787
-- **Total Packages**: 84
-- **Total Size**: 9.81 MB
+- **Download Time**: 2025-12-28T05:41:08.793899
+- **Total Packages**: 85
+- **Total Size**: 31.27 MB
 
 ## Packages List
+- gsdk
+- dataclass-dsl
+- zerox-sync
+- lodestar-cli
+- pushikoo
+- docstring-format-checker
+- karaoke-gen
+- structural-lib-is456
+- circuit-agent-sdk
+- DataNova
+- alethe
+- bitneural32
+- freerouter
+- souleyez
+- sentienceapi
+- rank-preserving-calibration
+- ghinbox
+- sec-eagle
+- red-tidegear
+- rmcp
+- wikilangs
+- dvt-core
+- pyclnf
+- survival-rs
+- pyfaceau
+- vlaamscodex
+- pyaraucaria
+- refactron
+- snakesee
+- fastapi-databoard
+- kcjoshi-distributions
+- fairlex
+- basejump-core
+- mcp-time-server-bdc
+- mdit-py-figure
+- iamdata
+- comfyui-nuvu
+- trivialai
+- seq-smith
+- claude-dev-cli
+- drop-email
+- my-cloud-devops-consulting
+- justdd
+- pydantic-ai-backend
+- routilux
+- modalg
 - Ins-Pricing
 - vappman
 - iranetf
 - DensityFlowMO
-- DataNova
 - ffvoice
 - fitz-ai
 - async-garlandtools
@@ -22,11 +67,8 @@
 - jokoor
 - afragment
 - amrita
-- bitneural32
 - type-bridge
 - pptx2png
-- my-cloud-devops-consulting
-- red-tidegear
 - rom24-quickmud-python
 - quant-pml
 - konic
@@ -49,44 +91,3 @@
 - odoo-addon-l10n-br-account
 - odoo-addon-l10n-br-fiscal
 - odoo-addon-l10n-br-mdfe
-- modbuslink
-- bioguider
-- mcp-stata
-- asynctor
-- aquiles-image
-- cvxreg
-- langchain-gradient
-- mdit-py-figure
-- electric-barometer
-- powerdns-cli
-- pvv-mcp-server
-- keras-nightly
-- nse-trading-calendar
-- eb-features
-- karaoke-gen
-- DensityFlow2
-- weatherflow
-- private-attribute-cpp
-- markdown-editor-mcp-server
-- zombie-escape
-- eb-evaluation
-- betty
-- zrb
-- mcp-common
-- disposable-email-score
-- devhand
-- eb-optimization
-- pyrig
-- sae-lens
-- auroraview
-- claude-dev-cli
-- chromedriver-binary
-- vvuq-client
-- philh_myftp_biz
-- eb-metrics
-- attuned
-- datahub_binary
-- trueentropy
-- testudos
-- bokicast-mcp-server
-- flacfetch

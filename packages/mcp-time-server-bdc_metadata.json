@@ -1,0 +1,11 @@
+{
+  "name": "mcp-time-server-bdc",
+  "version": "0.1.0",
+  "summary": "一个基于MCP协议的时间服务器，提供获取当前时间的工具",
+  "author": "BDC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_time_server_bdc-0.1.0.tar.gz",
+  "download_time": "2025-12-28T05:40:41.800400",
+  "package_url": "https://pypi.org/project/mcp-time-server-bdc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyaraucaria",
-  "version": "2.11.0",
+  "version": "2.11.2",
   "summary": "Common Routines of OCA Observatory and Araucaria Project",
   "author": "Araucaria Project",
   "license": null,
   "home_page": null,
-  "download_filename": "pyaraucaria-2.11.0.tar.gz",
-  "download_time": "2025-12-27T04:31:30.593693",
+  "download_filename": "pyaraucaria-2.11.2.tar.gz",
+  "download_time": "2025-12-28T05:40:38.225251",
   "package_url": "https://pypi.org/project/pyaraucaria/"
 }

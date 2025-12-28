@@ -1,0 +1,11 @@
+{
+  "name": "drop-email",
+  "version": "0.1.2",
+  "summary": "A package to send data (dict, list, pandas DataFrame) as beautiful HTML emails",
+  "author": "Delin Qu",
+  "license": null,
+  "home_page": "https://github.com/DelinQu/drop_email",
+  "download_filename": "drop_email-0.1.2.tar.gz",
+  "download_time": "2025-12-28T05:40:45.966730",
+  "package_url": "https://pypi.org/project/drop-email/"
+}

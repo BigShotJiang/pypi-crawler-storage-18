@@ -1,11 +1,11 @@
 {
   "name": "DataNova",
-  "version": "0.0.5",
-  "summary": "This is the start of DataNova.",
-  "author": "Riley Heiman",
+  "version": "0.0.7",
+  "summary": "A friendly toolkit for quick exploratory data analysis (EDA)",
+  "author": "Riley",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datanova-0.0.5.tar.gz",
-  "download_time": "2025-12-28T05:04:25.779726",
+  "download_filename": "datanova-0.0.7.tar.gz",
+  "download_time": "2025-12-28T05:40:29.454697",
   "package_url": "https://pypi.org/project/DataNova/"
 }

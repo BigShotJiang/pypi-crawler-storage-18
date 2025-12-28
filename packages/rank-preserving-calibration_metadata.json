@@ -1,0 +1,11 @@
+{
+  "name": "rank-preserving-calibration",
+  "version": "0.7.1",
+  "summary": "Rank-preserving calibration of multiclass probabilities via Dykstra's projections and ADMM.",
+  "author": "Gaurav Sood",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rank_preserving_calibration-0.7.1.tar.gz",
+  "download_time": "2025-12-28T05:40:32.537999",
+  "package_url": "https://pypi.org/project/rank-preserving-calibration/"
+}
