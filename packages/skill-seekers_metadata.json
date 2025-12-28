@@ -1,11 +1,11 @@
 {
   "name": "skill-seekers",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills",
   "author": "Yusuf Karaaslan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skill_seekers-2.4.0.tar.gz",
-  "download_time": "2025-12-25T22:18:01.747753",
+  "download_filename": "skill_seekers-2.5.0.tar.gz",
+  "download_time": "2025-12-28T19:52:34.753078",
   "package_url": "https://pypi.org/project/skill-seekers/"
 }

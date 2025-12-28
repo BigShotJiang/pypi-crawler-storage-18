@@ -1,11 +1,11 @@
 {
   "name": "quinkgl",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A decentralized gossip learning framework for P2P edge intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quinkgl-0.1.17.tar.gz",
-  "download_time": "2025-12-28T19:30:32.299838",
+  "download_filename": "quinkgl-0.1.18.tar.gz",
+  "download_time": "2025-12-28T19:52:35.266335",
   "package_url": "https://pypi.org/project/quinkgl/"
 }

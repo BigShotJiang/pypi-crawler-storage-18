@@ -1,14 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T19:41:14.388420
-- **Total Packages**: 77
-- **Total Size**: 0.34 MB
+- **Download Time**: 2025-12-28T19:53:11.480081
+- **Total Packages**: 79
+- **Total Size**: 12.1 MB
 
 ## Packages List
+- treco-framework
+- dbl-core
+- embedding-adapters
+- zenv-lang
+- replimap
+- rxxxt
+- tacotoolbox
+- gnost
+- skill-seekers
+- quinkgl
+- pylazyimports
+- jzpack
+- chqr
+- otpdoor
+- bleak
+- llm-council-core
+- undouble
+- sendpigeon
+- iatoolkit
+- rtlviz
+- pyagentpay
+- janus-remote
+- stx-pysdk
+- direct-formatting-pandas-ods-reader
+- aiogram-types-v3
+- neoncontract-gen
+- karaoke-gen
+- gridfm-datakit
+- cuRDF
+- sunlm
+- rite
+- pplx-cli
+- zegie
+- mkdocs-texsmith
+- texsmith
+- consts-everywhere
+- flake8-multiline-equals
+- real-estate-scrape
 - pyravelry
 - oca-odoo-pre-commit-hooks
-- tacotoolbox
 - musicxml-to-png
 - claude-mpm
 - rayforce-py
@@ -16,16 +53,12 @@
 - pynetlink
 - interview-ai
 - pywebnn
-- zegie
-- quinkgl
 - fnnx
 - earningspy
 - pygpt-net
 - geoparquet-io
 - homeconnect-websocket
-- aiogram-types-v3
 - artificer-agents
-- gnost
 - py-uds
 - empathy-framework
 - cinetext
@@ -47,39 +80,8 @@
 - cyclopts
 - finanzonline-databox
 - lazyclaude
-- rtlviz
-- otpdoor
 - numistalib
 - keltor
 - testgres.os-ops
 - ai-rulez
 - urlpattern
-- pioneergame
-- supernote
-- matrice-inference
-- idios
-- cuemap
-- agentrank
-- jzpack
-- flybook
-- gammarers.aws-secure-frontend-web-app-cloudfront-distribution
-- vibegate
-- render-template
-- pyauto-desktop
-- cryptozip
-- fastrub
-- agenticaiframework
-- py-invoices
-- midisim
-- locoformer
-- mymra
-- claude-dev-cli
-- vicentin
-- ndvi2gif
-- macroni
-- sentienceapi
-- SABV
-- beat-tracking-evaluation
-- svg-ultralight
-- multi-llm-orchestrator
-- webquest-mcp

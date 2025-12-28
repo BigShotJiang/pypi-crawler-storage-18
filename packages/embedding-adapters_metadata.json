@@ -1,0 +1,11 @@
+{
+  "name": "embedding-adapters",
+  "version": "0.0.3",
+  "summary": "Universal embedding-space translation. Neural adapters that map one model's embeddings to another.",
+  "author": "Tyler Friddle",
+  "license": "NCCBL",
+  "home_page": null,
+  "download_filename": "embedding_adapters-0.0.3.tar.gz",
+  "download_time": "2025-12-28T19:52:31.599231",
+  "package_url": "https://pypi.org/project/embedding-adapters/"
+}
