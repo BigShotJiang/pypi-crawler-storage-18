@@ -1,11 +1,11 @@
 {
   "name": "electric-barometer",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Umbrella package for the Electric Barometer ecosystem (metrics, evaluation, features, adapters, and related tooling).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "electric_barometer-0.2.4.tar.gz",
-  "download_time": "2025-12-25T15:18:44.472842",
+  "download_filename": "electric_barometer-0.2.5.tar.gz",
+  "download_time": "2025-12-28T04:34:40.096224",
   "package_url": "https://pypi.org/project/electric-barometer/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bitneural32",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "summary": "BitNeural32: 1.58-bit Ternary Neural Network Compiler & QAT Library for ESP32",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitneural32-0.0.2.tar.gz",
-  "download_time": "2025-12-28T03:23:39.688888",
+  "download_filename": "bitneural32-0.0.6.tar.gz",
+  "download_time": "2025-12-28T04:34:36.231822",
   "package_url": "https://pypi.org/project/bitneural32/"
 }

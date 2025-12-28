@@ -1,0 +1,11 @@
+{
+  "name": "weatherflow",
+  "version": "0.4.2",
+  "summary": "Physics-guided flow models for weather prediction with flow matching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weatherflow-0.4.2.tar.gz",
+  "download_time": "2025-12-28T04:34:45.566468",
+  "package_url": "https://pypi.org/project/weatherflow/"
+}

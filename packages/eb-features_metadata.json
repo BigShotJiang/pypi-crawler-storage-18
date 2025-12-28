@@ -1,11 +1,11 @@
 {
   "name": "eb-features",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Feature engineering utilities for panel time-series data in the Electric Barometer ecosystem.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eb_features-0.2.4.tar.gz",
-  "download_time": "2025-12-25T17:34:40.939996",
+  "download_filename": "eb_features-0.2.5.tar.gz",
+  "download_time": "2025-12-28T04:34:43.747905",
   "package_url": "https://pypi.org/project/eb-features/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "eb-metrics",
-  "version": "0.2.1",
+  "version": "0.2.6",
   "summary": "Core Electric Barometer error metrics, including asymmetric CWSL and standard forecast loss functions.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "eb_metrics-0.2.1.tar.gz",
-  "download_time": "2025-12-25T15:18:47.041385",
+  "download_filename": "eb_metrics-0.2.6.tar.gz",
+  "download_time": "2025-12-28T04:34:56.500174",
   "package_url": "https://pypi.org/project/eb-metrics/"
 }

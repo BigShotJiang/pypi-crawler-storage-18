@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-lms",
+  "version": "0.4.1",
+  "summary": "A Learning Management System extension for Wagtail with SCORM 1.2/2004 support",
+  "author": "Felipe Villegas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wagtail_lms-0.4.1.tar.gz",
+  "download_time": "2025-12-28T04:35:06.330599",
+  "package_url": "https://pypi.org/project/wagtail-lms/"
+}
