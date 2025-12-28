@@ -1,11 +1,11 @@
 {
   "name": "mlvern",
-  "version": "0.1.6",
-  "summary": "Local-first ML pipeline automation with versioning",
-  "author": "Your Name",
+  "version": "0.1.7",
+  "summary": "Automated data inspection, validation checks, and extensive EDA module with structured reports and organized visualizations for reliable data quality assessment and exploratory analysis.",
+  "author": "Tanmai Raghava",
   "license": null,
   "home_page": null,
-  "download_filename": "mlvern-0.1.6.tar.gz",
-  "download_time": "2025-12-24T19:13:07.740567",
+  "download_filename": "mlvern-0.1.7.tar.gz",
+  "download_time": "2025-12-28T17:35:04.641163",
   "package_url": "https://pypi.org/project/mlvern/"
 }

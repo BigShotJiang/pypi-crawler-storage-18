@@ -1,0 +1,11 @@
+{
+  "name": "nsv",
+  "version": "0.2.2",
+  "summary": "Python implementation of the NSV (Newline-Separated Values) format",
+  "author": "naming",
+  "license": null,
+  "home_page": "https://github.com/namingbe/nsv-python",
+  "download_filename": "nsv-0.2.2.tar.gz",
+  "download_time": "2025-12-28T17:35:07.028667",
+  "package_url": "https://pypi.org/project/nsv/"
+}
