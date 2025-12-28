@@ -1,0 +1,11 @@
+{
+  "name": "interview-ai",
+  "version": "1.0.0",
+  "summary": "AI-powered interview automation with LangGraph. Conduct, evaluate, and report on technical interviews.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interview_ai-1.0.0.tar.gz",
+  "download_time": "2025-12-28T19:30:37.249271",
+  "package_url": "https://pypi.org/project/interview-ai/"
+}

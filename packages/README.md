@@ -1,15 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T19:14:46.032446
-- **Total Packages**: 78
-- **Total Size**: 20.61 MB
+- **Download Time**: 2025-12-28T19:31:07.242637
+- **Total Packages**: 77
+- **Total Size**: 17.7 MB
 
 ## Packages List
+- cuRDF
+- sunlm
+- rite
+- pplx-cli
+- zegie
+- mkdocs-texsmith
+- texsmith
+- consts-everywhere
+- flake8-multiline-equals
+- aiogram-types-v3
+- real-estate-scrape
 - quinkgl
+- pyravelry
+- oca-odoo-pre-commit-hooks
+- tacotoolbox
+- musicxml-to-png
+- claude-mpm
+- rayforce-py
+- biocutils
+- pynetlink
+- interview-ai
+- pywebnn
+- fnnx
+- earningspy
+- pygpt-net
 - geoparquet-io
 - homeconnect-websocket
-- aiogram-types-v3
 - artificer-agents
 - gnost
 - py-uds
@@ -30,7 +53,6 @@
 - mrodent-dev-lib
 - cleanback
 - ultimate-gemini-mcp
-- zegie
 - cyclopts
 - finanzonline-databox
 - lazyclaude
@@ -38,7 +60,6 @@
 - otpdoor
 - numistalib
 - keltor
-- claude-mpm
 - testgres.os-ops
 - ai-rulez
 - urlpattern
@@ -62,25 +83,3 @@
 - locoformer
 - mymra
 - claude-dev-cli
-- vicentin
-- ndvi2gif
-- macroni
-- sentienceapi
-- SABV
-- beat-tracking-evaluation
-- svg-ultralight
-- multi-llm-orchestrator
-- webquest-mcp
-- skillport-mcp
-- skillport-core
-- skillport
-- specifypro
-- wisent
-- lore-mcp
-- arkprts
-- octavus-ai
-- octavus-sdk
-- octavus
-- aicage
-- recce-nightly
-- ifpa-api

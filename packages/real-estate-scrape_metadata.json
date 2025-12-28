@@ -1,0 +1,11 @@
+{
+  "name": "real-estate-scrape",
+  "version": "0.2.1",
+  "summary": "Get the estimated value of a property from Redfin and Zillow",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "real_estate_scrape-0.2.1.tar.gz",
+  "download_time": "2025-12-28T19:30:31.789175",
+  "package_url": "https://pypi.org/project/real-estate-scrape/"
+}

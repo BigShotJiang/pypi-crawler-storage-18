@@ -1,11 +1,11 @@
 {
   "name": "cuRDF",
-  "version": "0.1.0",
-  "summary": "GPU-accelerated radial distribution functions using Toolkit-Ops + PyTorch with MDAnalysis and ASE adapters.",
+  "version": "0.2.0",
+  "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "curdf-0.1.0.tar.gz",
-  "download_time": "2025-12-27T17:33:45.377819",
+  "download_filename": "curdf-0.2.0.tar.gz",
+  "download_time": "2025-12-28T19:30:26.512538",
   "package_url": "https://pypi.org/project/cuRDF/"
 }
