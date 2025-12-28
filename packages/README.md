@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T11:15:24.969884
-- **Total Packages**: 79
-- **Total Size**: 5.0 MB
+- **Download Time**: 2025-12-28T11:32:03.614142
+- **Total Packages**: 85
+- **Total Size**: 33.43 MB
 
 ## Packages List
+- qtoggleserver-mqtt
+- qtoggleserver-mppsolar
+- mcp-memory-service
+- qtoggleserver-generic-http
+- torchx-nightly
+- qtoggleserver-dallastemp
+- pdflinkcheck
+- mimesis
+- dynexus
+- sylriekit
+- mp4fixer
+- souleyez
+- portal_tool
+- torchft-nightly
+- je-api-testka-dev
+- traceml
+- diffpy.srxconfutils
+- trade-safety
+- array-api-compat
+- minecraftbotsapi
+- mcare
+- tui-audioplayer
+- viewscope
+- ncatbot
+- skyborn
+- ghost-protocol
+- entra
+- autotunenet
+- toolguard
+- kxy-open-id-client
+- genesis-ci-tools
+- feffery-utils-components
+- nuxl-rescore
+- rcdl
+- accrqa
+- pyrust-native
+- assisted-service-client
+- spkrepo
+- tf-keras-nightly
+- duckdb-sqlalchemy
+- pyscf-vorticity
+- fireprompt
+- uv-mcp-server
 - notion-dev
 - smithed-libraries
 - textual-chat
@@ -17,7 +60,6 @@
 - udata-dl
 - agent-skills-cli
 - skills-mcp
-- souleyez
 - mcp-kql-server
 - invar-tools
 - crm-automator
@@ -25,7 +67,6 @@
 - investor-agent
 - pyhabitat
 - image-charts
-- ghost-protocol
 - dat1-runtime
 - clipped
 - pytest-json-ctrf
@@ -46,42 +87,7 @@
 - pydantic-invoices
 - qtoggleserver
 - dynamic-mcp
-- minecraftbotsapi
 - pygame-widget-kit
 - keepass2-merger
 - easyths
-- autotunenet
-- spkrepo
 - skoufas-dbf-reader
-- apcloudy
-- gixy-ng
-- regexapp
-- sylriekit
-- genericlib
-- strawberry-graphql
-- konduktor-nightly
-- ayechat-dev
-- asyncgui
-- trainy-mlop-nightly
-- trainy-policy-nightly
-- fmtr.tools
-- duckdb-sqlalchemy
-- kxy-open-id-client
-- gios
-- letta-nightly
-- nomadnet
-- zoozl
-- manimera
-- gridvoting-jax
-- plexus-python-common
-- xlsxturbo
-- smallestai
-- DensityFlowMO
-- simple-dwd-weatherforecast
-- nanasqlite
-- mp-hfs
-- py-aiterm
-- hother-cancelable
-- fractured-json
-- HydrogenLib-NEXT
-- pyscript-programming-language

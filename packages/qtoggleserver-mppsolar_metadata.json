@@ -1,0 +1,11 @@
+{
+  "name": "qtoggleserver-mppsolar",
+  "version": "1.7.0",
+  "summary": "MPP Solar inverters support for qToggleServer",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "qtoggleserver_mppsolar-1.7.0.tar.gz",
+  "download_time": "2025-12-28T11:31:20.068573",
+  "package_url": "https://pypi.org/project/qtoggleserver-mppsolar/"
+}
