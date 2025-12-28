@@ -1,0 +1,11 @@
+{
+  "name": "llm-proxier",
+  "version": "0.2.0",
+  "summary": "A lightweight LLM proxy with logging and admin dashboard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_proxier-0.2.0.tar.gz",
+  "download_time": "2025-12-28T08:49:23.949228",
+  "package_url": "https://pypi.org/project/llm-proxier/"
+}

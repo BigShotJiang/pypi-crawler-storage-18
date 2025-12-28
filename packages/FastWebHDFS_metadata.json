@@ -1,11 +1,11 @@
 {
   "name": "FastWebHDFS",
-  "version": "0.1.0",
+  "version": "0.1.0b2",
   "summary": "FastWebHDFS is an async-first Python client for WebHDFS, built for secure Hadoop clusters and modern, real-time workloads. It enables high-concurrency, low-latency access to HDFS opening up possibilities to build MCP and AI-driven applications, with support for secure authentication and a roadmap toward a powerful CLI and tooling.",
   "author": "Ren Lionel H. Marcaida",
   "license": null,
   "home_page": null,
-  "download_filename": "fastwebhdfs-0.1.0.tar.gz",
-  "download_time": "2025-12-28T08:22:04.523660",
+  "download_filename": "fastwebhdfs-0.1.0b2.tar.gz",
+  "download_time": "2025-12-28T08:49:17.579855",
   "package_url": "https://pypi.org/project/FastWebHDFS/"
 }

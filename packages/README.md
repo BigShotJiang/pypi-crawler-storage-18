@@ -1,12 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T08:22:29.224803
-- **Total Packages**: 82
-- **Total Size**: 21.79 MB
+- **Download Time**: 2025-12-28T08:50:03.095190
+- **Total Packages**: 84
+- **Total Size**: 2.3 MB
 
 ## Packages List
+- gdbrunner
+- code-detox
+- superset-hetuengine-connector
+- rtichoke
+- cleancloud
+- FastWebHDFS
+- contextflow
+- barikoiapis
+- pypi-errlog-smartgit
+- mns-scheduler
 - pypi-smartgit
+- specular-differentiation
+- arp-jarvis-atomic-nodes
+- new-api-linux-do-oauth-token
+- mcli-framework
+- llm-proxier
+- zoozl
+- librehardwaremonitor-api
+- atk-common
+- flamehaven-filesearch
+- gtaz
+- videolab
 - mcp-sandbox-toolkit
 - llm-azure
 - pysearch_mcp
@@ -14,7 +35,6 @@
 - pyguard-args
 - quant-pml
 - amati
-- specular-differentiation
 - nanasqlite
 - yamlium
 - treemapper
@@ -41,9 +61,7 @@
 - acryl-datahub
 - scoda-viz
 - prefect-datahub
-- barikoiapis
 - tf-models-nightly
-- FastWebHDFS
 - ginkgo-tools-redis
 - pybasemkit
 - adv-optm
@@ -72,19 +90,3 @@
 - pushikoo
 - pkbrokers
 - codeany-hubs-mcp-server
-- compose-farm
-- discrete-math-toolkit
-- enroll
-- lenzyai
-- hanzo-mcp
-- aiohomematic-test-support
-- aiohomematic
-- hanzo-tools-agent
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- promptdown
-- marimushka
-- PraisonAI
-- lodestar-cli
-- fotolab
-- praisonaiagents

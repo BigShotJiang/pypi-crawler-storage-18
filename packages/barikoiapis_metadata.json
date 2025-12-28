@@ -1,11 +1,11 @@
 {
   "name": "barikoiapis",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Official Python SDK for Barikoi Location Services - search, geocoding, routing, and more",
-  "author": "Your Name rafiqul.abprs@gmail.com",
+  "author": "Barikoi hello@barikoi.com",
   "license": "MIT",
   "home_page": "https://barikoi.com",
-  "download_filename": "barikoiapis-2.0.1.tar.gz",
-  "download_time": "2025-12-28T08:22:02.766427",
+  "download_filename": "barikoiapis-2.0.2.tar.gz",
+  "download_time": "2025-12-28T08:49:18.726843",
   "package_url": "https://pypi.org/project/barikoiapis/"
 }

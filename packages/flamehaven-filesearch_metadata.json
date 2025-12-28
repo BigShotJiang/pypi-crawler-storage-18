@@ -1,0 +1,11 @@
+{
+  "name": "flamehaven-filesearch",
+  "version": "1.4.0",
+  "summary": "FLAMEHAVEN FileSearch - Open source semantic document search with API authentication powered by Google Gemini",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flamehaven_filesearch-1.4.0.tar.gz",
+  "download_time": "2025-12-28T08:49:26.258003",
+  "package_url": "https://pypi.org/project/flamehaven-filesearch/"
+}

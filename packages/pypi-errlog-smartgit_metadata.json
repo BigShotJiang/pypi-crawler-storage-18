@@ -1,0 +1,11 @@
+{
+  "name": "pypi-errlog-smartgit",
+  "version": "1.1.0",
+  "summary": "errlog-smartgit - SmartGit Error Handler with detailed feedback",
+  "author": "Abu Shariff",
+  "license": null,
+  "home_page": "https://github.com/abucodingai/errlog-smartgit-py",
+  "download_filename": "pypi_errlog_smartgit-1.1.0.tar.gz",
+  "download_time": "2025-12-28T08:49:19.304730",
+  "package_url": "https://pypi.org/project/pypi-errlog-smartgit/"
+}
