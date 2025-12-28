@@ -1,0 +1,11 @@
+{
+  "name": "wood-nano",
+  "version": "0.3.1",
+  "summary": "Binding for wood project that is compiled into a binding using nanobind and scikit-build",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wood_nano-0.3.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-28T09:18:37.227162",
+  "package_url": "https://pypi.org/project/wood-nano/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pycessingame",
-  "version": "0.0.3",
-  "summary": "PYTHON module trying to implement PROCESSING in PYTHON via PYGAME.",
+  "version": "0.1.2",
+  "summary": "PYTHON Modul welches PROCESSING mit PYGAME realisiert - PYTHON module implementing PROCESSING in PYTHON via PYGAME",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycessingame-0.0.3.tar.gz",
-  "download_time": "2025-12-21T18:48:21.360644",
+  "download_filename": "pycessingame-0.1.2.tar.gz",
+  "download_time": "2025-12-28T09:18:26.684445",
   "package_url": "https://pypi.org/project/pycessingame/"
 }

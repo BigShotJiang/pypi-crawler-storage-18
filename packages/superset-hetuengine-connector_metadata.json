@@ -1,11 +1,11 @@
 {
   "name": "superset-hetuengine-connector",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Apache Superset database connector for Huawei HetuEngine",
   "author": "Community Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "superset_hetuengine_connector-0.1.11.tar.gz",
-  "download_time": "2025-12-28T08:49:15.847430",
+  "download_filename": "superset_hetuengine_connector-0.1.12.tar.gz",
+  "download_time": "2025-12-28T09:18:33.398327",
   "package_url": "https://pypi.org/project/superset-hetuengine-connector/"
 }

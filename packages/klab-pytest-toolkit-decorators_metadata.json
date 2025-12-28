@@ -1,11 +1,11 @@
 {
   "name": "klab-pytest-toolkit-decorators",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "summary": "Pytest decorators for the Klab Pytest Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "klab_pytest_toolkit_decorators-0.0.1.tar.gz",
-  "download_time": "2025-12-22T13:51:59.109408",
+  "download_filename": "klab_pytest_toolkit_decorators-1.0.0.tar.gz",
+  "download_time": "2025-12-28T09:18:17.234553",
   "package_url": "https://pypi.org/project/klab-pytest-toolkit-decorators/"
 }

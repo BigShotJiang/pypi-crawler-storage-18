@@ -1,0 +1,11 @@
+{
+  "name": "synpivimage",
+  "version": "1.0.0a9",
+  "summary": "Tool to build synthetic Particle Image Velocimetry (PIV) images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synpivimage-1.0.0a9.tar.gz",
+  "download_time": "2025-12-28T09:18:08.477940",
+  "package_url": "https://pypi.org/project/synpivimage/"
+}

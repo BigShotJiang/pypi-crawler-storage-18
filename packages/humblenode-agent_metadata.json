@@ -1,0 +1,11 @@
+{
+  "name": "humblenode-agent",
+  "version": "0.1.0",
+  "summary": "HumbleNode agent (FastAPI + Typer)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "humblenode_agent-0.1.0.tar.gz",
+  "download_time": "2025-12-28T09:18:16.725044",
+  "package_url": "https://pypi.org/project/humblenode-agent/"
+}

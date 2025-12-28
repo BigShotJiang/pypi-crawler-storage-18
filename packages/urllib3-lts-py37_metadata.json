@@ -1,0 +1,11 @@
+{
+  "name": "urllib3-lts-py37",
+  "version": "2025.66471.1",
+  "summary": "Python 3.7 urllib3 with CVE-2025-66471 security patches",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "urllib3_lts_py37-2025.66471.1.tar.gz",
+  "download_time": "2025-12-28T09:18:15.196709",
+  "package_url": "https://pypi.org/project/urllib3-lts-py37/"
+}

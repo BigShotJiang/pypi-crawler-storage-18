@@ -1,11 +1,11 @@
 {
   "name": "kengerkit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Kenger Service Python SDK",
   "author": "kenger",
   "license": null,
   "home_page": "https://github.com/xiaoyu-ai/kengerkit",
-  "download_filename": "kengerkit-0.2.0.tar.gz",
-  "download_time": "2025-12-28T06:26:21.844317",
+  "download_filename": "kengerkit-0.2.1.tar.gz",
+  "download_time": "2025-12-28T09:18:14.170393",
   "package_url": "https://pypi.org/project/kengerkit/"
 }

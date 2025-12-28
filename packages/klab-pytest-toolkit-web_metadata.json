@@ -1,0 +1,11 @@
+{
+  "name": "klab-pytest-toolkit-web",
+  "version": "1.0.0",
+  "summary": "Pytest web fixtures for the Klab Pytest Toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "klab_pytest_toolkit_web-1.0.0.tar.gz",
+  "download_time": "2025-12-28T09:18:16.215146",
+  "package_url": "https://pypi.org/project/klab-pytest-toolkit-web/"
+}

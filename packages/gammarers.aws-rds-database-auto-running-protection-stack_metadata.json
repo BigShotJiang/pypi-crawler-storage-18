@@ -1,11 +1,11 @@
 {
   "name": "gammarers.aws-rds-database-auto-running-protection-stack",
-  "version": "2.5.18",
+  "version": "2.6.0",
   "summary": "This construct is aws rds database or cluster auto running to stop.",
   "author": "yicr<yicr@users.noreply.github.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/gammarers/aws-rds-database-auto-running-protection-stack.git",
-  "download_filename": "gammarers_aws_rds_database_auto_running_protection_stack-2.5.18.tar.gz",
-  "download_time": "2025-12-24T19:28:31.714082",
+  "download_filename": "gammarers_aws_rds_database_auto_running_protection_stack-2.6.0.tar.gz",
+  "download_time": "2025-12-28T09:18:35.990972",
   "package_url": "https://pypi.org/project/gammarers.aws-rds-database-auto-running-protection-stack/"
 }

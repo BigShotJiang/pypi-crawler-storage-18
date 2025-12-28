@@ -1,11 +1,11 @@
 {
   "name": "pre_commit_mirror_maker_2",
-  "version": "1.10.0.1",
+  "version": "1.10.0.2",
   "summary": "Fork of pre-commit-mirror-maker",
   "author": "Anthony Sottile",
   "license": "MIT",
   "home_page": "https://github.com/GideonBear/pre-commit-mirror-maker-2",
-  "download_filename": "pre_commit_mirror_maker_2-1.10.0.1.tar.gz",
-  "download_time": "2025-12-27T18:22:33.255886",
+  "download_filename": "pre_commit_mirror_maker_2-1.10.0.2.tar.gz",
+  "download_time": "2025-12-28T09:18:09.054245",
   "package_url": "https://pypi.org/project/pre_commit_mirror_maker_2/"
 }
