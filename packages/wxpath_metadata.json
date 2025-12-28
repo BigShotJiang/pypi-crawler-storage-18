@@ -1,0 +1,11 @@
+{
+  "name": "wxpath",
+  "version": "0.1.0",
+  "summary": "wxpath - a declarative web crawler and data extractor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxpath-0.1.0.tar.gz",
+  "download_time": "2025-12-28T17:52:14.755767",
+  "package_url": "https://pypi.org/project/wxpath/"
+}

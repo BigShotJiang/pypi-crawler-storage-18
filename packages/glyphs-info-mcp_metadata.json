@@ -1,11 +1,11 @@
 {
   "name": "glyphs-info-mcp",
-  "version": "1.0.0rc2",
+  "version": "1.0.0",
   "summary": "Unified MCP server for Glyphs handbook and API queries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glyphs_info_mcp-1.0.0rc2.tar.gz",
-  "download_time": "2025-12-28T14:17:01.006121",
+  "download_filename": "glyphs_info_mcp-1.0.0.tar.gz",
+  "download_time": "2025-12-28T17:52:06.953600",
   "package_url": "https://pypi.org/project/glyphs-info-mcp/"
 }

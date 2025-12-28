@@ -1,11 +1,11 @@
 {
   "name": "sniffkit",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Selenium performance-log stream sniffer (m3u8)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sniffkit-0.1.1.tar.gz",
-  "download_time": "2025-12-28T17:15:45.773494",
+  "download_filename": "sniffkit-0.2.1.tar.gz",
+  "download_time": "2025-12-28T17:52:10.027029",
   "package_url": "https://pypi.org/project/sniffkit/"
 }

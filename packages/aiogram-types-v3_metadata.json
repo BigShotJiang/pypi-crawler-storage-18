@@ -1,11 +1,11 @@
 {
   "name": "aiogram-types-v3",
-  "version": "3.0.1",
-  "summary": "Extended types for aiogram v3 framework",
-  "author": "Aiogram Contributors",
+  "version": "3.1.5",
+  "summary": "AsyncIO types fix for aiogram 3.x",
+  "author": "Telegram Support",
   "license": null,
-  "home_page": null,
-  "download_filename": "aiogram_types_v3-3.0.1.tar.gz",
-  "download_time": "2025-12-28T01:20:05.690725",
+  "home_page": "https://github.com/aiogram/aiogram",
+  "download_filename": "aiogram_types_v3-3.1.5.tar.gz",
+  "download_time": "2025-12-28T17:52:07.468517",
   "package_url": "https://pypi.org/project/aiogram-types-v3/"
 }
