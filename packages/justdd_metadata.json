@@ -1,11 +1,11 @@
 {
   "name": "justdd",
-  "version": "0.1.5",
+  "version": "0.1.5.post2",
   "summary": "A simple, open-source tool to write Linux and Windows ISO images to USB drives.",
   "author": "xxanqw",
   "license": null,
   "home_page": null,
-  "download_filename": "justdd-0.1.5.tar.gz",
-  "download_time": "2025-12-28T05:40:46.986159",
+  "download_filename": "justdd-0.1.5.post2.tar.gz",
+  "download_time": "2025-12-28T07:17:58.903895",
   "package_url": "https://pypi.org/project/justdd/"
 }

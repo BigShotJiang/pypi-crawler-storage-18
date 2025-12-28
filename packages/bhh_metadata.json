@@ -1,11 +1,11 @@
 {
   "name": "bhh",
-  "version": "0.3.10",
-  "summary": "BHH - A Python toolbox",
+  "version": "0.5.0",
+  "summary": "BHH",
   "author": "Aria",
   "license": "BHAP",
   "home_page": null,
-  "download_filename": "bhh-0.3.10.tar.gz",
-  "download_time": "2025-12-24T06:56:50.970743",
+  "download_filename": "bhh-0.5.0.tar.gz",
+  "download_time": "2025-12-28T07:18:13.780111",
   "package_url": "https://pypi.org/project/bhh/"
 }
