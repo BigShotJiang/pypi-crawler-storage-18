@@ -1,0 +1,11 @@
+{
+  "name": "mirage-solana",
+  "version": "0.1.0",
+  "summary": "Privacy SDK for Solana with optional x402 payment support - Python interface with Rust cryptographic backbone",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mirage_solana-0.1.0.tar.gz",
+  "download_time": "2025-12-28T14:38:27.985889",
+  "package_url": "https://pypi.org/project/mirage-solana/"
+}

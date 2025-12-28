@@ -1,11 +1,11 @@
 {
   "name": "ms-swift",
-  "version": "3.11.2",
+  "version": "3.11.3",
   "summary": "Swift: Scalable lightWeight Infrastructure for Fine-Tuning",
   "author": "DAMO ModelScope teams",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/modelscope/swift",
-  "download_filename": "ms_swift-3.11.2.tar.gz",
-  "download_time": "2025-12-21T03:06:04.221302",
+  "download_filename": "ms_swift-3.11.3.tar.gz",
+  "download_time": "2025-12-28T14:38:31.164993",
   "package_url": "https://pypi.org/project/ms-swift/"
 }
