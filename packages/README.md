@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T15:53:03.820519
-- **Total Packages**: 84
-- **Total Size**: 11.01 MB
+- **Download Time**: 2025-12-28T16:20:27.884357
+- **Total Packages**: 88
+- **Total Size**: 21.67 MB
 
 ## Packages List
+- a2abase-cli
+- midisim
+- automation-ide
+- jamsuite-logger
+- scons-xo-exts-lib
+- survival-rs
+- anydi
+- grug-lang
+- mobiu-q
+- lattifai
+- easyocr2
+- mfi-mpower
+- XNOR-module
+- rapyer
+- ktoolbox-pure-py
+- omniopt2
+- MyoGen
+- aider-ce
+- sealights-python-agent
+- quinkgl
+- scrapebadger
+- coreason-veritas
+- DateTimeTools
+- result-analysis
+- interpolation-engine
+- dvt-core
+- tklr-dgraham
+- empathy-framework
+- django-khalti-integration
+- ktoolbox
+- aa-bb
+- songpress
+- matrice-inference
+- cloudbase-agent-llama-index
+- cloudbase-agent-tools
+- cloudbase-agent-crewai
+- cloudbase-agent-langgraph
+- cloudbase-agent-server
+- cloudbase-agent-storage
+- cloudbase-agent-core
+- python-workflow-plugin-framework
+- subtimizer
+- scs
+- aimodelshare
+- mp-hfs
+- recallbricks-langchain
+- langchain-primordia
+- mlrun
+- pobo-sdk
+- alpenstock
+- gammarers.aws-rds-database-running-schedule-stack
+- treco-framework
+- Weeaboo
+- cinetext
+- kimai-mcp
+- androbuilder
 - lixplore-cli
 - hdb-valuation-engine
 - andar
@@ -21,7 +77,6 @@
 - spotoptim
 - tagrefsorter
 - scoda-viz
-- dvt-core
 - Adax-local
 - ase
 - pywats-api
@@ -38,55 +93,4 @@
 - markdown-editor-mcp-server
 - notes-md
 - python-opendota-sdk
-- midisim
 - bridgecrew
-- aiecs
-- glaium
-- django-clerk-sdk
-- pyUnfoldedCircleRemote
-- pytest-watcher
-- hiws
-- aitocoder
-- quati
-- breesy
-- robusta-api
-- vmux-cli
-- tkinter-mcp-server
-- lumyn
-- thailint
-- aimodelshare
-- mp-hfs
-- pytorch2ltspice
-- cnpj-dv
-- undu
-- sharepoint-to-text
-- OAM-KIST
-- llm-dot-py
-- bitkub-v2
-- drawcustom
-- chname
-- smartXML
-- empirica
-- steam-shortcuts-cli
-- survival-rs
-- omniopt2
-- gluex.hddm-s
-- solaxx3
-- cpf-dv
-- fabra-ai
-- solvOR
-- libresvip
-- quebec
-- manimera
-- pylxpweb
-- sensorflex
-- typecheck-runtime
-- grasp_agents
-- timedatamodel
-- matrice-streaming
-- zenv-lang
-- devops-agent
-- pydantic-ai-todo
-- je-editor
-- csvcatalog
-- ax-lang

@@ -1,0 +1,11 @@
+{
+  "name": "jamsuite-logger",
+  "version": "0.9.0",
+  "summary": "JSON structured logger",
+  "author": null,
+  "license": "Apache-2.0 License",
+  "home_page": null,
+  "download_filename": "jamsuite_logger-0.9.0.tar.gz",
+  "download_time": "2025-12-28T16:19:41.520297",
+  "package_url": "https://pypi.org/project/jamsuite-logger/"
+}

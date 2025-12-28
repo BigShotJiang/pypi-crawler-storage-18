@@ -1,0 +1,11 @@
+{
+  "name": "songpress",
+  "version": "1.9.0.dev4",
+  "summary": "Songpress is a free, easy to use song typeset program for Windows and Linux, that generates high-quality songbooks.",
+  "author": "Luca Allulli",
+  "license": "GNU GPL v2",
+  "home_page": "https://www.skeed.it/songpress",
+  "download_filename": "songpress-1.9.0.dev4.tar.gz",
+  "download_time": "2025-12-28T16:19:57.312210",
+  "package_url": "https://pypi.org/project/songpress/"
+}

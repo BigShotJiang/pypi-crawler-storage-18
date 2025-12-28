@@ -1,0 +1,11 @@
+{
+  "name": "python-workflow-plugin-framework",
+  "version": "1.2.0",
+  "summary": "一个简化 Python 插件开发的通用框架",
+  "author": "gw123",
+  "license": null,
+  "home_page": "https://github.com/yourusername/python-plugin-framework",
+  "download_filename": "python_workflow_plugin_framework-1.2.0.tar.gz",
+  "download_time": "2025-12-28T16:20:01.989831",
+  "package_url": "https://pypi.org/project/python-workflow-plugin-framework/"
+}
