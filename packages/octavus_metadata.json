@@ -1,0 +1,11 @@
+{
+  "name": "octavus",
+  "version": "0.0.1",
+  "summary": "Python SDK for Octavus - AI agent orchestration platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octavus-0.0.1.tar.gz",
+  "download_time": "2025-12-28T19:14:43.976180",
+  "package_url": "https://pypi.org/project/octavus/"
+}

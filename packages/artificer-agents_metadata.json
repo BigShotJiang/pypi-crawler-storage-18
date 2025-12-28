@@ -1,11 +1,11 @@
 {
   "name": "artificer-agents",
-  "version": "0.1.0a19",
+  "version": "0.1.0a21",
   "summary": "A library for creating agents",
   "author": "Scott",
   "license": null,
   "home_page": null,
-  "download_filename": "artificer_agents-0.1.0a19.tar.gz",
-  "download_time": "2025-12-28T06:55:47.252129",
+  "download_filename": "artificer_agents-0.1.0a21.tar.gz",
+  "download_time": "2025-12-28T19:14:06.371371",
   "package_url": "https://pypi.org/project/artificer-agents/"
 }

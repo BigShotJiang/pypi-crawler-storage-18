@@ -1,0 +1,11 @@
+{
+  "name": "beat-tracking-evaluation",
+  "version": "1.1.0",
+  "summary": "Beat tracking evaluation measures",
+  "author": "Adam Stark, Matthew Davies",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beat_tracking_evaluation-1.1.0.tar.gz",
+  "download_time": "2025-12-28T19:14:37.272013",
+  "package_url": "https://pypi.org/project/beat-tracking-evaluation/"
+}

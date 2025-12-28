@@ -1,0 +1,11 @@
+{
+  "name": "geoparquet-io",
+  "version": "0.7.0",
+  "summary": "Fast I/O and transformation tools for GeoParquet files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geoparquet_io-0.7.0.tar.gz",
+  "download_time": "2025-12-28T19:14:04.841706",
+  "package_url": "https://pypi.org/project/geoparquet-io/"
+}
