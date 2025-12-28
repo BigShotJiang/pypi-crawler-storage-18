@@ -1,0 +1,11 @@
+{
+  "name": "yr-meteogram-util",
+  "version": "0.2.5",
+  "summary": "A package for downloading and maniuplating meteograms from YR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yr_meteogram_util-0.2.5.tar.gz",
+  "download_time": "2025-12-28T13:43:51.414183",
+  "package_url": "https://pypi.org/project/yr-meteogram-util/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pepedd-nodes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Additional nodes for pepedd",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pepedd_nodes-0.1.0.tar.gz",
-  "download_time": "2025-12-27T22:53:15.802889",
+  "download_filename": "pepedd_nodes-0.1.1.tar.gz",
+  "download_time": "2025-12-28T13:43:57.565111",
   "package_url": "https://pypi.org/project/pepedd-nodes/"
 }
