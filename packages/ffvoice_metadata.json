@@ -1,11 +1,11 @@
 {
   "name": "ffvoice",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "High-performance offline speech recognition library for Python",
   "author": "ffvoice-engine contributors",
   "license": null,
   "home_page": "https://github.com/chicogong/ffvoice-engine",
-  "download_filename": "ffvoice-0.4.3-cp311-cp311-macosx_11_0_universal2.whl",
-  "download_time": "2025-12-28T05:04:26.389303",
+  "download_filename": "ffvoice-0.4.4-cp311-cp311-macosx_11_0_universal2.whl",
+  "download_time": "2025-12-28T08:21:57.968627",
   "package_url": "https://pypi.org/project/ffvoice/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "haze-library",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "High-performance quantitative trading indicators library with Rust backend",
   "author": null,
   "license": null,
   "home_page": "https://github.com/kwannz/haze",
-  "download_filename": "haze_library-1.0.5.tar.gz",
-  "download_time": "2025-12-28T06:26:42.288144",
+  "download_filename": "haze_library-1.0.6.tar.gz",
+  "download_time": "2025-12-28T08:22:06.676522",
   "package_url": "https://pypi.org/project/haze-library/"
 }

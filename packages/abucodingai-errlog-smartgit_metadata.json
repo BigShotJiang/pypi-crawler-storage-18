@@ -1,0 +1,11 @@
+{
+  "name": "abucodingai-errlog-smartgit",
+  "version": "1.0.0",
+  "summary": "errlog-smartgit - SmartGit Error Handler with detailed feedback",
+  "author": "Abu Coding AI",
+  "license": null,
+  "home_page": "https://github.com/abucodingai/errlog-smartgit-py",
+  "download_filename": "abucodingai_errlog_smartgit-1.0.0.tar.gz",
+  "download_time": "2025-12-28T08:21:50.912477",
+  "package_url": "https://pypi.org/project/abucodingai-errlog-smartgit/"
+}

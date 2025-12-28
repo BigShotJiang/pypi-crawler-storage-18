@@ -1,0 +1,11 @@
+{
+  "name": "mcp-reddit",
+  "version": "0.1.0",
+  "summary": "MCP server for scraping Reddit - no API keys required",
+  "author": "Naman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_reddit-0.1.0.tar.gz",
+  "download_time": "2025-12-28T08:21:49.248307",
+  "package_url": "https://pypi.org/project/mcp-reddit/"
+}

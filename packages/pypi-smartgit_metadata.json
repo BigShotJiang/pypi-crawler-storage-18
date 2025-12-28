@@ -1,0 +1,11 @@
+{
+  "name": "pypi-smartgit",
+  "version": "1.0.0",
+  "summary": "SmartGit - Intelligent Git automation with minimal commands",
+  "author": "Abu Shariff",
+  "license": null,
+  "home_page": "https://github.com/abucodingai/smartgit-py",
+  "download_filename": "pypi_smartgit-1.0.0.tar.gz",
+  "download_time": "2025-12-28T08:21:42.631990",
+  "package_url": "https://pypi.org/project/pypi-smartgit/"
+}

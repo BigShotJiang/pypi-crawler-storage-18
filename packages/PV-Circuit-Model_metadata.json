@@ -1,11 +1,11 @@
 {
   "name": "PV-Circuit-Model",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "PV Circuit model for cells, modules and components with additional tools for simulations and model fits to measurement data",
   "author": "Johnson Wong",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pv_circuit_model-0.5.1-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-12-24T07:55:08.289543",
+  "download_filename": "pv_circuit_model-0.6.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-12-28T08:21:54.554831",
   "package_url": "https://pypi.org/project/PV-Circuit-Model/"
 }
