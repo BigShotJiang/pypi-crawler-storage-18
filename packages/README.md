@@ -1,23 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T19:31:07.242637
+- **Download Time**: 2025-12-28T19:41:14.388420
 - **Total Packages**: 77
-- **Total Size**: 17.7 MB
+- **Total Size**: 0.34 MB
 
 ## Packages List
-- cuRDF
-- sunlm
-- rite
-- pplx-cli
-- zegie
-- mkdocs-texsmith
-- texsmith
-- consts-everywhere
-- flake8-multiline-equals
-- aiogram-types-v3
-- real-estate-scrape
-- quinkgl
 - pyravelry
 - oca-odoo-pre-commit-hooks
 - tacotoolbox
@@ -28,11 +16,14 @@
 - pynetlink
 - interview-ai
 - pywebnn
+- zegie
+- quinkgl
 - fnnx
 - earningspy
 - pygpt-net
 - geoparquet-io
 - homeconnect-websocket
+- aiogram-types-v3
 - artificer-agents
 - gnost
 - py-uds
@@ -83,3 +74,12 @@
 - locoformer
 - mymra
 - claude-dev-cli
+- vicentin
+- ndvi2gif
+- macroni
+- sentienceapi
+- SABV
+- beat-tracking-evaluation
+- svg-ultralight
+- multi-llm-orchestrator
+- webquest-mcp
