@@ -1,11 +1,11 @@
 {
   "name": "gsdk",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Lightweight, high-performance Python wrapper for the Google Gemini API.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gsdk-1.0.7.tar.gz",
-  "download_time": "2025-12-28T06:26:12.189885",
+  "download_filename": "gsdk-1.0.8.tar.gz",
+  "download_time": "2025-12-28T06:55:39.209615",
   "package_url": "https://pypi.org/project/gsdk/"
 }

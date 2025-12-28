@@ -1,0 +1,11 @@
+{
+  "name": "saara-ai",
+  "version": "1.0.0",
+  "summary": "🧠 Saara - Autonomous Document-to-LLM Data Factory. Transform PDFs into training datasets and fine-tune LLMs.",
+  "author": "Saara Team",
+  "license": "MIT",
+  "home_page": "https://github.com/nikhil49023/Data-engine",
+  "download_filename": "saara_ai-1.0.0.tar.gz",
+  "download_time": "2025-12-28T06:55:58.258856",
+  "package_url": "https://pypi.org/project/saara-ai/"
+}

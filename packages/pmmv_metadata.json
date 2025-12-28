@@ -1,0 +1,11 @@
+{
+  "name": "pmmv",
+  "version": "0.4.0",
+  "summary": "PMMV - Python Mass Move: A tool for batch renaming/moving files with an interactive editor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pmmv-0.4.0-py3-none-any.whl",
+  "download_time": "2025-12-28T06:55:49.441677",
+  "package_url": "https://pypi.org/project/pmmv/"
+}

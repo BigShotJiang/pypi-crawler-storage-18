@@ -1,0 +1,11 @@
+{
+  "name": "mdit-py-heading-attrs",
+  "version": "1.0.0",
+  "summary": "markdown-it-py plugin to add ID attribute support to headings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdit_py_heading_attrs-1.0.0.tar.gz",
+  "download_time": "2025-12-28T06:55:41.326259",
+  "package_url": "https://pypi.org/project/mdit-py-heading-attrs/"
+}
