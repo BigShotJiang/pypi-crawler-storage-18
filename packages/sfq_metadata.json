@@ -1,0 +1,11 @@
+{
+  "name": "sfq",
+  "version": "0.0.47",
+  "summary": "Python wrapper for the Salesforce's Query API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfq-0.0.47.tar.gz",
+  "download_time": "2025-12-28T09:36:46.781572",
+  "package_url": "https://pypi.org/project/sfq/"
+}

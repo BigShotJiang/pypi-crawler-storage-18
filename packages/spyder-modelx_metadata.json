@@ -1,0 +1,11 @@
+{
+  "name": "spyder-modelx",
+  "version": "0.14.3",
+  "summary": "Spyder plugin for modelx",
+  "author": "Fumito Hamamura",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/fumitoh/spyder-modelx",
+  "download_filename": "spyder_modelx-0.14.3.tar.gz",
+  "download_time": "2025-12-28T09:36:44.736857",
+  "package_url": "https://pypi.org/project/spyder-modelx/"
+}
