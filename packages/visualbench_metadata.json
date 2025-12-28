@@ -1,11 +1,11 @@
 {
   "name": "visualbench",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "visualbench-1.0.4.tar.gz",
-  "download_time": "2025-12-28T09:36:49.337683",
+  "download_filename": "visualbench-1.0.5.tar.gz",
+  "download_time": "2025-12-28T09:52:09.644380",
   "package_url": "https://pypi.org/project/visualbench/"
 }

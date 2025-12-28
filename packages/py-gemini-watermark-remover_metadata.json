@@ -1,11 +1,11 @@
 {
   "name": "py-gemini-watermark-remover",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Python implementation of a Gemini watermark removal tool using mathematical reverse alpha blending",
   "author": "py-gemini-watermark-remover contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_gemini_watermark_remover-0.2.7.tar.gz",
-  "download_time": "2025-12-26T16:19:11.465090",
+  "download_filename": "py_gemini_watermark_remover-0.2.8.tar.gz",
+  "download_time": "2025-12-28T09:52:04.188578",
   "package_url": "https://pypi.org/project/py-gemini-watermark-remover/"
 }
