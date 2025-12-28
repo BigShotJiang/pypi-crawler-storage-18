@@ -1,0 +1,11 @@
+{
+  "name": "agent-mcp-server",
+  "version": "0.0.4.0",
+  "summary": "Agent MCP服务框架",
+  "author": "fb_linux",
+  "license": "MIT",
+  "home_page": "https://codeup.aliyun.com/64650c96168f0a5963451dec/lib/fast-model-server/blob/master/README.md",
+  "download_filename": "agent_mcp_server-0.0.4.0-py2.py3-none-any.whl",
+  "download_time": "2025-12-28T15:52:25.389934",
+  "package_url": "https://pypi.org/project/agent-mcp-server/"
+}

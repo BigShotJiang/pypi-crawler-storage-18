@@ -1,11 +1,11 @@
 {
   "name": "balex",
-  "version": "1.1.0",
-  "summary": "Async Python library for sending messages via Bale Messenger",
-  "author": "𝐀𝐦𝐢𝐫𝐀𝐛𝐚𝐬",
+  "version": "1.2.0",
+  "summary": "Python library Bale Messenger",
+  "author": "z8r-service",
   "license": null,
   "home_page": null,
-  "download_filename": "balex-1.1.0.tar.gz",
-  "download_time": "2025-12-25T13:11:03.255223",
+  "download_filename": "balex-1.2.0.tar.gz",
+  "download_time": "2025-12-28T15:52:22.066378",
   "package_url": "https://pypi.org/project/balex/"
 }

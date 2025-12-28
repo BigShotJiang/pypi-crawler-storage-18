@@ -1,11 +1,11 @@
 {
   "name": "hdb-valuation-engine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Singapore Public Housing (HDB) Valuation Engine using geospatial accessibility scoring.",
   "author": "Mansib \"Xenix\" Miraj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hdb_valuation_engine-0.1.1.tar.gz",
-  "download_time": "2025-12-28T15:35:12.955964",
+  "download_filename": "hdb_valuation_engine-0.1.2.tar.gz",
+  "download_time": "2025-12-28T15:52:20.530203",
   "package_url": "https://pypi.org/project/hdb-valuation-engine/"
 }

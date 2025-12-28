@@ -1,11 +1,11 @@
 {
   "name": "notes-md",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Markdown based notes CLI that uses current directory as the notebook name.",
   "author": "David Knight",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "notes_md-0.1.1.tar.gz",
-  "download_time": "2025-12-27T18:22:26.891201",
+  "download_filename": "notes_md-0.1.2.tar.gz",
+  "download_time": "2025-12-28T15:52:35.840543",
   "package_url": "https://pypi.org/project/notes-md/"
 }
