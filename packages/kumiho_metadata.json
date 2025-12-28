@@ -1,11 +1,11 @@
 {
   "name": "kumiho",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Python SDK for Kumiho Cloud - Graph-native creative & AI asset management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kumiho-0.8.0.tar.gz",
-  "download_time": "2025-12-27T15:16:07.159836",
+  "download_filename": "kumiho-0.8.1.tar.gz",
+  "download_time": "2025-12-28T01:19:52.196347",
   "package_url": "https://pypi.org/project/kumiho/"
 }

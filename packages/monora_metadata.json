@@ -1,11 +1,11 @@
 {
   "name": "monora",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Lightweight governance and trace SDK for AI systems",
   "author": "Monora Team",
   "license": "MIT",
   "home_page": "https://github.com/monora/monora",
-  "download_filename": "monora-1.0.0.tar.gz",
-  "download_time": "2025-12-26T23:51:46.701887",
+  "download_filename": "monora-1.0.1.tar.gz",
+  "download_time": "2025-12-28T01:20:02.623551",
   "package_url": "https://pypi.org/project/monora/"
 }

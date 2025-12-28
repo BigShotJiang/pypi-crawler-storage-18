@@ -1,0 +1,11 @@
+{
+  "name": "zarr-tools",
+  "version": "0.5.1",
+  "summary": "Convert nd2 to zarr",
+  "author": "Andrey Aristov",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/BaroudLab/zarr-tools",
+  "download_filename": "zarr_tools-0.5.1.tar.gz",
+  "download_time": "2025-12-28T01:19:48.014713",
+  "package_url": "https://pypi.org/project/zarr-tools/"
+}

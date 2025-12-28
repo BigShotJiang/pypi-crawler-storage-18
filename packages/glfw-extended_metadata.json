@@ -1,0 +1,11 @@
+{
+  "name": "glfw-extended",
+  "version": "0.1.0",
+  "summary": "Python bindings for TheCherno's GLFW fork with custom titlebar support",
+  "author": "Izaiah Meyer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glfw_extended-0.1.0.tar.gz",
+  "download_time": "2025-12-28T01:20:27.721494",
+  "package_url": "https://pypi.org/project/glfw-extended/"
+}

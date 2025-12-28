@@ -1,0 +1,11 @@
+{
+  "name": "qslib",
+  "version": "0.14.0",
+  "summary": "Library for communicating with and using the QuantStudio qPCR machine, intended for non-qPCR uses.",
+  "author": null,
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/cgevans/qslib-rs",
+  "download_filename": "qslib-0.14.0.tar.gz",
+  "download_time": "2025-12-28T01:19:51.684114",
+  "package_url": "https://pypi.org/project/qslib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gguf-coder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "GGUF coder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gguf_coder-0.0.2.tar.gz",
-  "download_time": "2025-12-26T23:16:37.387503",
+  "download_filename": "gguf_coder-0.0.3.tar.gz",
+  "download_time": "2025-12-28T01:20:03.647299",
   "package_url": "https://pypi.org/project/gguf-coder/"
 }

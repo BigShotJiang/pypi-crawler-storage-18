@@ -1,0 +1,11 @@
+{
+  "name": "Opt4Deck",
+  "version": "0.1.0",
+  "summary": "Opt4Deck optimization toolkit (simplex, bfgs, genetic, adjoint)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opt4deck-0.1.0.tar.gz",
+  "download_time": "2025-12-28T01:20:16.868358",
+  "package_url": "https://pypi.org/project/Opt4Deck/"
+}

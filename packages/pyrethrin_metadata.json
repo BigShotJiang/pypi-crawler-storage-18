@@ -1,0 +1,11 @@
+{
+  "name": "pyrethrin",
+  "version": "0.2.0",
+  "summary": "Rust-style exhaustive error and None handling for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrethrin-0.2.0.tar.gz",
+  "download_time": "2025-12-28T01:20:01.594331",
+  "package_url": "https://pypi.org/project/pyrethrin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bblean",
-  "version": "0.7.8",
+  "version": "0.8.0",
   "summary": "BitBirch-Lean Python package",
   "author": "The Miranda-Quintana Lab and other BitBirch developers",
   "license": null,
   "home_page": null,
-  "download_filename": "bblean-0.7.8.tar.gz",
-  "download_time": "2025-12-27T08:21:34.036720",
+  "download_filename": "bblean-0.8.0.tar.gz",
+  "download_time": "2025-12-28T01:20:01.045411",
   "package_url": "https://pypi.org/project/bblean/"
 }

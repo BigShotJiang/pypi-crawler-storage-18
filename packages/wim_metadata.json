@@ -1,0 +1,11 @@
+{
+  "name": "wim",
+  "version": "1.0.0",
+  "summary": "wim is a command line tool to create images for the web.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wim-1.0.0.tar.gz",
+  "download_time": "2025-12-28T01:20:25.661016",
+  "package_url": "https://pypi.org/project/wim/"
+}

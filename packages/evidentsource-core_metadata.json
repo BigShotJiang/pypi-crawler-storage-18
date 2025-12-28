@@ -1,0 +1,11 @@
+{
+  "name": "evidentsource-core",
+  "version": "0.8.0",
+  "summary": "Core domain types for EvidentSource event sourcing platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evidentsource_core-0.8.0.tar.gz",
+  "download_time": "2025-12-28T01:20:22.555488",
+  "package_url": "https://pypi.org/project/evidentsource-core/"
+}

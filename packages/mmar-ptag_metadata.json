@@ -1,11 +1,11 @@
 {
   "name": "mmar-ptag",
-  "version": "1.0.18",
+  "version": "1.0.20",
   "summary": "pydantically-type-adapted-grpc framework for multimodal architectures team",
   "author": "Eugene Tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_ptag-1.0.18.tar.gz",
-  "download_time": "2025-12-26T23:34:31.520204",
+  "download_filename": "mmar_ptag-1.0.20.tar.gz",
+  "download_time": "2025-12-28T01:20:15.324983",
   "package_url": "https://pypi.org/project/mmar-ptag/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "uharfbuzz",
-  "version": "0.53.1",
+  "version": "0.53.2",
   "summary": "Streamlined Cython bindings for the harfbuzz shaping engine",
   "author": "Adrien Tétar",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/trufont/uharfbuzz",
-  "download_filename": "uharfbuzz-0.53.1.tar.gz",
-  "download_time": "2025-12-24T13:44:17.763899",
+  "download_filename": "uharfbuzz-0.53.2.tar.gz",
+  "download_time": "2025-12-28T01:19:56.349291",
   "package_url": "https://pypi.org/project/uharfbuzz/"
 }

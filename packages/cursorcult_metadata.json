@@ -1,11 +1,11 @@
 {
   "name": "cursorcult",
-  "version": "0.11.4",
+  "version": "0.11.7",
   "summary": "CLI to list and link CursorCult rules.",
   "author": "Will Wieselquist",
   "license": "Unlicense",
   "home_page": null,
-  "download_filename": "cursorcult-0.11.4.tar.gz",
-  "download_time": "2025-12-23T01:10:06.400002",
+  "download_filename": "cursorcult-0.11.7.tar.gz",
+  "download_time": "2025-12-28T01:19:55.801048",
   "package_url": "https://pypi.org/project/cursorcult/"
 }

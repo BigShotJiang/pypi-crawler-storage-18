@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-plugin-manager",
+  "version": "0.2.0",
+  "summary": "PyPI package management integrated directly into MLflow's web interface",
+  "author": "Thijs de Zoete",
+  "license": null,
+  "home_page": "https://github.com/thijsdezoete/mlflow-plugin-manager",
+  "download_filename": "mlflow_plugin_manager-0.2.0.tar.gz",
+  "download_time": "2025-12-28T01:20:14.812045",
+  "package_url": "https://pypi.org/project/mlflow-plugin-manager/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smart-clicker",
+  "version": "0.1.0",
+  "summary": "A simple screen automation tool with hotkey snapshot capability.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_clicker-0.1.0.tar.gz",
+  "download_time": "2025-12-28T01:19:50.644028",
+  "package_url": "https://pypi.org/project/smart-clicker/"
+}
