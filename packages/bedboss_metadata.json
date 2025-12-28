@@ -1,11 +1,11 @@
 {
   "name": "bedboss",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Pipelines for genomic region file to produce bed files, and it's statistics",
   "author": null,
   "license": "BSD2",
   "home_page": "https://databio.org",
-  "download_filename": "bedboss-0.8.3.tar.gz",
-  "download_time": "2025-12-22T21:14:18.063406",
+  "download_filename": "bedboss-0.8.4.tar.gz",
+  "download_time": "2025-12-28T05:04:30.496715",
   "package_url": "https://pypi.org/project/bedboss/"
 }

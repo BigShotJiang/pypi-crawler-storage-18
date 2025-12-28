@@ -1,11 +1,11 @@
 {
   "name": "enroll",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Enroll a server's running state retrospectively into Ansible",
   "author": "Miguel Jacq",
   "license": "GPL-3.0-or-later",
   "home_page": "https://git.mig5.net/mig5/enroll",
-  "download_filename": "enroll-0.1.5.tar.gz",
-  "download_time": "2025-12-27T23:16:41.550093",
+  "download_filename": "enroll-0.1.6.tar.gz",
+  "download_time": "2025-12-28T05:04:42.290918",
   "package_url": "https://pypi.org/project/enroll/"
 }

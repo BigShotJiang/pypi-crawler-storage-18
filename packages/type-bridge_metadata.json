@@ -1,11 +1,11 @@
 {
   "name": "type-bridge",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A modern, Pythonic ORM for TypeDB with an Attribute-based API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "type_bridge-1.2.2.tar.gz",
-  "download_time": "2025-12-25T13:11:03.768050",
+  "download_filename": "type_bridge-1.2.3.tar.gz",
+  "download_time": "2025-12-28T05:04:33.402680",
   "package_url": "https://pypi.org/project/type-bridge/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pptx2png",
+  "version": "2025.1",
+  "summary": "A one-click Python library for converting .pptx files into .png images.",
+  "author": "WaterRun",
+  "license": null,
+  "home_page": "https://github.com/Water-Run/pptx2png",
+  "download_filename": "pptx2png-2025.1.tar.gz",
+  "download_time": "2025-12-28T05:04:33.986367",
+  "package_url": "https://pypi.org/project/pptx2png/"
+}

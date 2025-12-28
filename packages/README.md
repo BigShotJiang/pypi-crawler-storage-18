@@ -1,11 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T04:35:15.181869
-- **Total Packages**: 85
-- **Total Size**: 24.94 MB
+- **Download Time**: 2025-12-28T05:05:11.922787
+- **Total Packages**: 84
+- **Total Size**: 9.81 MB
 
 ## Packages List
+- Ins-Pricing
+- vappman
+- iranetf
+- DensityFlowMO
+- DataNova
+- ffvoice
+- fitz-ai
+- async-garlandtools
+- curvelets
+- docetl
+- keras-nlp-nightly
+- keras-hub-nightly
+- bedboss
+- jokoor
+- afragment
+- amrita
+- bitneural32
+- type-bridge
+- pptx2png
+- my-cloud-devops-consulting
+- red-tidegear
+- rom24-quickmud-python
+- quant-pml
+- konic
+- halo-sdk
+- mtcli-vap
+- vsc-toolchain
+- bascom
+- fluxfem
+- ezfit
+- email-archiver
+- minicheck
+- enroll
 - coreason-adlc-api
 - email_me_anything
 - dizqueTV
@@ -18,7 +51,6 @@
 - odoo-addon-l10n-br-mdfe
 - modbuslink
 - bioguider
-- bitneural32
 - mcp-stata
 - asynctor
 - aquiles-image
@@ -26,8 +58,6 @@
 - langchain-gradient
 - mdit-py-figure
 - electric-barometer
-- my-cloud-devops-consulting
-- quant-pml
 - powerdns-cli
 - pvv-mcp-server
 - keras-nightly
@@ -49,12 +79,10 @@
 - pyrig
 - sae-lens
 - auroraview
-- red-tidegear
 - claude-dev-cli
 - chromedriver-binary
 - vvuq-client
 - philh_myftp_biz
-- konic
 - eb-metrics
 - attuned
 - datahub_binary
@@ -62,32 +90,3 @@
 - testudos
 - bokicast-mcp-server
 - flacfetch
-- ffvoice
-- fleeks-sdk
-- django-tink-fields
-- helixcommit
-- target-s3tables
-- aldepyde
-- easyths
-- wisent
-- symb-anafis
-- dspy-gepa-logger
-- keras-rs-nightly
-- aftr
-- wagtail-lms
-- beads-mcp
-- py-wlcommands
-- DensityFlowMO
-- GANDLF
-- oca-odoo-pre-commit-hooks
-- jupyterlab-highlight-selected-word
-- mf-excel
-- shannot
-- musicxml-to-png
-- agentic-dev-boilerplate
-- egeometry
-- vappman
-- rpp-protocol
-- pybgpkitstream
-- libzapi
-- odoo-addon-openupgrade-scripts

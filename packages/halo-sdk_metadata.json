@@ -1,0 +1,11 @@
+{
+  "name": "halo-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for Halo API with built-in x402 auto-payment",
+  "author": "Halo Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "halo_sdk-0.1.1.tar.gz",
+  "download_time": "2025-12-28T05:04:37.563998",
+  "package_url": "https://pypi.org/project/halo-sdk/"
+}
