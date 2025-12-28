@@ -1,11 +1,11 @@
 {
   "name": "ai-rulez",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "⚡ One config to rule them all. Centralized AI assistant configuration management - generate rules for Claude, Cursor, Copilot, Windsurf and more from a single YAML file.",
   "author": "Na'aman Hirschfeld",
   "license": null,
   "home_page": "https://github.com/Goldziher/ai-rulez",
-  "download_filename": "ai_rulez-3.2.0.tar.gz",
-  "download_time": "2025-12-28T14:54:19.669435",
+  "download_filename": "ai_rulez-3.2.1.tar.gz",
+  "download_time": "2025-12-28T17:15:44.236328",
   "package_url": "https://pypi.org/project/ai-rulez/"
 }

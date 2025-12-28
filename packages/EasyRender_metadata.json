@@ -1,11 +1,11 @@
 {
   "name": "EasyRender",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A small python package",
   "author": "muhaiminulsadat",
   "license": "MIT",
   "home_page": "https://github.com/muhaiminulsadat/Easy-Render-PyPI-Package",
-  "download_filename": "easyrender-0.0.1.tar.gz",
-  "download_time": "2025-12-28T16:49:02.300573",
+  "download_filename": "easyrender-0.0.2.tar.gz",
+  "download_time": "2025-12-28T17:15:19.410446",
   "package_url": "https://pypi.org/project/EasyRender/"
 }

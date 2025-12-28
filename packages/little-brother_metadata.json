@@ -1,0 +1,11 @@
+{
+  "name": "little-brother",
+  "version": "0.5.8",
+  "summary": "Simple parental control application monitoring specific processes on Linux hosts to monitor and limit the play time of (young) children.",
+  "author": "Marcus Rickert",
+  "license": null,
+  "home_page": "https://github.com/marcus67/little_brother",
+  "download_filename": "little_brother-0.5.8.tar.gz",
+  "download_time": "2025-12-28T17:15:23.018781",
+  "package_url": "https://pypi.org/project/little-brother/"
+}

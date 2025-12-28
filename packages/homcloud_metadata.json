@@ -1,0 +1,11 @@
+{
+  "name": "homcloud",
+  "version": "5.2.0",
+  "summary": "HomCloud, persistent homology based data analysis package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "homcloud-5.2.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-12-28T17:15:27.843259",
+  "package_url": "https://pypi.org/project/homcloud/"
+}

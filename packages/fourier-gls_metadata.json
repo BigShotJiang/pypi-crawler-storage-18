@@ -1,0 +1,11 @@
+{
+  "name": "fourier-gls",
+  "version": "1.0.0",
+  "summary": "Flexible Fourier Form and Local GLS De-trended Unit Root Tests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fourier_gls-1.0.0.tar.gz",
+  "download_time": "2025-12-28T17:15:18.390228",
+  "package_url": "https://pypi.org/project/fourier-gls/"
+}
