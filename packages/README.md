@@ -1,20 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T13:54:43.591903
-- **Total Packages**: 87
-- **Total Size**: 17.63 MB
+- **Download Time**: 2025-12-28T14:17:27.082447
+- **Total Packages**: 85
+- **Total Size**: 14.81 MB
 
 ## Packages List
+- kececinumbers
+- podflow
+- licence-sdk-python
+- pydantic-invoices
+- bluetti-bt-lib
+- webenginepy
+- rite
+- askput
+- pyqqmusicdes
+- pyrig
+- openmcp-sdk
+- holmesgpt
+- gmi-ieops
+- transparent-overlay
+- lattifai-core
+- build-meta-plus
+- evalvault
+- gemato
+- agent-skills-cli
+- strox
+- gns3-copilot
+- polarion-rest-client
+- tklr-dgraham
+- random-password-creator
+- vmux-cli
+- vlaamscodex
+- logzai-otlp
+- cloudbase-agent-llama-index
+- cloudbase-agent-tools
+- cloudbase-agent-crewai
+- cloudbase-agent-langgraph
+- cloudbase-agent-server
+- cloudbase-agent-storage
+- cloudbase-agent-core
+- glyphs-info-mcp
+- baihe-config
+- lore-mcp
+- odoo-addon-gestion-editorial
+- agent-client-protocol
+- portal_tool
+- pysentry-rs
+- dhti-elixir-base
+- sayou-loader
+- opscalesrv
+- agirails
 - tensordict-nightly
 - code-puppy
 - agentctlx
 - pyaibox
 - lazy-imports
-- evalvault
 - kxy-framework
 - je-editor
-- pyrig
 - vappman
 - universcell-framework
 - dijkies
@@ -40,56 +83,11 @@
 - fmtr.tools
 - Essentiax
 - viztools
-- vmux-cli
 - easyths
 - mfi-mpower
 - docx-json-converter
 - deepnexai-mlutils
 - pywiim
-- portal_tool
-- strox
 - odoo-addon-sinli
 - odoo-addon-importar-lineas-pedido
 - odoo-addon-importar-lineas-compra
-- odoo-addon-gestion-editorial
-- odoo-addon-exportar-stock-editorial-xls
-- aiauto-client
-- odoo-addon-exportar-deposito-xls
-- fbgemm-gpu-nightly-cpu
-- fluxhive
-- cryptoservice
-- reko-yt
-- boring-cli
-- pytorch-dml
-- micasense-imageprocessing
-- logging_ext_ramwin
-- lk-moe
-- ant-ray-cpp-nightly
-- osvc-kalkulacka
-- survival-rs
-- yr-meteogram-util
-- steer-sdk
-- lore-mcp
-- securerun-manifest
-- far-oracle
-- minicheck
-- mgnify-pipelines-toolkit
-- omniopt2
-- securerun
-- sql-logfire
-- nextrec
-- pepedd
-- pepedd-nodes
-- transparent-overlay
-- nbdev-apl
-- nbdev-django
-- spotoptim
-- nbdev-sphinx
-- helloworld-prajun-v
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- novelWriter
-- torcrawl

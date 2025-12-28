@@ -1,0 +1,11 @@
+{
+  "name": "polarion-rest-client",
+  "version": "25.6.6",
+  "summary": "Polarion REST API client, wrappers & helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polarion_rest_client-25.6.6.tar.gz",
+  "download_time": "2025-12-28T14:16:53.822148",
+  "package_url": "https://pypi.org/project/polarion-rest-client/"
+}

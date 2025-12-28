@@ -1,0 +1,11 @@
+{
+  "name": "podflow",
+  "version": "20251228",
+  "summary": "A podcast server that includes YouTube and BiliBili",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "podflow-20251228.tar.gz",
+  "download_time": "2025-12-28T14:16:43.180221",
+  "package_url": "https://pypi.org/project/podflow/"
+}

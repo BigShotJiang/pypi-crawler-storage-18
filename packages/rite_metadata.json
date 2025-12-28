@@ -1,11 +1,11 @@
 {
   "name": "rite",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python Utility Package",
   "author": "Scape Agency",
   "license": "MIT",
   "home_page": "https://www.pyrites.dev",
-  "download_filename": "rite-0.2.1.tar.gz",
-  "download_time": "2025-12-28T09:18:18.838376",
+  "download_filename": "rite-0.2.2.tar.gz",
+  "download_time": "2025-12-28T14:16:45.735235",
   "package_url": "https://pypi.org/project/rite/"
 }

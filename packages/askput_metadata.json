@@ -1,0 +1,11 @@
+{
+  "name": "askput",
+  "version": "0.1.2",
+  "summary": "Simple and safe console input validation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "askput-0.1.2.tar.gz",
+  "download_time": "2025-12-28T14:16:46.245347",
+  "package_url": "https://pypi.org/project/askput/"
+}

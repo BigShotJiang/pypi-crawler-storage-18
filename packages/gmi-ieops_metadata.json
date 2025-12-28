@@ -1,11 +1,11 @@
 {
   "name": "gmi-ieops",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": null,
   "author": "GMICloud Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "gmi_ieops-0.2.6.tar.gz",
-  "download_time": "2025-12-27T16:47:40.961786",
+  "download_filename": "gmi_ieops-0.2.7.tar.gz",
+  "download_time": "2025-12-28T14:16:48.999624",
   "package_url": "https://pypi.org/project/gmi-ieops/"
 }

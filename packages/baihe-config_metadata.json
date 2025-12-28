@@ -1,0 +1,11 @@
+{
+  "name": "baihe-config",
+  "version": "0.1.2",
+  "summary": "基于 Pydantic 的结构化配置管理工具，支持配置的持久化与自动保存，适用于需要高可靠性和易用性的 Python 应用配置场景。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baihe_config-0.1.2.tar.gz",
+  "download_time": "2025-12-28T14:17:01.515944",
+  "package_url": "https://pypi.org/project/baihe-config/"
+}
