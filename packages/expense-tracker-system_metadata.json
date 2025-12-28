@@ -1,0 +1,11 @@
+{
+  "name": "expense-tracker-system",
+  "version": "1.0.0",
+  "summary": "Expense tracker system with database persistence and API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "expense_tracker_system-1.0.0.tar.gz",
+  "download_time": "2025-12-28T20:19:27.399018",
+  "package_url": "https://pypi.org/project/expense-tracker-system/"
+}

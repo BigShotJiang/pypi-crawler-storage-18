@@ -1,0 +1,11 @@
+{
+  "name": "dqops",
+  "version": "1.13.0",
+  "summary": "DQOps Data Quality Operations Center",
+  "author": "DQOps Developers",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://github.com/dqops/dqo/tree/master/distribution/python",
+  "download_filename": "dqops-1.13.0.tar.gz",
+  "download_time": "2025-12-28T20:19:12.948952",
+  "package_url": "https://pypi.org/project/dqops/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "guyteub",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Outils pour afficher les stats GitHub dans un terminal",
   "author": "Baptiste",
   "license": "MIT",
   "home_page": "https://github.com/votre-username/guyteub",
-  "download_filename": "guyteub-0.1.1.tar.gz",
-  "download_time": "2025-12-28T17:52:11.639111",
+  "download_filename": "guyteub-0.1.3.tar.gz",
+  "download_time": "2025-12-28T20:19:17.570825",
   "package_url": "https://pypi.org/project/guyteub/"
 }
