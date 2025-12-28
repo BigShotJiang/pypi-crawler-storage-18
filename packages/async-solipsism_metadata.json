@@ -1,0 +1,11 @@
+{
+  "name": "async-solipsism",
+  "version": "0.9",
+  "summary": "Asyncio event loop that doesn't interact with the outside world",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_solipsism-0.9.tar.gz",
+  "download_time": "2025-12-28T13:10:35.656523",
+  "package_url": "https://pypi.org/project/async-solipsism/"
+}

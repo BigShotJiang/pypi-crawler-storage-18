@@ -1,18 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T12:31:18.847020
+- **Download Time**: 2025-12-28T13:11:02.443659
 - **Total Packages**: 76
-- **Total Size**: 12.58 MB
+- **Total Size**: 2.87 MB
 
 ## Packages List
+- lore-mcp
+- msdlib
+- streamblocks
+- dev-debt-scanner
+- invar-tools
+- aspen-dynamo
+- mobiu-q
+- fmtr.tools
+- sceala
+- crm-automator
+- deepl-cli
+- matchbox-rl
+- api-foundry-query-engine
+- viztools
+- xc-api-py
+- nepali-unicoder
+- chromstream
+- omniopt2
+- dspy-temporal
+- DeepNexAI-mlutils
+- prime
+- pytest-multilog
+- anyid
+- lazyclaude
+- lodestar-cli
+- hother-cancelable
+- sqlmodel
+- sqlmodel-slim
+- scrapebadger
+- async-solipsism
+- wecom-bot-mcp-server-remotefile
+- pydynox
+- datayoga
+- datayoga-core
+- automation-ide
+- gufo-noc-speedup
+- cypher-cell
+- asyncdbus
 - bluetti-bt-lib
 - pinviz
 - pyfvs-fia
-- xc-api-py
 - qtoggleserver-mqtt
 - socrates-ai
-- crm-automator
 - py-ds-academy
 - apyefa
 - langchain-dev-utils
@@ -21,12 +57,10 @@
 - dijkies
 - sieves
 - image-charts
-- msdlib
 - kimai-mcp
 - vaulty-client
 - embex
 - orcapt-sdk
-- omniopt2
 - serilux
 - vnpy_okx
 - secure-run-manifest
@@ -39,12 +73,8 @@
 - pycasbin
 - elementpath
 - fastmssql
-- streamblocks
-- anyid
 - sirtuin
-- mobiu-q
 - portal_tool
-- automation-ide
 - tremolo
 - uv-secure
 - smithed-libraries
@@ -52,33 +82,3 @@
 - pyhems
 - gdbrunner
 - zenithauth
-- radix-mlp
-- rcdl
-- streamcondor
-- manimera
-- cicsim
-- python-base-app
-- cicpy
-- cicspi
-- npguard
-- ibm-aigov-facts-client
-- fastapi-keycloak-sso
-- kxy-open-id-client
-- automation-ide-dev
-- qtoggleserver-paradox
-- autotunenet
-- odoo-addon-impersonate-login
-- django-nitro
-- pyfia
-- traia-iatp
-- mcp-eregistrations-bpa
-- viztools
-- pyoverkiz
-- mp4fixer
-- vrchatapi
-- pincode-package
-- lodestar-cli
-- skills-mcp
-- caesar-cipher-cli
-- trade-safety
-- notion-dev

@@ -1,11 +1,11 @@
 {
   "name": "asyncdbus",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "A zero-dependency async DBus library",
   "author": "Matthias Urlichs",
   "license": "MIT",
   "home_page": "https://github.com/M-o-a-T/asyncdbus",
-  "download_filename": "asyncdbus-0.7.2.tar.gz",
-  "download_time": "2025-12-26T23:34:45.531486",
+  "download_filename": "asyncdbus-0.7.3.tar.gz",
+  "download_time": "2025-12-28T13:10:40.258191",
   "package_url": "https://pypi.org/project/asyncdbus/"
 }

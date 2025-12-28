@@ -1,0 +1,11 @@
+{
+  "name": "deepl-cli",
+  "version": "2.1.0",
+  "summary": "DeepL Translator CLI without API Key",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepl_cli-2.1.0.tar.gz",
+  "download_time": "2025-12-28T13:10:24.042293",
+  "package_url": "https://pypi.org/project/deepl-cli/"
+}
