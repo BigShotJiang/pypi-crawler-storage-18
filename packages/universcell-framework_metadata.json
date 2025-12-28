@@ -1,0 +1,11 @@
+{
+  "name": "universcell-framework",
+  "version": "1.0.0",
+  "summary": "Enterprise governance framework with 7 adoption patterns",
+  "author": "Universell Framework Team",
+  "license": "MIT",
+  "home_page": "https://github.com/universcell/framework",
+  "download_filename": "universcell_framework-1.0.0.tar.gz",
+  "download_time": "2025-12-28T13:54:03.044170",
+  "package_url": "https://pypi.org/project/universcell-framework/"
+}

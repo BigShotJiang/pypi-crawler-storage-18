@@ -1,0 +1,11 @@
+{
+  "name": "lazy-imports",
+  "version": "1.2.0",
+  "summary": "Tool to support lazy imports",
+  "author": "Pascal Bachor",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lazy_imports-1.2.0.tar.gz",
+  "download_time": "2025-12-28T13:53:59.907327",
+  "package_url": "https://pypi.org/project/lazy-imports/"
+}

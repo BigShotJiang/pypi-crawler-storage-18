@@ -1,0 +1,11 @@
+{
+  "name": "pyaibox",
+  "version": "1.1.25",
+  "summary": "A Python Toolbox.",
+  "author": "Zhi Liu",
+  "license": "MIT",
+  "home_page": "https://iridescent.ink/pyaibox/",
+  "download_filename": "pyaibox-1.1.25.tar.gz",
+  "download_time": "2025-12-28T13:53:59.376545",
+  "package_url": "https://pypi.org/project/pyaibox/"
+}
