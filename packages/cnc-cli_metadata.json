@@ -1,0 +1,11 @@
+{
+  "name": "cnc-cli",
+  "version": "0.1.0",
+  "summary": "Campus network control (cnc)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnc_cli-0.1.0.tar.gz",
+  "download_time": "2025-12-28T10:19:23.478325",
+  "package_url": "https://pypi.org/project/cnc-cli/"
+}

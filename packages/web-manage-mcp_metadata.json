@@ -1,11 +1,11 @@
 {
   "name": "web-manage-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A powerful MCP server supporting Douban API and Java API CRUD operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "web_manage_mcp-0.1.0.tar.gz",
-  "download_time": "2025-12-27T18:50:52.439330",
+  "download_filename": "web_manage_mcp-0.1.1.tar.gz",
+  "download_time": "2025-12-28T10:19:20.389434",
   "package_url": "https://pypi.org/project/web-manage-mcp/"
 }

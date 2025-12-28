@@ -1,16 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T09:52:41.978507
-- **Total Packages**: 78
-- **Total Size**: 13.51 MB
+- **Download Time**: 2025-12-28T10:19:46.836002
+- **Total Packages**: 76
+- **Total Size**: 13.84 MB
 
 ## Packages List
+- ghost-protocol
+- exstruct
+- pyquery-polars
+- radix-mlp
+- mimetica
+- ai-edge-torch-nightly
+- export_to_obsidian
+- filekits
+- llm-complete
+- gridvoting-jax
+- xc-api-py
+- bblean
+- raycast2D
+- vmux-cli
+- goedels-poetry
+- screen-times
+- scm-python-core
+- quinkgl
+- auditwheel
+- afragment
+- torchax
+- fmtr.tools
+- pmdb_utils
 - geompct
+- quack-sleep-doctor
+- web-manage-mcp
+- evalvault
+- zoektpy
+- wood-nano
+- decitobin
+- a2abase
+- cnc-cli
+- svg.py
+- play-ch0
+- xukaaaa-redmine-mcp
 - ErisPulse
 - step-cli-tools
 - saara-ai
-- ghost-protocol
 - easycoder
 - py-gemini-watermark-remover
 - indastructa
@@ -20,11 +53,9 @@
 - dycw-utilities
 - dedup-images
 - tfp-nightly
-- evalvault
 - oxyde
 - visualbench
 - crm-automator
-- play-ch0
 - mode-manager-mcp
 - a2abase-cli
 - tmart
@@ -34,7 +65,6 @@
 - mdb-engine
 - weex-client
 - pycessingame
-- fmtr.tools
 - easyscrape-py
 - eyes-playwright
 - eyes-robotframework
@@ -52,35 +82,3 @@
 - trading-state
 - sfq
 - adif-mcp
-- ariquantum
-- mcp-reddit
-- kreuzberg
-- specular-differentiation
-- arp-jarvis-atomic-nodes
-- pyquery-polars
-- bthome-ble
-- batrachian-toad
-- vmodes
-- synpivimage
-- pre_commit_mirror_maker_2
-- runcell
-- celine-utils
-- apache-tvm-ffi
-- notion-dev
-- goedels-poetry
-- sealights-python-agent
-- kengerkit
-- urllib3-lts-py38
-- urllib3-lts-py37
-- klab-pytest-toolkit-prompt
-- klab-pytest-toolkit-web
-- humblenode-agent
-- klab-pytest-toolkit-decorators
-- urllib3-lts
-- cmeuncerpy
-- rite
-- agile-todo-cli
-- langchain-maritaca
-- textual-filelink
-- skttejapy
-- autogluon

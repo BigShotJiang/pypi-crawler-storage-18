@@ -1,0 +1,11 @@
+{
+  "name": "zoektpy",
+  "version": "0.2.0",
+  "summary": "Python client library for Zoekt code search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoektpy-0.2.0.tar.gz",
+  "download_time": "2025-12-28T10:19:21.427995",
+  "package_url": "https://pypi.org/project/zoektpy/"
+}

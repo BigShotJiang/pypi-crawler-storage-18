@@ -1,11 +1,11 @@
 {
   "name": "raycast2D",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A fast image-based 2D raycasting library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "raycast2d-0.1.1-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-12-27T21:52:14.138606",
+  "download_filename": "raycast2d-0.1.2.tar.gz",
+  "download_time": "2025-12-28T10:19:13.711537",
   "package_url": "https://pypi.org/project/raycast2D/"
 }

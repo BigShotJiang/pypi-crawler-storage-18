@@ -1,0 +1,11 @@
+{
+  "name": "auditwheel",
+  "version": "6.5.1",
+  "summary": "Cross-distribution Linux wheels",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auditwheel-6.5.1.tar.gz",
+  "download_time": "2025-12-28T10:19:16.816395",
+  "package_url": "https://pypi.org/project/auditwheel/"
+}
