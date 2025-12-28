@@ -1,11 +1,11 @@
 {
   "name": "mp-hfs",
-  "version": "0.2.13",
-  "summary": null,
-  "author": null,
+  "version": "3.0.0",
+  "summary": "HuggingFace Space Worker 分布式调度系统",
+  "author": "Rally82",
   "license": null,
-  "home_page": null,
-  "download_filename": "mp_hfs-0.2.13-cp312-cp312-manylinux2014_x86_64.whl",
-  "download_time": "2025-12-26T04:49:29.796694",
+  "home_page": "https://github.com/rally82-2/ai-dev",
+  "download_filename": "mp_hfs-3.0.0.tar.gz",
+  "download_time": "2025-12-28T10:40:48.659685",
   "package_url": "https://pypi.org/project/mp-hfs/"
 }

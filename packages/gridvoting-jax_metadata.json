@@ -1,11 +1,11 @@
 {
   "name": "gridvoting-jax",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "summary": "Spatial voting simulations on a grid with random challengers (with float32 JAX backend)",
   "author": "Paul Brewer",
   "license": "MIT",
   "home_page": "https://github.com/drpaulbrewer/gridvoting-jax",
-  "download_filename": "gridvoting_jax-0.18.2.tar.gz",
-  "download_time": "2025-12-28T10:19:12.081727",
+  "download_filename": "gridvoting_jax-0.18.3.tar.gz",
+  "download_time": "2025-12-28T10:40:43.436378",
   "package_url": "https://pypi.org/project/gridvoting-jax/"
 }

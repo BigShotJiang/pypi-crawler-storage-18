@@ -1,0 +1,11 @@
+{
+  "name": "ytdl-transcript",
+  "version": "0.1.0",
+  "summary": "Download YouTube video transcripts using yt-dlp",
+  "author": "rk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ytdl_transcript-0.1.0.tar.gz",
+  "download_time": "2025-12-28T10:40:59.717592",
+  "package_url": "https://pypi.org/project/ytdl-transcript/"
+}

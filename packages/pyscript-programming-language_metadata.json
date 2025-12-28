@@ -1,11 +1,11 @@
 {
   "name": "pyscript-programming-language",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "summary": "PyScript Programming Language",
   "author": "azzammuhyala",
   "license": "MIT",
   "home_page": "https://azzammuhyala.github.io/pyscript",
-  "download_filename": "pyscript_programming_language-1.8.1.tar.gz",
-  "download_time": "2025-12-24T10:45:54.535423",
+  "download_filename": "pyscript_programming_language-1.9.0.tar.gz",
+  "download_time": "2025-12-28T10:40:51.868611",
   "package_url": "https://pypi.org/project/pyscript-programming-language/"
 }

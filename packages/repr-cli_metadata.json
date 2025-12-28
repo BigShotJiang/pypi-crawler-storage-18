@@ -1,0 +1,11 @@
+{
+  "name": "repr-cli",
+  "version": "0.1.0",
+  "summary": "A beautiful, privacy-first CLI that analyzes your code repositories and generates a compelling developer profile",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repr_cli-0.1.0-py3-none-any.whl",
+  "download_time": "2025-12-28T10:40:54.461410",
+  "package_url": "https://pypi.org/project/repr-cli/"
+}
