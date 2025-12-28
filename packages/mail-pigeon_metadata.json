@@ -1,11 +1,11 @@
 {
   "name": "mail-pigeon",
-  "version": "1.5.12",
+  "version": "1.6.12",
   "summary": "Асинхронная клиент-серверная библиотека с файловой очередью на стороне клиента.",
   "author": "Антон Глызин",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mail_pigeon-1.5.12-py3-none-any.whl",
-  "download_time": "2025-12-21T16:45:13.966016",
+  "download_filename": "mail_pigeon-1.6.12-py3-none-any.whl",
+  "download_time": "2025-12-28T07:42:18.432107",
   "package_url": "https://pypi.org/project/mail-pigeon/"
 }

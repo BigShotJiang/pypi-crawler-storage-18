@@ -1,0 +1,11 @@
+{
+  "name": "devicesinlan",
+  "version": "2.0.3",
+  "summary": "Find devices in a LAN and allows to make a list of known devices in order to detect not allowed ones",
+  "author": "turulomio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devicesinlan-2.0.3.tar.gz",
+  "download_time": "2025-12-28T07:42:23.169764",
+  "package_url": "https://pypi.org/project/devicesinlan/"
+}

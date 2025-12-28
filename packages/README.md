@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-12-28T07:18:37.365502
-- **Total Packages**: 82
-- **Total Size**: 27.74 MB
+- **Download Time**: 2025-12-28T07:42:47.554208
+- **Total Packages**: 81
+- **Total Size**: 30.86 MB
 
 ## Packages List
+- pushikoo
+- pkbrokers
+- codeany-hubs-mcp-server
+- compose-farm
+- discrete-math-toolkit
+- enroll
+- lenzyai
+- hanzo-mcp
+- aiohomematic-test-support
+- aiohomematic
+- hanzo-tools-agent
+- timesl
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- promptdown
+- marimushka
+- PraisonAI
+- elasticache-monitor
+- lodestar-cli
+- wetwire-aws
+- fotolab
+- praisonaiagents
+- gms-mcp
+- praisonai-tools
+- agent-recipes
+- ss-mkdocs-confluence-publisher
+- mail-pigeon
+- asyncio_for_robotics
+- electroblocks
+- zerox-sync
+- ai-edge-litert-nightly
+- export_to_obsidian
+- weex-client
+- azure-kusto-ingest
+- azure-kusto-data
+- devicesinlan
+- heatmap_cli
+- dotpop
+- swarmkit
+- JthonsTorches
 - aiinbx
 - llm-complete
 - pdd-cli
@@ -13,9 +53,7 @@
 - easyscrape-py
 - pltsci
 - sing-box-cli
-- hanzo-mcp
 - robhan-cdk-lib.aws-mwaa
-- hanzo-tools-agent
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - justdd
@@ -30,11 +68,9 @@
 - souleyez
 - streamlit-nightly
 - simple-icons-pack
-- promptdown
 - pickled-pipeline
 - pygpt-net
 - brevit
-- swarmkit
 - latex-resume-mcp
 - unstdlibpy
 - investor-agent
@@ -51,40 +87,3 @@
 - datamodel-code-generator
 - luma-docs
 - gsdk
-- techieray-ai-reg-tracker-api
-- relm
-- mdit-py-heading-attrs
-- panpath
-- markdown-editor-mcp-server
-- runcell
-- dotsync-cli
-- investing-algorithm-framework
-- liteai-sdk
-- pyqint
-- artificer-agents
-- amrita
-- pmmv
-- kaitian
-- steam-proton-helper
-- lavinhash
-- ilovetools
-- xnotify
-- vibego
-- gitlint-rai
-- beads-mcp
-- callbotics-sdk
-- mcp-memory-service
-- zerox-sync
-- basejump-core
-- sae-lens
-- modbuslink
-- mcp-cuc-ztc
-- lm-deluge
-- saara-ai
-- artificer-workflows
-- shai-tix
-- devops-agent
-- wildberries-sdk
-- geeup
-- karaoke-gen
-- qqmusic-api-python

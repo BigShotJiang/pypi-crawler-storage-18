@@ -1,11 +1,11 @@
 {
   "name": "praisonai-tools",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Extended tools for PraisonAI Agents",
   "author": "Mervin Praison",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "praisonai_tools-0.1.7.tar.gz",
-  "download_time": "2025-12-26T19:50:29.695256",
+  "download_filename": "praisonai_tools-0.1.8.tar.gz",
+  "download_time": "2025-12-28T07:42:16.851688",
   "package_url": "https://pypi.org/project/praisonai-tools/"
 }

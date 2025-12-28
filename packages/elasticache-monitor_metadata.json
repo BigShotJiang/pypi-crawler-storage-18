@@ -1,0 +1,11 @@
+{
+  "name": "elasticache-monitor",
+  "version": "1.0.1",
+  "summary": "Debug hot shard issues in AWS ElastiCache (Redis/Valkey) clusters with a beautiful web UI",
+  "author": "Kutumb Infrastructure Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "elasticache_monitor-1.0.1.tar.gz",
+  "download_time": "2025-12-28T07:42:13.727447",
+  "package_url": "https://pypi.org/project/elasticache-monitor/"
+}

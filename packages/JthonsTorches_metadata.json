@@ -1,11 +1,11 @@
 {
   "name": "JthonsTorches",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "I'd reckon that this library is pretty useful, right? Like, it's a Java IDE in Python! Who wouldn't want that?",
-  "author": "APomson6000UserWhoAte6000IrisFlowers",
+  "author": "APomson6000UserWhoEats6000IrisFlowers",
   "license": null,
   "home_page": null,
-  "download_filename": "jthonstorches-1.0.0.tar.gz",
-  "download_time": "2025-12-27T22:53:11.168697",
+  "download_filename": "jthonstorches-1.0.1.tar.gz",
+  "download_time": "2025-12-28T07:42:25.224337",
   "package_url": "https://pypi.org/project/JthonsTorches/"
 }
