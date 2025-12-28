@@ -1,0 +1,11 @@
+{
+  "name": "cpf-dv",
+  "version": "1.0.0",
+  "summary": "Utility resources to calculate check digits on CPF (Brazilian personal ID)",
+  "author": "Julio L. Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpf_dv-1.0.0.tar.gz",
+  "download_time": "2025-12-28T15:35:20.853200",
+  "package_url": "https://pypi.org/project/cpf-dv/"
+}

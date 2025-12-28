@@ -1,11 +1,11 @@
 {
   "name": "empirica",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "summary": "Genuine AI epistemic self-assessment framework - Universal interface for single AI tracking",
   "author": "Empirica Team",
   "license": null,
   "home_page": null,
-  "download_filename": "empirica-1.0.5.tar.gz",
-  "download_time": "2025-12-22T16:19:34.011249",
+  "download_filename": "empirica-1.1.0.tar.gz",
+  "download_time": "2025-12-28T15:35:17.160566",
   "package_url": "https://pypi.org/project/empirica/"
 }

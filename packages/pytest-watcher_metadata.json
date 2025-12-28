@@ -1,11 +1,11 @@
 {
   "name": "pytest-watcher",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Automatically rerun your tests on file modifications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_watcher-0.6.1.tar.gz",
-  "download_time": "2025-12-25T22:37:49.376386",
+  "download_filename": "pytest_watcher-0.6.2.tar.gz",
+  "download_time": "2025-12-28T15:35:04.011038",
   "package_url": "https://pypi.org/project/pytest-watcher/"
 }

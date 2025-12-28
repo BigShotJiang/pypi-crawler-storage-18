@@ -1,0 +1,11 @@
+{
+  "name": "bitkub-v2",
+  "version": "3.2.1",
+  "summary": "A Python library backward compatibility for Bitkub API v2 and latest Bitkub official API",
+  "author": "appcorner",
+  "license": "MIT",
+  "home_page": "https://github.com/appcorner/bitkub",
+  "download_filename": "bitkub_v2-3.2.1.tar.gz",
+  "download_time": "2025-12-28T15:35:15.075436",
+  "package_url": "https://pypi.org/project/bitkub-v2/"
+}

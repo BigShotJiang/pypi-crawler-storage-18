@@ -1,0 +1,11 @@
+{
+  "name": "trilateration-coordfinder",
+  "version": "1.0.1",
+  "summary": "High-precision geospatial trilateration solver using multiple optimization methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trilateration_coordfinder-1.0.1.tar.gz",
+  "download_time": "2025-12-28T15:35:11.394595",
+  "package_url": "https://pypi.org/project/trilateration-coordfinder/"
+}
