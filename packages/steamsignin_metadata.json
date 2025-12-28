@@ -1,0 +1,11 @@
+{
+  "name": "steamsignin",
+  "version": "1.1.2",
+  "summary": "OpenID 2.0 sign in for Steam",
+  "author": "TeddiO",
+  "license": null,
+  "home_page": "https://github.com/TeddiO/pySteamSignIn",
+  "download_filename": "steamsignin-1.1.2.tar.gz",
+  "download_time": "2025-12-28T03:23:23.023625",
+  "package_url": "https://pypi.org/project/steamsignin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-sandbox",
+  "version": "0.2.0",
+  "summary": "Execute untrusted Python code safely with caching and remote loading",
+  "author": "Φ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_sandbox-0.2.0.tar.gz",
+  "download_time": "2025-12-28T03:23:49.488067",
+  "package_url": "https://pypi.org/project/py-sandbox/"
+}

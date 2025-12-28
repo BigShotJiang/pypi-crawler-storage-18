@@ -1,11 +1,11 @@
 {
   "name": "okta-ai-sdk-proto",
-  "version": "1.0.2",
-  "summary": "Comprehensive Okta SDK for AI applications with Token Exchange and Cross-App Access (ID-JAG) support",
+  "version": "1.0.3",
+  "summary": "Comprehensive Okta SDK for AI applications with Token Exchange, Cross-App Access (ID-JAG), and Connected Accounts support",
   "author": "Okta Inc.",
   "license": "MIT",
   "home_page": "https://github.com/okta/okta-ai-sdk-proto",
-  "download_filename": "okta_ai_sdk_proto-1.0.2.tar.gz",
-  "download_time": "2025-12-25T23:16:16.641492",
+  "download_filename": "okta_ai_sdk_proto-1.0.3.tar.gz",
+  "download_time": "2025-12-28T03:23:09.570251",
   "package_url": "https://pypi.org/project/okta-ai-sdk-proto/"
 }

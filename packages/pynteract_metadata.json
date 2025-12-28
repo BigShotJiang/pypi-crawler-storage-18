@@ -1,0 +1,11 @@
+{
+  "name": "pynteract",
+  "version": "0.1.1",
+  "summary": "Lightweight embedded, cell-oriented Python shell (notebooks/agents) with minimal dependencies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynteract-0.1.1.tar.gz",
+  "download_time": "2025-12-28T03:23:17.680732",
+  "package_url": "https://pypi.org/project/pynteract/"
+}

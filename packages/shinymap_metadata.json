@@ -1,0 +1,11 @@
+{
+  "name": "shinymap",
+  "version": "0.2.1",
+  "summary": "Interactive SVG map components for Shiny for Python",
+  "author": "shinymap contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shinymap-0.2.1.tar.gz",
+  "download_time": "2025-12-28T03:23:33.986876",
+  "package_url": "https://pypi.org/project/shinymap/"
+}

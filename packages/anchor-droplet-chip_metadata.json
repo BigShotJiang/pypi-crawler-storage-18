@@ -1,0 +1,11 @@
+{
+  "name": "anchor-droplet-chip",
+  "version": "0.5.0",
+  "summary": "Segment organoids and measure intensities",
+  "author": "Andrey Aristov",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/BaroudLab/anchor-driplet-chip",
+  "download_filename": "anchor_droplet_chip-0.5.0.tar.gz",
+  "download_time": "2025-12-28T03:23:24.603905",
+  "package_url": "https://pypi.org/project/anchor-droplet-chip/"
+}
