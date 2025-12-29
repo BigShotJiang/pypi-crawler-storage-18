@@ -1,11 +1,11 @@
 {
   "name": "airbornehrs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Production-grade adaptive meta-learning framework for continual model improvement. Implements research DOI: 10.5281/zenodo.17839490.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "airbornehrs-1.0.1.tar.gz",
-  "download_time": "2025-12-27T03:00:40.271206",
+  "download_filename": "airbornehrs-1.0.2.tar.gz",
+  "download_time": "2025-12-29T10:50:11.063903",
   "package_url": "https://pypi.org/project/airbornehrs/"
 }

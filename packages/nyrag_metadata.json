@@ -1,11 +1,11 @@
 {
   "name": "nyrag",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "nyrag",
   "author": "abhishek",
   "license": null,
   "home_page": null,
-  "download_filename": "nyrag-0.0.7.tar.gz",
-  "download_time": "2025-12-22T13:11:41.626417",
+  "download_filename": "nyrag-0.0.8.tar.gz",
+  "download_time": "2025-12-29T10:50:27.659457",
   "package_url": "https://pypi.org/project/nyrag/"
 }

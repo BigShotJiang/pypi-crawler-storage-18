@@ -1,0 +1,11 @@
+{
+  "name": "telegram-monitor-ads",
+  "version": "1.0.0",
+  "summary": "TelegramMonitor广告管理模块",
+  "author": "洛阳狼",
+  "license": "MIT",
+  "home_page": "https://github.com/luoyanglang/telegram-monitor-ads",
+  "download_filename": "telegram_monitor_ads-1.0.0.tar.gz",
+  "download_time": "2025-12-29T10:50:56.697751",
+  "package_url": "https://pypi.org/project/telegram-monitor-ads/"
+}

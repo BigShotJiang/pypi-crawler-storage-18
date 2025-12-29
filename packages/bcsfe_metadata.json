@@ -1,0 +1,11 @@
+{
+  "name": "bcsfe",
+  "version": "3.2.2",
+  "summary": "A save file editor for The Battle Cats",
+  "author": "fieryhenry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bcsfe-3.2.2.tar.gz",
+  "download_time": "2025-12-29T10:50:45.187454",
+  "package_url": "https://pypi.org/project/bcsfe/"
+}

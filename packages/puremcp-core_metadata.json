@@ -1,0 +1,11 @@
+{
+  "name": "puremcp-core",
+  "version": "0.1.0",
+  "summary": "Core package for puremcp - Production-ready MCP servers",
+  "author": "puremcp",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "puremcp_core-0.1.0.tar.gz",
+  "download_time": "2025-12-29T10:50:52.493520",
+  "package_url": "https://pypi.org/project/puremcp-core/"
+}
